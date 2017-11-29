@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1004000448",
+      "statnNm": "상록수",
+      "ectrcNo": "1",
+      "subwayId": "1004",
+      "subwayNm": "4호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "명휘원(명혜학교),한국가스공사,한국선진학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1004000448",
+      "statnNm": "상록수",
+      "ectrcNo": "2",
+      "subwayId": "1004",
+      "subwayNm": "4호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "안산1대학,중앙병원",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

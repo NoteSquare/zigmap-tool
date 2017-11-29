@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1005000522",
+      "statnNm": "양평",
+      "ectrcNo": "1",
+      "subwayId": "1005",
+      "subwayNm": "5호선",
+      "ectrcCnt": "2",
+      "cfrBuild": " (주)롯데냉동, 서울당중초등학교, 영등포세무서",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1005000522",
+      "statnNm": "양평",
+      "ectrcNo": "2",
+      "subwayId": "1005",
+      "subwayNm": "5호선",
+      "ectrcCnt": "2",
+      "cfrBuild": " (주)동신교통, 관악고등학교, 목화예식장, 양평1동주민센터, 양평파출소, 지성병원",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

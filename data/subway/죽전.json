@@ -1,0 +1,69 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 1,
+      "selectedCount": 3,
+      "statnId": "1075075233",
+      "statnNm": "죽전",
+      "ectrcNo": "1",
+      "subwayId": "1075",
+      "subwayNm": "분당선",
+      "ectrcCnt": "3",
+      "cfrBuild": "풍덕천사거리,수지지구대,수지119안전센터,문정중학교,용인신촌초등학교,죽전사거리,단국대방면,신세계백화점",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 2,
+      "selectedCount": 3,
+      "statnId": "1075075233",
+      "statnNm": "죽전",
+      "ectrcNo": "2",
+      "subwayId": "1075",
+      "subwayNm": "분당선",
+      "ectrcCnt": "3",
+      "cfrBuild": "죽전사거리,죽전삼거리,죽전교,엑스파크,용인신촌초등학교,죽전체육공원,보정동주민센터,단국대학교방면",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 3,
+      "selectedCount": 3,
+      "statnId": "1075075233",
+      "statnNm": "죽전",
+      "ectrcNo": "3",
+      "subwayId": "1075",
+      "subwayNm": "분당선",
+      "ectrcCnt": "3",
+      "cfrBuild": "풍덕천사거리,수지지구대,수지119안전센터,문정중학교방면,수지구청방면,수지우체국방면",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 3
+  }
+}

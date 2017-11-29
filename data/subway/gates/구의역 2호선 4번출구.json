@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "구의역 2호선 4번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8191857",
+      "category_group_name": "",
+      "place_name": "구의역 2호선 4번출구",
+      "distance": "",
+      "address_name": "서울 광진구 자양동",
+      "road_address_name": "",
+      "id": "8191857",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.08510805383314",
+      "y": "37.53679987033816"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8681181",
+      "category_group_name": "",
+      "place_name": "강변역 2호선 4번출구",
+      "distance": "",
+      "address_name": "서울 광진구 구의동",
+      "road_address_name": "",
+      "id": "8681181",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0945513462863",
+      "y": "37.53519985324892"
+    }
+  ]
+}

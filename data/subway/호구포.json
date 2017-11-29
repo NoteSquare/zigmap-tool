@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1071075255",
+      "statnNm": "호구포",
+      "ectrcNo": "1",
+      "subwayId": "1071",
+      "subwayNm": "수인선",
+      "ectrcCnt": "2",
+      "cfrBuild": "호구포길사거리, 남동국가산업단지, 논현10단지",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1071075255",
+      "statnNm": "호구포",
+      "ectrcNo": "2",
+      "subwayId": "1071",
+      "subwayNm": "수인선",
+      "ectrcCnt": "2",
+      "cfrBuild": "휴먼시아, 논현2동 주민센터, 호암공원",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

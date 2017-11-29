@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "강남역 2호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 5,
+    "total_count": 5,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8144348",
+      "category_group_name": "",
+      "place_name": "강남역 2호선 1번출구",
+      "distance": "",
+      "address_name": "서울 강남구 역삼동",
+      "road_address_name": "",
+      "id": "8144348",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0287571925496",
+      "y": "37.49807626759348"
+    },
+    {
+      "place_url": "http://place.map.daum.net/11142538",
+      "category_group_name": "",
+      "place_name": "선릉역 2호선 1번출구",
+      "distance": "",
+      "address_name": "서울 강남구 대치동",
+      "road_address_name": "",
+      "id": "11142538",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05005772964725",
+      "y": "37.504592665962896"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905652",
+      "category_group_name": "",
+      "place_name": "역삼역 2호선 1번출구",
+      "distance": "",
+      "address_name": "서울 강남구 역삼동",
+      "road_address_name": "",
+      "id": "22905652",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.03726239005523",
+      "y": "37.50047786558848"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7919397",
+      "category_group_name": "",
+      "place_name": "삼성역 2호선 1번출구",
+      "distance": "",
+      "address_name": "서울 강남구 대치동",
+      "road_address_name": "",
+      "id": "7919397",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.06406250148683",
+      "y": "37.508827978698505"
+    },
+    {
+      "place_url": "http://place.map.daum.net/666818063",
+      "category_group_name": "",
+      "place_name": "무인민원발급기 강남역",
+      "distance": "",
+      "address_name": "서울 강남구 역삼동 804",
+      "road_address_name": "서울 강남구 강남대로 396",
+      "id": "666818063",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "사회,공공기관 > 지방행정기관 > 무인민원발급기",
+      "x": "127.02795654127019",
+      "y": "37.498065637497426"
+    }
+  ]
+}

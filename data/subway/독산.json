@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1001080143",
+      "statnNm": "독산",
+      "ectrcNo": "1",
+      "subwayId": "1001",
+      "subwayNm": "1호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "두산초등학교,협진로,시흥대로",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1001080143",
+      "statnNm": "독산",
+      "ectrcNo": "2",
+      "subwayId": "1001",
+      "subwayNm": "1호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "금천교,안양천교,광명방면",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

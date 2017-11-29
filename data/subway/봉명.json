@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1001080170",
+      "statnNm": "봉명",
+      "ectrcNo": "1",
+      "subwayId": "1001",
+      "subwayNm": "1호선",
+      "ectrcCnt": "2",
+      "cfrBuild": " 일봉주민센터, 일봉초등학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1001080170",
+      "statnNm": "봉명",
+      "ectrcNo": "2",
+      "subwayId": "1001",
+      "subwayNm": "1호선",
+      "ectrcCnt": "2",
+      "cfrBuild": " 봉명동주민센터, 순천향대학교병원, 천안의료원, 천안여자상업고등학교, 천안봉명초등학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

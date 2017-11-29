@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "고려대역 6호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8177338",
+      "category_group_name": "",
+      "place_name": "고려대역 6호선 2번출구",
+      "distance": "",
+      "address_name": "서울 성북구 종암동",
+      "road_address_name": "",
+      "id": "8177338",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.03608697974104",
+      "y": "37.59026385675137"
+    },
+    {
+      "place_url": "http://place.map.daum.net/1589512092",
+      "category_group_name": "",
+      "place_name": "무인민원발급기 고려대역",
+      "distance": "",
+      "address_name": "서울 성북구 종암동 29-18",
+      "road_address_name": "서울 성북구 종암로 1",
+      "id": "1589512092",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "사회,공공기관 > 지방행정기관 > 무인민원발급기",
+      "x": "127.0361865677013",
+      "y": "37.59015570934999"
+    }
+  ]
+}

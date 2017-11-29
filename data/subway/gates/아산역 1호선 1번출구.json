@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "아산역 1호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 4,
+    "total_count": 4,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/17492084",
+      "category_group_name": "",
+      "place_name": "아산역 1호선 1번출구",
+      "distance": "",
+      "address_name": "충남 아산시 배방읍 장재리",
+      "road_address_name": "",
+      "id": "17492084",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.10446829668284",
+      "y": "36.7923335149374"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10619355",
+      "category_group_name": "",
+      "place_name": "온양온천역 1호선 1번출구",
+      "distance": "",
+      "address_name": "충남 아산시 온천동",
+      "road_address_name": "",
+      "id": "10619355",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.00328245285286",
+      "y": "36.780807843777595"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10394042",
+      "category_group_name": "",
+      "place_name": "배방역 1호선 1번출구",
+      "distance": "",
+      "address_name": "충남 아산시 배방읍 구령리",
+      "road_address_name": "",
+      "id": "10394042",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05330084591569",
+      "y": "36.77749851698066"
+    },
+    {
+      "place_url": "http://place.map.daum.net/11113491",
+      "category_group_name": "",
+      "place_name": "신창역 1호선 1번출구",
+      "distance": "",
+      "address_name": "충남 아산시 신창면 행목리",
+      "road_address_name": "",
+      "id": "11113491",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.94993109161479",
+      "y": "36.769532811534155"
+    }
+  ]
+}

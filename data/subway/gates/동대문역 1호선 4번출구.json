@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "동대문역 1호선 4번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 6,
+    "total_count": 6,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/10307818",
+      "category_group_name": "",
+      "place_name": "동대문역 1호선 4번출구",
+      "distance": "",
+      "address_name": "서울 종로구 창신동",
+      "road_address_name": "",
+      "id": "10307818",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.01227988481456",
+      "y": "37.57190632458887"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8110672",
+      "category_group_name": "",
+      "place_name": "청량리역 1호선 4번출구",
+      "distance": "",
+      "address_name": "서울 동대문구 전농동",
+      "road_address_name": "",
+      "id": "8110672",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.04618079874348",
+      "y": "37.580450537154135"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22906058",
+      "category_group_name": "",
+      "place_name": "신설동역 1호선 4번출구",
+      "distance": "",
+      "address_name": "서울 동대문구 신설동",
+      "road_address_name": "",
+      "id": "22906058",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0254393091297",
+      "y": "37.57617507246717"
+    },
+    {
+      "place_url": "http://place.map.daum.net/11169004",
+      "category_group_name": "",
+      "place_name": "제기동역 1호선 4번출구",
+      "distance": "",
+      "address_name": "서울 동대문구 용두동",
+      "road_address_name": "",
+      "id": "11169004",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.03538850686506",
+      "y": "37.578046690360374"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7979873",
+      "category_group_name": "",
+      "place_name": "신이문역 1호선 4번출구",
+      "distance": "",
+      "address_name": "서울 동대문구 이문동",
+      "road_address_name": "",
+      "id": "7979873",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.06664429386666",
+      "y": "37.600792466819065"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17495218",
+      "category_group_name": "",
+      "place_name": "외대앞역 1호선 4번출구",
+      "distance": "",
+      "address_name": "서울 동대문구 이문동",
+      "road_address_name": "",
+      "id": "17495218",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.06312908260651",
+      "y": "37.59504607798647"
+    }
+  ]
+}

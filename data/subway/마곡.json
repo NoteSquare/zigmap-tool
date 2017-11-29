@@ -1,0 +1,31 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 1,
+      "rowNum": 1,
+      "selectedCount": 1,
+      "statnId": "1005000514",
+      "statnNm": "마곡",
+      "ectrcNo": "1",
+      "subwayId": "1005",
+      "subwayNm": "5호선",
+      "ectrcCnt": "1",
+      "cfrBuild": "가양동,원당사거리",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 1
+  }
+}

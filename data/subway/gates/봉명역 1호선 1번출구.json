@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "봉명역 1호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/17492088",
+      "category_group_name": "",
+      "place_name": "봉명역 1호선 1번출구",
+      "distance": "",
+      "address_name": "충남 천안시 동남구 봉명동",
+      "road_address_name": "",
+      "id": "17492088",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.13569791688451",
+      "y": "36.80109717512707"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8516469",
+      "category_group_name": "",
+      "place_name": "유성온천역 대전1호선 1번출구",
+      "distance": "",
+      "address_name": "대전 유성구 봉명동",
+      "road_address_name": "",
+      "id": "8516469",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.34184452996863",
+      "y": "36.35334784165545"
+    }
+  ]
+}

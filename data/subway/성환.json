@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1001080166",
+      "statnNm": "성환",
+      "ectrcNo": "1",
+      "subwayId": "1001",
+      "subwayNm": "1호선",
+      "ectrcCnt": "2",
+      "cfrBuild": " 남서울대학교, 성신초등학교, 성환도서관, 성환시외버스터미널, 성환소방파출소, 성환우체국, 성환읍사무소, 성환중학교, 성환초등학교, 성환파출소, 한국전력공사, 한국통신",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1001080166",
+      "statnNm": "성환",
+      "ectrcNo": "2",
+      "subwayId": "1001",
+      "subwayNm": "1호선",
+      "ectrcCnt": "2",
+      "cfrBuild": " 송덕리, 우신리",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

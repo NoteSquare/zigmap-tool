@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "부천역 1호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 5,
+    "total_count": 5,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8404192",
+      "category_group_name": "",
+      "place_name": "부천역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 부천시 심곡본동",
+      "road_address_name": "",
+      "id": "8404192",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.78368325341862",
+      "y": "37.48372570014944"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7963180",
+      "category_group_name": "",
+      "place_name": "송내역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 부천시 송내동",
+      "road_address_name": "",
+      "id": "7963180",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.75294010629278",
+      "y": "37.48746003025423"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8593438",
+      "category_group_name": "",
+      "place_name": "중동역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 부천시 송내동",
+      "road_address_name": "",
+      "id": "8593438",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.76408275796786",
+      "y": "37.486499056530725"
+    },
+    {
+      "place_url": "http://place.map.daum.net/11101528",
+      "category_group_name": "",
+      "place_name": "역곡역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 부천시 괴안동",
+      "road_address_name": "",
+      "id": "11101528",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.81174257709418",
+      "y": "37.48497422989364"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8394670",
+      "category_group_name": "",
+      "place_name": "소사역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 부천시 소사본동",
+      "road_address_name": "",
+      "id": "8394670",
+      "phone": "1544-7788",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.7957979857066",
+      "y": "37.48251484567472"
+    }
+  ]
+}

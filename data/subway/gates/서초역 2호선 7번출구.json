@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "서초역 2호선 7번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 3,
+    "total_count": 3,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/7950965",
+      "category_group_name": "",
+      "place_name": "서초역 2호선 7번출구",
+      "distance": "",
+      "address_name": "서울 서초구 서초동",
+      "road_address_name": "",
+      "id": "7950965",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0076775292666",
+      "y": "37.49237772186227"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17495199",
+      "category_group_name": "",
+      "place_name": "강남역 2호선 7번출구",
+      "distance": "",
+      "address_name": "서울 서초구 서초동",
+      "road_address_name": "",
+      "id": "17495199",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0276848247814",
+      "y": "37.49717551076302"
+    },
+    {
+      "place_url": "http://place.map.daum.net/11026041",
+      "category_group_name": "",
+      "place_name": "교대역 2호선 7번출구",
+      "distance": "",
+      "address_name": "서울 서초구 서초동",
+      "road_address_name": "",
+      "id": "11026041",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.01440818263715",
+      "y": "37.49410709900855"
+    }
+  ]
+}

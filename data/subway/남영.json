@@ -1,0 +1,31 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 1,
+      "rowNum": 1,
+      "selectedCount": 1,
+      "statnId": "1001000134",
+      "statnNm": "남영",
+      "ectrcNo": "1",
+      "subwayId": "1001",
+      "subwayNm": "1호선",
+      "ectrcCnt": "1",
+      "cfrBuild": "선린중.인터넷고교,신광여중고교,신광초등학교,용산구청,용산소방서,용산중.고교,원효로1.2동사무소",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "신당역 6호선 8번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/10531507",
+      "category_group_name": "",
+      "place_name": "신당역 6호선 8번출구",
+      "distance": "",
+      "address_name": "서울 중구 무학동",
+      "road_address_name": "",
+      "id": "10531507",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.01576508831403",
+      "y": "37.56521341417517"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905604",
+      "category_group_name": "",
+      "place_name": "약수역 6호선 8번출구",
+      "distance": "",
+      "address_name": "서울 중구 신당동",
+      "road_address_name": "",
+      "id": "22905604",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.00951588296655",
+      "y": "37.553320937933464"
+    }
+  ]
+}

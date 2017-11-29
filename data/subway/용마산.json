@@ -1,0 +1,69 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 1,
+      "selectedCount": 3,
+      "statnId": "1007000723",
+      "statnNm": "용마산",
+      "ectrcNo": "1",
+      "subwayId": "1007",
+      "subwayNm": "7호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "면남초등학교,면목4동사무소,면목4동파출소,용마중학교,중곡초등학교,중랑구민회관,중랑등기소,중랑문화원",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 2,
+      "selectedCount": 3,
+      "statnId": "1007000723",
+      "statnNm": "용마산",
+      "ectrcNo": "2",
+      "subwayId": "1007",
+      "subwayNm": "7호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "도시개발 면목아파트,면목사회복지관,용마폭포공원,현대아파트",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 3,
+      "selectedCount": 3,
+      "statnId": "1007000723",
+      "statnNm": "용마산",
+      "ectrcNo": "3",
+      "subwayId": "1007",
+      "subwayNm": "7호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "중랑청소년수련관",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 3
+  }
+}

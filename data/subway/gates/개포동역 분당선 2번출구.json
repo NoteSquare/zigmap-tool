@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "개포동역 분당선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 3,
+    "total_count": 3,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/10128540",
+      "category_group_name": "",
+      "place_name": "개포동역 분당선 2번출구",
+      "distance": "",
+      "address_name": "서울 강남구 개포동",
+      "road_address_name": "",
+      "id": "10128540",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.06571965450067",
+      "y": "37.48925739382113"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10140226",
+      "category_group_name": "",
+      "place_name": "구룡역 분당선 2번출구",
+      "distance": "",
+      "address_name": "서울 강남구 개포동",
+      "road_address_name": "",
+      "id": "10140226",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05971123276072",
+      "y": "37.48666562419986"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905581",
+      "category_group_name": "",
+      "place_name": "대모산입구역 분당선 2번출구",
+      "distance": "",
+      "address_name": "서울 강남구 개포동",
+      "road_address_name": "",
+      "id": "22905581",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.07223501531573",
+      "y": "37.491787286260504"
+    }
+  ]
+}

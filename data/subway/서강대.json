@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1063075313",
+      "statnNm": "서강대",
+      "ectrcNo": "1",
+      "subwayId": "1063",
+      "subwayNm": "경의중앙선",
+      "ectrcCnt": "2",
+      "cfrBuild": "서강대학교, 서강레지덴시아, 노고산치안센터",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1063075313",
+      "statnNm": "서강대",
+      "ectrcNo": "2",
+      "subwayId": "1063",
+      "subwayNm": "경의중앙선",
+      "ectrcCnt": "2",
+      "cfrBuild": "신촌삼익아파트, 신촌연세병원, 광성고등학교, 와우공원",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

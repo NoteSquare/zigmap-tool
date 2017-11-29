@@ -1,0 +1,69 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 1,
+      "selectedCount": 3,
+      "statnId": "1001000138",
+      "statnNm": "신길",
+      "ectrcNo": "1",
+      "subwayId": "1001",
+      "subwayNm": "1호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "영등포여고,영원중학교,장훈고등학교,영등포여고,영원중학교,장훈고등학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 2,
+      "selectedCount": 3,
+      "statnId": "1001000138",
+      "statnNm": "신길",
+      "ectrcNo": "2",
+      "subwayId": "1001",
+      "subwayNm": "1호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "한국제과기술고등학교,한국제과기술고등학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 3,
+      "selectedCount": 3,
+      "statnId": "1005000525",
+      "statnNm": "신길",
+      "ectrcNo": "3",
+      "subwayId": "1005",
+      "subwayNm": "5호선",
+      "ectrcCnt": "1",
+      "cfrBuild": "근로복지공단",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 3
+  }
+}

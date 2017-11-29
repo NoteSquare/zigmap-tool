@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "세마역 1호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/7947893",
+      "category_group_name": "",
+      "place_name": "세마역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 오산시 세교동",
+      "road_address_name": "",
+      "id": "7947893",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.04315505772277",
+      "y": "37.18701009981079"
+    }
+  ]
+}

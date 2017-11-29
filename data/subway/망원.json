@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1006000621",
+      "statnNm": "망원",
+      "ectrcNo": "1",
+      "subwayId": "1006",
+      "subwayNm": "6호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "서교동,성산제1동,성서중교(670),성서초등학교(550),영진시장(190),영진아파트(200),직업전문학교,한국여자신학교(510),합정파출소(310)",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1006000621",
+      "statnNm": "망원",
+      "ectrcNo": "2",
+      "subwayId": "1006",
+      "subwayNm": "6호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "대성아파트(710),망원1동사무소(255),망원1파출소(310),망원우체국(260),망원제1.2동(250),삼성아파트(310),성산시장(340),성산초등학교(145),합정동,합정동사무소",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

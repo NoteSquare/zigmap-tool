@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "가양역 9호선 3번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8633099",
+      "category_group_name": "",
+      "place_name": "가양역 9호선 3번출구",
+      "distance": "",
+      "address_name": "서울 강서구 가양동",
+      "road_address_name": "",
+      "id": "8633099",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.8552183562328",
+      "y": "37.56162058994173"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905346",
+      "category_group_name": "",
+      "place_name": "양천향교역 9호선 3번출구",
+      "distance": "",
+      "address_name": "서울 강서구 가양동",
+      "road_address_name": "",
+      "id": "22905346",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.84155296525526",
+      "y": "37.56895492800095"
+    }
+  ]
+}

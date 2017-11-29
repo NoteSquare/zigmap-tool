@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "산성역 8호선 3번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/10439015",
+      "category_group_name": "",
+      "place_name": "산성역 8호선 3번출구",
+      "distance": "",
+      "address_name": "경기 성남시 수정구 신흥동",
+      "road_address_name": "",
+      "id": "10439015",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.14969780846073",
+      "y": "37.45565381679507"
+    },
+    {
+      "place_url": "http://place.map.daum.net/27461004",
+      "category_group_name": "",
+      "place_name": "남한산성입구역 8호선 3번출구",
+      "distance": "",
+      "address_name": "경기 성남시 수정구 단대동",
+      "road_address_name": "",
+      "id": "27461004",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.15968103957638",
+      "y": "37.45190350924085"
+    }
+  ]
+}

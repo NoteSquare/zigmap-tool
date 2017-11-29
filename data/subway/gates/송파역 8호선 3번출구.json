@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "송파역 8호선 3번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 7,
+    "total_count": 7,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/27456881",
+      "category_group_name": "",
+      "place_name": "송파역 8호선 3번출구",
+      "distance": "",
+      "address_name": "서울 송파구 가락동",
+      "road_address_name": "",
+      "id": "27456881",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.11237435169014",
+      "y": "37.499108595733176"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8062577",
+      "category_group_name": "",
+      "place_name": "장지역 8호선 3번출구",
+      "distance": "",
+      "address_name": "서울 송파구 문정동",
+      "road_address_name": "",
+      "id": "8062577",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.12600082567548",
+      "y": "37.47833598168728"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22906121",
+      "category_group_name": "",
+      "place_name": "복정역 8호선 3번출구",
+      "distance": "",
+      "address_name": "서울 송파구 장지동",
+      "road_address_name": "",
+      "id": "22906121",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.12632780901214",
+      "y": "37.47100868658181"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905966",
+      "category_group_name": "",
+      "place_name": "문정역 8호선 3번출구",
+      "distance": "",
+      "address_name": "서울 송파구 문정동",
+      "road_address_name": "",
+      "id": "22905966",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.12216026552667",
+      "y": "37.48604172280368"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22906003",
+      "category_group_name": "",
+      "place_name": "가락시장역 8호선 3번출구",
+      "distance": "",
+      "address_name": "서울 송파구 가락동",
+      "road_address_name": "",
+      "id": "22906003",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.11855326791127",
+      "y": "37.49319929073783"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7876725",
+      "category_group_name": "",
+      "place_name": "몽촌토성역 8호선 3번출구",
+      "distance": "",
+      "address_name": "서울 송파구 방이동",
+      "road_address_name": "",
+      "id": "7876725",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.11241454818088",
+      "y": "37.517110482345686"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905680",
+      "category_group_name": "",
+      "place_name": "석촌역 8호선 3번출구",
+      "distance": "",
+      "address_name": "서울 송파구 송파동",
+      "road_address_name": "",
+      "id": "22905680",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.10773741945133",
+      "y": "37.50524685124879"
+    }
+  ]
+}

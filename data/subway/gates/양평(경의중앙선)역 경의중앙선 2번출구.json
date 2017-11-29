@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "양평(경의중앙선)역 경의중앙선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 3,
+    "total_count": 3,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/17495608",
+      "category_group_name": "",
+      "place_name": "양평역 경의중앙선 2번출구",
+      "distance": "",
+      "address_name": "경기 양평군 양평읍 양근리",
+      "road_address_name": "",
+      "id": "17495608",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.49231198718664",
+      "y": "37.493160467287154"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7998820",
+      "category_group_name": "",
+      "place_name": "양수역 경의중앙선 2번출구",
+      "distance": "",
+      "address_name": "경기 양평군 양서면 용담리",
+      "road_address_name": "",
+      "id": "7998820",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.32919113019464",
+      "y": "37.54603348220811"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17494668",
+      "category_group_name": "",
+      "place_name": "용문역 경의중앙선 2번출구",
+      "distance": "",
+      "address_name": "경기 양평군 용문면 다문리",
+      "road_address_name": "",
+      "id": "17494668",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.59474501394337",
+      "y": "37.48270758655631"
+    }
+  ]
+}

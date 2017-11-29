@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "경인교대입구역 인천1호선 3번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/11049293",
+      "category_group_name": "",
+      "place_name": "경인교대입구역 인천1호선 3번출구",
+      "distance": "",
+      "address_name": "인천 계양구 계산동",
+      "road_address_name": "",
+      "id": "11049293",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.72282780288151",
+      "y": "37.537253856413045"
+    }
+  ]
+}

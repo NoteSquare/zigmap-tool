@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "강남역 2호선 12번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/22906012",
+      "category_group_name": "",
+      "place_name": "강남역 2호선 12번출구",
+      "distance": "",
+      "address_name": "서울 강남구 역삼동",
+      "road_address_name": "",
+      "id": "22906012",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0285764074132",
+      "y": "37.49849797672573"
+    },
+    {
+      "place_url": "http://place.map.daum.net/666818063",
+      "category_group_name": "",
+      "place_name": "무인민원발급기 강남역",
+      "distance": "",
+      "address_name": "서울 강남구 역삼동 804",
+      "road_address_name": "서울 강남구 강남대로 396",
+      "id": "666818063",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "사회,공공기관 > 지방행정기관 > 무인민원발급기",
+      "x": "127.02795654127019",
+      "y": "37.498065637497426"
+    }
+  ]
+}

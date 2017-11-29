@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "춘의역 7호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 3,
+    "total_count": 3,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/18501863",
+      "category_group_name": "",
+      "place_name": "춘의역 7호선 2번출구",
+      "distance": "",
+      "address_name": "경기 부천시 춘의동",
+      "road_address_name": "",
+      "id": "18501863",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.78720025140251",
+      "y": "37.50326577193261"
+    },
+    {
+      "place_url": "http://place.map.daum.net/18501802",
+      "category_group_name": "",
+      "place_name": "까치울역 7호선 2번출구",
+      "distance": "",
+      "address_name": "경기 부천시 춘의동",
+      "road_address_name": "",
+      "id": "18501802",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.81086569321899",
+      "y": "37.50612825606194"
+    },
+    {
+      "place_url": "http://place.map.daum.net/18501894",
+      "category_group_name": "",
+      "place_name": "부천종합운동장역 7호선 2번출구",
+      "distance": "",
+      "address_name": "경기 부천시 춘의동",
+      "road_address_name": "",
+      "id": "18501894",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.79757842439378",
+      "y": "37.50466447055627"
+    }
+  ]
+}

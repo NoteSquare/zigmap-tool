@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1001000143",
+      "statnNm": "개봉",
+      "ectrcNo": "1",
+      "subwayId": "1001",
+      "subwayNm": "1호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "광명시방면, 개봉2.3동, 개봉초등학교, 성애병원, 남부순환도로, 개봉현대아파트, 두산아파트, 개봉2치안센터, 개봉2주민센터, 철산1치안센터",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1001000143",
+      "statnNm": "개봉",
+      "ectrcNo": "2",
+      "subwayId": "1001",
+      "subwayNm": "1호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "개봉본동주민센터, 구로소방서, 영등포교도소, 경인중학교, 고척초등학교, 고척1동주민센터, 고척중학교, 고척고등학교, 개봉한마을아파트, 고척동 방면, 공구상가, 경인고등학교, 개봉본동, 금옥여고, 한마을아파트",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "서초역 2호선 4번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 3,
+    "total_count": 3,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/11139516",
+      "category_group_name": "",
+      "place_name": "서초역 2호선 4번출구",
+      "distance": "",
+      "address_name": "서울 서초구 서초동",
+      "road_address_name": "",
+      "id": "11139516",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.00717087866508",
+      "y": "37.49151999508939"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10139191",
+      "category_group_name": "",
+      "place_name": "교대역 2호선 4번출구",
+      "distance": "",
+      "address_name": "서울 서초구 서초동",
+      "road_address_name": "",
+      "id": "10139191",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.01545762369717",
+      "y": "37.49443133975024"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905525",
+      "category_group_name": "",
+      "place_name": "방배역 2호선 4번출구",
+      "distance": "",
+      "address_name": "서울 서초구 방배동",
+      "road_address_name": "",
+      "id": "22905525",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.99767299926326",
+      "y": "37.48178925789643"
+    }
+  ]
+}

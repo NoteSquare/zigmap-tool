@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "서울숲역 분당선 3번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/18983253",
+      "category_group_name": "",
+      "place_name": "서울숲역 분당선 3번출구",
+      "distance": "",
+      "address_name": "서울 성동구 성수동1가",
+      "road_address_name": "",
+      "id": "18983253",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.04445657157763",
+      "y": "37.54291596108338"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17495596",
+      "category_group_name": "",
+      "place_name": "양재시민의숲역 신분당선 3번출구",
+      "distance": "",
+      "address_name": "서울 서초구 양재동",
+      "road_address_name": "",
+      "id": "17495596",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0393640099289",
+      "y": "37.469926065534764"
+    }
+  ]
+}

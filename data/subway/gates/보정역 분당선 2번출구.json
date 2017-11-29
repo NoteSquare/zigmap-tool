@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "보정역 분당선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/17492799",
+      "category_group_name": "",
+      "place_name": "보정역 분당선 2번출구",
+      "distance": "",
+      "address_name": "경기 용인시 기흥구 보정동",
+      "road_address_name": "",
+      "id": "17492799",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.10863377773617",
+      "y": "37.31211220844569"
+    }
+  ]
+}

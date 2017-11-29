@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "신림역 2호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/22905732",
+      "category_group_name": "",
+      "place_name": "신림역 2호선 2번출구",
+      "distance": "",
+      "address_name": "서울 관악구 신림동",
+      "road_address_name": "",
+      "id": "22905732",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.92996532248546",
+      "y": "37.483966100039304"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905470",
+      "category_group_name": "",
+      "place_name": "신대방역 2호선 2번출구",
+      "distance": "",
+      "address_name": "서울 관악구 신림동",
+      "road_address_name": "",
+      "id": "22905470",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.9131060901976",
+      "y": "37.48700007080511"
+    }
+  ]
+}

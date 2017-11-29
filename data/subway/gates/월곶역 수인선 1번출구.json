@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "월곶역 수인선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/18501851",
+      "category_group_name": "",
+      "place_name": "월곶역 수인선 1번출구",
+      "distance": "",
+      "address_name": "경기 시흥시 월곶동",
+      "road_address_name": "",
+      "id": "18501851",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.74241570432261",
+      "y": "37.39172178655721"
+    },
+    {
+      "place_url": "http://place.map.daum.net/26350773",
+      "category_group_name": "",
+      "place_name": "달월역 수인선 1번출구",
+      "distance": "",
+      "address_name": "경기 시흥시 월곶동",
+      "road_address_name": "",
+      "id": "26350773",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.74573983310361",
+      "y": "37.379871678995634"
+    }
+  ]
+}

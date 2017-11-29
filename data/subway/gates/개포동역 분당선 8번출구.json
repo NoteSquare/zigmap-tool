@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "개포동역 분당선 8번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8175769",
+      "category_group_name": "",
+      "place_name": "개포동역 분당선 8번출구",
+      "distance": "",
+      "address_name": "서울 강남구 개포동",
+      "road_address_name": "",
+      "id": "8175769",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.06579626584399",
+      "y": "37.4889329920163"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905578",
+      "category_group_name": "",
+      "place_name": "대모산입구역 분당선 8번출구",
+      "distance": "",
+      "address_name": "서울 강남구 개포동",
+      "road_address_name": "",
+      "id": "22905578",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.07260527354995",
+      "y": "37.491120324045724"
+    }
+  ]
+}

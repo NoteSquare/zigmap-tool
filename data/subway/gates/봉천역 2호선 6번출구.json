@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "봉천역 2호선 6번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 3,
+    "total_count": 3,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/10457900",
+      "category_group_name": "",
+      "place_name": "봉천역 2호선 6번출구",
+      "distance": "",
+      "address_name": "서울 관악구 봉천동",
+      "road_address_name": "",
+      "id": "10457900",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.94274277094914",
+      "y": "37.482488296444956"
+    },
+    {
+      "place_url": "http://place.map.daum.net/11145222",
+      "category_group_name": "",
+      "place_name": "서울대입구역 2호선 6번출구",
+      "distance": "",
+      "address_name": "서울 관악구 봉천동",
+      "road_address_name": "",
+      "id": "11145222",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.95268372151477",
+      "y": "37.481699941637544"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8225985",
+      "category_group_name": "",
+      "place_name": "낙성대역 2호선 6번출구",
+      "distance": "",
+      "address_name": "서울 관악구 봉천동",
+      "road_address_name": "",
+      "id": "8225985",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.96334533070866",
+      "y": "37.47736103737035"
+    }
+  ]
+}

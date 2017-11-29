@@ -1,0 +1,69 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 1,
+      "selectedCount": 3,
+      "statnId": "1005080550",
+      "statnNm": "올림픽공원",
+      "ectrcNo": "1",
+      "subwayId": "1005",
+      "subwayNm": "5호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "국민은행 (올림픽아파트지점),방이소방파출소,보성중.고등학교,서울오륜교회,세륜초등학교,오륜동,오륜중학교,창덕여자고등학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 2,
+      "selectedCount": 3,
+      "statnId": "1005080550",
+      "statnNm": "올림픽공원",
+      "ectrcNo": "2",
+      "subwayId": "1005",
+      "subwayNm": "5호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "오륜동사무소,오륜동우체국,오륜초등학교,오륜파출소,올림픽선수촌아파트,현대투자신탁증권",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 3,
+      "selectedCount": 3,
+      "statnId": "1005080550",
+      "statnNm": "올림픽공원",
+      "ectrcNo": "3",
+      "subwayId": "1005",
+      "subwayNm": "5호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "경륜장,서울체육고등학교,올림픽공원,한국체육대학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 3
+  }
+}

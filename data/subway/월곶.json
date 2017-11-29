@@ -1,0 +1,31 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 1,
+      "rowNum": 1,
+      "selectedCount": 1,
+      "statnId": "1071075252",
+      "statnNm": "월곶",
+      "ectrcNo": "1",
+      "subwayId": "1071",
+      "subwayNm": "수인선",
+      "ectrcCnt": "1",
+      "cfrBuild": "월곶중학교, 시흥월곶초등학교, 마린월드, 월포초등학교, 신세계백화점",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 1
+  }
+}

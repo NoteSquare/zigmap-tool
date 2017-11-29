@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1063075324",
+      "statnNm": "백마",
+      "ectrcNo": "1",
+      "subwayId": "1063",
+      "subwayNm": "경의중앙선",
+      "ectrcCnt": "2",
+      "cfrBuild": "백마초등학교, 백마중학교, 백마공원, 마두1동주민센터, 정발고등학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1063075324",
+      "statnNm": "백마",
+      "ectrcNo": "2",
+      "subwayId": "1063",
+      "subwayNm": "경의중앙선",
+      "ectrcCnt": "2",
+      "cfrBuild": "중앙하이츠 아파트, 에이스12차 아파트, 풍산동주민센터, 풍산중학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

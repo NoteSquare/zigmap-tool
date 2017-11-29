@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "용문역 경의중앙선 3번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/17494669",
+      "category_group_name": "",
+      "place_name": "용문역 경의중앙선 3번출구",
+      "distance": "",
+      "address_name": "경기 양평군 용문면 다문리",
+      "road_address_name": "",
+      "id": "17494669",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.59475165724379",
+      "y": "37.48183179181146"
+    }
+  ]
+}

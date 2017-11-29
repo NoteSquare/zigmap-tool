@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "봉천역 2호선 5번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 3,
+    "total_count": 3,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/7906610",
+      "category_group_name": "",
+      "place_name": "봉천역 2호선 5번출구",
+      "distance": "",
+      "address_name": "서울 관악구 봉천동",
+      "road_address_name": "",
+      "id": "7906610",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.94231309173192",
+      "y": "37.48254214202294"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8234200",
+      "category_group_name": "",
+      "place_name": "낙성대역 2호선 5번출구",
+      "distance": "",
+      "address_name": "서울 관악구 봉천동",
+      "road_address_name": "",
+      "id": "8234200",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.96301966886031",
+      "y": "37.47748707204234"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905426",
+      "category_group_name": "",
+      "place_name": "서울대입구역 2호선 5번출구",
+      "distance": "",
+      "address_name": "서울 관악구 봉천동",
+      "road_address_name": "",
+      "id": "22905426",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.95238985235025",
+      "y": "37.48156286758113"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "석계역 1호선 6번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/18468060",
+      "category_group_name": "",
+      "place_name": "석계역 1호선 6번출구",
+      "distance": "",
+      "address_name": "서울 성북구 석관동",
+      "road_address_name": "",
+      "id": "18468060",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.06571399860044",
+      "y": "37.61460683531562"
+    }
+  ]
+}

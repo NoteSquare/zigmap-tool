@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "도화역 1호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/7832855",
+      "category_group_name": "",
+      "place_name": "도화역 1호선 2번출구",
+      "distance": "",
+      "address_name": "인천 남구 도화동",
+      "road_address_name": "인천 남구 송림로 247",
+      "id": "7832855",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.66790350489862",
+      "y": "37.465950923916566"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8068517",
+      "category_group_name": "",
+      "place_name": "제물포역 1호선 2번출구",
+      "distance": "",
+      "address_name": "인천 남구 도화동",
+      "road_address_name": "인천 남구 송림로 247",
+      "id": "8068517",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.65641372610932",
+      "y": "37.467089229267614"
+    }
+  ]
+}

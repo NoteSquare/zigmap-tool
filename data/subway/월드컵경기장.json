@@ -1,0 +1,69 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 1,
+      "selectedCount": 3,
+      "statnId": "1006000619",
+      "statnNm": "월드컵경기장",
+      "ectrcNo": "1",
+      "subwayId": "1006",
+      "subwayNm": "6호선",
+      "ectrcCnt": "3",
+      "cfrBuild": " 교통안전공단서울지사, 서울월드컵경기장(동,남문), 월드컵공원, 마포농수산시장, 홈플러스",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 2,
+      "selectedCount": 3,
+      "statnId": "1006000619",
+      "statnNm": "월드컵경기장",
+      "ectrcNo": "2",
+      "subwayId": "1006",
+      "subwayNm": "6호선",
+      "ectrcCnt": "3",
+      "cfrBuild": " 서울월드컵경기장(북문), 성산2동사무소, 성산소방파출소, 신북초등학교, 중암중학교, 한국우진학교, 마포농수산물시장, 이대성산사회복지관, 성원초등학교, CGV상암10 ",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 3,
+      "selectedCount": 3,
+      "statnId": "1006000619",
+      "statnNm": "월드컵경기장",
+      "ectrcNo": "3",
+      "subwayId": "1006",
+      "subwayNm": "6호선",
+      "ectrcCnt": "3",
+      "cfrBuild": " 서울월드컵경기장(북,서문), 이대성산종합사회복지관, 중암중교, 신북초등학교, 한국우진학교, 성산2동우체국, 성산소방파출소, 북가좌1파출소",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 3
+  }
+}

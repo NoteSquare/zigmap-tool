@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "시청역 1호선 3번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 4,
+    "total_count": 4,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/11282245",
+      "category_group_name": "",
+      "place_name": "시청역 1호선 3번출구",
+      "distance": "",
+      "address_name": "서울 중구 정동",
+      "road_address_name": "",
+      "id": "11282245",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.97693252897884",
+      "y": "37.56609468265293"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7966550",
+      "category_group_name": "",
+      "place_name": "시청역 대전1호선 3번출구",
+      "distance": "",
+      "address_name": "대전 서구 둔산동",
+      "road_address_name": "",
+      "id": "7966550",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.38634423941289",
+      "y": "36.351388846814956"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8054395",
+      "category_group_name": "",
+      "place_name": "인천시청역 인천1호선 3번출구",
+      "distance": "",
+      "address_name": "인천 남동구 간석동",
+      "road_address_name": "",
+      "id": "8054395",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.70283631071021",
+      "y": "37.45689020081876"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8443682",
+      "category_group_name": "",
+      "place_name": "시청역 부산1호선 3번출구",
+      "distance": "",
+      "address_name": "부산 연제구 연산동",
+      "road_address_name": "",
+      "id": "8443682",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "129.07623748994484",
+      "y": "35.17952673979344"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "공릉역 7호선 4번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/22905884",
+      "category_group_name": "",
+      "place_name": "공릉역 7호선 4번출구",
+      "distance": "",
+      "address_name": "서울 노원구 공릉동",
+      "road_address_name": "",
+      "id": "22905884",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0727016262695",
+      "y": "37.62581822954467"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22906196",
+      "category_group_name": "",
+      "place_name": "태릉입구역 7호선 4번출구",
+      "distance": "",
+      "address_name": "서울 노원구 공릉동",
+      "road_address_name": "",
+      "id": "22906196",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.07536835390547",
+      "y": "37.619088073154195"
+    }
+  ]
+}

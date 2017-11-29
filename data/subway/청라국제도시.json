@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1065065071",
+      "statnNm": "청라국제도시",
+      "ectrcNo": "1",
+      "subwayId": "1065",
+      "subwayNm": "공항철도",
+      "ectrcCnt": "2",
+      "cfrBuild": "청라달튼외국인학교, 베어즈베스트청라GC",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1065065071",
+      "statnNm": "청라국제도시",
+      "ectrcNo": "2",
+      "subwayId": "1065",
+      "subwayNm": "공항철도",
+      "ectrcCnt": "2",
+      "cfrBuild": "인천서부일반산업단지",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

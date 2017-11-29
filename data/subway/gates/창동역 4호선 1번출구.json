@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "창동역 4호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/11152650",
+      "category_group_name": "",
+      "place_name": "창동역 4호선 1번출구",
+      "distance": "",
+      "address_name": "서울 도봉구 창동",
+      "road_address_name": "",
+      "id": "11152650",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.04880821150387",
+      "y": "37.65347220771289"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10615145",
+      "category_group_name": "",
+      "place_name": "쌍문역 4호선 1번출구",
+      "distance": "",
+      "address_name": "서울 도봉구 창동",
+      "road_address_name": "",
+      "id": "10615145",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.03507162954108",
+      "y": "37.648863918765436"
+    }
+  ]
+}

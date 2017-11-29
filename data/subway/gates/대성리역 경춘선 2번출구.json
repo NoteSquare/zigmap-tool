@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "대성리역 경춘선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/17494570",
+      "category_group_name": "",
+      "place_name": "대성리역 경춘선 2번출구",
+      "distance": "",
+      "address_name": "경기 가평군 청평면 대성리",
+      "road_address_name": "",
+      "id": "17494570",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.37920594348147",
+      "y": "37.68381276457865"
+    }
+  ]
+}

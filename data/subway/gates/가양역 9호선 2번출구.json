@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "가양역 9호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 3,
+    "total_count": 3,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/27256355",
+      "category_group_name": "",
+      "place_name": "가양역 9호선 2번출구",
+      "distance": "",
+      "address_name": "서울 강서구 가양동",
+      "road_address_name": "",
+      "id": "27256355",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.85454853469115",
+      "y": "37.56151163945689"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8079993",
+      "category_group_name": "",
+      "place_name": "증미역 9호선 2번출구",
+      "distance": "",
+      "address_name": "서울 강서구 가양동",
+      "road_address_name": "",
+      "id": "8079993",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.86243375484969",
+      "y": "37.55732258237297"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905347",
+      "category_group_name": "",
+      "place_name": "양천향교역 9호선 2번출구",
+      "distance": "",
+      "address_name": "서울 강서구 가양동",
+      "road_address_name": "",
+      "id": "22905347",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.84130330895391",
+      "y": "37.569250113312364"
+    }
+  ]
+}

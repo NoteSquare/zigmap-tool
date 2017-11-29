@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "동춘역 인천1호선 3번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8279416",
+      "category_group_name": "",
+      "place_name": "동춘역 인천1호선 3번출구",
+      "distance": "",
+      "address_name": "인천 연수구 동춘동",
+      "road_address_name": "인천 연수구 봉재산로36번길 1",
+      "id": "8279416",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.68021650881587",
+      "y": "37.404385131419616"
+    },
+    {
+      "place_url": "http://place.map.daum.net/27454869",
+      "category_group_name": "",
+      "place_name": "동막역 인천1호선 3번출구",
+      "distance": "",
+      "address_name": "인천 연수구 동춘동",
+      "road_address_name": "인천 연수구 봉재산로36번길 1",
+      "id": "27454869",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.67289242759374",
+      "y": "37.39835346459144"
+    }
+  ]
+}

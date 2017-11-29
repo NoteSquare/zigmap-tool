@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "신정역 5호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8415636",
+      "category_group_name": "",
+      "place_name": "신정역 5호선 1번출구",
+      "distance": "",
+      "address_name": "서울 양천구 신정동",
+      "road_address_name": "",
+      "id": "8415636",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.85446201503632",
+      "y": "37.524895240278454"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7867402",
+      "category_group_name": "",
+      "place_name": "목동역 5호선 1번출구",
+      "distance": "",
+      "address_name": "서울 양천구 신정동",
+      "road_address_name": "",
+      "id": "7867402",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.86356852619002",
+      "y": "37.526203658886885"
+    }
+  ]
+}

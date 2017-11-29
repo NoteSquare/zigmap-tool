@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "과천역 4호선 3번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 5,
+    "total_count": 5,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8708138",
+      "category_group_name": "",
+      "place_name": "과천역 4호선 3번출구",
+      "distance": "",
+      "address_name": "경기 과천시 부림동",
+      "road_address_name": "",
+      "id": "8708138",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.99852064792529",
+      "y": "37.432889915913776"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17494651",
+      "category_group_name": "",
+      "place_name": "정부과천청사역 4호선 3번출구",
+      "distance": "",
+      "address_name": "경기 과천시 중앙동",
+      "road_address_name": "",
+      "id": "17494651",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.9895369618059",
+      "y": "37.4260236530879"
+    },
+    {
+      "place_url": "http://place.map.daum.net/874127121",
+      "category_group_name": "",
+      "place_name": "선바위역 4호선 3번출구",
+      "distance": "",
+      "address_name": "경기 과천시 과천동",
+      "road_address_name": "",
+      "id": "874127121",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.00118707215753",
+      "y": "37.45236253152532"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10255590",
+      "category_group_name": "",
+      "place_name": "대공원역 4호선 3번출구",
+      "distance": "",
+      "address_name": "경기 과천시 막계동",
+      "road_address_name": "",
+      "id": "10255590",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.00683670629996",
+      "y": "37.43522524937411"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8180796",
+      "category_group_name": "",
+      "place_name": "경마공원역 4호선 3번출구",
+      "distance": "",
+      "address_name": "경기 과천시 과천동",
+      "road_address_name": "",
+      "id": "8180796",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.00822499646813",
+      "y": "37.443719883770555"
+    }
+  ]
+}

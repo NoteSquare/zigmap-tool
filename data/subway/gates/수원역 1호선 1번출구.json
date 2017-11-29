@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "수원역 1호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 4,
+    "total_count": 4,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8389267",
+      "category_group_name": "",
+      "place_name": "수원역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 수원시 팔달구 매산로1가",
+      "road_address_name": "",
+      "id": "8389267",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.00043027208106",
+      "y": "37.26630179899094"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7946139",
+      "category_group_name": "",
+      "place_name": "성균관대역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 수원시 장안구 율전동",
+      "road_address_name": "",
+      "id": "7946139",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.97239042206567",
+      "y": "37.30032119544563"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8159681",
+      "category_group_name": "",
+      "place_name": "화서역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 수원시 팔달구 화서동",
+      "road_address_name": "",
+      "id": "8159681",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.98924355999245",
+      "y": "37.28523007593283"
+    },
+    {
+      "place_url": "http://place.map.daum.net/11125456",
+      "category_group_name": "",
+      "place_name": "세류역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 수원시 권선구 장지동",
+      "road_address_name": "",
+      "id": "11125456",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.01414458919666",
+      "y": "37.244258174291744"
+    }
+  ]
+}

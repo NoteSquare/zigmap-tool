@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1071075253",
+      "statnNm": "소래포구",
+      "ectrcNo": "1",
+      "subwayId": "1071",
+      "subwayNm": "수인선",
+      "ectrcCnt": "2",
+      "cfrBuild": "원동초등학교, 고잔중학교, 에코메트로 아파트",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1071075253",
+      "statnNm": "소래포구",
+      "ectrcNo": "2",
+      "subwayId": "1071",
+      "subwayNm": "수인선",
+      "ectrcCnt": "2",
+      "cfrBuild": "인천소래포구, 인천소래 초등학교, 논현1동주민센터, 인천논현 초등학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "강동역 5호선 4번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 7,
+    "total_count": 7,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8170325",
+      "category_group_name": "",
+      "place_name": "강동역 5호선 4번출구",
+      "distance": "",
+      "address_name": "서울 강동구 성내동",
+      "road_address_name": "",
+      "id": "8170325",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.13201584224655",
+      "y": "37.53576626213313"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8198382",
+      "category_group_name": "",
+      "place_name": "고덕역 5호선 4번출구",
+      "distance": "",
+      "address_name": "서울 강동구 명일동",
+      "road_address_name": "",
+      "id": "8198382",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.15434411028806",
+      "y": "37.55495942187422"
+    },
+    {
+      "place_url": "http://place.map.daum.net/11078756",
+      "category_group_name": "",
+      "place_name": "둔촌동역 5호선 4번출구",
+      "distance": "",
+      "address_name": "서울 강동구 성내동",
+      "road_address_name": "",
+      "id": "11078756",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.1361070357492",
+      "y": "37.528186118608936"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22906093",
+      "category_group_name": "",
+      "place_name": "상일동역 5호선 4번출구",
+      "distance": "",
+      "address_name": "서울 강동구 상일동",
+      "road_address_name": "",
+      "id": "22906093",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.16495378771035",
+      "y": "37.55644085610998"
+    },
+    {
+      "place_url": "http://place.map.daum.net/11233562",
+      "category_group_name": "",
+      "place_name": "천호역 5호선 4번출구",
+      "distance": "",
+      "address_name": "서울 강동구 성내동",
+      "road_address_name": "",
+      "id": "11233562",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.12398753286604",
+      "y": "37.53871209625282"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905956",
+      "category_group_name": "",
+      "place_name": "명일역 5호선 4번출구",
+      "distance": "",
+      "address_name": "서울 강동구 명일동",
+      "road_address_name": "",
+      "id": "22905956",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.14417388434703",
+      "y": "37.55106905783314"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905703",
+      "category_group_name": "",
+      "place_name": "굽은다리역 5호선 4번출구",
+      "distance": "",
+      "address_name": "서울 강동구 명일동",
+      "road_address_name": "",
+      "id": "22905703",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.14305432110184",
+      "y": "37.545495074135744"
+    }
+  ]
+}

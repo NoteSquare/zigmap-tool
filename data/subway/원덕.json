@@ -1,0 +1,31 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 1,
+      "rowNum": 1,
+      "selectedCount": 1,
+      "statnId": "1063075136",
+      "statnNm": "원덕",
+      "ectrcNo": "1",
+      "subwayId": "1063",
+      "subwayNm": "경의중앙선",
+      "ectrcCnt": "1",
+      "cfrBuild": "원덕초등학교, 흑천, 원덕교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 1
+  }
+}

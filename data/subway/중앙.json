@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1004000450",
+      "statnNm": "중앙",
+      "ectrcNo": "1",
+      "subwayId": "1004",
+      "subwayNm": "4호선",
+      "ectrcCnt": "2",
+      "cfrBuild": " 고잔2동주민센터, 고잔파출소, 소방서, 중앙초,중학교, 롯데시네마",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1004000450",
+      "statnNm": "중앙",
+      "ectrcNo": "2",
+      "subwayId": "1004",
+      "subwayNm": "4호선",
+      "ectrcCnt": "2",
+      "cfrBuild": " 송호초,중학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

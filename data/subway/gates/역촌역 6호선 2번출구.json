@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "역촌역 6호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 3,
+    "total_count": 3,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8006035",
+      "category_group_name": "",
+      "place_name": "역촌역 6호선 2번출구",
+      "distance": "",
+      "address_name": "서울 은평구 대조동",
+      "road_address_name": "",
+      "id": "8006035",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.92263602648822",
+      "y": "37.606831468128746"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17491709",
+      "category_group_name": "",
+      "place_name": "응암역 6호선 2번출구",
+      "distance": "",
+      "address_name": "서울 은평구 역촌동",
+      "road_address_name": "",
+      "id": "17491709",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.91561408705465",
+      "y": "37.59932318168604"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8206334",
+      "category_group_name": "",
+      "place_name": "구산역 6호선 2번출구",
+      "distance": "",
+      "address_name": "서울 은평구 역촌동",
+      "road_address_name": "",
+      "id": "8206334",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.91732233117962",
+      "y": "37.61084617612018"
+    }
+  ]
+}

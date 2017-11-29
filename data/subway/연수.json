@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1071075258",
+      "statnNm": "연수",
+      "ectrcNo": "1",
+      "subwayId": "1071",
+      "subwayNm": "수인선",
+      "ectrcCnt": "2",
+      "cfrBuild": "현대3차아파트, 메가박스, 청학근린공원, 양지공원, 인천연수고등학교, 연수2동주민센터",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1071075258",
+      "statnNm": "연수",
+      "ectrcNo": "2",
+      "subwayId": "1071",
+      "subwayNm": "수인선",
+      "ectrcCnt": "2",
+      "cfrBuild": "문화공원, 인천문남초등학교, 문남공원, 연수1동주민센터, 인천중앙초등학교, 연수도서관",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 1,
+      "rowNum": 1,
+      "selectedCount": 1,
+      "statnId": "1009000905",
+      "statnNm": "마곡나루",
+      "ectrcNo": "1",
+      "subwayId": "1009",
+      "subwayNm": "9호선",
+      "ectrcCnt": "1",
+      "cfrBuild": "신안아파트",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 1
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "송파역 8호선 4번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 8,
+    "total_count": 8,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/10554245",
+      "category_group_name": "",
+      "place_name": "송파역 8호선 4번출구",
+      "distance": "",
+      "address_name": "서울 송파구 가락동",
+      "road_address_name": "",
+      "id": "10554245",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.11209435785767",
+      "y": "37.49942240563611"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905965",
+      "category_group_name": "",
+      "place_name": "문정역 8호선 4번출구",
+      "distance": "",
+      "address_name": "서울 송파구 문정동",
+      "road_address_name": "",
+      "id": "22905965",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.12187619127884",
+      "y": "37.48657540480617"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22906002",
+      "category_group_name": "",
+      "place_name": "가락시장역 8호선 4번출구",
+      "distance": "",
+      "address_name": "서울 송파구 가락동",
+      "road_address_name": "",
+      "id": "22906002",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.1190276205584",
+      "y": "37.49283121210734"
+    },
+    {
+      "place_url": "http://place.map.daum.net/25115099",
+      "category_group_name": "",
+      "place_name": "장지역 8호선 4번출구",
+      "distance": "",
+      "address_name": "서울 송파구 문정동",
+      "road_address_name": "",
+      "id": "25115099",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.12579766542683",
+      "y": "37.47854162391838"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905678",
+      "category_group_name": "",
+      "place_name": "석촌역 8호선 4번출구",
+      "distance": "",
+      "address_name": "서울 송파구 송파동",
+      "road_address_name": "",
+      "id": "22905678",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.1077371386331",
+      "y": "37.50504863200633"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22906120",
+      "category_group_name": "",
+      "place_name": "복정역 8호선 4번출구",
+      "distance": "",
+      "address_name": "서울 송파구 장지동",
+      "road_address_name": "",
+      "id": "22906120",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.12652296617252",
+      "y": "37.47144096162491"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7884425",
+      "category_group_name": "",
+      "place_name": "몽촌토성역 8호선 4번출구",
+      "distance": "",
+      "address_name": "서울 송파구 신천동",
+      "road_address_name": "",
+      "id": "7884425",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.11219811384152",
+      "y": "37.51761524298833"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10127157",
+      "category_group_name": "",
+      "place_name": "강동구청역 8호선 4번출구",
+      "distance": "",
+      "address_name": "서울 송파구 풍납동",
+      "road_address_name": "",
+      "id": "10127157",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.12028584434924",
+      "y": "37.530455572339925"
+    }
+  ]
+}

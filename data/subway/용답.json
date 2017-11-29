@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1002002111",
+      "statnNm": "용답",
+      "ectrcNo": "1",
+      "subwayId": "1002",
+      "subwayNm": "2호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "용답동, 도시철도공사, 용답초등학교, 용답주민센터, 용답파출소, 서울교육문화센터",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1002002111",
+      "statnNm": "용답",
+      "ectrcNo": "2",
+      "subwayId": "1002",
+      "subwayNm": "2호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "사근동, 한양여자대학, 사근초등학교, 사근동주민센터, 세림아파트, 하이츠아파트, 청계천 방면",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

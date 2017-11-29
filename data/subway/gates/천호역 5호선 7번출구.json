@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "천호역 5호선 7번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8094361",
+      "category_group_name": "",
+      "place_name": "천호역 5호선 7번출구",
+      "distance": "",
+      "address_name": "서울 강동구 성내동",
+      "road_address_name": "",
+      "id": "8094361",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.12404559088017",
+      "y": "37.53823631201571"
+    }
+  ]
+}

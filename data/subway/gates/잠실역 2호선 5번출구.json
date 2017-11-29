@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "잠실역 2호선 5번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 3,
+    "total_count": 3,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/27446573",
+      "category_group_name": "",
+      "place_name": "잠실역 2호선 5번출구",
+      "distance": "",
+      "address_name": "서울 송파구 잠실동",
+      "road_address_name": "",
+      "id": "27446573",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.09893528393101",
+      "y": "37.51321204444745"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905857",
+      "category_group_name": "",
+      "place_name": "잠실새내역 2호선 5번출구",
+      "distance": "",
+      "address_name": "서울 송파구 잠실동",
+      "road_address_name": "",
+      "id": "22905857",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.08476360842107",
+      "y": "37.51192544637217"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8519602",
+      "category_group_name": "",
+      "place_name": "종합운동장역 2호선 5번출구",
+      "distance": "",
+      "address_name": "서울 송파구 잠실동",
+      "road_address_name": "",
+      "id": "8519602",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.07278279121647",
+      "y": "37.5113386238954"
+    }
+  ]
+}

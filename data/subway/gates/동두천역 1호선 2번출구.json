@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "동두천역 1호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 4,
+    "total_count": 4,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/17492111",
+      "category_group_name": "",
+      "place_name": "동두천역 1호선 2번출구",
+      "distance": "",
+      "address_name": "경기 동두천시 동두천동",
+      "road_address_name": "",
+      "id": "17492111",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05421063650996",
+      "y": "37.927496908340416"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7843864",
+      "category_group_name": "",
+      "place_name": "동두천중앙역 1호선 2번출구",
+      "distance": "",
+      "address_name": "경기 동두천시 생연동",
+      "road_address_name": "",
+      "id": "7843864",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05638514236182",
+      "y": "37.902712998014195"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10778680",
+      "category_group_name": "",
+      "place_name": "지행역 1호선 2번출구",
+      "distance": "",
+      "address_name": "경기 동두천시 지행동",
+      "road_address_name": "",
+      "id": "10778680",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05558205177736",
+      "y": "37.892900357646035"
+    },
+    {
+      "place_url": "http://place.map.daum.net/11060658",
+      "category_group_name": "",
+      "place_name": "보산역 1호선 2번출구",
+      "distance": "",
+      "address_name": "경기 동두천시 보산동",
+      "road_address_name": "",
+      "id": "11060658",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05743976826122",
+      "y": "37.91403546449469"
+    }
+  ]
+}

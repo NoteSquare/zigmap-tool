@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "목동역 5호선 6번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/22905352",
+      "category_group_name": "",
+      "place_name": "목동역 5호선 6번출구",
+      "distance": "",
+      "address_name": "서울 양천구 목동",
+      "road_address_name": "",
+      "id": "22905352",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.86475473183941",
+      "y": "37.525862660580756"
+    },
+    {
+      "place_url": "http://place.map.daum.net/27256372",
+      "category_group_name": "",
+      "place_name": "오목교역 5호선 6번출구",
+      "distance": "",
+      "address_name": "서울 양천구 목동",
+      "road_address_name": "",
+      "id": "27256372",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.8759574173657",
+      "y": "37.524044280276975"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "청량리역 경의중앙선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/17495838",
+      "category_group_name": "",
+      "place_name": "청량리역 경의중앙선 1번출구",
+      "distance": "",
+      "address_name": "서울 동대문구 전농동",
+      "road_address_name": "",
+      "id": "17495838",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0471181070281",
+      "y": "37.58033124862522"
+    }
+  ]
+}

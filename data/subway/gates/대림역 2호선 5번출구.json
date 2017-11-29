@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "대림역 2호선 5번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/7822279",
+      "category_group_name": "",
+      "place_name": "대림역 2호선 5번출구",
+      "distance": "",
+      "address_name": "서울 영등포구 대림동",
+      "road_address_name": "",
+      "id": "7822279",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.89504986415335",
+      "y": "37.494330131374035"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8189294",
+      "category_group_name": "",
+      "place_name": "구로디지털단지역 2호선 5번출구",
+      "distance": "",
+      "address_name": "서울 영등포구 대림동",
+      "road_address_name": "",
+      "id": "8189294",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.90132596586687",
+      "y": "37.48574728816748"
+    }
+  ]
+}

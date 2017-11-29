@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "부천시청역 7호선 4번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/18501899",
+      "category_group_name": "",
+      "place_name": "부천시청역 7호선 4번출구",
+      "distance": "",
+      "address_name": "경기 부천시 중동",
+      "road_address_name": "",
+      "id": "18501899",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.76344500297611",
+      "y": "37.505040300278594"
+    }
+  ]
+}

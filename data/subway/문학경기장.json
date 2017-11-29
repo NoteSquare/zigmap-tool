@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1069073127",
+      "statnNm": "문학경기장",
+      "ectrcNo": "1",
+      "subwayId": "1069",
+      "subwayNm": "인천1호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "선학동, 문학야구장",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1069073127",
+      "statnNm": "문학경기장",
+      "ectrcNo": "2",
+      "subwayId": "1069",
+      "subwayNm": "인천1호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "문학경기장, 문학정보고등학교, 어린이박물관, 청소년 성문화센터, 향교,도호부청사",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

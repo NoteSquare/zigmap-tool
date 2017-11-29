@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "역촌역 6호선 3번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8000789",
+      "category_group_name": "",
+      "place_name": "역촌역 6호선 3번출구",
+      "distance": "",
+      "address_name": "서울 은평구 녹번동",
+      "road_address_name": "서울 은평구 통일로62길 17",
+      "id": "8000789",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.92317999375219",
+      "y": "37.60648224933903"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8546474",
+      "category_group_name": "",
+      "place_name": "응암역 6호선 3번출구",
+      "distance": "",
+      "address_name": "서울 은평구 역촌동",
+      "road_address_name": "",
+      "id": "8546474",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.91589489846805",
+      "y": "37.59934140539731"
+    }
+  ]
+}

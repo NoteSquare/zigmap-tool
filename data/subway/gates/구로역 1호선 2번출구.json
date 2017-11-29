@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "구로역 1호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 4,
+    "total_count": 4,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/22905565",
+      "category_group_name": "",
+      "place_name": "구로역 1호선 2번출구",
+      "distance": "",
+      "address_name": "서울 구로구 구로동",
+      "road_address_name": "",
+      "id": "22905565",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.88084290840186",
+      "y": "37.5024975416796"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8633591",
+      "category_group_name": "",
+      "place_name": "개봉역 1호선 2번출구",
+      "distance": "",
+      "address_name": "서울 구로구 개봉동",
+      "road_address_name": "",
+      "id": "8633591",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.85881806144097",
+      "y": "37.494825317192145"
+    },
+    {
+      "place_url": "http://place.map.daum.net/27564824",
+      "category_group_name": "",
+      "place_name": "구일역 1호선 2번출구",
+      "distance": "",
+      "address_name": "서울 구로구 구로동",
+      "road_address_name": "",
+      "id": "27564824",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.86788564745879",
+      "y": "37.49566484021739"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10632854",
+      "category_group_name": "",
+      "place_name": "오류동역 1호선 2번출구",
+      "distance": "",
+      "address_name": "서울 구로구 오류동",
+      "road_address_name": "",
+      "id": "10632854",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.84417378746119",
+      "y": "37.49389491121919"
+    }
+  ]
+}

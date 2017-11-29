@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "광명역 1호선 7번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/11029945",
+      "category_group_name": "",
+      "place_name": "광명역 1호선 7번출구",
+      "distance": "",
+      "address_name": "경기 광명시 일직동",
+      "road_address_name": "",
+      "id": "11029945",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.88538759694801",
+      "y": "37.41583265912039"
+    }
+  ]
+}

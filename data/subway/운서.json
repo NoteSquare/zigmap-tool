@@ -1,0 +1,31 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 1,
+      "rowNum": 1,
+      "selectedCount": 1,
+      "statnId": "1065006508",
+      "statnNm": "운서",
+      "ectrcNo": "1",
+      "subwayId": "1065",
+      "subwayNm": "공항철도",
+      "ectrcCnt": "1",
+      "cfrBuild": "롯데마트, 인천삼목초등학교, 인천공항고등학교, 영마루공원, 영종도서관, 공항지구대",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 1
+  }
+}

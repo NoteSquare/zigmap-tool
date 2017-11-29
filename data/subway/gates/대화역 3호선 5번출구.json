@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "대화역 3호선 5번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/10322103",
+      "category_group_name": "",
+      "place_name": "대화역 3호선 5번출구",
+      "distance": "",
+      "address_name": "경기 고양시 일산서구 대화동",
+      "road_address_name": "",
+      "id": "10322103",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.74773569987349",
+      "y": "37.676522243145484"
+    }
+  ]
+}

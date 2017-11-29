@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "주안역 1호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/10787732",
+      "category_group_name": "",
+      "place_name": "주안역 1호선 1번출구",
+      "distance": "",
+      "address_name": "인천 남구 주안동",
+      "road_address_name": "",
+      "id": "10787732",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.68081743238506",
+      "y": "37.464754105749876"
+    },
+    {
+      "place_url": "http://place.map.daum.net/11048045",
+      "category_group_name": "",
+      "place_name": "간석역 1호선 1번출구",
+      "distance": "",
+      "address_name": "인천 남구 주안동",
+      "road_address_name": "",
+      "id": "11048045",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.69398998985938",
+      "y": "37.4643386174128"
+    }
+  ]
+}

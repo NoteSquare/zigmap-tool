@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "오류동역 1호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/10632854",
+      "category_group_name": "",
+      "place_name": "오류동역 1호선 2번출구",
+      "distance": "",
+      "address_name": "서울 구로구 오류동",
+      "road_address_name": "",
+      "id": "10632854",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.84417378746119",
+      "y": "37.49389491121919"
+    },
+    {
+      "place_url": "http://place.map.daum.net/27457918",
+      "category_group_name": "",
+      "place_name": "오룡역 대전1호선 2번출구",
+      "distance": "",
+      "address_name": "대전 중구 오류동",
+      "road_address_name": "",
+      "id": "27457918",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.40474041408007",
+      "y": "36.328269057507875"
+    }
+  ]
+}

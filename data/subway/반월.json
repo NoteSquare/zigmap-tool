@@ -1,0 +1,31 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 1,
+      "rowNum": 1,
+      "selectedCount": 1,
+      "statnId": "1004000447",
+      "statnNm": "반월",
+      "ectrcNo": "1",
+      "subwayId": "1004",
+      "subwayNm": "4호선",
+      "ectrcCnt": "1",
+      "cfrBuild": " 반월정보산업고, 반월초,중교, 경기모바일과학고등학교, 반월 보건지소",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 1
+  }
+}

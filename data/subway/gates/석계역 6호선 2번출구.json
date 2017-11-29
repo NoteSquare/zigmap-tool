@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "석계역 6호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/7944879",
+      "category_group_name": "",
+      "place_name": "석계역 6호선 2번출구",
+      "distance": "",
+      "address_name": "서울 노원구 월계동",
+      "road_address_name": "",
+      "id": "7944879",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.06656628417943",
+      "y": "37.61524426324919"
+    }
+  ]
+}

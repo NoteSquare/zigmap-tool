@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "노원역 7호선 8번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/22905901",
+      "category_group_name": "",
+      "place_name": "노원역 7호선 8번출구",
+      "distance": "",
+      "address_name": "서울 노원구 상계동",
+      "road_address_name": "",
+      "id": "22905901",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0601960226669",
+      "y": "37.65514290726312"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905982",
+      "category_group_name": "",
+      "place_name": "마들역 7호선 8번출구",
+      "distance": "",
+      "address_name": "서울 노원구 상계동",
+      "road_address_name": "",
+      "id": "22905982",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05729405072312",
+      "y": "37.66607493240699"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 1,
+      "selectedCount": 3,
+      "statnId": "1007000724",
+      "statnNm": "중곡",
+      "ectrcNo": "1",
+      "subwayId": "1007",
+      "subwayNm": "7호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "국립서울정신병원,대원여자고등학교,대원외국어고등학교,대원중.고등학교,용곡초.중학교,중곡2.4동,중곡4동사무소,중곡4파출소",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 2,
+      "selectedCount": 3,
+      "statnId": "1007000724",
+      "statnNm": "중곡",
+      "ectrcNo": "2",
+      "subwayId": "1007",
+      "subwayNm": "7호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "대한예수교장로회 동성교회,중곡1.3파출소,중곡1동사무소,중곡3동사무소,중곡제일시장,중광초등학교,중마초등학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 3,
+      "selectedCount": 3,
+      "statnId": "1007000724",
+      "statnNm": "중곡",
+      "ectrcNo": "3",
+      "subwayId": "1007",
+      "subwayNm": "7호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "대한예수교장로회 한국중앙교회,서울은행 용마지점,중곡3동,한전화양변전소",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 3
+  }
+}

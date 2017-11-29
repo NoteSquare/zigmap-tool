@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "오산역 1호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 4,
+    "total_count": 4,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8453151",
+      "category_group_name": "",
+      "place_name": "오산역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 오산시 오산동",
+      "road_address_name": "",
+      "id": "8453151",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.06727843966979",
+      "y": "37.1455508678712"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8015842",
+      "category_group_name": "",
+      "place_name": "오산대역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 오산시 수청동",
+      "road_address_name": "",
+      "id": "8015842",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.06329083204685",
+      "y": "37.16950295684335"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7947893",
+      "category_group_name": "",
+      "place_name": "세마역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 오산시 세교동",
+      "road_address_name": "",
+      "id": "7947893",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.04315505772277",
+      "y": "37.18701009981079"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17492086",
+      "category_group_name": "",
+      "place_name": "서동탄역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 오산시 외삼미동",
+      "road_address_name": "",
+      "id": "17492086",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05221577302476",
+      "y": "37.19604225920973"
+    }
+  ]
+}

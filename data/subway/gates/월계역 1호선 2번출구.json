@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "월계역 1호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8025948",
+      "category_group_name": "",
+      "place_name": "월계역 1호선 2번출구",
+      "distance": "",
+      "address_name": "서울 노원구 월계동",
+      "road_address_name": "",
+      "id": "8025948",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05849398992254",
+      "y": "37.634486152164115"
+    },
+    {
+      "place_url": "http://place.map.daum.net/11129940",
+      "category_group_name": "",
+      "place_name": "광운대역 1호선 2번출구",
+      "distance": "",
+      "address_name": "서울 노원구 월계동",
+      "road_address_name": "",
+      "id": "11129940",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.06136287517886",
+      "y": "37.62359009495904"
+    }
+  ]
+}

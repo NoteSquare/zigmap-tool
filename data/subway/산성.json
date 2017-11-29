@@ -1,0 +1,69 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 1,
+      "selectedCount": 3,
+      "statnId": "1008000821",
+      "statnNm": "산성",
+      "ectrcNo": "1",
+      "subwayId": "1008",
+      "subwayNm": "8호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "산성파출소, 영성여자중학교, 창곡중학교, 창곡여자중학교, 성남기능대학, 남한산성방면",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 2,
+      "selectedCount": 3,
+      "statnId": "1008000821",
+      "statnNm": "산성",
+      "ectrcNo": "2",
+      "subwayId": "1008",
+      "subwayNm": "8호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "산성동주민센터, 성남북초등학교, 산성동복지관, 성남문화정보센터, 수정문화정보센터",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 3,
+      "selectedCount": 3,
+      "statnId": "1008000821",
+      "statnNm": "산성",
+      "ectrcNo": "3",
+      "subwayId": "1008",
+      "subwayNm": "8호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "신흥주공아파트, 수정구청, 성남시청방면",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 3
+  }
+}

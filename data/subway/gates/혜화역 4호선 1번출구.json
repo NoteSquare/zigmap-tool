@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "혜화역 4호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8158392",
+      "category_group_name": "",
+      "place_name": "혜화역 4호선 1번출구",
+      "distance": "",
+      "address_name": "서울 종로구 동숭동",
+      "road_address_name": "",
+      "id": "8158392",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.00193823836192",
+      "y": "37.58312590380908"
+    }
+  ]
+}

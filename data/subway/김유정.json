@@ -1,0 +1,31 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 1,
+      "rowNum": 1,
+      "selectedCount": 1,
+      "statnId": "1067080138",
+      "statnNm": "김유정",
+      "ectrcNo": "1",
+      "subwayId": "1067",
+      "subwayNm": "경춘선",
+      "ectrcCnt": "1",
+      "cfrBuild": "신동우체국, 신동면사무소, 김유정문학촌, 유정마을",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 1
+  }
+}

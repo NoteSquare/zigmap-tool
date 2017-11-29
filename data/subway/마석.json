@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1067080130",
+      "statnNm": "마석",
+      "ectrcNo": "1",
+      "subwayId": "1067",
+      "subwayNm": "경춘선",
+      "ectrcCnt": "2",
+      "cfrBuild": "롯데마트 마석점, 흥선대원군묘, 모란공원, 마석파출소, 화도도서관, 화도119안전센타, 마석우체국, 마석초등학교, 마석중학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1067080130",
+      "statnNm": "마석",
+      "ectrcNo": "2",
+      "subwayId": "1067",
+      "subwayNm": "경춘선",
+      "ectrcCnt": "2",
+      "cfrBuild": "심석중학교, 심석고등학교, 송라초.중학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

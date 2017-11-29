@@ -1,0 +1,31 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 1,
+      "rowNum": 1,
+      "selectedCount": 1,
+      "statnId": "1006000613",
+      "statnNm": "독바위",
+      "ectrcNo": "1",
+      "subwayId": "1006",
+      "subwayNm": "6호선",
+      "ectrcCnt": "1",
+      "cfrBuild": "북한산불광매표소,불광1파출소,불광제1동,불광중교,연천초등학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 1
+  }
+}

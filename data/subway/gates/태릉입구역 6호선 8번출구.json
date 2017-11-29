@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "태릉입구역 6호선 8번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/22906201",
+      "category_group_name": "",
+      "place_name": "태릉입구역 6호선 8번출구",
+      "distance": "",
+      "address_name": "서울 노원구 공릉동",
+      "road_address_name": "",
+      "id": "22906201",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.07528965775046",
+      "y": "37.61739427899514"
+    }
+  ]
+}

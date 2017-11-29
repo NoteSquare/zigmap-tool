@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1069073138",
+      "statnNm": "국제업무지구",
+      "ectrcNo": "2",
+      "subwayId": "1069",
+      "subwayNm": "인천1호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "센트로드",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1069073138",
+      "statnNm": "국제업무지구",
+      "ectrcNo": "5",
+      "subwayId": "1069",
+      "subwayNm": "인천1호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "송도 인천타워, 인천대교, 송도2동주민센터, 기업은행",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

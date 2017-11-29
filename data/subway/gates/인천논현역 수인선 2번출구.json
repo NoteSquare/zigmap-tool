@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "인천논현역 수인선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 4,
+    "total_count": 4,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/18501882",
+      "category_group_name": "",
+      "place_name": "인천논현역 수인선 2번출구",
+      "distance": "",
+      "address_name": "인천 남동구 논현동",
+      "road_address_name": "",
+      "id": "18501882",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.72220166459677",
+      "y": "37.40034350618923"
+    },
+    {
+      "place_url": "http://place.map.daum.net/18501914",
+      "category_group_name": "",
+      "place_name": "소래포구역 수인선 2번출구",
+      "distance": "",
+      "address_name": "인천 남동구 논현동",
+      "road_address_name": "",
+      "id": "18501914",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.73351492383301",
+      "y": "37.40123465855034"
+    },
+    {
+      "place_url": "http://place.map.daum.net/18501822",
+      "category_group_name": "",
+      "place_name": "호구포역 수인선 2번출구",
+      "distance": "",
+      "address_name": "인천 남동구 논현동",
+      "road_address_name": "",
+      "id": "18501822",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.70818140287884",
+      "y": "37.40210437195027"
+    },
+    {
+      "place_url": "http://place.map.daum.net/18501852",
+      "category_group_name": "",
+      "place_name": "남동인더스파크역 수인선 2번출구",
+      "distance": "",
+      "address_name": "인천 남동구 논현동",
+      "road_address_name": "",
+      "id": "18501852",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.69558586151518",
+      "y": "37.40774881877138"
+    }
+  ]
+}

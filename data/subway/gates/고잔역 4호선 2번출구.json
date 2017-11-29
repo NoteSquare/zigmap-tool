@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "고잔역 4호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/17493045",
+      "category_group_name": "",
+      "place_name": "고잔역 4호선 2번출구",
+      "distance": "",
+      "address_name": "경기 안산시 단원구 고잔동",
+      "road_address_name": "",
+      "id": "17493045",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.82344776858668",
+      "y": "37.31669044755782"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10793481",
+      "category_group_name": "",
+      "place_name": "중앙역 4호선 2번출구",
+      "distance": "",
+      "address_name": "경기 안산시 단원구 고잔동",
+      "road_address_name": "",
+      "id": "10793481",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.83900429263485",
+      "y": "37.31584784689676"
+    }
+  ]
+}

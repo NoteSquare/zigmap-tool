@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "파주역 경의중앙선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 7,
+    "total_count": 7,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/26352312",
+      "category_group_name": "",
+      "place_name": "파주역 경의중앙선 1번출구",
+      "distance": "",
+      "address_name": "경기 파주시 파주읍 봉암리",
+      "road_address_name": "",
+      "id": "26352312",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.79276973870759",
+      "y": "37.81547722666598"
+    },
+    {
+      "place_url": "http://place.map.daum.net/26352322",
+      "category_group_name": "",
+      "place_name": "금촌역 경의중앙선 1번출구",
+      "distance": "",
+      "address_name": "경기 파주시 금촌동",
+      "road_address_name": "",
+      "id": "26352322",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.77395631639729",
+      "y": "37.76578910157447"
+    },
+    {
+      "place_url": "http://place.map.daum.net/26352278",
+      "category_group_name": "",
+      "place_name": "운정역 경의중앙선 1번출구",
+      "distance": "",
+      "address_name": "경기 파주시 와동동",
+      "road_address_name": "",
+      "id": "26352278",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.76662484690988",
+      "y": "37.7255450910297"
+    },
+    {
+      "place_url": "http://place.map.daum.net/27467743",
+      "category_group_name": "",
+      "place_name": "야당역 경의중앙선 1번출구",
+      "distance": "",
+      "address_name": "경기 파주시 야당동",
+      "road_address_name": "",
+      "id": "27467743",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.76122160322342",
+      "y": "37.71272250659719"
+    },
+    {
+      "place_url": "http://place.map.daum.net/26352388",
+      "category_group_name": "",
+      "place_name": "문산역 경의중앙선 1번출구",
+      "distance": "",
+      "address_name": "경기 파주시 문산읍 문산리",
+      "road_address_name": "",
+      "id": "26352388",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.78726443263886",
+      "y": "37.85459361150127"
+    },
+    {
+      "place_url": "http://place.map.daum.net/26352268",
+      "category_group_name": "",
+      "place_name": "금릉역 경의중앙선 1번출구",
+      "distance": "",
+      "address_name": "경기 파주시 금촌동",
+      "road_address_name": "",
+      "id": "26352268",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.76542050138549",
+      "y": "37.75189036408877"
+    },
+    {
+      "place_url": "http://place.map.daum.net/26352398",
+      "category_group_name": "",
+      "place_name": "월롱역 경의중앙선 1번출구",
+      "distance": "",
+      "address_name": "경기 파주시 월롱면 위전리",
+      "road_address_name": "",
+      "id": "26352398",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.79207417264318",
+      "y": "37.79636503557137"
+    }
+  ]
+}

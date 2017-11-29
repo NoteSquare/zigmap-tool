@@ -1,0 +1,69 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 1,
+      "selectedCount": 3,
+      "statnId": "1006000634",
+      "statnNm": "청구",
+      "ectrcNo": "1",
+      "subwayId": "1006",
+      "subwayNm": "6호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "장충동주민센터, 장충초등학교, 광희문, 신당1,2동",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 2,
+      "selectedCount": 3,
+      "statnId": "1006000634",
+      "statnNm": "청구",
+      "ectrcNo": "2",
+      "subwayId": "1006",
+      "subwayNm": "6호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "한국청소년상담원, 흥인초등학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 3,
+      "selectedCount": 3,
+      "statnId": "1006000634",
+      "statnNm": "청구",
+      "ectrcNo": "3",
+      "subwayId": "1006",
+      "subwayNm": "6호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "금호여중학교, 대경중.정보산업고등학교, 동산초등학교, 신당4,6동주민센터, 청구초등학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 3
+  }
+}

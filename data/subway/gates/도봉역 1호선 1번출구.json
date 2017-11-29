@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "도봉역 1호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 4,
+    "total_count": 4,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/11097889",
+      "category_group_name": "",
+      "place_name": "도봉역 1호선 1번출구",
+      "distance": "",
+      "address_name": "서울 도봉구 도봉동",
+      "road_address_name": "",
+      "id": "11097889",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0456194235135",
+      "y": "37.680405331961566"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22906239",
+      "category_group_name": "",
+      "place_name": "도봉산역 1호선 1번출구",
+      "distance": "",
+      "address_name": "서울 도봉구 도봉동",
+      "road_address_name": "",
+      "id": "22906239",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.04586036849827",
+      "y": "37.68906176528873"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7889585",
+      "category_group_name": "",
+      "place_name": "방학역 1호선 1번출구",
+      "distance": "",
+      "address_name": "서울 도봉구 방학동",
+      "road_address_name": "",
+      "id": "7889585",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.04408020367192",
+      "y": "37.668909495162715"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10278694",
+      "category_group_name": "",
+      "place_name": "녹천역 1호선 1번출구",
+      "distance": "",
+      "address_name": "서울 도봉구 창동",
+      "road_address_name": "",
+      "id": "10278694",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0507070203036",
+      "y": "37.6459140464969"
+    }
+  ]
+}

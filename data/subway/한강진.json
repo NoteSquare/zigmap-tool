@@ -1,0 +1,69 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 1,
+      "selectedCount": 3,
+      "statnId": "1006000631",
+      "statnNm": "한강진",
+      "ectrcNo": "1",
+      "subwayId": "1006",
+      "subwayNm": "6호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "이태원방면,한남2파출소",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 2,
+      "selectedCount": 3,
+      "statnId": "1006000631",
+      "statnNm": "한강진",
+      "ectrcNo": "2",
+      "subwayId": "1006",
+      "subwayNm": "6호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "단국대학교,버티고개역방면,한강시민공원사업소,한남로,한남직업전문학교,한남초등학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 3,
+      "selectedCount": 3,
+      "statnId": "1006000631",
+      "statnNm": "한강진",
+      "ectrcNo": "3",
+      "subwayId": "1006",
+      "subwayNm": "6호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "서울도시철도공사 시설사업소,이태원로,한남2동사무소",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 3
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "시청역 1호선 4번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 4,
+    "total_count": 4,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/7973635",
+      "category_group_name": "",
+      "place_name": "시청역 1호선 4번출구",
+      "distance": "",
+      "address_name": "서울 중구 태평로1가",
+      "road_address_name": "",
+      "id": "7973635",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.97739423129349",
+      "y": "37.56642634172241"
+    },
+    {
+      "place_url": "http://place.map.daum.net/327414545",
+      "category_group_name": "",
+      "place_name": "시청역 대전1호선 4번출구",
+      "distance": "",
+      "address_name": "대전 서구 둔산동",
+      "road_address_name": "",
+      "id": "327414545",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.38657764288263",
+      "y": "36.351730538899"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7973639",
+      "category_group_name": "",
+      "place_name": "시청역 부산1호선 4번출구",
+      "distance": "",
+      "address_name": "부산 연제구 연산동",
+      "road_address_name": "",
+      "id": "7973639",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "129.07649649050018",
+      "y": "35.17935288489308"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10742209",
+      "category_group_name": "",
+      "place_name": "인천시청역 인천1호선 4번출구",
+      "distance": "",
+      "address_name": "인천 남동구 구월동",
+      "road_address_name": "",
+      "id": "10742209",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.70280110394283",
+      "y": "37.45664864324533"
+    }
+  ]
+}

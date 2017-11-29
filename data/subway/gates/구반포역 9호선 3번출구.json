@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "구반포역 9호선 3번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8191670",
+      "category_group_name": "",
+      "place_name": "구반포역 9호선 3번출구",
+      "distance": "",
+      "address_name": "서울 서초구 반포동",
+      "road_address_name": "",
+      "id": "8191670",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.98705047887276",
+      "y": "37.501531150052244"
+    }
+  ]
+}

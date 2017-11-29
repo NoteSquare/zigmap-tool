@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "영통역 분당선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 5,
+    "total_count": 5,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/18501876",
+      "category_group_name": "",
+      "place_name": "영통역 분당선 2번출구",
+      "distance": "",
+      "address_name": "경기 수원시 영통구 영통동",
+      "road_address_name": "",
+      "id": "18501876",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.07192386108522",
+      "y": "37.25118671472196"
+    },
+    {
+      "place_url": "http://place.map.daum.net/18501907",
+      "category_group_name": "",
+      "place_name": "망포역 분당선 2번출구",
+      "distance": "",
+      "address_name": "경기 수원시 영통구 영통동",
+      "road_address_name": "",
+      "id": "18501907",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05732513932134",
+      "y": "37.24538100237878"
+    },
+    {
+      "place_url": "http://place.map.daum.net/55145041",
+      "category_group_name": "",
+      "place_name": "광교중앙역 신분당선 2번출구",
+      "distance": "",
+      "address_name": "경기 수원시 영통구 이의동",
+      "road_address_name": "",
+      "id": "55145041",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0507262634966",
+      "y": "37.28888587659579"
+    },
+    {
+      "place_url": "http://place.map.daum.net/18501815",
+      "category_group_name": "",
+      "place_name": "청명역 분당선 2번출구",
+      "distance": "",
+      "address_name": "경기 수원시 영통구 영통동",
+      "road_address_name": "",
+      "id": "18501815",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.07934007155757",
+      "y": "37.25947881413923"
+    },
+    {
+      "place_url": "http://place.map.daum.net/27392735",
+      "category_group_name": "",
+      "place_name": "광교역 신분당선 2번출구",
+      "distance": "",
+      "address_name": "경기 수원시 영통구 이의동",
+      "road_address_name": "",
+      "id": "27392735",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0451629763073",
+      "y": "37.30212599475963"
+    }
+  ]
+}

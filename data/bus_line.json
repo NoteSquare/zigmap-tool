@@ -1,0 +1,5587 @@
+{
+  "08lw8FIK": {
+    "id": "100000010",
+    "name": "12345",
+    "type": "bus"
+  },
+  "v6zG88PIZ": {
+    "id": "100100411",
+    "name": "6000",
+    "type": "bus"
+  },
+  "A8lwLCFuZ": {
+    "id": "100100412",
+    "name": "6001",
+    "type": "bus"
+  },
+  "H8Cs8ZguZ": {
+    "id": "100100413",
+    "name": "6002",
+    "type": "bus"
+  },
+  "06zX30Fuq": {
+    "id": "100100414",
+    "name": "6003",
+    "type": "bus"
+  },
+  "A6CG374Wj": {
+    "id": "100100415",
+    "name": "6004",
+    "type": "bus"
+  },
+  "H8ls3cFWj": {
+    "id": "100100416",
+    "name": "6005",
+    "type": "bus"
+  },
+  "ALzw8nPWZ": {
+    "id": "100100506",
+    "name": "6006",
+    "type": "bus"
+  },
+  "A6zX3PgWq": {
+    "id": "100100417",
+    "name": "6008",
+    "type": "bus"
+  },
+  "0LzX3Vgcq": {
+    "id": "100100507",
+    "name": "6009",
+    "type": "bus"
+  },
+  "08lX6OPcK": {
+    "id": "100100584",
+    "name": "6010",
+    "type": "bus"
+  },
+  "08lsLf4IZ": {
+    "id": "100100418",
+    "name": "6011",
+    "type": "bus"
+  },
+  "03CGLSPIq": {
+    "id": "100100419",
+    "name": "6012",
+    "type": "bus"
+  },
+  "0LCs8dguZ": {
+    "id": "100100420",
+    "name": "6013",
+    "type": "bus"
+  },
+  "A3QX6RgIj": {
+    "id": "100100421",
+    "name": "6014",
+    "type": "bus"
+  },
+  "H3zG8pFIq": {
+    "id": "100100422",
+    "name": "6015",
+    "type": "bus"
+  },
+  "A8QX8X6Fuq": {
+    "id": "100100423",
+    "name": "6016",
+    "type": "bus"
+  },
+  "vLlsL68gWK": {
+    "id": "100100533",
+    "name": "6017",
+    "type": "bus"
+  },
+  "03zXLQ6PuZ": {
+    "id": "100100538",
+    "name": "6018",
+    "type": "bus"
+  },
+  "A8lX8q34Iq": {
+    "id": "115000006",
+    "name": "6019",
+    "type": "bus"
+  },
+  "A3lXLH34cj": {
+    "id": "100100509",
+    "name": "6020",
+    "type": "bus"
+  },
+  "A3QsL-LPuj": {
+    "id": "115000001",
+    "name": "6021",
+    "type": "bus"
+  },
+  "v6Cs3c6PcZ": {
+    "id": "100100517",
+    "name": "6030",
+    "type": "bus"
+  },
+  "v3lw85LPcZ": {
+    "id": "100100513",
+    "name": "6100",
+    "type": "bus"
+  },
+  "0LCs648Fcj": {
+    "id": "100100373",
+    "name": "6101",
+    "type": "bus"
+  },
+  "v6zwLV3gIZ": {
+    "id": "124000013",
+    "name": "6103",
+    "type": "bus"
+  },
+  "A8zX8r6Fcq": {
+    "id": "124000012",
+    "name": "6104",
+    "type": "bus"
+  },
+  "06CX6_3PuK": {
+    "id": "124000006",
+    "name": "6200",
+    "type": "bus"
+  },
+  "vLQX8BLFWK": {
+    "id": "100100508",
+    "name": "6300",
+    "type": "bus"
+  },
+  "ALzG3i64Wj": {
+    "id": "124000009",
+    "name": "6500",
+    "type": "bus"
+  },
+  "A8Qw6U64Wq": {
+    "id": "123000002",
+    "name": "6600",
+    "type": "bus"
+  },
+  "H3lXLp3PIj": {
+    "id": "100100567",
+    "name": "6701",
+    "type": "bus"
+  },
+  "03lX6Gz4Ij": {
+    "id": "100100573",
+    "name": "6702",
+    "type": "bus"
+  },
+  "A6CG38z4Wj": {
+    "id": "100100572",
+    "name": "6703",
+    "type": "bus"
+  },
+  "A6lXLCQPuq": {
+    "id": "100100571",
+    "name": "6704",
+    "type": "bus"
+  },
+  "H8Qs8qzFuK": {
+    "id": "100100570",
+    "name": "6705",
+    "type": "bus"
+  },
+  "vLls3AzPWK": {
+    "id": "100100569",
+    "name": "6706",
+    "type": "bus"
+  },
+  "0LzG6alguZ": {
+    "id": "100100568",
+    "name": "6707A",
+    "type": "bus"
+  },
+  "03QGLIzPIj": {
+    "id": "115000002",
+    "name": "6707B",
+    "type": "bus"
+  },
+  "v3lwLnCFWZ": {
+    "id": "124000016",
+    "name": "N6000",
+    "type": "bus"
+  },
+  "03CGL4C4Wq": {
+    "id": "124000015",
+    "name": "N6001",
+    "type": "bus"
+  },
+  "v3lG8EzgWj": {
+    "id": "122900003",
+    "name": "강남01",
+    "type": "bus"
+  },
+  "HLQG6Oz4cq": {
+    "id": "122900006",
+    "name": "강남02",
+    "type": "bus"
+  },
+  "vLCX6_z4uq": {
+    "id": "122900004",
+    "name": "강남03",
+    "type": "bus"
+  },
+  "v8zX6JlFuj": {
+    "id": "122900002",
+    "name": "강남05",
+    "type": "bus"
+  },
+  "0Lzs8eQFIq": {
+    "id": "122900005",
+    "name": "강남06",
+    "type": "bus"
+  },
+  "0LCX62CPcK": {
+    "id": "122900007",
+    "name": "강남06-1",
+    "type": "bus"
+  },
+  "HLlX6hl4Iq": {
+    "id": "122900001",
+    "name": "강남07",
+    "type": "bus"
+  },
+  "A8Cs8XqPuK": {
+    "id": "122900008",
+    "name": "강남08",
+    "type": "bus"
+  },
+  "HLzX6LjPIZ": {
+    "id": "122900009",
+    "name": "강남10",
+    "type": "bus"
+  },
+  "v6zwLzZgWK": {
+    "id": "124900002",
+    "name": "강동01",
+    "type": "bus"
+  },
+  "H8CX6jZFuZ": {
+    "id": "124900003",
+    "name": "강동02",
+    "type": "bus"
+  },
+  "ALlGLvZPIK": {
+    "id": "124900001",
+    "name": "강동05",
+    "type": "bus"
+  },
+  "v8lX8mZFWK": {
+    "id": "108900006",
+    "name": "강북01",
+    "type": "bus"
+  },
+  "v8lG3Wjguq": {
+    "id": "108900002",
+    "name": "강북02",
+    "type": "bus"
+  },
+  "HLQs8kqPIq": {
+    "id": "108900003",
+    "name": "강북03",
+    "type": "bus"
+  },
+  "08lXLgqguZ": {
+    "id": "108900005",
+    "name": "강북04",
+    "type": "bus"
+  },
+  "H8QsLEZFuq": {
+    "id": "108900008",
+    "name": "강북05",
+    "type": "bus"
+  },
+  "H3Cs8OjPuZ": {
+    "id": "108900007",
+    "name": "강북06",
+    "type": "bus"
+  },
+  "0LCX3fjguq": {
+    "id": "108900013",
+    "name": "강북08",
+    "type": "bus"
+  },
+  "06Qw8BKPIj": {
+    "id": "108900004",
+    "name": "강북09",
+    "type": "bus"
+  },
+  "06CXLij4Ij": {
+    "id": "108900009",
+    "name": "강북10",
+    "type": "bus"
+  },
+  "08Cs8RqFcK": {
+    "id": "108900001",
+    "name": "강북11",
+    "type": "bus"
+  },
+  "H6CX8pjPcj": {
+    "id": "108900012",
+    "name": "강북12",
+    "type": "bus"
+  },
+  "A6QX8s04Wq": {
+    "id": "115900006",
+    "name": "강서01",
+    "type": "bus"
+  },
+  "06lX8L0guq": {
+    "id": "115900003",
+    "name": "강서02",
+    "type": "bus"
+  },
+  "A8lX8CvPIZ": {
+    "id": "115900004",
+    "name": "강서03",
+    "type": "bus"
+  },
+  "HLlGLj0FcK": {
+    "id": "115900001",
+    "name": "강서04",
+    "type": "bus"
+  },
+  "08zGLH0guZ": {
+    "id": "115900005",
+    "name": "강서05",
+    "type": "bus"
+  },
+  "A8lXL-APuq": {
+    "id": "115900008",
+    "name": "강서05-1",
+    "type": "bus"
+  },
+  "08ls8W04cq": {
+    "id": "115900002",
+    "name": "강서06",
+    "type": "bus"
+  },
+  "A6ls350gcK": {
+    "id": "115900007",
+    "name": "강서07",
+    "type": "bus"
+  },
+  "A8CwLg04uq": {
+    "id": "120900005",
+    "name": "관악01",
+    "type": "bus"
+  },
+  "v6zw6EAgIq": {
+    "id": "120900008",
+    "name": "관악02",
+    "type": "bus"
+  },
+  "06Cs6tv4Wj": {
+    "id": "120900003",
+    "name": "관악03",
+    "type": "bus"
+  },
+  "ALls8fAgWK": {
+    "id": "120900009",
+    "name": "관악04",
+    "type": "bus"
+  },
+  "A6lw3x0gIZ": {
+    "id": "120900010",
+    "name": "관악05",
+    "type": "bus"
+  },
+  "vLlwLdHPWj": {
+    "id": "120900004",
+    "name": "관악06",
+    "type": "bus"
+  },
+  "0LQw6204WZ": {
+    "id": "120900006",
+    "name": "관악07",
+    "type": "bus"
+  },
+  "v8Qs6M04IK": {
+    "id": "120900007",
+    "name": "관악08",
+    "type": "bus"
+  },
+  "vLlw8waPcZ": {
+    "id": "120900002",
+    "name": "관악10",
+    "type": "bus"
+  },
+  "vLlG3LagIj": {
+    "id": "114900004",
+    "name": "관악11",
+    "type": "bus"
+  },
+  "v6lGLz-PWq": {
+    "id": "241274001",
+    "name": "광명01",
+    "type": "bus"
+  },
+  "vLls8ZmFWZ": {
+    "id": "241274005",
+    "name": "광명02",
+    "type": "bus"
+  },
+  "HLCG3Aa4WK": {
+    "id": "241274004",
+    "name": "광명1-3",
+    "type": "bus"
+  },
+  "06zw3magIZ": {
+    "id": "104900005",
+    "name": "광진01",
+    "type": "bus"
+  },
+  "A6zG3c7PcZ": {
+    "id": "104900003",
+    "name": "광진02",
+    "type": "bus"
+  },
+  "H6CG3TmFuq": {
+    "id": "104900002",
+    "name": "광진03",
+    "type": "bus"
+  },
+  "H3lX3g7PIq": {
+    "id": "104900001",
+    "name": "광진04",
+    "type": "bus"
+  },
+  "v6Cw6EmPIK": {
+    "id": "104900004",
+    "name": "광진05",
+    "type": "bus"
+  },
+  "HLCX3tmFIZ": {
+    "id": "116900013",
+    "name": "구로01",
+    "type": "bus"
+  },
+  "H6zsL97PIZ": {
+    "id": "116900014",
+    "name": "구로02",
+    "type": "bus"
+  },
+  "vLzX8SagIq": {
+    "id": "116900010",
+    "name": "구로03",
+    "type": "bus"
+  },
+  "0Llw6e-gcq": {
+    "id": "116900011",
+    "name": "구로04",
+    "type": "bus"
+  },
+  "H8zX8NmguK": {
+    "id": "116900009",
+    "name": "구로05",
+    "type": "bus"
+  },
+  "A8lw6h-4cj": {
+    "id": "116900012",
+    "name": "구로06",
+    "type": "bus"
+  },
+  "06Cw3GWPWZ": {
+    "id": "116900006",
+    "name": "구로07",
+    "type": "bus"
+  },
+  "H6CGL8IFIK": {
+    "id": "116900015",
+    "name": "구로08",
+    "type": "bus"
+  },
+  "vLQs6zWguj": {
+    "id": "116900007",
+    "name": "구로09",
+    "type": "bus"
+  },
+  "vLzG6KuPWZ": {
+    "id": "116900003",
+    "name": "구로10",
+    "type": "bus"
+  },
+  "v3Cw3vcPuZ": {
+    "id": "116900004",
+    "name": "구로11",
+    "type": "bus"
+  },
+  "06CG6-c4Wq": {
+    "id": "116900002",
+    "name": "구로12",
+    "type": "bus"
+  },
+  "06Qw6IcFuq": {
+    "id": "116900001",
+    "name": "구로13",
+    "type": "bus"
+  },
+  "A8zs8TWgcK": {
+    "id": "116900005",
+    "name": "구로14",
+    "type": "bus"
+  },
+  "H3lw64W4WK": {
+    "id": "116900016",
+    "name": "구로15",
+    "type": "bus"
+  },
+  "H6zG61I4cK": {
+    "id": "117900008",
+    "name": "금천01",
+    "type": "bus"
+  },
+  "HLlG8yuPIK": {
+    "id": "117900006",
+    "name": "금천02",
+    "type": "bus"
+  },
+  "v3zs8fu4uZ": {
+    "id": "117900003",
+    "name": "금천03",
+    "type": "bus"
+  },
+  "A3ls6xuFuZ": {
+    "id": "117900002",
+    "name": "금천04",
+    "type": "bus"
+  },
+  "HLzGLeWguj": {
+    "id": "117900001",
+    "name": "금천05",
+    "type": "bus"
+  },
+  "A3QwLRI4Iq": {
+    "id": "117900004",
+    "name": "금천06",
+    "type": "bus"
+  },
+  "HLQGLpuPWq": {
+    "id": "117900007",
+    "name": "금천07",
+    "type": "bus"
+  },
+  "06CX6sT4WK": {
+    "id": "117900005",
+    "name": "금천08",
+    "type": "bus"
+  },
+  "H6Cs835FWK": {
+    "id": "117900009",
+    "name": "금천09",
+    "type": "bus"
+  },
+  "08zw3lTFWq": {
+    "id": "117900010",
+    "name": "금천11",
+    "type": "bus"
+  },
+  "08QwLZngcq": {
+    "id": "241350001",
+    "name": "남양주33",
+    "type": "bus"
+  },
+  "H6lwLv54WZ": {
+    "id": "241350002",
+    "name": "남양주33-1",
+    "type": "bus"
+  },
+  "vLCwL754uq": {
+    "id": "241347002",
+    "name": "남양주80",
+    "type": "bus"
+  },
+  "v8lG3ckgcK": {
+    "id": "241347005",
+    "name": "남양주82A",
+    "type": "bus"
+  },
+  "v3zw3nT4uq": {
+    "id": "241347006",
+    "name": "남양주82B",
+    "type": "bus"
+  },
+  "v6lG3gk4Wj": {
+    "id": "241350003",
+    "name": "남양주85",
+    "type": "bus"
+  },
+  "0LQw31n4cZ": {
+    "id": "110900004",
+    "name": "노원01",
+    "type": "bus"
+  },
+  "HLlG3yTFWj": {
+    "id": "110900009",
+    "name": "노원02",
+    "type": "bus"
+  },
+  "06zs69n4Wj": {
+    "id": "110900005",
+    "name": "노원03",
+    "type": "bus"
+  },
+  "A3zX3S54IK": {
+    "id": "110900001",
+    "name": "노원04",
+    "type": "bus"
+  },
+  "v3zwLikFIK": {
+    "id": "110900003",
+    "name": "노원05",
+    "type": "bus"
+  },
+  "v6lsL2kPcj": {
+    "id": "110900007",
+    "name": "노원08",
+    "type": "bus"
+  },
+  "03ls3p5gWq": {
+    "id": "110900006",
+    "name": "노원09",
+    "type": "bus"
+  },
+  "HLlG8G4gIj": {
+    "id": "110900002",
+    "name": "노원11",
+    "type": "bus"
+  },
+  "06QG88FFuj": {
+    "id": "110900008",
+    "name": "노원13",
+    "type": "bus"
+  },
+  "0LQw3l4gWZ": {
+    "id": "109900011",
+    "name": "노원14",
+    "type": "bus"
+  },
+  "06CXLjPFcK": {
+    "id": "109900010",
+    "name": "노원15",
+    "type": "bus"
+  },
+  "0LQX6AFguK": {
+    "id": "109900001",
+    "name": "도봉01",
+    "type": "bus"
+  },
+  "v8zGL7PgcZ": {
+    "id": "108900010",
+    "name": "도봉02",
+    "type": "bus"
+  },
+  "vLCX6cgPIq": {
+    "id": "109900007",
+    "name": "도봉03",
+    "type": "bus"
+  },
+  "v3lw35gFIK": {
+    "id": "109900008",
+    "name": "도봉04",
+    "type": "bus"
+  },
+  "08QX34FPuK": {
+    "id": "109900004",
+    "name": "도봉05",
+    "type": "bus"
+  },
+  "H6QX6VPFuK": {
+    "id": "109900003",
+    "name": "도봉06",
+    "type": "bus"
+  },
+  "0LlG3tPgcq": {
+    "id": "109900002",
+    "name": "도봉07",
+    "type": "bus"
+  },
+  "A6QX6fFgWZ": {
+    "id": "109900006",
+    "name": "도봉08",
+    "type": "bus"
+  },
+  "H6Qs6SgPWZ": {
+    "id": "109900005",
+    "name": "도봉09",
+    "type": "bus"
+  },
+  "v6zw8iPguq": {
+    "id": "105900003",
+    "name": "동대문01",
+    "type": "bus"
+  },
+  "H8lsLU44cZ": {
+    "id": "105900002",
+    "name": "동대문02",
+    "type": "bus"
+  },
+  "0Llw3MFPuZ": {
+    "id": "105900006",
+    "name": "동대문03",
+    "type": "bus"
+  },
+  "A8CwLsYFWZ": {
+    "id": "105900001",
+    "name": "동대문05",
+    "type": "bus"
+  },
+  "0LQwL3YgWZ": {
+    "id": "119900007",
+    "name": "동작01",
+    "type": "bus"
+  },
+  "A8ls6QYPuq": {
+    "id": "119900013",
+    "name": "동작02",
+    "type": "bus"
+  },
+  "H3Cw3K1FcK": {
+    "id": "119900020",
+    "name": "동작03",
+    "type": "bus"
+  },
+  "0LlXLv1gIZ": {
+    "id": "119900022",
+    "name": "동작05",
+    "type": "bus"
+  },
+  "HLQs8mYguK": {
+    "id": "119900023",
+    "name": "동작05-1",
+    "type": "bus"
+  },
+  "A6zX8IVFWZ": {
+    "id": "119900014",
+    "name": "동작06",
+    "type": "bus"
+  },
+  "A8lwL5EPcq": {
+    "id": "119900018",
+    "name": "동작07",
+    "type": "bus"
+  },
+  "HLzG641FcK": {
+    "id": "119900009",
+    "name": "동작08",
+    "type": "bus"
+  },
+  "A3lw611FcK": {
+    "id": "119900019",
+    "name": "동작09",
+    "type": "bus"
+  },
+  "HLCG8O14uj": {
+    "id": "119900006",
+    "name": "동작10",
+    "type": "bus"
+  },
+  "H8zw8oEPWq": {
+    "id": "119900011",
+    "name": "동작11",
+    "type": "bus"
+  },
+  "0LQwLxVgIZ": {
+    "id": "119900021",
+    "name": "동작12",
+    "type": "bus"
+  },
+  "H3QG6dY4cq": {
+    "id": "120900001",
+    "name": "동작13",
+    "type": "bus"
+  },
+  "0LzG8RE4uK": {
+    "id": "119900012",
+    "name": "동작14",
+    "type": "bus"
+  },
+  "v6CX8DVPWq": {
+    "id": "119900010",
+    "name": "동작15",
+    "type": "bus"
+  },
+  "H6lwLsyFuq": {
+    "id": "119900017",
+    "name": "동작16",
+    "type": "bus"
+  },
+  "A3zX86rgWZ": {
+    "id": "119900016",
+    "name": "동작17",
+    "type": "bus"
+  },
+  "vLls6zrPuZ": {
+    "id": "119900015",
+    "name": "동작18",
+    "type": "bus"
+  },
+  "ALQw8Kyguq": {
+    "id": "119900008",
+    "name": "동작19",
+    "type": "bus"
+  },
+  "06CwLAyPcj": {
+    "id": "119900001",
+    "name": "동작20",
+    "type": "bus"
+  },
+  "v8QX37tFuK": {
+    "id": "119900024",
+    "name": "동작21",
+    "type": "bus"
+  },
+  "H3lX3WtgWZ": {
+    "id": "102900001",
+    "name": "마포01",
+    "type": "bus"
+  },
+  "vLlG3TO4cZ": {
+    "id": "113900005",
+    "name": "마포02",
+    "type": "bus"
+  },
+  "v6lX3FyPuj": {
+    "id": "113900002",
+    "name": "마포03",
+    "type": "bus"
+  },
+  "03QG3EtgIZ": {
+    "id": "113900011",
+    "name": "마포05",
+    "type": "bus"
+  },
+  "0LzX6ty4cj": {
+    "id": "113900012",
+    "name": "마포06",
+    "type": "bus"
+  },
+  "H6QGL9tgWK": {
+    "id": "113900010",
+    "name": "마포07",
+    "type": "bus"
+  },
+  "H8QGLJt4uZ": {
+    "id": "113900013",
+    "name": "마포08",
+    "type": "bus"
+  },
+  "0LQX6iOFcZ": {
+    "id": "113900015",
+    "name": "마포09",
+    "type": "bus"
+  },
+  "0Llw8NOPWZ": {
+    "id": "113900008",
+    "name": "마포10",
+    "type": "bus"
+  },
+  "H6Cs6pO4cK": {
+    "id": "113900004",
+    "name": "마포11",
+    "type": "bus"
+  },
+  "H8lwLs9PWZ": {
+    "id": "113900003",
+    "name": "마포12",
+    "type": "bus"
+  },
+  "H8QG86f4uj": {
+    "id": "113900007",
+    "name": "마포13",
+    "type": "bus"
+  },
+  "03zG6l9PIj": {
+    "id": "113900006",
+    "name": "마포14",
+    "type": "bus"
+  },
+  "A8ls3KfFWZ": {
+    "id": "113900014",
+    "name": "마포15",
+    "type": "bus"
+  },
+  "H6ls8H_FuZ": {
+    "id": "113900009",
+    "name": "마포16",
+    "type": "bus"
+  },
+  "A3zGLa9gcj": {
+    "id": "113900001",
+    "name": "마포17",
+    "type": "bus"
+  },
+  "v3Cs3IoPWK": {
+    "id": "113900016",
+    "name": "마포18",
+    "type": "bus"
+  },
+  "06ls6n9gWq": {
+    "id": "112900010",
+    "name": "서대문01",
+    "type": "bus"
+  },
+  "v3Cs6P94Ij": {
+    "id": "112900014",
+    "name": "서대문02대",
+    "type": "bus"
+  },
+  "H6lX6EfPuK": {
+    "id": "112900015",
+    "name": "서대문02소",
+    "type": "bus"
+  },
+  "vLzX3roPcj": {
+    "id": "112900004",
+    "name": "서대문03",
+    "type": "bus"
+  },
+  "v3Cw3ff4Wj": {
+    "id": "112900011",
+    "name": "서대문04",
+    "type": "bus"
+  },
+  "08QG6Jf4IK": {
+    "id": "112900009",
+    "name": "서대문05",
+    "type": "bus"
+  },
+  "03CX8e94uZ": {
+    "id": "112900007",
+    "name": "서대문06",
+    "type": "bus"
+  },
+  "v3lX6UoPuj": {
+    "id": "112900003",
+    "name": "서대문07",
+    "type": "bus"
+  },
+  "v8Cs3hoFcq": {
+    "id": "100900012",
+    "name": "서대문08",
+    "type": "bus"
+  },
+  "08zwLXSPWq": {
+    "id": "112900012",
+    "name": "서대문09대",
+    "type": "bus"
+  },
+  "v3QG88B4Wq": {
+    "id": "112900013",
+    "name": "서대문09소",
+    "type": "bus"
+  },
+  "vLQsLQSPIq": {
+    "id": "112900001",
+    "name": "서대문10",
+    "type": "bus"
+  },
+  "03lwLjSFuj": {
+    "id": "112900006",
+    "name": "서대문11",
+    "type": "bus"
+  },
+  "A6lwL0B4uq": {
+    "id": "112900002",
+    "name": "서대문12",
+    "type": "bus"
+  },
+  "03lG87JPuj": {
+    "id": "112900005",
+    "name": "서대문13",
+    "type": "bus"
+  },
+  "ALlw8WBPIZ": {
+    "id": "112900008",
+    "name": "서대문14",
+    "type": "bus"
+  },
+  "ALlsLkJFWq": {
+    "id": "121900009",
+    "name": "서초01",
+    "type": "bus"
+  },
+  "A3zwLgJ4Ij": {
+    "id": "121900008",
+    "name": "서초02",
+    "type": "bus"
+  },
+  "v6CG3VIK": {
+    "id": "121900005",
+    "name": "서초03",
+    "type": "bus"
+  },
+  "v6zX68Vuq": {
+    "id": "119900003",
+    "name": "서초05",
+    "type": "bus"
+  },
+  "A8zwLz1WK": {
+    "id": "119900002",
+    "name": "서초06",
+    "type": "bus"
+  },
+  "vLzG6Z1uZ": {
+    "id": "121900011",
+    "name": "서초07",
+    "type": "bus"
+  },
+  "v8lwLHVuZ": {
+    "id": "121900002",
+    "name": "서초08",
+    "type": "bus"
+  },
+  "v3zX6mEWZ": {
+    "id": "121900007",
+    "name": "서초09",
+    "type": "bus"
+  },
+  "A3lw3uEWZ": {
+    "id": "121900003",
+    "name": "서초10",
+    "type": "bus"
+  },
+  "A3lGLnEuj": {
+    "id": "121900006",
+    "name": "서초11",
+    "type": "bus"
+  },
+  "06zw8F1IK": {
+    "id": "121900013",
+    "name": "서초13",
+    "type": "bus"
+  },
+  "A3zX61VIK": {
+    "id": "121900010",
+    "name": "서초14",
+    "type": "bus"
+  },
+  "A6zwLrEuZ": {
+    "id": "121900012",
+    "name": "서초15",
+    "type": "bus"
+  },
+  "08zX8_1cq": {
+    "id": "119900005",
+    "name": "서초16",
+    "type": "bus"
+  },
+  "A8QX8BYcj": {
+    "id": "119900004",
+    "name": "서초17",
+    "type": "bus"
+  },
+  "0Lzw3dYcZ": {
+    "id": "121900016",
+    "name": "서초18",
+    "type": "bus"
+  },
+  "H3zw8RYIj": {
+    "id": "121900015",
+    "name": "서초18-1",
+    "type": "bus"
+  },
+  "A8Cs3pEcZ": {
+    "id": "121900004",
+    "name": "서초20",
+    "type": "bus"
+  },
+  "vLls6w61IK": {
+    "id": "121900001",
+    "name": "서초21",
+    "type": "bus"
+  },
+  "ALQG8L6EIK": {
+    "id": "121900014",
+    "name": "서초22",
+    "type": "bus"
+  },
+  "v6zs6zLYWq": {
+    "id": "241216002",
+    "name": "성남21",
+    "type": "bus"
+  },
+  "A3zG6j8YIq": {
+    "id": "103900003",
+    "name": "성동01",
+    "type": "bus"
+  },
+  "H8zG60LEIK": {
+    "id": "103900004",
+    "name": "성동02",
+    "type": "bus"
+  },
+  "H8QwL73VuZ": {
+    "id": "103900006",
+    "name": "성동03",
+    "type": "bus"
+  },
+  "0LQXLI31WZ": {
+    "id": "101900001",
+    "name": "성동05",
+    "type": "bus"
+  },
+  "08lX8n6EWj": {
+    "id": "103900007",
+    "name": "성동06",
+    "type": "bus"
+  },
+  "vLls3431cq": {
+    "id": "103900005",
+    "name": "성동07",
+    "type": "bus"
+  },
+  "v3QX8131IZ": {
+    "id": "103900002",
+    "name": "성동08",
+    "type": "bus"
+  },
+  "H6CG8t8EIj": {
+    "id": "103900001",
+    "name": "성동09",
+    "type": "bus"
+  },
+  "ALlsL93EWq": {
+    "id": "103900008",
+    "name": "성동10",
+    "type": "bus"
+  },
+  "ALzG8B8VIj": {
+    "id": "103900009",
+    "name": "성동12",
+    "type": "bus"
+  },
+  "0LlG8d8EWK": {
+    "id": "103900010",
+    "name": "성동13",
+    "type": "bus"
+  },
+  "vLlsLN6EcK": {
+    "id": "107900008",
+    "name": "성북01",
+    "type": "bus"
+  },
+  "H6Qw3h8VcK": {
+    "id": "107900003",
+    "name": "성북02",
+    "type": "bus"
+  },
+  "ALls3wl1WZ": {
+    "id": "107900002",
+    "name": "성북03",
+    "type": "bus"
+  },
+  "03lw86QVuj": {
+    "id": "107900005",
+    "name": "성북04",
+    "type": "bus"
+  },
+  "A8QwLCQVIj": {
+    "id": "107900011",
+    "name": "성북05",
+    "type": "bus"
+  },
+  "v8zX3ZQ1WZ": {
+    "id": "107900012",
+    "name": "성북06",
+    "type": "bus"
+  },
+  "A6zs8vzYWK": {
+    "id": "107900013",
+    "name": "성북07",
+    "type": "bus"
+  },
+  "v3Qw8-l1IK": {
+    "id": "107900007",
+    "name": "성북08",
+    "type": "bus"
+  },
+  "ALQGLclYcZ": {
+    "id": "107900006",
+    "name": "성북09",
+    "type": "bus"
+  },
+  "0LCwLTQ1uK": {
+    "id": "107900014",
+    "name": "성북10-1",
+    "type": "bus"
+  },
+  "H8zwLFC1WK": {
+    "id": "107900017",
+    "name": "성북10-2",
+    "type": "bus"
+  },
+  "H3ls6Ez1Wj": {
+    "id": "107900004",
+    "name": "성북12",
+    "type": "bus"
+  },
+  "ALCw3tQEWq": {
+    "id": "107900001",
+    "name": "성북13",
+    "type": "bus"
+  },
+  "H8zX39zEuq": {
+    "id": "107900010",
+    "name": "성북14-1",
+    "type": "bus"
+  },
+  "A8lG6SlEWZ": {
+    "id": "107900016",
+    "name": "성북14-2",
+    "type": "bus"
+  },
+  "A6Qs3il1cq": {
+    "id": "107900015",
+    "name": "성북15",
+    "type": "bus"
+  },
+  "ALQX6UlEIK": {
+    "id": "105900004",
+    "name": "성북20",
+    "type": "bus"
+  },
+  "v6zsLhCVuK": {
+    "id": "105900005",
+    "name": "성북21",
+    "type": "bus"
+  },
+  "v6Cw8XqEuK": {
+    "id": "107900009",
+    "name": "성북22",
+    "type": "bus"
+  },
+  "0LzG3Lj1uj": {
+    "id": "241252003",
+    "name": "안양6-3",
+    "type": "bus"
+  },
+  "08QGLCZYcZ": {
+    "id": "241449011",
+    "name": "양주15-1긴급",
+    "type": "bus"
+  },
+  "08zG8ZjVIj": {
+    "id": "241449007",
+    "name": "양주15-1막차",
+    "type": "bus"
+  },
+  "v8zX6HK1uq": {
+    "id": "114900001",
+    "name": "양천01",
+    "type": "bus"
+  },
+  "0Lzw6aKYWZ": {
+    "id": "114900002",
+    "name": "양천02",
+    "type": "bus"
+  },
+  "HLzX8IZ1cZ": {
+    "id": "114900003",
+    "name": "양천03",
+    "type": "bus"
+  },
+  "HLzG3TKEcZ": {
+    "id": "116900018",
+    "name": "양천04",
+    "type": "bus"
+  },
+  "v8lw6FjVcZ": {
+    "id": "116900008",
+    "name": "영등포01",
+    "type": "bus"
+  },
+  "08CX8YKEIK": {
+    "id": "118900004",
+    "name": "영등포02",
+    "type": "bus"
+  },
+  "v3Qs6rZ1WZ": {
+    "id": "118900005",
+    "name": "영등포03",
+    "type": "bus"
+  },
+  "0LCw6_jYcj": {
+    "id": "118900001",
+    "name": "영등포04",
+    "type": "bus"
+  },
+  "A3lG3JZVuj": {
+    "id": "118900006",
+    "name": "영등포05",
+    "type": "bus"
+  },
+  "H8zsLiZEWZ": {
+    "id": "118900003",
+    "name": "영등포06",
+    "type": "bus"
+  },
+  "03zw6UjVIZ": {
+    "id": "118900002",
+    "name": "영등포07",
+    "type": "bus"
+  },
+  "ALzsLpZYcq": {
+    "id": "118900007",
+    "name": "영등포08",
+    "type": "bus"
+  },
+  "v8lX8svEIK": {
+    "id": "116900017",
+    "name": "영등포09",
+    "type": "bus"
+  },
+  "HLCs3LAVIK": {
+    "id": "118900008",
+    "name": "영등포10",
+    "type": "bus"
+  },
+  "v6ls8lAEcq": {
+    "id": "118900009",
+    "name": "영등포11",
+    "type": "bus"
+  },
+  "H8zG3KAYWZ": {
+    "id": "114900006",
+    "name": "영등포12",
+    "type": "bus"
+  },
+  "vLCX3A0EWZ": {
+    "id": "114900005",
+    "name": "영등포13",
+    "type": "bus"
+  },
+  "03Qs8-AVIj": {
+    "id": "102900003",
+    "name": "용산01",
+    "type": "bus"
+  },
+  "v6Cw8cHEuK": {
+    "id": "102900002",
+    "name": "용산02",
+    "type": "bus"
+  },
+  "v8QsL501WZ": {
+    "id": "102900004",
+    "name": "용산03",
+    "type": "bus"
+  },
+  "A8lX6Fv1cK": {
+    "id": "101900002",
+    "name": "용산04",
+    "type": "bus"
+  },
+  "H3zX6YAVuq": {
+    "id": "111900002",
+    "name": "은평01",
+    "type": "bus"
+  },
+  "HLQs6r0Vuj": {
+    "id": "111900003",
+    "name": "은평02",
+    "type": "bus"
+  },
+  "ALlX3fHYcj": {
+    "id": "111900001",
+    "name": "은평03",
+    "type": "bus"
+  },
+  "HLQsLx0VIq": {
+    "id": "111900004",
+    "name": "은평04",
+    "type": "bus"
+  },
+  "H6QGLi01cj": {
+    "id": "111900005",
+    "name": "은평05",
+    "type": "bus"
+  },
+  "H8zsL2HEWq": {
+    "id": "111900007",
+    "name": "은평06",
+    "type": "bus"
+  },
+  "H8zsLMv1Wq": {
+    "id": "111900006",
+    "name": "은평07",
+    "type": "bus"
+  },
+  "v3zG6GmVIZ": {
+    "id": "111900008",
+    "name": "은평08",
+    "type": "bus"
+  },
+  "H6lG3La1cq": {
+    "id": "111900009",
+    "name": "은평09",
+    "type": "bus"
+  },
+  "0Lls3C-VIq": {
+    "id": "111900010",
+    "name": "은평10",
+    "type": "bus"
+  },
+  "v8zG6K71Wj": {
+    "id": "100900006",
+    "name": "종로01",
+    "type": "bus"
+  },
+  "v6Qs3Am1uZ": {
+    "id": "100900008",
+    "name": "종로02",
+    "type": "bus"
+  },
+  "v6lsL-aEuK": {
+    "id": "100900010",
+    "name": "종로03",
+    "type": "bus"
+  },
+  "ALQG8WaVuj": {
+    "id": "100900011",
+    "name": "종로05",
+    "type": "bus"
+  },
+  "ALQsLTmYWZ": {
+    "id": "100900001",
+    "name": "종로06",
+    "type": "bus"
+  },
+  "0Llw8g-EWZ": {
+    "id": "100900004",
+    "name": "종로07",
+    "type": "bus"
+  },
+  "0LQs3Y7VWK": {
+    "id": "100900005",
+    "name": "종로08",
+    "type": "bus"
+  },
+  "H6Cw6rmYIZ": {
+    "id": "100900003",
+    "name": "종로09",
+    "type": "bus"
+  },
+  "08CX8f-Euj": {
+    "id": "100900007",
+    "name": "종로11",
+    "type": "bus"
+  },
+  "H6lXLBmYWj": {
+    "id": "100900009",
+    "name": "종로12",
+    "type": "bus"
+  },
+  "A3zw3dmVIq": {
+    "id": "100900002",
+    "name": "종로13",
+    "type": "bus"
+  },
+  "A6QX8RaVuZ": {
+    "id": "106900001",
+    "name": "중랑01",
+    "type": "bus"
+  },
+  "06Cs6DmYuj": {
+    "id": "106900002",
+    "name": "중랑02",
+    "type": "bus"
+  },
+  "HLQX8wW1uK": {
+    "id": "241411001",
+    "name": "하남01",
+    "type": "bus"
+  },
+  "HLQG33cEuZ": {
+    "id": "241412004",
+    "name": "하남05",
+    "type": "bus"
+  },
+  "0LCs6QcEuj": {
+    "id": "241409005",
+    "name": "하남07",
+    "type": "bus"
+  },
+  "A6lw8ZcVuj": {
+    "id": "241409006",
+    "name": "하남08",
+    "type": "bus"
+  },
+  "HLlwL0IVuZ": {
+    "id": "241409004",
+    "name": "하남6-1",
+    "type": "bus"
+  },
+  "v3zs8mcEcK": {
+    "id": "241412001",
+    "name": "하남7-1",
+    "type": "bus"
+  },
+  "H8lwLWu1cZ": {
+    "id": "100100549",
+    "name": "100",
+    "type": "bus"
+  },
+  "06lX8nu1WZ": {
+    "id": "100100006",
+    "name": "101",
+    "type": "bus"
+  },
+  "06ls6Pc1Wq": {
+    "id": "100100007",
+    "name": "102",
+    "type": "bus"
+  },
+  "A3QG61uVuj": {
+    "id": "100100008",
+    "name": "103",
+    "type": "bus"
+  },
+  "vLzGLtcVIj": {
+    "id": "100100009",
+    "name": "104",
+    "type": "bus"
+  },
+  "ALCw6oIEWq": {
+    "id": "100100010",
+    "name": "105",
+    "type": "bus"
+  },
+  "0LCw3BcEIj": {
+    "id": "100100011",
+    "name": "106",
+    "type": "bus"
+  },
+  "0LCX3buVWq": {
+    "id": "100100012",
+    "name": "107",
+    "type": "bus"
+  },
+  "A6zs8RcYIK": {
+    "id": "100100013",
+    "name": "108",
+    "type": "bus"
+  },
+  "v8QG3hcVcK": {
+    "id": "100100014",
+    "name": "109",
+    "type": "bus"
+  },
+  "ALzG6wT1cK": {
+    "id": "100100016",
+    "name": "110A고려대",
+    "type": "bus"
+  },
+  "v6QX3LT1IZ": {
+    "id": "100100015",
+    "name": "110B국민대",
+    "type": "bus"
+  },
+  "v6CG6zTYcK": {
+    "id": "100100017",
+    "name": "120",
+    "type": "bus"
+  },
+  "A8Qs3qT1Wj": {
+    "id": "100100583",
+    "name": "121",
+    "type": "bus"
+  },
+  "H6zsL0nEWK": {
+    "id": "100100018",
+    "name": "130",
+    "type": "bus"
+  },
+  "08lw3mnEWK": {
+    "id": "100100019",
+    "name": "140",
+    "type": "bus"
+  },
+  "v8lX8IkEIZ": {
+    "id": "100100020",
+    "name": "141",
+    "type": "bus"
+  },
+  "0LzwL5k1cq": {
+    "id": "100100021",
+    "name": "142",
+    "type": "bus"
+  },
+  "H6Cs84TYIj": {
+    "id": "100100022",
+    "name": "143",
+    "type": "bus"
+  },
+  "v3QX8VkEcZ": {
+    "id": "100100023",
+    "name": "144",
+    "type": "bus"
+  },
+  "06lX8OkVcq": {
+    "id": "100100024",
+    "name": "145",
+    "type": "bus"
+  },
+  "v3CG6fTEuZ": {
+    "id": "100100025",
+    "name": "146",
+    "type": "bus"
+  },
+  "06QwLS5EWZ": {
+    "id": "100100026",
+    "name": "147",
+    "type": "bus"
+  },
+  "A8QGLdTEuj": {
+    "id": "100100027",
+    "name": "148",
+    "type": "bus"
+  },
+  "H3QX3NkVWZ": {
+    "id": "100100029",
+    "name": "150",
+    "type": "bus"
+  },
+  "HLQwLp5Vcq": {
+    "id": "100100030",
+    "name": "151",
+    "type": "bus"
+  },
+  "H3zsLwF1IZ": {
+    "id": "100100031",
+    "name": "152",
+    "type": "bus"
+  },
+  "06zG8LFVIj": {
+    "id": "100100032",
+    "name": "153",
+    "type": "bus"
+  },
+  "v8Qs8C4YuK": {
+    "id": "100100033",
+    "name": "160",
+    "type": "bus"
+  },
+  "H3Qw6Zg1cK": {
+    "id": "100100034",
+    "name": "162",
+    "type": "bus"
+  },
+  "0LQwLA4EIZ": {
+    "id": "100100036",
+    "name": "171",
+    "type": "bus"
+  },
+  "06QsL7gEuZ": {
+    "id": "100100037",
+    "name": "172",
+    "type": "bus"
+  },
+  "vLlw8IgYIK": {
+    "id": "110000002",
+    "name": "173",
+    "type": "bus"
+  },
+  "A6zGLTgYWK": {
+    "id": "100100038",
+    "name": "201",
+    "type": "bus"
+  },
+  "A8zs8PFEIK": {
+    "id": "100100039",
+    "name": "202",
+    "type": "bus"
+  },
+  "06zwLVgYuZ": {
+    "id": "100100407",
+    "name": "240",
+    "type": "bus"
+  },
+  "H3QG6yPVuZ": {
+    "id": "100100595",
+    "name": "241",
+    "type": "bus"
+  },
+  "HLzs8fFVcq": {
+    "id": "104000006",
+    "name": "242",
+    "type": "bus"
+  },
+  "ALlw8SPEcq": {
+    "id": "100100042",
+    "name": "260",
+    "type": "bus"
+  },
+  "H6lX3bg1cZ": {
+    "id": "100100043",
+    "name": "261",
+    "type": "bus"
+  },
+  "v6CXL24VWK": {
+    "id": "100100044",
+    "name": "262",
+    "type": "bus"
+  },
+  "HLzs3MPVWK": {
+    "id": "100100046",
+    "name": "270",
+    "type": "bus"
+  },
+  "v3CX6s1EcZ": {
+    "id": "100100047",
+    "name": "271",
+    "type": "bus"
+  },
+  "03lG6LE1WZ": {
+    "id": "100100048",
+    "name": "272",
+    "type": "bus"
+  },
+  "vLCwLC1Ecq": {
+    "id": "100100049",
+    "name": "273",
+    "type": "bus"
+  },
+  "H8Qw3j1EuZ": {
+    "id": "100100051",
+    "name": "301",
+    "type": "bus"
+  },
+  "A3lGLvVEuZ": {
+    "id": "100100052",
+    "name": "302",
+    "type": "bus"
+  },
+  "HLls67VEIZ": {
+    "id": "100100053",
+    "name": "303",
+    "type": "bus"
+  },
+  "A8zw8uYVuq": {
+    "id": "100100564",
+    "name": "320",
+    "type": "bus"
+  },
+  "v3CwLn1VuZ": {
+    "id": "100100496",
+    "name": "333",
+    "type": "bus"
+  },
+  "H8lw34Y1Iq": {
+    "id": "100100055",
+    "name": "340",
+    "type": "bus"
+  },
+  "08zX3V1YWZ": {
+    "id": "100100056",
+    "name": "341",
+    "type": "bus"
+  },
+  "H3ls8t11cq": {
+    "id": "124000038",
+    "name": "342",
+    "type": "bus"
+  },
+  "A8Cw8_11IK": {
+    "id": "100100553",
+    "name": "350",
+    "type": "bus"
+  },
+  "08lwLSE1cK": {
+    "id": "100100057",
+    "name": "360",
+    "type": "bus"
+  },
+  "A3lX3dYVIj": {
+    "id": "124000036",
+    "name": "362",
+    "type": "bus"
+  },
+  "A8QG3RE1uK": {
+    "id": "100100061",
+    "name": "370",
+    "type": "bus"
+  },
+  "v6Qw8D1YIK": {
+    "id": "100100596",
+    "name": "400",
+    "type": "bus"
+  },
+  "0LzGLGtVuZ": {
+    "id": "100100062",
+    "name": "401",
+    "type": "bus"
+  },
+  "v6lsL8yYuZ": {
+    "id": "100100063",
+    "name": "402",
+    "type": "bus"
+  },
+  "03CXLCrYWj": {
+    "id": "100100597",
+    "name": "405",
+    "type": "bus"
+  },
+  "A8CX3KyVuq": {
+    "id": "100100064",
+    "name": "406",
+    "type": "bus"
+  },
+  "vLls8vtEIK": {
+    "id": "100100461",
+    "name": "407",
+    "type": "bus"
+  },
+  "H3lG8mr1Ij": {
+    "id": "100100068",
+    "name": "420",
+    "type": "bus"
+  },
+  "08QX8cr1Wj": {
+    "id": "100100409",
+    "name": "421",
+    "type": "bus"
+  },
+  "A3zX85y1cK": {
+    "id": "100100459",
+    "name": "440",
+    "type": "bus"
+  },
+  "08zX6FtEWq": {
+    "id": "100100070",
+    "name": "441",
+    "type": "bus"
+  },
+  "H6Cw81y1cq": {
+    "id": "100100071",
+    "name": "461",
+    "type": "bus"
+  },
+  "A6lw6yOEIZ": {
+    "id": "100100458",
+    "name": "462",
+    "type": "bus"
+  },
+  "vLQs39yVIj": {
+    "id": "100100605",
+    "name": "463",
+    "type": "bus"
+  },
+  "0LCX8BOYuZ": {
+    "id": "100100073",
+    "name": "470",
+    "type": "bus"
+  },
+  "H8zX8dtEcj": {
+    "id": "100100074",
+    "name": "471",
+    "type": "bus"
+  },
+  "08lG62OEcj": {
+    "id": "100100075",
+    "name": "472",
+    "type": "bus"
+  },
+  "08CG6MyEIj": {
+    "id": "100100076",
+    "name": "500",
+    "type": "bus"
+  },
+  "A3zw8GoVuZ": {
+    "id": "100100077",
+    "name": "501",
+    "type": "bus"
+  },
+  "A8Cs88_1WZ": {
+    "id": "100100410",
+    "name": "502",
+    "type": "bus"
+  },
+  "HLzG8z_YWq": {
+    "id": "100100078",
+    "name": "503",
+    "type": "bus"
+  },
+  "H3Cw3q9EuK": {
+    "id": "100100079",
+    "name": "504",
+    "type": "bus"
+  },
+  "08zs8AoEIZ": {
+    "id": "100100080",
+    "name": "505",
+    "type": "bus"
+  },
+  "H6lG6m_1IZ": {
+    "id": "100100081",
+    "name": "506",
+    "type": "bus"
+  },
+  "H6CX6IfEWj": {
+    "id": "100100082",
+    "name": "507",
+    "type": "bus"
+  },
+  "0LCw8n9YWZ": {
+    "id": "100100083",
+    "name": "540",
+    "type": "bus"
+  },
+  "08lsLPoYWq": {
+    "id": "100100574",
+    "name": "541",
+    "type": "bus"
+  },
+  "H8zsL1_Ecj": {
+    "id": "100100603",
+    "name": "542",
+    "type": "bus"
+  },
+  "ALzs6y_YWK": {
+    "id": "100100084",
+    "name": "571",
+    "type": "bus"
+  },
+  "H8CsL9oVIK": {
+    "id": "100100085",
+    "name": "600",
+    "type": "bus"
+  },
+  "v6zwLx9Vcj": {
+    "id": "100100086",
+    "name": "601",
+    "type": "bus"
+  },
+  "0LlG3e9Euj": {
+    "id": "100100087",
+    "name": "602",
+    "type": "bus"
+  },
+  "0LQX3R_Vcq": {
+    "id": "100100088",
+    "name": "603",
+    "type": "bus"
+  },
+  "v8zX8pfVcZ": {
+    "id": "100100089",
+    "name": "604",
+    "type": "bus"
+  },
+  "0Llw6GSEcj": {
+    "id": "100100090",
+    "name": "605",
+    "type": "bus"
+  },
+  "H6CG36SVWj": {
+    "id": "100100091",
+    "name": "606",
+    "type": "bus"
+  },
+  "A3ls6QB1IZ": {
+    "id": "100100093",
+    "name": "640",
+    "type": "bus"
+  },
+  "A8lGLjS1uK": {
+    "id": "100100094",
+    "name": "641",
+    "type": "bus"
+  },
+  "06QG80SEIK": {
+    "id": "100100096",
+    "name": "643",
+    "type": "bus"
+  },
+  "vLzG67JYcq": {
+    "id": "100100097",
+    "name": "650",
+    "type": "bus"
+  },
+  "vLzX8IBYIj": {
+    "id": "100100098",
+    "name": "651",
+    "type": "bus"
+  },
+  "vLQGLTBEWZ": {
+    "id": "100100099",
+    "name": "652",
+    "type": "bus"
+  },
+  "HLlG8PSYIZ": {
+    "id": "100100497",
+    "name": "653",
+    "type": "bus"
+  },
+  "A8ls31JYuj": {
+    "id": "115000007",
+    "name": "654",
+    "type": "bus"
+  },
+  "ALlG8OS1Wq": {
+    "id": "100100102",
+    "name": "661",
+    "type": "bus"
+  },
+  "H6CGL_BVuj": {
+    "id": "100100550",
+    "name": "662",
+    "type": "bus"
+  },
+  "vLlG3BBYWK": {
+    "id": "100100436",
+    "name": "670",
+    "type": "bus"
+  },
+  "H3zsLeBEIK": {
+    "id": "100100495",
+    "name": "672",
+    "type": "bus"
+  },
+  "A3CX62BYuK": {
+    "id": "100100551",
+    "name": "673",
+    "type": "bus"
+  },
+  "A6zwLpSYuq": {
+    "id": "111000008",
+    "name": "674",
+    "type": "bus"
+  },
+  "vLls8weEIK": {
+    "id": "100100440",
+    "name": "700",
+    "type": "bus"
+  },
+  "H3QXL8iYcq": {
+    "id": "100100103",
+    "name": "701",
+    "type": "bus"
+  },
+  "08CwLCdVWK": {
+    "id": "100100104",
+    "name": "702A서오릉",
+    "type": "bus"
+  },
+  "0Llw6qeEIZ": {
+    "id": "100100105",
+    "name": "702B용두초교",
+    "type": "bus"
+  },
+  "vLzsL0bYuZ": {
+    "id": "100100107",
+    "name": "704",
+    "type": "bus"
+  },
+  "vLzw87i1Iq": {
+    "id": "100100587",
+    "name": "705",
+    "type": "bus"
+  },
+  "v3ls3IiYIq": {
+    "id": "100100511",
+    "name": "707",
+    "type": "bus"
+  },
+  "H3QX35eEWq": {
+    "id": "100100110",
+    "name": "710",
+    "type": "bus"
+  },
+  "03zG3giVuq": {
+    "id": "100100111",
+    "name": "720",
+    "type": "bus"
+  },
+  "vLls3EdEuK": {
+    "id": "100100112",
+    "name": "721",
+    "type": "bus"
+  },
+  "06QXLteVIZ": {
+    "id": "100100537",
+    "name": "740",
+    "type": "bus"
+  },
+  "vLlX89iVIK": {
+    "id": "100100114",
+    "name": "750A",
+    "type": "bus"
+  },
+  "0LQs6BbYcj": {
+    "id": "100100565",
+    "name": "750B",
+    "type": "bus"
+  },
+  "A8Cw6dbVuq": {
+    "id": "100100116",
+    "name": "751",
+    "type": "bus"
+  },
+  "ALzG8RdEcq": {
+    "id": "100100117",
+    "name": "752",
+    "type": "bus"
+  },
+  "H6Cw3hbYIq": {
+    "id": "100100118",
+    "name": "753",
+    "type": "bus"
+  },
+  "ALCw6G2YuZ": {
+    "id": "111000014",
+    "name": "761",
+    "type": "bus"
+  },
+  "vLQX68NEIq": {
+    "id": "100100437",
+    "name": "771",
+    "type": "bus"
+  },
+  "H8lw3zNEuZ": {
+    "id": "111000011",
+    "name": "773",
+    "type": "bus"
+  },
+  "06QwLq2VWj": {
+    "id": "111000012",
+    "name": "774",
+    "type": "bus"
+  },
+  "vLlXLHR1cq": {
+    "id": "111000013",
+    "name": "775",
+    "type": "bus"
+  },
+  "HLCX67UVWZ": {
+    "id": "100100593",
+    "name": "N13",
+    "type": "bus"
+  },
+  "vLlG8u2VIj": {
+    "id": "100100610",
+    "name": "N15",
+    "type": "bus"
+  },
+  "H8zs35NEuZ": {
+    "id": "100100592",
+    "name": "N16",
+    "type": "bus"
+  },
+  "A8zG6FRVcq": {
+    "id": "100100586",
+    "name": "N26",
+    "type": "bus"
+  },
+  "vLQG6YRYIj": {
+    "id": "100100591",
+    "name": "N30",
+    "type": "bus"
+  },
+  "vLlsLyNYcZ": {
+    "id": "100100585",
+    "name": "N37",
+    "type": "bus"
+  },
+  "A3zs6_N1cq": {
+    "id": "100100589",
+    "name": "N61",
+    "type": "bus"
+  },
+  "v8CX3xU1Wq": {
+    "id": "100100588",
+    "name": "N62",
+    "type": "bus"
+  },
+  "03QGLeU1uq": {
+    "id": "115000008",
+    "name": "N65",
+    "type": "bus"
+  },
+  "A6lwLUUEcq": {
+    "id": "100100124",
+    "name": "0017",
+    "type": "bus"
+  },
+  "H6ls6hRVIK": {
+    "id": "100100129",
+    "name": "1014",
+    "type": "bus"
+  },
+  "A3zw3spYWq": {
+    "id": "100100130",
+    "name": "1017",
+    "type": "bus"
+  },
+  "03QwL6h1uj": {
+    "id": "100100131",
+    "name": "1020",
+    "type": "bus"
+  },
+  "H3zG3zpYIq": {
+    "id": "100100132",
+    "name": "1111",
+    "type": "bus"
+  },
+  "06zG6qhYuK": {
+    "id": "100100133",
+    "name": "1113",
+    "type": "bus"
+  },
+  "H8lX3HpYcZ": {
+    "id": "100100134",
+    "name": "1114",
+    "type": "bus"
+  },
+  "v6QG8-pEWK": {
+    "id": "100100566",
+    "name": "1115",
+    "type": "bus"
+  },
+  "A8ls8WhYuZ": {
+    "id": "100100137",
+    "name": "1119",
+    "type": "bus"
+  },
+  "A3QGL5MEcK": {
+    "id": "100100138",
+    "name": "1120",
+    "type": "bus"
+  },
+  "v6lX6ghYcZ": {
+    "id": "100100425",
+    "name": "1122",
+    "type": "bus"
+  },
+  "HLQG3YDVWK": {
+    "id": "100100139",
+    "name": "1124",
+    "type": "bus"
+  },
+  "H8QG3yMYuK": {
+    "id": "100100142",
+    "name": "1126",
+    "type": "bus"
+  },
+  "A8Qs8oDYIq": {
+    "id": "100100143",
+    "name": "1127",
+    "type": "bus"
+  },
+  "H8zs3SM1WZ": {
+    "id": "100100144",
+    "name": "1128",
+    "type": "bus"
+  },
+  "H8zX8dh1IZ": {
+    "id": "100100145",
+    "name": "1129",
+    "type": "bus"
+  },
+  "H6Cw3RMYWj": {
+    "id": "100100146",
+    "name": "1130",
+    "type": "bus"
+  },
+  "06CGLMMYIq": {
+    "id": "100100147",
+    "name": "1131",
+    "type": "bus"
+  },
+  "v3QXLXG3Yuq": {
+    "id": "100100148",
+    "name": "1132",
+    "type": "bus"
+  },
+  "v8ls36s81cZ": {
+    "id": "100100149",
+    "name": "1133",
+    "type": "bus"
+  },
+  "0LlXLzs3YuZ": {
+    "id": "100100150",
+    "name": "1135",
+    "type": "bus"
+  },
+  "A8lX8ZwLYWq": {
+    "id": "100100151",
+    "name": "1136",
+    "type": "bus"
+  },
+  "H6zw6vw6Vuq": {
+    "id": "100100152",
+    "name": "1137",
+    "type": "bus"
+  },
+  "08lw3aX6EcZ": {
+    "id": "100100153",
+    "name": "1138",
+    "type": "bus"
+  },
+  "H8zG8Iw3Vuj": {
+    "id": "100100154",
+    "name": "1139",
+    "type": "bus"
+  },
+  "H3Qw3TX8EcZ": {
+    "id": "100100155",
+    "name": "1140",
+    "type": "bus"
+  },
+  "H8zXLPX8EcZ": {
+    "id": "100100156",
+    "name": "1141",
+    "type": "bus"
+  },
+  "A8zGLYw61Iq": {
+    "id": "100100157",
+    "name": "1142",
+    "type": "bus"
+  },
+  "v3lw3yG61cj": {
+    "id": "100100158",
+    "name": "1143",
+    "type": "bus"
+  },
+  "06QwL9s61Wq": {
+    "id": "100100159",
+    "name": "1144",
+    "type": "bus"
+  },
+  "H3QG3SX6VcK": {
+    "id": "100100164",
+    "name": "1154",
+    "type": "bus"
+  },
+  "v3CX8dwLYIK": {
+    "id": "100100165",
+    "name": "1155",
+    "type": "bus"
+  },
+  "H8lwLRw3EcK": {
+    "id": "100100166",
+    "name": "1156",
+    "type": "bus"
+  },
+  "H3zw8pw6YIj": {
+    "id": "100100170",
+    "name": "1162",
+    "type": "bus"
+  },
+  "A3lXLs681Ij": {
+    "id": "100100171",
+    "name": "1164",
+    "type": "bus"
+  },
+  "HLCG6638EcK": {
+    "id": "100100172",
+    "name": "1165",
+    "type": "bus"
+  },
+  "03Cw3C3LVuj": {
+    "id": "100100173",
+    "name": "1166",
+    "type": "bus"
+  },
+  "H6zwLj63Ycq": {
+    "id": "100100175",
+    "name": "1213",
+    "type": "bus"
+  },
+  "08lG3HLLVWZ": {
+    "id": "100100177",
+    "name": "1218",
+    "type": "bus"
+  },
+  "HLQX67LLVcq": {
+    "id": "100100178",
+    "name": "1221",
+    "type": "bus"
+  },
+  "ALzG6uL81Wj": {
+    "id": "100100179",
+    "name": "1222",
+    "type": "bus"
+  },
+  "A8zs8k661Ij": {
+    "id": "100100181",
+    "name": "1224",
+    "type": "bus"
+  },
+  "A6lw6F66VuZ": {
+    "id": "100100183",
+    "name": "1226",
+    "type": "bus"
+  },
+  "H3CsLEL6EuK": {
+    "id": "100100184",
+    "name": "1227",
+    "type": "bus"
+  },
+  "06zX3y36EWj": {
+    "id": "100100185",
+    "name": "1711",
+    "type": "bus"
+  },
+  "v3ls6_68VIZ": {
+    "id": "100100186",
+    "name": "2012",
+    "type": "bus"
+  },
+  "H8zw8J88YWZ": {
+    "id": "100100188",
+    "name": "2013",
+    "type": "bus"
+  },
+  "ALCw6d8LEWZ": {
+    "id": "100100189",
+    "name": "2014",
+    "type": "bus"
+  },
+  "H3lw8UL61IZ": {
+    "id": "100100190",
+    "name": "2015",
+    "type": "bus"
+  },
+  "v8lw8MLLVuj": {
+    "id": "100100522",
+    "name": "2016",
+    "type": "bus"
+  },
+  "A8zGLwlLYcj": {
+    "id": "100100191",
+    "name": "2112",
+    "type": "bus"
+  },
+  "H3zG88z3VuK": {
+    "id": "100100192",
+    "name": "2113",
+    "type": "bus"
+  },
+  "08CGLQC8YuK": {
+    "id": "100100193",
+    "name": "2114",
+    "type": "bus"
+  },
+  "06zs6ql3Yuj": {
+    "id": "100100598",
+    "name": "2115",
+    "type": "bus"
+  },
+  "vLCs6vl6VWq": {
+    "id": "100100194",
+    "name": "2211",
+    "type": "bus"
+  },
+  "H3QsLmCLVcj": {
+    "id": "100100198",
+    "name": "2221",
+    "type": "bus"
+  },
+  "v8ls6cQLEcK": {
+    "id": "100100199",
+    "name": "2222",
+    "type": "bus"
+  },
+  "H6lXLkQLVWK": {
+    "id": "100100201",
+    "name": "2224",
+    "type": "bus"
+  },
+  "v3Cs3PzL1uj": {
+    "id": "100100202",
+    "name": "2227",
+    "type": "bus"
+  },
+  "v3Qs6VQLYuj": {
+    "id": "100100203",
+    "name": "2230",
+    "type": "bus"
+  },
+  "vLlG8tQ81cj": {
+    "id": "100100204",
+    "name": "2233",
+    "type": "bus"
+  },
+  "06QXL_z61cj": {
+    "id": "100100205",
+    "name": "2234",
+    "type": "bus"
+  },
+  "0Llw6JlLYcZ": {
+    "id": "100100206",
+    "name": "2235",
+    "type": "bus"
+  },
+  "A8lX6dl8Yuq": {
+    "id": "100100599",
+    "name": "2311",
+    "type": "bus"
+  },
+  "vLls8Rl6YIq": {
+    "id": "100100611",
+    "name": "2312",
+    "type": "bus"
+  },
+  "H3zs6pQ6VWq": {
+    "id": "100100209",
+    "name": "2412",
+    "type": "bus"
+  },
+  "A6zs3wj6VWj": {
+    "id": "100100210",
+    "name": "2413",
+    "type": "bus"
+  },
+  "08CwL6q81uq": {
+    "id": "100100211",
+    "name": "2415",
+    "type": "bus"
+  },
+  "vLQwLCK8YWq": {
+    "id": "100100438",
+    "name": "3011",
+    "type": "bus"
+  },
+  "v3lX3qj81IZ": {
+    "id": "100100579",
+    "name": "3012",
+    "type": "bus"
+  },
+  "A8lw60K6YuK": {
+    "id": "100100212",
+    "name": "3212",
+    "type": "bus"
+  },
+  "v3lX3-KLVWq": {
+    "id": "100100213",
+    "name": "3214",
+    "type": "bus"
+  },
+  "vLQw3IKLYIq": {
+    "id": "100100215",
+    "name": "3216",
+    "type": "bus"
+  },
+  "A6lw8TKLEIj": {
+    "id": "100100216",
+    "name": "3217",
+    "type": "bus"
+  },
+  "H8lw8gK3EcK": {
+    "id": "100100218",
+    "name": "3220",
+    "type": "bus"
+  },
+  "03lX81K3VWZ": {
+    "id": "100100219",
+    "name": "3313",
+    "type": "bus"
+  },
+  "A8QXLrj3Yuj": {
+    "id": "100100220",
+    "name": "3314",
+    "type": "bus"
+  },
+  "03QX3oj6EIj": {
+    "id": "100100221",
+    "name": "3315",
+    "type": "bus"
+  },
+  "06Cs6BK8EWK": {
+    "id": "100100222",
+    "name": "3316",
+    "type": "bus"
+  },
+  "HLlX8eKLYcZ": {
+    "id": "100100478",
+    "name": "3317",
+    "type": "bus"
+  },
+  "v3lX6Nq81uK": {
+    "id": "100100498",
+    "name": "3318",
+    "type": "bus"
+  },
+  "v3Qs8Mj31uZ": {
+    "id": "100100501",
+    "name": "3319",
+    "type": "bus"
+  },
+  "v8CG6sH8Vuq": {
+    "id": "100100578",
+    "name": "3321",
+    "type": "bus"
+  },
+  "HLzs8303Vcq": {
+    "id": "100100613",
+    "name": "3322",
+    "type": "bus"
+  },
+  "H8ls8l08Vcj": {
+    "id": "100100223",
+    "name": "3411",
+    "type": "bus"
+  },
+  "H8zX6qvLEIq": {
+    "id": "100100224",
+    "name": "3412",
+    "type": "bus"
+  },
+  "H8ls8Av8Yuq": {
+    "id": "100100225",
+    "name": "3413",
+    "type": "bus"
+  },
+  "H8zXL-H8YWK": {
+    "id": "100100226",
+    "name": "3414",
+    "type": "bus"
+  },
+  "v3CG6WA8Yuq": {
+    "id": "100100228",
+    "name": "3416",
+    "type": "bus"
+  },
+  "08zG3nH61cq": {
+    "id": "100100229",
+    "name": "3417",
+    "type": "bus"
+  },
+  "v8CGLPH81cZ": {
+    "id": "100100232",
+    "name": "3422",
+    "type": "bus"
+  },
+  "A6lX3Yv31cq": {
+    "id": "100100609",
+    "name": "3425",
+    "type": "bus"
+  },
+  "06QsLyv6YcK": {
+    "id": "100100612",
+    "name": "3426",
+    "type": "bus"
+  },
+  "A6Cs69v31Iq": {
+    "id": "100100604",
+    "name": "4211",
+    "type": "bus"
+  },
+  "A3QX6xv81cq": {
+    "id": "100100234",
+    "name": "4212",
+    "type": "bus"
+  },
+  "A6zGLiA81IK": {
+    "id": "100100237",
+    "name": "4318",
+    "type": "bus"
+  },
+  "ALlw6UA6Vcq": {
+    "id": "100100427",
+    "name": "4319",
+    "type": "bus"
+  },
+  "03lG8pALVuj": {
+    "id": "100100500",
+    "name": "4412",
+    "type": "bus"
+  },
+  "v3zX6Xa31Ij": {
+    "id": "100100454",
+    "name": "4419",
+    "type": "bus"
+  },
+  "HLzG83731WZ": {
+    "id": "100100246",
+    "name": "4432",
+    "type": "bus"
+  },
+  "A8lX8C78YIj": {
+    "id": "100100247",
+    "name": "4433",
+    "type": "bus"
+  },
+  "06QsLZaLYuZ": {
+    "id": "122000001",
+    "name": "4435",
+    "type": "bus"
+  },
+  "A8CX80-8EWK": {
+    "id": "100100248",
+    "name": "5012",
+    "type": "bus"
+  },
+  "vLCX6-a6YWK": {
+    "id": "100100249",
+    "name": "5413",
+    "type": "bus"
+  },
+  "H3Qw6ua6YuK": {
+    "id": "100100250",
+    "name": "5511",
+    "type": "bus"
+  },
+  "ALQs3na6YIK": {
+    "id": "100100251",
+    "name": "5513",
+    "type": "bus"
+  },
+  "v8CX84mLEWj": {
+    "id": "100100252",
+    "name": "5515",
+    "type": "bus"
+  },
+  "v8Qs8E-L1Wq": {
+    "id": "100100253",
+    "name": "5516",
+    "type": "bus"
+  },
+  "vLCX6tmLYWZ": {
+    "id": "100100254",
+    "name": "5517",
+    "type": "bus"
+  },
+  "H3lG6f731WK": {
+    "id": "100100255",
+    "name": "5519",
+    "type": "bus"
+  },
+  "v6zX6S-8EWZ": {
+    "id": "100100257",
+    "name": "5522A난곡",
+    "type": "bus"
+  },
+  "H8lw3d-LYIZ": {
+    "id": "100100258",
+    "name": "5522B호암",
+    "type": "bus"
+  },
+  "0Lzs8RmLVIj": {
+    "id": "100100259",
+    "name": "5523",
+    "type": "bus"
+  },
+  "v8zwLh-3YIZ": {
+    "id": "100100260",
+    "name": "5524",
+    "type": "bus"
+  },
+  "H8CG3su3EuZ": {
+    "id": "100100261",
+    "name": "5525",
+    "type": "bus"
+  },
+  "A6CG68W31WK": {
+    "id": "100100263",
+    "name": "5528",
+    "type": "bus"
+  },
+  "0LlG6zW31Wq": {
+    "id": "100100264",
+    "name": "5530",
+    "type": "bus"
+  },
+  "0LlGLKc31uZ": {
+    "id": "100100265",
+    "name": "5531",
+    "type": "bus"
+  },
+  "v3QGLHW81Iq": {
+    "id": "100100266",
+    "name": "5534",
+    "type": "bus"
+  },
+  "v3zw6-ILYIZ": {
+    "id": "100100267",
+    "name": "5535",
+    "type": "bus"
+  },
+  "0LQwLuc6VcZ": {
+    "id": "100100268",
+    "name": "5536",
+    "type": "bus"
+  },
+  "A3zw3nc8VWj": {
+    "id": "100100269",
+    "name": "5537",
+    "type": "bus"
+  },
+  "v3ls3Fc8Yuq": {
+    "id": "100100272",
+    "name": "5615",
+    "type": "bus"
+  },
+  "08zs61c6VuZ": {
+    "id": "100100273",
+    "name": "5616",
+    "type": "bus"
+  },
+  "A3CG8yI6YIK": {
+    "id": "100100274",
+    "name": "5617",
+    "type": "bus"
+  },
+  "06ls6fc8EIj": {
+    "id": "100100275",
+    "name": "5618",
+    "type": "bus"
+  },
+  "v3Cw6BW6VcZ": {
+    "id": "100100276",
+    "name": "5619",
+    "type": "bus"
+  },
+  "v6QX3duLVcq": {
+    "id": "100100277",
+    "name": "5620",
+    "type": "bus"
+  },
+  "03QG8Uu3Vuq": {
+    "id": "100100278",
+    "name": "5621",
+    "type": "bus"
+  },
+  "A3QG6pu6Ycj": {
+    "id": "100100279",
+    "name": "5623",
+    "type": "bus"
+  },
+  "A8zw3wn8VIK": {
+    "id": "100100280",
+    "name": "5624",
+    "type": "bus"
+  },
+  "A8zXL658Euj": {
+    "id": "100100281",
+    "name": "5625",
+    "type": "bus"
+  },
+  "H6zs6QnL1uj": {
+    "id": "100100282",
+    "name": "5626",
+    "type": "bus"
+  },
+  "H6Cw8Zk3VcK": {
+    "id": "100100283",
+    "name": "5627",
+    "type": "bus"
+  },
+  "v8Qw30n8VWj": {
+    "id": "100100284",
+    "name": "5630",
+    "type": "bus"
+  },
+  "HLzX3mn3Yuq": {
+    "id": "100100285",
+    "name": "5633",
+    "type": "bus"
+  },
+  "v3zG6WnLVcj": {
+    "id": "100100286",
+    "name": "5712",
+    "type": "bus"
+  },
+  "A3zs8nn8VuZ": {
+    "id": "100100287",
+    "name": "5713",
+    "type": "bus"
+  },
+  "0Lzw8PT6YWK": {
+    "id": "100100288",
+    "name": "5714",
+    "type": "bus"
+  },
+  "A6lwLY58YIj": {
+    "id": "100100289",
+    "name": "6211",
+    "type": "bus"
+  },
+  "vLls3O58VWK": {
+    "id": "100100290",
+    "name": "6411",
+    "type": "bus"
+  },
+  "03QX39581uq": {
+    "id": "100100291",
+    "name": "6511",
+    "type": "bus"
+  },
+  "H8Cw6Sn8EWj": {
+    "id": "100100292",
+    "name": "6512",
+    "type": "bus"
+  },
+  "H6QGLb561uK": {
+    "id": "100100293",
+    "name": "6513",
+    "type": "bus"
+  },
+  "A8zs3Nk6EWZ": {
+    "id": "100100294",
+    "name": "6514",
+    "type": "bus"
+  },
+  "HLCX8pT8VIj": {
+    "id": "100100521",
+    "name": "6515",
+    "type": "bus"
+  },
+  "HLCG8X43EuZ": {
+    "id": "100100576",
+    "name": "6516",
+    "type": "bus"
+  },
+  "H8zw884LVcK": {
+    "id": "100100295",
+    "name": "6611",
+    "type": "bus"
+  },
+  "v3zXLzFL1uq": {
+    "id": "100100453",
+    "name": "6613",
+    "type": "bus"
+  },
+  "A8zX8ZF6EIZ": {
+    "id": "100100297",
+    "name": "6614",
+    "type": "bus"
+  },
+  "v6QX6Ag6EWZ": {
+    "id": "100100298",
+    "name": "6616",
+    "type": "bus"
+  },
+  "06zX8agLVcZ": {
+    "id": "100100299",
+    "name": "6617",
+    "type": "bus"
+  },
+  "A3zXLcF3EIq": {
+    "id": "100100300",
+    "name": "6620",
+    "type": "bus"
+  },
+  "0LzG85g31uj": {
+    "id": "100100301",
+    "name": "6623",
+    "type": "bus"
+  },
+  "06lX8PF8YWZ": {
+    "id": "100100302",
+    "name": "6624",
+    "type": "bus"
+  },
+  "v6QsLEF6VWj": {
+    "id": "100100303",
+    "name": "6625",
+    "type": "bus"
+  },
+  "H3zXLtF3VIZ": {
+    "id": "100100304",
+    "name": "6627",
+    "type": "bus"
+  },
+  "A3zX3ogLVWK": {
+    "id": "100100305",
+    "name": "6628",
+    "type": "bus"
+  },
+  "A8Qs6SF3VWK": {
+    "id": "100100306",
+    "name": "6629",
+    "type": "bus"
+  },
+  "v8zG6iP8VWq": {
+    "id": "100100307",
+    "name": "6630",
+    "type": "bus"
+  },
+  "vLlGLN48YIq": {
+    "id": "100100308",
+    "name": "6631",
+    "type": "bus"
+  },
+  "v8lGLMP8YWK": {
+    "id": "100100309",
+    "name": "6632",
+    "type": "bus"
+  },
+  "08CX6sE6EWj": {
+    "id": "100100311",
+    "name": "6635",
+    "type": "bus"
+  },
+  "A6zX88E81Wq": {
+    "id": "100100312",
+    "name": "6637",
+    "type": "bus"
+  },
+  "0LCX8Q1LVuK": {
+    "id": "100100313",
+    "name": "6638",
+    "type": "bus"
+  },
+  "HLzw8ZV3Euq": {
+    "id": "100100601",
+    "name": "6640A",
+    "type": "bus"
+  },
+  "H3zG80Y8YIj": {
+    "id": "100100602",
+    "name": "6640B",
+    "type": "bus"
+  },
+  "HLCG6aV6YWZ": {
+    "id": "100100316",
+    "name": "6642",
+    "type": "bus"
+  },
+  "H8lG3c18YIZ": {
+    "id": "100100318",
+    "name": "6645",
+    "type": "bus"
+  },
+  "03QG35Y3VcK": {
+    "id": "100100320",
+    "name": "6647",
+    "type": "bus"
+  },
+  "A3Cw6gV8Ycj": {
+    "id": "115000005",
+    "name": "6648",
+    "type": "bus"
+  },
+  "0LzGLYE8Ecj": {
+    "id": "114000001",
+    "name": "6649",
+    "type": "bus"
+  },
+  "A3zw6OYL1Ij": {
+    "id": "100100322",
+    "name": "6654",
+    "type": "bus"
+  },
+  "A3Qs3_VL1Ij": {
+    "id": "100100329",
+    "name": "6657",
+    "type": "bus"
+  },
+  "H3zG6J1L1uK": {
+    "id": "100100330",
+    "name": "6712",
+    "type": "bus"
+  },
+  "A6lXLi13VWZ": {
+    "id": "100100331",
+    "name": "6714",
+    "type": "bus"
+  },
+  "v6zG6UV6EcK": {
+    "id": "100100332",
+    "name": "6715",
+    "type": "bus"
+  },
+  "v8QG6MV31IK": {
+    "id": "100100451",
+    "name": "6716",
+    "type": "bus"
+  },
+  "0LQX6Xt81cK": {
+    "id": "100100450",
+    "name": "7011",
+    "type": "bus"
+  },
+  "A6CX68t31IZ": {
+    "id": "100100449",
+    "name": "7013A",
+    "type": "bus"
+  },
+  "ALCwLQt3Yuj": {
+    "id": "100100448",
+    "name": "7013B",
+    "type": "bus"
+  },
+  "0LlG8jr6YIq": {
+    "id": "100100447",
+    "name": "7016",
+    "type": "bus"
+  },
+  "0LzG8vrLYWj": {
+    "id": "100100337",
+    "name": "7017",
+    "type": "bus"
+  },
+  "H3QX87O6YWK": {
+    "id": "100100338",
+    "name": "7018",
+    "type": "bus"
+  },
+  "HLlX8uO61Wj": {
+    "id": "100100339",
+    "name": "7019",
+    "type": "bus"
+  },
+  "ALlG6Tr8YWZ": {
+    "id": "100100340",
+    "name": "7021",
+    "type": "bus"
+  },
+  "06lX34r61uZ": {
+    "id": "100100341",
+    "name": "7022",
+    "type": "bus"
+  },
+  "0LCs3VO31uZ": {
+    "id": "100100342",
+    "name": "7024",
+    "type": "bus"
+  },
+  "06zs6rO81Iq": {
+    "id": "100100446",
+    "name": "7025",
+    "type": "bus"
+  },
+  "A3ls8ft31uq": {
+    "id": "100100344",
+    "name": "7211",
+    "type": "bus"
+  },
+  "03Cw8SO8Vcq": {
+    "id": "100100499",
+    "name": "7212",
+    "type": "bus"
+  },
+  "ALCG8eO81IK": {
+    "id": "100100345",
+    "name": "7611",
+    "type": "bus"
+  },
+  "H3ls62y6EWj": {
+    "id": "100100346",
+    "name": "7612",
+    "type": "bus"
+  },
+  "HLQG6py31WZ": {
+    "id": "100100347",
+    "name": "7613",
+    "type": "bus"
+  },
+  "0LCG8X_3Vuq": {
+    "id": "100100348",
+    "name": "7711",
+    "type": "bus"
+  },
+  "ALlw36_6Ycj": {
+    "id": "100100349",
+    "name": "7713",
+    "type": "bus"
+  },
+  "H3QXLl_3VIq": {
+    "id": "100100462",
+    "name": "7715",
+    "type": "bus"
+  },
+  "H6zG8Kf3YcK": {
+    "id": "124000008",
+    "name": "7719",
+    "type": "bus"
+  },
+  "A8QX3HfLVuZ": {
+    "id": "100100352",
+    "name": "7720",
+    "type": "bus"
+  },
+  "03zG67_81Iq": {
+    "id": "100100353",
+    "name": "7722",
+    "type": "bus"
+  },
+  "03CX8If6YWZ": {
+    "id": "100100354",
+    "name": "7723",
+    "type": "bus"
+  },
+  "06Cw8nf31cj": {
+    "id": "100100357",
+    "name": "7726",
+    "type": "bus"
+  },
+  "v8lG64_6VIZ": {
+    "id": "100100358",
+    "name": "7727",
+    "type": "bus"
+  },
+  "06zXL1981uZ": {
+    "id": "100100359",
+    "name": "7728",
+    "type": "bus"
+  },
+  "06zs3O98YIj": {
+    "id": "100100360",
+    "name": "7730",
+    "type": "bus"
+  },
+  "0LQs6_oLEuq": {
+    "id": "111000010",
+    "name": "7734",
+    "type": "bus"
+  },
+  "ALQX3J9LEcj": {
+    "id": "100100363",
+    "name": "7737",
+    "type": "bus"
+  },
+  "08Qs3d9LVcK": {
+    "id": "100100364",
+    "name": "7738",
+    "type": "bus"
+  },
+  "03Cw8R_6EWZ": {
+    "id": "100100552",
+    "name": "7739",
+    "type": "bus"
+  },
+  "A6Qw6ho3Vcq": {
+    "id": "100100370",
+    "name": "8111",
+    "type": "bus"
+  },
+  "ALls3GJ61Wq": {
+    "id": "124000010",
+    "name": "8331",
+    "type": "bus"
+  },
+  "08Cs33BL1cK": {
+    "id": "100100383",
+    "name": "8541",
+    "type": "bus"
+  },
+  "vLzs8QS8VIK": {
+    "id": "108000001",
+    "name": "8551",
+    "type": "bus"
+  },
+  "H6QG8jJ3VWK": {
+    "id": "113000001",
+    "name": "8761",
+    "type": "bus"
+  },
+  "H6CX60B8Ecq": {
+    "id": "111000009",
+    "name": "8771",
+    "type": "bus"
+  },
+  "v8QX8-SLYcj": {
+    "id": "100100525",
+    "name": "8772",
+    "type": "bus"
+  },
+  "A3lGLcS3VcZ": {
+    "id": "100100387",
+    "name": "8774",
+    "type": "bus"
+  },
+  "v3lGLnB6YcK": {
+    "id": "100100001",
+    "name": "02",
+    "type": "bus"
+  },
+  "vLlXLFx3EcZ": {
+    "id": "100100002",
+    "name": "03",
+    "type": "bus"
+  },
+  "HLCsLYxLEIq": {
+    "id": "100100003",
+    "name": "05",
+    "type": "bus"
+  },
+  "A8zG8Ox6EcK": {
+    "id": "112000001",
+    "name": "8777",
+    "type": "bus"
+  },
+  "A8Qw6oSL1uq": {
+    "id": "100100389",
+    "name": "9401",
+    "type": "bus"
+  },
+  "v8zw3SSLYWZ": {
+    "id": "100100390",
+    "name": "9403",
+    "type": "bus"
+  },
+  "v3CXLbJ81uj": {
+    "id": "100100391",
+    "name": "9404",
+    "type": "bus"
+  },
+  "A6Qs62S81IZ": {
+    "id": "100100392",
+    "name": "9408",
+    "type": "bus"
+  },
+  "v8QXLpSL1uq": {
+    "id": "100100397",
+    "name": "9701",
+    "type": "bus"
+  },
+  "H8lX3Xe8YuK": {
+    "id": "100100398",
+    "name": "9703",
+    "type": "bus"
+  },
+  "H6zX66d6Ecj": {
+    "id": "100100400",
+    "name": "9707",
+    "type": "bus"
+  },
+  "A3lX3zi8EIZ": {
+    "id": "100100402",
+    "name": "9709",
+    "type": "bus"
+  },
+  "08lw8qe3YuK": {
+    "id": "100100607",
+    "name": "9711A",
+    "type": "bus"
+  },
+  "A3CsLveL1Iq": {
+    "id": "100100406",
+    "name": "9714",
+    "type": "bus"
+  },
+  "v6CwL-b8VWZ": {
+    "id": "165000145",
+    "name": "1000인천",
+    "type": "bus"
+  },
+  "v8zw8ue8VIq": {
+    "id": "165000146",
+    "name": "1100인천",
+    "type": "bus"
+  },
+  "A6zG8kbLVIj": {
+    "id": "165000147",
+    "name": "1101인천",
+    "type": "bus"
+  },
+  "A8zXLPd3VuK": {
+    "id": "165000412",
+    "name": "117인천",
+    "type": "bus"
+  },
+  "v3zw3Eb6EuZ": {
+    "id": "165000148",
+    "name": "1200인천",
+    "type": "bus"
+  },
+  "v3lwLteL1cq": {
+    "id": "165000149",
+    "name": "1300인천",
+    "type": "bus"
+  },
+  "03QX3_i61uZ": {
+    "id": "165000150",
+    "name": "1301인천",
+    "type": "bus"
+  },
+  "H8lw6SdLYcq": {
+    "id": "165000421",
+    "name": "1302인천",
+    "type": "bus"
+  },
+  "v3zsLbi8VIZ": {
+    "id": "165000151",
+    "name": "1400인천",
+    "type": "bus"
+  },
+  "A8CX8Ui8YWZ": {
+    "id": "165000152",
+    "name": "1500인천",
+    "type": "bus"
+  },
+  "A8zs6pb31WZ": {
+    "id": "165000486",
+    "name": "1501인천",
+    "type": "bus"
+  },
+  "H6zs3s26Ecq": {
+    "id": "165000154",
+    "name": "1601인천",
+    "type": "bus"
+  },
+  "08QX362LYIq": {
+    "id": "165000158",
+    "name": "2500인천",
+    "type": "bus"
+  },
+  "H3zw8z2LVWZ": {
+    "id": "165000064",
+    "name": "300인천",
+    "type": "bus"
+  },
+  "v8zG6qU31Iq": {
+    "id": "165000391",
+    "name": "60-5인천",
+    "type": "bus"
+  },
+  "H3Cw30R6EIZ": {
+    "id": "165000335",
+    "name": "6118인천",
+    "type": "bus"
+  },
+  "0LQX6mR6EWq": {
+    "id": "165000495",
+    "name": "6336인천",
+    "type": "bus"
+  },
+  "v8zwLuU61uZ": {
+    "id": "165000215",
+    "name": "6405인천",
+    "type": "bus"
+  },
+  "v8lX8kR6VWj": {
+    "id": "165000409",
+    "name": "6628인천",
+    "type": "bus"
+  },
+  "A6CG84R8Euj": {
+    "id": "165000494",
+    "name": "6635인천",
+    "type": "bus"
+  },
+  "H3zGLEN6YuK": {
+    "id": "165000240",
+    "name": "66인천",
+    "type": "bus"
+  },
+  "v3zw8r26EIZ": {
+    "id": "165000381",
+    "name": "6724인천",
+    "type": "bus"
+  },
+  "v6lG3o2LYcj": {
+    "id": "165000377",
+    "name": "7700인천",
+    "type": "bus"
+  },
+  "HLCG8JN8EWq": {
+    "id": "165000052",
+    "name": "78인천",
+    "type": "bus"
+  },
+  "v3zs8b2L1cK": {
+    "id": "165000160",
+    "name": "9100인천",
+    "type": "bus"
+  },
+  "H8zw8NU3VWZ": {
+    "id": "165000161",
+    "name": "9200인천",
+    "type": "bus"
+  },
+  "H3lG6pN31cq": {
+    "id": "165000245",
+    "name": "9201인천",
+    "type": "bus"
+  },
+  "A3CG6wD6Vuj": {
+    "id": "165000162",
+    "name": "9300인천",
+    "type": "bus"
+  },
+  "H3zX38h61Wq": {
+    "id": "165000437",
+    "name": "9301인천",
+    "type": "bus"
+  },
+  "A3lsLlh8VuK": {
+    "id": "165000163",
+    "name": "9500인천",
+    "type": "bus"
+  },
+  "08QG6KD6Vcq": {
+    "id": "165000164",
+    "name": "9501인천",
+    "type": "bus"
+  },
+  "0Llw3vM8Ecj": {
+    "id": "165000303",
+    "name": "9802인천",
+    "type": "bus"
+  },
+  "06QX6-h3YIq": {
+    "id": "208000024",
+    "name": "1-1안양",
+    "type": "bus"
+  },
+  "v8CG6cp6VIK": {
+    "id": "207000009",
+    "name": "1-1의정부",
+    "type": "bus"
+  },
+  "08CX85pLEuK": {
+    "id": "207000080",
+    "name": "1-2의정부",
+    "type": "bus"
+  },
+  "H6CwLFh8VuZ": {
+    "id": "207000088",
+    "name": "1-3의정부",
+    "type": "bus"
+  },
+  "A8CGL1p3EIq": {
+    "id": "222000032",
+    "name": "1-4남양주",
+    "type": "bus"
+  },
+  "03zXLthLVuZ": {
+    "id": "207000004",
+    "name": "10-1의정부",
+    "type": "bus"
+  },
+  "A6QXL9p8EuZ": {
+    "id": "207000085",
+    "name": "10-2의정부",
+    "type": "bus"
+  },
+  "v3Cw3BpLEIZ": {
+    "id": "207000093",
+    "name": "10-3의정부",
+    "type": "bus"
+  },
+  "08CsLih6VIZ": {
+    "id": "234000028",
+    "name": "10-5광주",
+    "type": "bus"
+  },
+  "ALzG8RD8EuK": {
+    "id": "234001511",
+    "name": "1000-1광주",
+    "type": "bus"
+  },
+  "v8lsLMDLVcj": {
+    "id": "222000136",
+    "name": "1000-2남양주",
+    "type": "bus"
+  },
+  "08Cs3GXQVWq": {
+    "id": "219000013",
+    "name": "1000고양",
+    "type": "bus"
+  },
+  "v3zG8LGQVuK": {
+    "id": "221000003",
+    "name": "1000구리",
+    "type": "bus"
+  },
+  "H6lX8CwCYuK": {
+    "id": "218000007",
+    "name": "1001고양",
+    "type": "bus"
+  },
+  "H3Cs3jszEWj": {
+    "id": "222000107",
+    "name": "1001남양주",
+    "type": "bus"
+  },
+  "A3CX3HXl1Iq": {
+    "id": "232000006",
+    "name": "1002김포",
+    "type": "bus"
+  },
+  "06lwLaGlVIj": {
+    "id": "204000080",
+    "name": "1002성남",
+    "type": "bus"
+  },
+  "v6QGLIsCVcZ": {
+    "id": "233000140",
+    "name": "1002화성",
+    "type": "bus"
+  },
+  "v8QGLTXlVIj": {
+    "id": "241000910",
+    "name": "1004",
+    "type": "bus"
+  },
+  "A6lX84XlEuZ": {
+    "id": "232000073",
+    "name": "1004김포",
+    "type": "bus"
+  },
+  "H6zGLEsz1cZ": {
+    "id": "234000074",
+    "name": "1005-1광주",
+    "type": "bus"
+  },
+  "v8lGLrXlYIZ": {
+    "id": "234000065",
+    "name": "1005광주",
+    "type": "bus"
+  },
+  "vLzG89wCYIK": {
+    "id": "234000013",
+    "name": "1007-1광주",
+    "type": "bus"
+  },
+  "vLQwLSGzEcK": {
+    "id": "234000015",
+    "name": "1007광주",
+    "type": "bus"
+  },
+  "A8zX6iGz1Wq": {
+    "id": "233000125",
+    "name": "1008화성",
+    "type": "bus"
+  },
+  "H3lXLUsQ1Wj": {
+    "id": "234000310",
+    "name": "1009광주",
+    "type": "bus"
+  },
+  "08CGLDGlEIK": {
+    "id": "213000012",
+    "name": "100광명",
+    "type": "bus"
+  },
+  "A3lw3s3CEcZ": {
+    "id": "234000873",
+    "name": "100광주",
+    "type": "bus"
+  },
+  "06QXLL8l1uj": {
+    "id": "204000018",
+    "name": "100성남",
+    "type": "bus"
+  },
+  "A6CG8z3zEcK": {
+    "id": "204000083",
+    "name": "100출성남",
+    "type": "bus"
+  },
+  "06Cs6Z8zEIZ": {
+    "id": "229000030",
+    "name": "100파주",
+    "type": "bus"
+  },
+  "A8zX6ALQEIj": {
+    "id": "213000016",
+    "name": "101광명",
+    "type": "bus"
+  },
+  "A8Cs8mLlYuq": {
+    "id": "228000179",
+    "name": "101용인",
+    "type": "bus"
+  },
+  "0LQX6c6lVIj": {
+    "id": "206000007",
+    "name": "102성남",
+    "type": "bus"
+  },
+  "03Cs8kLlVIj": {
+    "id": "204000060",
+    "name": "103성남",
+    "type": "bus"
+  },
+  "A3zG6gLQVuZ": {
+    "id": "219000006",
+    "name": "1082고양",
+    "type": "bus"
+  },
+  "v3CG6Y8zVcq": {
+    "id": "219000007",
+    "name": "108고양",
+    "type": "bus"
+  },
+  "v6lwLr8z1Wj": {
+    "id": "222000082",
+    "name": "10남양주",
+    "type": "bus"
+  },
+  "08QsLoLQYWZ": {
+    "id": "212000003",
+    "name": "10부천",
+    "type": "bus"
+  },
+  "A3Cs3B3zVIj": {
+    "id": "207000003",
+    "name": "10의정부",
+    "type": "bus"
+  },
+  "H8Cw8d8CEWj": {
+    "id": "213000007",
+    "name": "11-1광명",
+    "type": "bus"
+  },
+  "H8lw6U6QVWq": {
+    "id": "208000003",
+    "name": "11-1안양",
+    "type": "bus"
+  },
+  "08zw8hLC1uK": {
+    "id": "213000011",
+    "name": "11-2광명",
+    "type": "bus"
+  },
+  "vLQw3wClEWK": {
+    "id": "208000004",
+    "name": "11-2안양",
+    "type": "bus"
+  },
+  "03zX33QQ1uK": {
+    "id": "208000006",
+    "name": "11-3안양",
+    "type": "bus"
+  },
+  "v6Qs8lQCYIZ": {
+    "id": "208000005",
+    "name": "11-5안양",
+    "type": "bus"
+  },
+  "v8CX8Zlz1WZ": {
+    "id": "218000011",
+    "name": "1100고양",
+    "type": "bus"
+  },
+  "H6Qw3HQQVuK": {
+    "id": "222000074",
+    "name": "1100남양주",
+    "type": "bus"
+  },
+  "0LzwL7lQVWj": {
+    "id": "234000016",
+    "name": "1112광주",
+    "type": "bus"
+  },
+  "vLlw3WzlYuZ": {
+    "id": "234001203",
+    "name": "1113-10광주",
+    "type": "bus"
+  },
+  "v8zG3nCCEcq": {
+    "id": "234001204",
+    "name": "1113-11광주",
+    "type": "bus"
+  },
+  "H6lGL4lzEWZ": {
+    "id": "234000011",
+    "name": "1113-1광주",
+    "type": "bus"
+  },
+  "ALzs6VCl1Wq": {
+    "id": "234001516",
+    "name": "1113-2광주",
+    "type": "bus"
+  },
+  "H6lw6yClVWK": {
+    "id": "234000042",
+    "name": "1113광주",
+    "type": "bus"
+  },
+  "08CX8_QCEuq": {
+    "id": "234000031",
+    "name": "1115-6광주",
+    "type": "bus"
+  },
+  "H8lwLSQzYWj": {
+    "id": "234000069",
+    "name": "1117광주",
+    "type": "bus"
+  },
+  "A8CG8bzC1cK": {
+    "id": "207000012",
+    "name": "111의정부",
+    "type": "bus"
+  },
+  "v8CG3NCQVWq": {
+    "id": "222000045",
+    "name": "112-1남양주",
+    "type": "bus"
+  },
+  "03lXLDCCEuj": {
+    "id": "227000005",
+    "name": "112-5하남",
+    "type": "bus"
+  },
+  "H8zGLXZzYcK": {
+    "id": "234000036",
+    "name": "112광주",
+    "type": "bus"
+  },
+  "H3CX6LjQ1cK": {
+    "id": "234000882",
+    "name": "1150광주",
+    "type": "bus"
+  },
+  "A8Qs3lKlYIK": {
+    "id": "204000081",
+    "name": "1151성남",
+    "type": "bus"
+  },
+  "v6ls3jjQ1uq": {
+    "id": "234000037",
+    "name": "116광주",
+    "type": "bus"
+  },
+  "H6lw60ZzEuq": {
+    "id": "235000020",
+    "name": "118양주",
+    "type": "bus"
+  },
+  "A3lGLaZlEIK": {
+    "id": "234000040",
+    "name": "119광주",
+    "type": "bus"
+  },
+  "A6Qs8uqCEuq": {
+    "id": "213000008",
+    "name": "11광명",
+    "type": "bus"
+  },
+  "A8zs3TjC1Iq": {
+    "id": "236000050",
+    "name": "11포천",
+    "type": "bus"
+  },
+  "v3zX34KzVuq": {
+    "id": "210000002",
+    "name": "12-1부천",
+    "type": "bus"
+  },
+  "A6zX3YZCVuq": {
+    "id": "207000048",
+    "name": "12-3의정부",
+    "type": "bus"
+  },
+  "H3Cs6OKQEcq": {
+    "id": "222000137",
+    "name": "1200-1남양주",
+    "type": "bus"
+  },
+  "A8Cw8fqlEIK": {
+    "id": "219000016",
+    "name": "1200고양",
+    "type": "bus"
+  },
+  "03Cw8xKlVIK": {
+    "id": "222000078",
+    "name": "1200남양주",
+    "type": "bus"
+  },
+  "H6CwLejzYcq": {
+    "id": "228000181",
+    "name": "1241용인",
+    "type": "bus"
+  },
+  "H3Qw6NZl1Iq": {
+    "id": "204000035",
+    "name": "1251성남",
+    "type": "bus"
+  },
+  "0LCs3hqQ1uq": {
+    "id": "210000027",
+    "name": "12부천",
+    "type": "bus"
+  },
+  "v3zsLG0zYcK": {
+    "id": "234000082",
+    "name": "13-2광주",
+    "type": "bus"
+  },
+  "A8Qs83vzYIK": {
+    "id": "241001320",
+    "name": "1307고양",
+    "type": "bus"
+  },
+  "A3zsLl0lYWK": {
+    "id": "241000810",
+    "name": "1310고양",
+    "type": "bus"
+  },
+  "H3zGLK0QVIj": {
+    "id": "234001251",
+    "name": "1311광주",
+    "type": "bus"
+  },
+  "H6zG8vAQEIZ": {
+    "id": "239000110",
+    "name": "1330-2가평",
+    "type": "bus"
+  },
+  "HLQG8-HCVuq": {
+    "id": "239000024",
+    "name": "1330-44가평",
+    "type": "bus"
+  },
+  "v8QG8IvzEWZ": {
+    "id": "239000111",
+    "name": "1330-4가평",
+    "type": "bus"
+  },
+  "0LQGL5HQYuj": {
+    "id": "241003280",
+    "name": "1336고양",
+    "type": "bus"
+  },
+  "vLzX8g0Q1WZ": {
+    "id": "207000026",
+    "name": "133의정부",
+    "type": "bus"
+  },
+  "08CwLV0zVWZ": {
+    "id": "234000072",
+    "name": "13광주",
+    "type": "bus"
+  },
+  "v3zw3OAzEuK": {
+    "id": "204000073",
+    "name": "15-1성남",
+    "type": "bus"
+  },
+  "v6CXLfAl1Wj": {
+    "id": "234000313",
+    "name": "1500-2광주",
+    "type": "bus"
+  },
+  "v8QGLSAQVIK": {
+    "id": "218000010",
+    "name": "1500고양",
+    "type": "bus"
+  },
+  "v6ls3b0l1cj": {
+    "id": "229000041",
+    "name": "150파주",
+    "type": "bus"
+  },
+  "06lwLU0CEcq": {
+    "id": "234000324",
+    "name": "1550-1광주",
+    "type": "bus"
+  },
+  "v3CwLpAQ1IZ": {
+    "id": "234000136",
+    "name": "1550광주",
+    "type": "bus"
+  },
+  "A6zw6XaCEuK": {
+    "id": "234001290",
+    "name": "1551B광주",
+    "type": "bus"
+  },
+  "v3CXLL7QVcj": {
+    "id": "234001138",
+    "name": "1551광주",
+    "type": "bus"
+  },
+  "H3QG3QmCEIK": {
+    "id": "234000314",
+    "name": "1560광주",
+    "type": "bus"
+  },
+  "HLlGLKaQEuK": {
+    "id": "234001271",
+    "name": "1570광주",
+    "type": "bus"
+  },
+  "v6Cs8v-lEWZ": {
+    "id": "234000035",
+    "name": "15광주",
+    "type": "bus"
+  },
+  "03QwL-aCVuZ": {
+    "id": "234000050",
+    "name": "1650광주",
+    "type": "bus"
+  },
+  "H8lw3uaQ1cK": {
+    "id": "222000028",
+    "name": "165남양주",
+    "type": "bus"
+  },
+  "v3QsLkmlEIZ": {
+    "id": "222000048",
+    "name": "166-1남양주",
+    "type": "bus"
+  },
+  "A3CG8g7C1uZ": {
+    "id": "222000049",
+    "name": "1660남양주",
+    "type": "bus"
+  },
+  "A3lw8E-QEWj": {
+    "id": "222000046",
+    "name": "1670남양주",
+    "type": "bus"
+  },
+  "A6CwLtazVIK": {
+    "id": "222000072",
+    "name": "167남양주",
+    "type": "bus"
+  },
+  "08QXL9mzYIq": {
+    "id": "221000033",
+    "name": "1680구리",
+    "type": "bus"
+  },
+  "vLQw3x-lVuj": {
+    "id": "222000165",
+    "name": "169남양주",
+    "type": "bus"
+  },
+  "vLCG3b-QVWK": {
+    "id": "234000034",
+    "name": "16광주",
+    "type": "bus"
+  },
+  "A6ls82-CVcZ": {
+    "id": "222000073",
+    "name": "1700남양주",
+    "type": "bus"
+  },
+  "H3zsLD7z1Wq": {
+    "id": "213000005",
+    "name": "17광명",
+    "type": "bus"
+  },
+  "v3zs8wclYcK": {
+    "id": "229000013",
+    "name": "17파주",
+    "type": "bus"
+  },
+  "08zsLLWzYcq": {
+    "id": "241000830",
+    "name": "1801고양",
+    "type": "bus"
+  },
+  "HLQG3zcC1uj": {
+    "id": "235000081",
+    "name": "19-1양주",
+    "type": "bus"
+  },
+  "03CX6qcz1WZ": {
+    "id": "219000027",
+    "name": "1900고양",
+    "type": "bus"
+  },
+  "H3lsL0IzYcZ": {
+    "id": "208000031",
+    "name": "19안양",
+    "type": "bus"
+  },
+  "H6QX67cC1uq": {
+    "id": "235000080",
+    "name": "19양주",
+    "type": "bus"
+  },
+  "A3QX6IclYIZ": {
+    "id": "213000006",
+    "name": "1광명",
+    "type": "bus"
+  },
+  "ALCGLnWzEcK": {
+    "id": "222000058",
+    "name": "1남양주",
+    "type": "bus"
+  },
+  "v8lG8PWC1cK": {
+    "id": "208000007",
+    "name": "1안양",
+    "type": "bus"
+  },
+  "v3QG3EcQ1Ij": {
+    "id": "222000122",
+    "name": "2000-1남양주",
+    "type": "bus"
+  },
+  "v6zwLtWlEWZ": {
+    "id": "240000007",
+    "name": "2000-1양평",
+    "type": "bus"
+  },
+  "H3QsLfIlEuj": {
+    "id": "222000128",
+    "name": "2000-2남양주",
+    "type": "bus"
+  },
+  "08lwLxcQVWZ": {
+    "id": "240000008",
+    "name": "2000-2양평",
+    "type": "bus"
+  },
+  "ALlX6icQYcq": {
+    "id": "240000079",
+    "name": "2000-3양평",
+    "type": "bus"
+  },
+  "0Lzs8NcQ1Wj": {
+    "id": "240000105",
+    "name": "2000-4양평",
+    "type": "bus"
+  },
+  "0LCs6McC1Ij": {
+    "id": "232000091",
+    "name": "2000김포",
+    "type": "bus"
+  },
+  "v3zX3Xkl1uZ": {
+    "id": "222000075",
+    "name": "2000남양주",
+    "type": "bus"
+  },
+  "08lwL6TzVIj": {
+    "id": "229000021",
+    "name": "2000파주",
+    "type": "bus"
+  },
+  "H8lX3zTC1IZ": {
+    "id": "229000028",
+    "name": "200파주",
+    "type": "bus"
+  },
+  "HLls3jklVuq": {
+    "id": "222000012",
+    "name": "202-1남양주",
+    "type": "bus"
+  },
+  "v6Cs6A5CEWZ": {
+    "id": "222000004",
+    "name": "202남양주",
+    "type": "bus"
+  },
+  "v6Qw3akQVWq": {
+    "id": "232000074",
+    "name": "20김포",
+    "type": "bus"
+  },
+  "03Qw6I5zYIK": {
+    "id": "208000014",
+    "name": "20안양",
+    "type": "bus"
+  },
+  "06Cw8nTQVcj": {
+    "id": "213000002",
+    "name": "21광명",
+    "type": "bus"
+  },
+  "06zs34TlYuq": {
+    "id": "232000095",
+    "name": "21김포",
+    "type": "bus"
+  },
+  "H8zG3V5QEIj": {
+    "id": "229000061",
+    "name": "2200파주",
+    "type": "bus"
+  },
+  "0LCw3tklVcK": {
+    "id": "210000028",
+    "name": "220부천",
+    "type": "bus"
+  },
+  "H3zG69kCVWZ": {
+    "id": "213000010",
+    "name": "22광명",
+    "type": "bus"
+  },
+  "ALzX3JTCVWZ": {
+    "id": "232000070",
+    "name": "22김포",
+    "type": "bus"
+  },
+  "H8zw3ekl1uK": {
+    "id": "222000013",
+    "name": "23남양주",
+    "type": "bus"
+  },
+  "v3CwLUnQ1uq": {
+    "id": "210000060",
+    "name": "23부천",
+    "type": "bus"
+  },
+  "08QG8hkCEuj": {
+    "id": "213000003",
+    "name": "27광명",
+    "type": "bus"
+  },
+  "v8zwLw4lEcq": {
+    "id": "213000017",
+    "name": "2광명",
+    "type": "bus"
+  },
+  "03zX33FlVuK": {
+    "id": "232000028",
+    "name": "2김포",
+    "type": "bus"
+  },
+  "H8lw8Q4CYWZ": {
+    "id": "227000004",
+    "name": "30-1하남",
+    "type": "bus"
+  },
+  "vLzXLZPzVWZ": {
+    "id": "227000006",
+    "name": "30-3하남",
+    "type": "bus"
+  },
+  "A8QG8HFzYWK": {
+    "id": "227000001",
+    "name": "30-5하남",
+    "type": "bus"
+  },
+  "ALlwL74QYWj": {
+    "id": "232000093",
+    "name": "3000A김포",
+    "type": "bus"
+  },
+  "06lGLuPzEuK": {
+    "id": "241004280",
+    "name": "3000고양",
+    "type": "bus"
+  },
+  "0LlG3TgQYuZ": {
+    "id": "232000061",
+    "name": "3000김포",
+    "type": "bus"
+  },
+  "A6CXLgglVuZ": {
+    "id": "200000104",
+    "name": "3000수원",
+    "type": "bus"
+  },
+  "v8zw3EPCVcK": {
+    "id": "241004220",
+    "name": "3001고양",
+    "type": "bus"
+  },
+  "HLlG6tFCYuZ": {
+    "id": "213000015",
+    "name": "3001광명",
+    "type": "bus"
+  },
+  "A6lG8fPzYWj": {
+    "id": "241004230",
+    "name": "3002고양",
+    "type": "bus"
+  },
+  "06Cs3SPQEWZ": {
+    "id": "213000019",
+    "name": "3002광명",
+    "type": "bus"
+  },
+  "v6zs8ePC1IZ": {
+    "id": "200000145",
+    "name": "3002수원",
+    "type": "bus"
+  },
+  "A3zG82Pz1cq": {
+    "id": "241004250",
+    "name": "3003고양",
+    "type": "bus"
+  },
+  "HLzG8h4CEcq": {
+    "id": "200000108",
+    "name": "3003수원",
+    "type": "bus"
+  },
+  "H6CsLX1zEcK": {
+    "id": "241004260",
+    "name": "3005고양",
+    "type": "bus"
+  },
+  "H8lw86YzYuj": {
+    "id": "200000110",
+    "name": "3007수원",
+    "type": "bus"
+  },
+  "v6zX8lYC1cK": {
+    "id": "216000021",
+    "name": "301안산",
+    "type": "bus"
+  },
+  "08Cw3j1l1Iq": {
+    "id": "208000027",
+    "name": "3030안양",
+    "type": "bus"
+  },
+  "03QGLv1l1cK": {
+    "id": "234000003",
+    "name": "30광주",
+    "type": "bus"
+  },
+  "03Cs6-VQVIZ": {
+    "id": "229000010",
+    "name": "30파주",
+    "type": "bus"
+  },
+  "vLQG6IYlYcq": {
+    "id": "227000003",
+    "name": "30하남",
+    "type": "bus"
+  },
+  "A8zw6kYQYWj": {
+    "id": "216000026",
+    "name": "3100안산",
+    "type": "bus"
+  },
+  "0LzX3FYzVWK": {
+    "id": "207000070",
+    "name": "3100의정부",
+    "type": "bus"
+  },
+  "H8Cw8VVzYWK": {
+    "id": "216000043",
+    "name": "3101안산",
+    "type": "bus"
+  },
+  "H8zsLrElYIq": {
+    "id": "216000061",
+    "name": "3102안산",
+    "type": "bus"
+  },
+  "H3ls3fVlYIj": {
+    "id": "229000027",
+    "name": "31파주",
+    "type": "bus"
+  },
+  "v6CwLx1lVuK": {
+    "id": "227000017",
+    "name": "31하남",
+    "type": "bus"
+  },
+  "v8ls8i1QEIK": {
+    "id": "218000005",
+    "name": "3200고양",
+    "type": "bus"
+  },
+  "HLzG3RYzVWZ": {
+    "id": "224000019",
+    "name": "3200시흥",
+    "type": "bus"
+  },
+  "ALlw8MYlYIK": {
+    "id": "236000149",
+    "name": "3200포천",
+    "type": "bus"
+  },
+  "A3QsLGyCVIq": {
+    "id": "217000013",
+    "name": "320안산",
+    "type": "bus"
+  },
+  "06QG66OQYIj": {
+    "id": "234000009",
+    "name": "32광주",
+    "type": "bus"
+  },
+  "v3lG8CyzVWK": {
+    "id": "234000041",
+    "name": "330-1광주",
+    "type": "bus"
+  },
+  "H8zGLZyl1IZ": {
+    "id": "241003600",
+    "name": "3300고양",
+    "type": "bus"
+  },
+  "A3QX3AyQEcK": {
+    "id": "224000047",
+    "name": "3300시흥",
+    "type": "bus"
+  },
+  "0Lzs8atQEuZ": {
+    "id": "229000060",
+    "name": "330파주",
+    "type": "bus"
+  },
+  "H6ls8IyQYWj": {
+    "id": "204000084",
+    "name": "331성남",
+    "type": "bus"
+  },
+  "H6QG3TylYIK": {
+    "id": "229000035",
+    "name": "333파주",
+    "type": "bus"
+  },
+  "H6QX6gOQVIZ": {
+    "id": "227000035",
+    "name": "33하남",
+    "type": "bus"
+  },
+  "v3QwLYrCYcK": {
+    "id": "224000050",
+    "name": "3400시흥",
+    "type": "bus"
+  },
+  "v6QX3tOlVWZ": {
+    "id": "229000032",
+    "name": "34파주",
+    "type": "bus"
+  },
+  "0Lls8frzEWZ": {
+    "id": "236000176",
+    "name": "3500포천",
+    "type": "bus"
+  },
+  "06CGLJyC1cZ": {
+    "id": "236000190",
+    "name": "3600포천",
+    "type": "bus"
+  },
+  "08lG8brQVuK": {
+    "id": "229000036",
+    "name": "360파주",
+    "type": "bus"
+  },
+  "v8zs82tzEWZ": {
+    "id": "207000073",
+    "name": "36의정부",
+    "type": "bus"
+  },
+  "0LCs8MtQ1uq": {
+    "id": "207000027",
+    "name": "36의정부",
+    "type": "bus"
+  },
+  "A6QG6XozEcj": {
+    "id": "241006020",
+    "name": "3700고양",
+    "type": "bus"
+  },
+  "A3Cs63ozEuj": {
+    "id": "232000067",
+    "name": "388김포",
+    "type": "bus"
+  },
+  "H8zw3zflYcq": {
+    "id": "238000017",
+    "name": "39-1연천",
+    "type": "bus"
+  },
+  "A6lsLK_l1uK": {
+    "id": "238000020",
+    "name": "39-4연천",
+    "type": "bus"
+  },
+  "A6QGL09CVIq": {
+    "id": "200000233",
+    "name": "3900전수원",
+    "type": "bus"
+  },
+  "v3lX8-9Q1Wj": {
+    "id": "213000009",
+    "name": "39광명",
+    "type": "bus"
+  },
+  "03QXLI_CEWK": {
+    "id": "238000015",
+    "name": "39연천",
+    "type": "bus"
+  },
+  "H6Cs3n9zYuj": {
+    "id": "222000051",
+    "name": "3남양주",
+    "type": "bus"
+  },
+  "v8QGLP9QEcq": {
+    "id": "210000013",
+    "name": "3부천",
+    "type": "bus"
+  },
+  "v6lGLE_Q1WK": {
+    "id": "241004710",
+    "name": "4300고양",
+    "type": "bus"
+  },
+  "H6Cw6OfCYuj": {
+    "id": "241003000",
+    "name": "4800고양",
+    "type": "bus"
+  },
+  "H3Qs6ofzEIj": {
+    "id": "210000003",
+    "name": "50-1부천",
+    "type": "bus"
+  },
+  "03lXLx9QYcK": {
+    "id": "234001609",
+    "name": "500-1A광주",
+    "type": "bus"
+  },
+  "03CG8dfz1IK": {
+    "id": "234000079",
+    "name": "500-1광주",
+    "type": "bus"
+  },
+  "H8Qs8RfQ1WK": {
+    "id": "234000075",
+    "name": "500-2광주",
+    "type": "bus"
+  },
+  "A8lwLpolEuj": {
+    "id": "234000077",
+    "name": "500-5광주",
+    "type": "bus"
+  },
+  "ALzs3wBQYuq": {
+    "id": "228000174",
+    "name": "5000용인",
+    "type": "bus"
+  },
+  "v8zXL6SQYWq": {
+    "id": "228000177",
+    "name": "5001-1용인",
+    "type": "bus"
+  },
+  "H6QX3QSzYWZ": {
+    "id": "228000176",
+    "name": "5001용인",
+    "type": "bus"
+  },
+  "A3Qw3jBCVIq": {
+    "id": "228000183",
+    "name": "5002용인",
+    "type": "bus"
+  },
+  "v6CsL0SQYuK": {
+    "id": "228000182",
+    "name": "5003용인",
+    "type": "bus"
+  },
+  "0Llw8axQVcj": {
+    "id": "228000175",
+    "name": "5005용인",
+    "type": "bus"
+  },
+  "06zG8uJQ1cK": {
+    "id": "228000262",
+    "name": "5006용인",
+    "type": "bus"
+  },
+  "ALlw8kxC1cj": {
+    "id": "228000263",
+    "name": "5007용인",
+    "type": "bus"
+  },
+  "ALCw3gxlVIq": {
+    "id": "210000001",
+    "name": "50부천",
+    "type": "bus"
+  },
+  "0LlGL1Sz1IK": {
+    "id": "204000012",
+    "name": "50성남",
+    "type": "bus"
+  },
+  "H3zw6rBzYuZ": {
+    "id": "241005910",
+    "name": "5100고양",
+    "type": "bus"
+  },
+  "v3zX6fSzYcZ": {
+    "id": "200000115",
+    "name": "5100수원",
+    "type": "bus"
+  },
+  "HLQX8JJzVWj": {
+    "id": "224000008",
+    "name": "510시흥",
+    "type": "bus"
+  },
+  "H6ls6bJQVWK": {
+    "id": "222000050",
+    "name": "51남양주",
+    "type": "bus"
+  },
+  "H8CGLRSCEWZ": {
+    "id": "208000017",
+    "name": "51안양",
+    "type": "bus"
+  },
+  "vLlX8DxQ1Wq": {
+    "id": "241005940",
+    "name": "5200고양",
+    "type": "bus"
+  },
+  "A6Cs8GeQ1IZ": {
+    "id": "224000024",
+    "name": "520시흥",
+    "type": "bus"
+  },
+  "HLlG63izYcj": {
+    "id": "234000071",
+    "name": "52광주",
+    "type": "bus"
+  },
+  "H8CGLQezYIZ": {
+    "id": "210000009",
+    "name": "52부천",
+    "type": "bus"
+  },
+  "H8zs8jdCYWK": {
+    "id": "200000193",
+    "name": "5300-1수원",
+    "type": "bus"
+  },
+  "v6zXLHbQYIZ": {
+    "id": "200000175",
+    "name": "5300수원",
+    "type": "bus"
+  },
+  "0LCG8-elYIq": {
+    "id": "224000029",
+    "name": "530시흥",
+    "type": "bus"
+  },
+  "H3lwLceC1WZ": {
+    "id": "234000001",
+    "name": "5500-1광주",
+    "type": "bus"
+  },
+  "vLzs3kbQVcq": {
+    "id": "234000148",
+    "name": "5500-2광주",
+    "type": "bus"
+  },
+  "HLlXLFblYcK": {
+    "id": "219000008",
+    "name": "55고양",
+    "type": "bus"
+  },
+  "H3Cs6Eez1IZ": {
+    "id": "228000184",
+    "name": "5600용인",
+    "type": "bus"
+  },
+  "v3CXLydlYuq": {
+    "id": "216000047",
+    "name": "5602안산",
+    "type": "bus"
+  },
+  "06zX3_bl1IZ": {
+    "id": "224000040",
+    "name": "5604시흥",
+    "type": "bus"
+  },
+  "A3Cw3BiQ1uq": {
+    "id": "216000046",
+    "name": "5609안산",
+    "type": "bus"
+  },
+  "ALzsLedCEuq": {
+    "id": "229000039",
+    "name": "567파주",
+    "type": "bus"
+  },
+  "H8CsL2bCVuZ": {
+    "id": "229000087",
+    "name": "56파주",
+    "type": "bus"
+  },
+  "H3CX3DeCEIK": {
+    "id": "210000052",
+    "name": "57-1부천",
+    "type": "bus"
+  },
+  "A6zs3sUCEcZ": {
+    "id": "228000271",
+    "name": "5700용인",
+    "type": "bus"
+  },
+  "06Qw83RlYIZ": {
+    "id": "210000040",
+    "name": "57부천",
+    "type": "bus"
+  },
+  "ALQsLQ2CEuq": {
+    "id": "204000005",
+    "name": "57성남",
+    "type": "bus"
+  },
+  "vLQs8ZNQ1uK": {
+    "id": "210000069",
+    "name": "59-1부천",
+    "type": "bus"
+  },
+  "H8Qs80Rz1Iq": {
+    "id": "210000042",
+    "name": "59부천",
+    "type": "bus"
+  },
+  "ALQX6-RQ1uj": {
+    "id": "234000007",
+    "name": "5광주",
+    "type": "bus"
+  },
+  "H3zw8IRCVcK": {
+    "id": "208000016",
+    "name": "5안양",
+    "type": "bus"
+  },
+  "H8CGLn2z1cj": {
+    "id": "207000034",
+    "name": "5의정부",
+    "type": "bus"
+  },
+  "ALQXL4RQVcK": {
+    "id": "210000057",
+    "name": "60-1부천",
+    "type": "bus"
+  },
+  "08zs3ERCVuj": {
+    "id": "232000025",
+    "name": "60-3김포",
+    "type": "bus"
+  },
+  "06zs3ORlEWK": {
+    "id": "233000131",
+    "name": "6001화성",
+    "type": "bus"
+  },
+  "ALQXLoUlVuq": {
+    "id": "233000142",
+    "name": "6002-1화성",
+    "type": "bus"
+  },
+  "v6Qs6xNQ1uq": {
+    "id": "233000136",
+    "name": "6002화성",
+    "type": "bus"
+  },
+  "06QXLdRzVcj": {
+    "id": "232000017",
+    "name": "60김포",
+    "type": "bus"
+  },
+  "08zX8UUzYIq": {
+    "id": "204000013",
+    "name": "60성남",
+    "type": "bus"
+  },
+  "v8zXLDNzEIj": {
+    "id": "232000081",
+    "name": "6427김포",
+    "type": "bus"
+  },
+  "A3zs3GhzEIZ": {
+    "id": "222000030",
+    "name": "65-1남양주",
+    "type": "bus"
+  },
+  "HLlXL6hCVWj": {
+    "id": "234001163",
+    "name": "6501광주",
+    "type": "bus"
+  },
+  "v3zs6zMzEuj": {
+    "id": "222000031",
+    "name": "65남양주",
+    "type": "bus"
+  },
+  "A8Cs3KMlYIj": {
+    "id": "229000018",
+    "name": "66파주",
+    "type": "bus"
+  },
+  "08QX3vMCVcK": {
+    "id": "234000018",
+    "name": "6800광주",
+    "type": "bus"
+  },
+  "v8zs3aDz1WZ": {
+    "id": "234000027",
+    "name": "6900광주",
+    "type": "bus"
+  },
+  "v6zs8Wpz1IK": {
+    "id": "232000016",
+    "name": "69김포",
+    "type": "bus"
+  },
+  "H3lX8khzYIZ": {
+    "id": "220000012",
+    "name": "6과천",
+    "type": "bus"
+  },
+  "H6Cw3gpQEWq": {
+    "id": "210000012",
+    "name": "70-2부천",
+    "type": "bus"
+  },
+  "03QX3VMQVcj": {
+    "id": "210000036",
+    "name": "70-3부천",
+    "type": "bus"
+  },
+  "HLzX8OMlVWj": {
+    "id": "241005760",
+    "name": "7000고양",
+    "type": "bus"
+  },
+  "A3QsLoDQ1cK": {
+    "id": "232000092",
+    "name": "7000김포",
+    "type": "bus"
+  },
+  "ALCX3xDzYuq": {
+    "id": "200000112",
+    "name": "7000수원",
+    "type": "bus"
+  },
+  "ALQXLbDQYIK": {
+    "id": "200000119",
+    "name": "7001수원",
+    "type": "bus"
+  },
+  "v8CX32DzEuj": {
+    "id": "241006510",
+    "name": "7002고양",
+    "type": "bus"
+  },
+  "ALlw8phQVuZ": {
+    "id": "200000109",
+    "name": "7002수원",
+    "type": "bus"
+  },
+  "A8Cw8GXqYuK": {
+    "id": "234000311",
+    "name": "7007-1광주",
+    "type": "bus"
+  },
+  "v6lw86Xj1uZ": {
+    "id": "222000129",
+    "name": "7007-2남양주",
+    "type": "bus"
+  },
+  "H3zs3zGKVuZ": {
+    "id": "222000076",
+    "name": "7007남양주",
+    "type": "bus"
+  },
+  "vLlsLjGKYuq": {
+    "id": "241006370",
+    "name": "700고양",
+    "type": "bus"
+  },
+  "A6zw8AXq1cq": {
+    "id": "210000039",
+    "name": "700부천",
+    "type": "bus"
+  },
+  "03zGL7XqVcK": {
+    "id": "222000002",
+    "name": "707남양주",
+    "type": "bus"
+  },
+  "A6CX3cXKVuK": {
+    "id": "210000034",
+    "name": "70부천",
+    "type": "bus"
+  },
+  "v6Qs6TXKEIK": {
+    "id": "205000001",
+    "name": "70성남",
+    "type": "bus"
+  },
+  "A6QX6gXZEWZ": {
+    "id": "210000037",
+    "name": "71부천",
+    "type": "bus"
+  },
+  "H3CX6VwZEIK": {
+    "id": "207000002",
+    "name": "72-1의정부",
+    "type": "bus"
+  },
+  "vLCG8tGZ1Iq": {
+    "id": "236000052",
+    "name": "72-3포천",
+    "type": "bus"
+  },
+  "H3Cs3_wq1uq": {
+    "id": "219000021",
+    "name": "72고양",
+    "type": "bus"
+  },
+  "HLQGLBwqYuj": {
+    "id": "236000048",
+    "name": "72포천",
+    "type": "bus"
+  },
+  "ALlG3iGZVWZ": {
+    "id": "241005960",
+    "name": "7300고양",
+    "type": "bus"
+  },
+  "H8lw82GZEcK": {
+    "id": "218000108",
+    "name": "733고양",
+    "type": "bus"
+  },
+  "v6QG8hsjVuZ": {
+    "id": "222000014",
+    "name": "73남양주",
+    "type": "bus"
+  },
+  "v6Qs3s3qEuZ": {
+    "id": "222000125",
+    "name": "74남양주",
+    "type": "bus"
+  },
+  "vLlG636Z1Wq": {
+    "id": "221000032",
+    "name": "75구리",
+    "type": "bus"
+  },
+  "ALQw6Q3qYcj": {
+    "id": "210000038",
+    "name": "75부천",
+    "type": "bus"
+  },
+  "0LQXLj3j1WK": {
+    "id": "219000014",
+    "name": "770고양",
+    "type": "bus"
+  },
+  "A6zs8A8K1Wj": {
+    "id": "233000031",
+    "name": "7770화성",
+    "type": "bus"
+  },
+  "08Cs3-8jYuj": {
+    "id": "233000007",
+    "name": "777화성",
+    "type": "bus"
+  },
+  "03CsLc8qYWq": {
+    "id": "233000032",
+    "name": "7780화성",
+    "type": "bus"
+  },
+  "v6zX8T6jEWZ": {
+    "id": "200000149",
+    "name": "7790수원",
+    "type": "bus"
+  },
+  "06CG6g8Z1cK": {
+    "id": "210000093",
+    "name": "77부천",
+    "type": "bus"
+  },
+  "HLQs8ELZ1uZ": {
+    "id": "200000150",
+    "name": "7800수원",
+    "type": "bus"
+  },
+  "06CGLt3Z1uq": {
+    "id": "200000191",
+    "name": "7900수원",
+    "type": "bus"
+  },
+  "H3CG3o3qYcZ": {
+    "id": "207000021",
+    "name": "7의정부",
+    "type": "bus"
+  },
+  "H8zG6BLq1cK": {
+    "id": "232000007",
+    "name": "8000김포",
+    "type": "bus"
+  },
+  "A3QG3bLZVWj": {
+    "id": "222000088",
+    "name": "8001남양주",
+    "type": "bus"
+  },
+  "03zXL28qVWZ": {
+    "id": "222000084",
+    "name": "8002남양주",
+    "type": "bus"
+  },
+  "v8zsLDLjEuZ": {
+    "id": "239000104",
+    "name": "8005가평",
+    "type": "bus"
+  },
+  "H6Cs8Xlq1Wq": {
+    "id": "219000005",
+    "name": "800고양",
+    "type": "bus"
+  },
+  "06lwLLzjEuK": {
+    "id": "222000090",
+    "name": "8012남양주",
+    "type": "bus"
+  },
+  "08QsLlljVWK": {
+    "id": "234000878",
+    "name": "8100광주",
+    "type": "bus"
+  },
+  "v6Qw3ZQqEIq": {
+    "id": "241000590",
+    "name": "8101",
+    "type": "bus"
+  },
+  "A6zX6AlZEuZ": {
+    "id": "234000879",
+    "name": "8101광주",
+    "type": "bus"
+  },
+  "ALQG8azjYIq": {
+    "id": "241000740",
+    "name": "8103고양",
+    "type": "bus"
+  },
+  "v6lsLWQj1WK": {
+    "id": "241002610",
+    "name": "8105고양",
+    "type": "bus"
+  },
+  "vLQw3nzZYuj": {
+    "id": "204000082",
+    "name": "8110성남",
+    "type": "bus"
+  },
+  "A3zs3PCKVWq": {
+    "id": "241003770",
+    "name": "8113고양",
+    "type": "bus"
+  },
+  "03QG81QKVuj": {
+    "id": "241006600",
+    "name": "8115",
+    "type": "bus"
+  },
+  "H3zX6yCq1Wj": {
+    "id": "241003340",
+    "name": "8118고양",
+    "type": "bus"
+  },
+  "H6CXLoCjEcK": {
+    "id": "241003320",
+    "name": "8131고양",
+    "type": "bus"
+  },
+  "ALzs6BCZ1uK": {
+    "id": "241000460",
+    "name": "8133고양",
+    "type": "bus"
+  },
+  "ALCw8eQZEWZ": {
+    "id": "241000800",
+    "name": "8142고양",
+    "type": "bus"
+  },
+  "A3Cw3RlZ1Ij": {
+    "id": "241001340",
+    "name": "8146고양",
+    "type": "bus"
+  },
+  "A3lX3pljEuj": {
+    "id": "241000820",
+    "name": "8147고양",
+    "type": "bus"
+  },
+  "08QG3XKjYIZ": {
+    "id": "241000840",
+    "name": "8153고양",
+    "type": "bus"
+  },
+  "A8zGL3qZVWq": {
+    "id": "241003400",
+    "name": "8154고양",
+    "type": "bus"
+  },
+  "H8CXLzjKVcq": {
+    "id": "233000139",
+    "name": "8155화성",
+    "type": "bus"
+  },
+  "v8Qs3qqjYWZ": {
+    "id": "233000258",
+    "name": "8156화성",
+    "type": "bus"
+  },
+  "v3Qw6vKZVWj": {
+    "id": "241004890",
+    "name": "8165고양",
+    "type": "bus"
+  },
+  "03CXLmKKEuK": {
+    "id": "227000002",
+    "name": "81하남",
+    "type": "bus"
+  },
+  "06zw6ujKEIj": {
+    "id": "234000884",
+    "name": "8201광주",
+    "type": "bus"
+  },
+  "0LzXLnKKVuK": {
+    "id": "229000017",
+    "name": "830파주",
+    "type": "bus"
+  },
+  "vLzwLFZK1Iq": {
+    "id": "212000002",
+    "name": "83부천",
+    "type": "bus"
+  },
+  "A3Cw6VZq1WK": {
+    "id": "227000015",
+    "name": "83하남",
+    "type": "bus"
+  },
+  "08Qs3OZZVcq": {
+    "id": "241000300",
+    "name": "8433시외",
+    "type": "bus"
+  },
+  "H8Cw8fjjEIq": {
+    "id": "241004370",
+    "name": "8455고양",
+    "type": "bus"
+  },
+  "ALlw8Jqj1WZ": {
+    "id": "218000002",
+    "name": "85-1고양",
+    "type": "bus"
+  },
+  "A8CsLbjKEcK": {
+    "id": "233000135",
+    "name": "8501화성",
+    "type": "bus"
+  },
+  "ALCXLRqZ1Ij": {
+    "id": "213000024",
+    "name": "8507광명",
+    "type": "bus"
+  },
+  "A6QG3pZZEWZ": {
+    "id": "218000001",
+    "name": "85고양",
+    "type": "bus"
+  },
+  "A3lw3svqYIj": {
+    "id": "232000047",
+    "name": "8600김포",
+    "type": "bus"
+  },
+  "H8QX68vZYcK": {
+    "id": "232000072",
+    "name": "8601김포",
+    "type": "bus"
+  },
+  "08zXLzvZ1IZ": {
+    "id": "219000023",
+    "name": "870고양",
+    "type": "bus"
+  },
+  "vLQsLZAKVWK": {
+    "id": "219000004",
+    "name": "871고양",
+    "type": "bus"
+  },
+  "H8lw3HAqVcK": {
+    "id": "227000036",
+    "name": "87하남",
+    "type": "bus"
+  },
+  "08Qs6-HqVcq": {
+    "id": "232000030",
+    "name": "88-1김포",
+    "type": "bus"
+  },
+  "06CX6c0qVuZ": {
+    "id": "210000074",
+    "name": "88-1부천",
+    "type": "bus"
+  },
+  "A3zs6kvKEWj": {
+    "id": "200000205",
+    "name": "8800수원",
+    "type": "bus"
+  },
+  "H6lG8gvZYIj": {
+    "id": "241005980",
+    "name": "8829고양",
+    "type": "bus"
+  },
+  "0LlG3VAZYuj": {
+    "id": "241003970",
+    "name": "8840",
+    "type": "bus"
+  },
+  "vLQX3O0qVcj": {
+    "id": "241005870",
+    "name": "8842고양",
+    "type": "bus"
+  },
+  "03lX6_AZEcK": {
+    "id": "241005880",
+    "name": "8843고양",
+    "type": "bus"
+  },
+  "A3zG3J0qYuq": {
+    "id": "241005890",
+    "name": "8844고양",
+    "type": "bus"
+  },
+  "H8Cw3ivjYuq": {
+    "id": "241005840",
+    "name": "8849고양",
+    "type": "bus"
+  },
+  "H6QwLUHZVuj": {
+    "id": "232000029",
+    "name": "88김포",
+    "type": "bus"
+  },
+  "0LCG6DHqEuZ": {
+    "id": "222000008",
+    "name": "88남양주",
+    "type": "bus"
+  },
+  "08zX3s7jYIZ": {
+    "id": "212000001",
+    "name": "88부천",
+    "type": "bus"
+  },
+  "HLQG88-ZVcK": {
+    "id": "222000111",
+    "name": "9-1남양주",
+    "type": "bus"
+  },
+  "v3QG6zmqVWq": {
+    "id": "208000020",
+    "name": "9-3안양",
+    "type": "bus"
+  },
+  "0LlwLZ-jYcK": {
+    "id": "234001574",
+    "name": "9000-1광주",
+    "type": "bus"
+  },
+  "v3zG3vmKYIZ": {
+    "id": "234001576",
+    "name": "9000-2광주",
+    "type": "bus"
+  },
+  "08zGL-mZEWK": {
+    "id": "234000002",
+    "name": "9000광주",
+    "type": "bus"
+  },
+  "0LQG8uajVWj": {
+    "id": "204000046",
+    "name": "9003성남",
+    "type": "bus"
+  },
+  "H3lGLk7jEIj": {
+    "id": "204000041",
+    "name": "9004성남",
+    "type": "bus"
+  },
+  "08Cs64mqEWq": {
+    "id": "204000070",
+    "name": "9007성남",
+    "type": "bus"
+  },
+  "A8zs6E-j1Ij": {
+    "id": "200000010",
+    "name": "900수원",
+    "type": "bus"
+  },
+  "H6QGLrmqEIq": {
+    "id": "229000083",
+    "name": "9030-1파주",
+    "type": "bus"
+  },
+  "0LlG6_7ZYIZ": {
+    "id": "229000097",
+    "name": "9030파주",
+    "type": "bus"
+  },
+  "06zs3x7j1cq": {
+    "id": "241001330",
+    "name": "9101고양",
+    "type": "bus"
+  },
+  "03CX3i7q1Wq": {
+    "id": "208000026",
+    "name": "917안양",
+    "type": "bus"
+  },
+  "HLCs6UaZEWj": {
+    "id": "222000022",
+    "name": "91남양주",
+    "type": "bus"
+  },
+  "v6lw3h-ZVcZ": {
+    "id": "219000015",
+    "name": "921고양",
+    "type": "bus"
+  },
+  "A8Cs6XWjYuK": {
+    "id": "234000058",
+    "name": "92광주",
+    "type": "bus"
+  },
+  "v8CX33cqVuZ": {
+    "id": "234000886",
+    "name": "9300광주",
+    "type": "bus"
+  },
+  "A6QG8QWZVcK": {
+    "id": "234000309",
+    "name": "9301광주",
+    "type": "bus"
+  },
+  "06lG3Kuj1cZ": {
+    "id": "227000016",
+    "name": "9302하남",
+    "type": "bus"
+  },
+  "v6Cs8vWK1cq": {
+    "id": "227000019",
+    "name": "9303하남",
+    "type": "bus"
+  },
+  "08lw6aWqEWZ": {
+    "id": "222000026",
+    "name": "93남양주",
+    "type": "bus"
+  },
+  "H6zG3IIqVIZ": {
+    "id": "204000024",
+    "name": "9407성남",
+    "type": "bus"
+  },
+  "v3CX3kcqYuj": {
+    "id": "206000005",
+    "name": "9414성남",
+    "type": "bus"
+  },
+  "A3lX64IqYuK": {
+    "id": "204000059",
+    "name": "9507성남",
+    "type": "bus"
+  },
+  "A8CXLYWjYWZ": {
+    "id": "222000052",
+    "name": "95남양주",
+    "type": "bus"
+  },
+  "v8Qw6rcKVuK": {
+    "id": "221000025",
+    "name": "96-1구리",
+    "type": "bus"
+  },
+  "vLlw8ouj1IZ": {
+    "id": "234001244",
+    "name": "9600광주",
+    "type": "bus"
+  },
+  "H3Qw6SIq1Ij": {
+    "id": "204000065",
+    "name": "9607성남",
+    "type": "bus"
+  },
+  "A8zG6bIq1uZ": {
+    "id": "234000029",
+    "name": "96광주",
+    "type": "bus"
+  },
+  "H3zs6RIKYWj": {
+    "id": "219000026",
+    "name": "9700고양",
+    "type": "bus"
+  },
+  "v6lw3MIqVuZ": {
+    "id": "229000023",
+    "name": "9710파주",
+    "type": "bus"
+  },
+  "vLCsLwnqEuK": {
+    "id": "222000027",
+    "name": "97남양주",
+    "type": "bus"
+  },
+  "v8QwL8kKYuj": {
+    "id": "210000075",
+    "name": "98부천",
+    "type": "bus"
+  },
+  "A6Qw8CnqVcK": {
+    "id": "229000071",
+    "name": "99파주",
+    "type": "bus"
+  },
+  "v3CXLjkqVcK": {
+    "id": "222000009",
+    "name": "9남양주",
+    "type": "bus"
+  },
+  "HLQsL05ZVWq": {
+    "id": "208000019",
+    "name": "9안양",
+    "type": "bus"
+  },
+  "v6lG3a5KVuq": {
+    "id": "232000090",
+    "name": "G6000김포",
+    "type": "bus"
+  },
+  "v3lX6ukq1IK": {
+    "id": "232000094",
+    "name": "G6001김포",
+    "type": "bus"
+  },
+  "HLQw8kTj1uK": {
+    "id": "229000072",
+    "name": "G7111파주",
+    "type": "bus"
+  },
+  "HLlw8Pkj1uZ": {
+    "id": "222000105",
+    "name": "M2316남양주",
+    "type": "bus"
+  },
+  "H3zs31kZEcZ": {
+    "id": "234001476",
+    "name": "M2323광주",
+    "type": "bus"
+  },
+  "H8Cs8OkjVcZ": {
+    "id": "234000875",
+    "name": "M4101광주",
+    "type": "bus"
+  },
+  "H8zGL_5qVuK": {
+    "id": "234001159",
+    "name": "M4102광주",
+    "type": "bus"
+  },
+  "vLQXLxnj1Iq": {
+    "id": "234001245",
+    "name": "M4108광주",
+    "type": "bus"
+  },
+  "0LQG6eTZEuj": {
+    "id": "234001577",
+    "name": "M4130광주",
+    "type": "bus"
+  },
+  "H3zw8NTj1uZ": {
+    "id": "234000995",
+    "name": "M4403광주",
+    "type": "bus"
+  },
+  "03zGLM5j1Iq": {
+    "id": "234001619",
+    "name": "M4434광주",
+    "type": "bus"
+  },
+  "v3lG6sgZ1cZ": {
+    "id": "234001243",
+    "name": "M5107광주",
+    "type": "bus"
+  },
+  "08CX8LFjYWK": {
+    "id": "234001286",
+    "name": "M5115광주",
+    "type": "bus"
+  },
+  "08Cs8CFqEcj": {
+    "id": "234001317",
+    "name": "M5121광주",
+    "type": "bus"
+  },
+  "HLQG3K4qEWj": {
+    "id": "208000063",
+    "name": "M5333안양",
+    "type": "bus"
+  },
+  "H8lsL04qVWZ": {
+    "id": "234001318",
+    "name": "M5422광주",
+    "type": "bus"
+  },
+  "A3CwLaPjVIZ": {
+    "id": "223000127",
+    "name": "M5532오산",
+    "type": "bus"
+  },
+  "0LQG3cgqEWZ": {
+    "id": "232000071",
+    "name": "M6117김포",
+    "type": "bus"
+  },
+  "06zGLkFqVuq": {
+    "id": "216000044",
+    "name": "M6410안산",
+    "type": "bus"
+  },
+  "H8QsLP4q1Wq": {
+    "id": "232000075",
+    "name": "M6427김포",
+    "type": "bus"
+  },
+  "ALQs31gjVuZ": {
+    "id": "218000012",
+    "name": "M7106고양",
+    "type": "bus"
+  },
+  "A6CX3yPjEuZ": {
+    "id": "229000102",
+    "name": "M7111파주",
+    "type": "bus"
+  },
+  "v8zw3_gKYIZ": {
+    "id": "218000015",
+    "name": "M7119고양",
+    "type": "bus"
+  },
+  "A8lw8JFqYcj": {
+    "id": "218000020",
+    "name": "M7129고양",
+    "type": "bus"
+  },
+  "HLQG6eFqYuK": {
+    "id": "234001241",
+    "name": "M7412",
+    "type": "bus"
+  },
+  "HLzG6U4ZYIK": {
+    "id": "229000111",
+    "name": "M7426파주",
+    "type": "bus"
+  },
+  "06lG6D4q1uZ": {
+    "id": "229000112",
+    "name": "M7625파주",
+    "type": "bus"
+  },
+  "03CG3sVKEcK": {
+    "id": "218000105",
+    "name": "M7731고양",
+    "type": "bus"
+  },
+  "v3lX381j1cq": {
+    "id": "241262002",
+    "name": "부천013-1",
+    "type": "bus"
+  },
+  "vLQG3CEKEcZ": {
+    "id": "241262003",
+    "name": "부천013-2",
+    "type": "bus"
+  },
+  "H6CwLqVjYIZ": {
+    "id": "241341002",
+    "name": "부천021-1",
+    "type": "bus"
+  }
+}

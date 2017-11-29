@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "서울역 4호선 13번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/7937389",
+      "category_group_name": "",
+      "place_name": "서울역 4호선 13번출구",
+      "distance": "",
+      "address_name": "서울 용산구 동자동",
+      "road_address_name": "",
+      "id": "7937389",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.97228355332135",
+      "y": "37.55243461877796"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17492603",
+      "category_group_name": "",
+      "place_name": "총신대입구역 4호선 13번출구",
+      "distance": "",
+      "address_name": "서울 동작구 사당동",
+      "road_address_name": "",
+      "id": "17492603",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.98196518163829",
+      "y": "37.48695945011142"
+    }
+  ]
+}

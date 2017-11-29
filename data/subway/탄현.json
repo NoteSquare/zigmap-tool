@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1063075327",
+      "statnNm": "탄현",
+      "ectrcNo": "1",
+      "subwayId": "1063",
+      "subwayNm": "경의중앙선",
+      "ectrcCnt": "2",
+      "cfrBuild": "태극단합동묘지, 철산아파트, 기업은행, 태영레스빌2차아파트",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1063075327",
+      "statnNm": "탄현",
+      "ectrcNo": "2",
+      "subwayId": "1063",
+      "subwayNm": "경의중앙선",
+      "ectrcCnt": "2",
+      "cfrBuild": "상탄초등학교, SBS탄현제작센터, 홀트학교, 일산동중학교, 탄현동주민센터",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

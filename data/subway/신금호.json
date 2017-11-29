@@ -1,0 +1,69 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 1,
+      "selectedCount": 3,
+      "statnId": "1005000538",
+      "statnNm": "신금호",
+      "ectrcNo": "1",
+      "subwayId": "1005",
+      "subwayNm": "5호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "금호우체국,금호중앙교회,금호파출소,대경중.정보산업고등학교,동산초등학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 2,
+      "selectedCount": 3,
+      "statnId": "1005000538",
+      "statnNm": "신금호",
+      "ectrcNo": "2",
+      "subwayId": "1005",
+      "subwayNm": "5호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "금북초등학교,금호1가동사무소,금호여자중학교,대현산배수지",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 3,
+      "selectedCount": 3,
+      "statnId": "1005000538",
+      "statnNm": "신금호",
+      "ectrcNo": "3",
+      "subwayId": "1005",
+      "subwayNm": "5호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "21세기메디칼약국,금남시장방면,금호2가동사무소,금호초등학교,복음병원,성동구보건소분소",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 3
+  }
+}

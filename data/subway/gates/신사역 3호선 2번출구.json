@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "신사역 3호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8405572",
+      "category_group_name": "",
+      "place_name": "신사역 3호선 2번출구",
+      "distance": "",
+      "address_name": "서울 강남구 논현동",
+      "road_address_name": "",
+      "id": "8405572",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.02003140901418",
+      "y": "37.51606187294276"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8487125",
+      "category_group_name": "",
+      "place_name": "압구정역 3호선 2번출구",
+      "distance": "",
+      "address_name": "서울 강남구 신사동",
+      "road_address_name": "",
+      "id": "8487125",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.02869078748779",
+      "y": "37.527027116072"
+    }
+  ]
+}

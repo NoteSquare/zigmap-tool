@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "방화역 5호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 3,
+    "total_count": 3,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/22905759",
+      "category_group_name": "",
+      "place_name": "방화역 5호선 2번출구",
+      "distance": "",
+      "address_name": "서울 강서구 방화동",
+      "road_address_name": "",
+      "id": "22905759",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.81283588527103",
+      "y": "37.57706465132609"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8211455",
+      "category_group_name": "",
+      "place_name": "김포공항역 5호선 2번출구",
+      "distance": "",
+      "address_name": "서울 강서구 방화동",
+      "road_address_name": "",
+      "id": "8211455",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.80097685684457",
+      "y": "37.56343299655063"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905380",
+      "category_group_name": "",
+      "place_name": "개화산역 5호선 2번출구",
+      "distance": "",
+      "address_name": "서울 강서구 방화동",
+      "road_address_name": "",
+      "id": "22905380",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.8061234683067",
+      "y": "37.57248753548407"
+    }
+  ]
+}

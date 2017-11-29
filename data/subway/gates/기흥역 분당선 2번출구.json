@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "기흥역 분당선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 5,
+    "total_count": 5,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/17494680",
+      "category_group_name": "",
+      "place_name": "기흥역 분당선 2번출구",
+      "distance": "",
+      "address_name": "경기 용인시 기흥구 구갈동",
+      "road_address_name": "",
+      "id": "17494680",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.11634952008657",
+      "y": "37.2763448939973"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17494677",
+      "category_group_name": "",
+      "place_name": "구성역 분당선 2번출구",
+      "distance": "",
+      "address_name": "경기 용인시 기흥구 마북동",
+      "road_address_name": "",
+      "id": "17494677",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.10590768742568",
+      "y": "37.298563177613794"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17492799",
+      "category_group_name": "",
+      "place_name": "보정역 분당선 2번출구",
+      "distance": "",
+      "address_name": "경기 용인시 기흥구 보정동",
+      "road_address_name": "",
+      "id": "17492799",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.10863377773617",
+      "y": "37.31211220844569"
+    },
+    {
+      "place_url": "http://place.map.daum.net/18501924",
+      "category_group_name": "",
+      "place_name": "상갈역 분당선 2번출구",
+      "distance": "",
+      "address_name": "경기 용인시 기흥구 상갈동",
+      "road_address_name": "",
+      "id": "18501924",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.10841349878743",
+      "y": "37.26167268119932"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17494670",
+      "category_group_name": "",
+      "place_name": "신갈역 분당선 2번출구",
+      "distance": "",
+      "address_name": "경기 용인시 기흥구 신갈동",
+      "road_address_name": "",
+      "id": "17494670",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.11197958481567",
+      "y": "37.28586395080573"
+    }
+  ]
+}

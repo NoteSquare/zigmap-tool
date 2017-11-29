@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "노원역 7호선 6번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 6,
+    "total_count": 6,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/22905903",
+      "category_group_name": "",
+      "place_name": "노원역 7호선 6번출구",
+      "distance": "",
+      "address_name": "서울 노원구 상계동",
+      "road_address_name": "",
+      "id": "22905903",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.06055759658106",
+      "y": "37.6538020760623"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22906243",
+      "category_group_name": "",
+      "place_name": "수락산역 7호선 6번출구",
+      "distance": "",
+      "address_name": "서울 노원구 상계동",
+      "road_address_name": "",
+      "id": "22906243",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05520881848696",
+      "y": "37.6789778225409"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22906194",
+      "category_group_name": "",
+      "place_name": "태릉입구역 7호선 6번출구",
+      "distance": "",
+      "address_name": "서울 노원구 공릉동",
+      "road_address_name": "",
+      "id": "22906194",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.07600149771727",
+      "y": "37.61792360848256"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905992",
+      "category_group_name": "",
+      "place_name": "중계역 7호선 6번출구",
+      "distance": "",
+      "address_name": "서울 노원구 중계동",
+      "road_address_name": "",
+      "id": "22905992",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.06356526814955",
+      "y": "37.645771037031395"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905984",
+      "category_group_name": "",
+      "place_name": "마들역 7호선 6번출구",
+      "distance": "",
+      "address_name": "서울 노원구 상계동",
+      "road_address_name": "",
+      "id": "22905984",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05759692121231",
+      "y": "37.664903523495774"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905638",
+      "category_group_name": "",
+      "place_name": "하계역 7호선 6번출구",
+      "distance": "",
+      "address_name": "서울 노원구 하계동",
+      "road_address_name": "",
+      "id": "22905638",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.06735604822201",
+      "y": "37.637443955545784"
+    }
+  ]
+}

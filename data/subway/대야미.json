@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1004000446",
+      "statnNm": "대야미",
+      "ectrcNo": "1",
+      "subwayId": "1004",
+      "subwayNm": "4호선",
+      "ectrcCnt": "2",
+      "cfrBuild": " 대야미동주민센터, 둔대초등학교, 대야미 파출소",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1004000446",
+      "statnNm": "대야미",
+      "ectrcNo": "2",
+      "subwayId": "1004",
+      "subwayNm": "4호선",
+      "ectrcCnt": "2",
+      "cfrBuild": " 대야 초등학교, 둔대 초등학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

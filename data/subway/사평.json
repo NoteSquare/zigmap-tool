@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1009000924",
+      "statnNm": "사평",
+      "ectrcNo": "1",
+      "subwayId": "1009",
+      "subwayNm": "9호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "자이아파트,반포1동주민센터,원촌초등학교,원촌중학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1009000924",
+      "statnNm": "사평",
+      "ectrcNo": "2",
+      "subwayId": "1009",
+      "subwayNm": "9호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "삼호가든,서원초등학교,고무래공원,반포고등학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

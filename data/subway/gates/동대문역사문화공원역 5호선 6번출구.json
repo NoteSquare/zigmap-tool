@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "동대문역사문화공원역 5호선 6번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/11098175",
+      "category_group_name": "",
+      "place_name": "동대문역사문화공원역 5호선 6번출구",
+      "distance": "",
+      "address_name": "서울 중구 쌍림동",
+      "road_address_name": "",
+      "id": "11098175",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.00369931402157",
+      "y": "37.56462680872237"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "천왕역 7호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/27447157",
+      "category_group_name": "",
+      "place_name": "천왕역 7호선 1번출구",
+      "distance": "",
+      "address_name": "서울 구로구 오류동",
+      "road_address_name": "",
+      "id": "27447157",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.83871747585388",
+      "y": "37.48618577579448"
+    }
+  ]
+}

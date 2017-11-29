@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1063075330",
+      "statnNm": "금릉",
+      "ectrcNo": "1",
+      "subwayId": "1063",
+      "subwayNm": "경의중앙선",
+      "ectrcCnt": "2",
+      "cfrBuild": "주공뜨란채 3단지, 금화초등학교, 국민연금공단파주지사, 금촌2동 주민센터, 중앙광장, 센트럴타워, 파주시보건소",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1063075330",
+      "statnNm": "금릉",
+      "ectrcNo": "2",
+      "subwayId": "1063",
+      "subwayNm": "경의중앙선",
+      "ectrcCnt": "2",
+      "cfrBuild": "하나은행, 파주세무서, 파주우체국, 금릉초.중학교, 금촌2동주민센터",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

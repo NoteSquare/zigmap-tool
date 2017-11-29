@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "간석역 1호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 4,
+    "total_count": 4,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/10114690",
+      "category_group_name": "",
+      "place_name": "간석역 1호선 2번출구",
+      "distance": "",
+      "address_name": "인천 남동구 간석동",
+      "road_address_name": "",
+      "id": "10114690",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.69406394542798",
+      "y": "37.46504879847654"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8674074",
+      "category_group_name": "",
+      "place_name": "간석오거리역 인천1호선 2번출구",
+      "distance": "",
+      "address_name": "인천 남동구 간석동",
+      "road_address_name": "",
+      "id": "8674074",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.70875122343031",
+      "y": "37.46693495018058"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7907236",
+      "category_group_name": "",
+      "place_name": "부평삼거리역 인천1호선 2번출구",
+      "distance": "",
+      "address_name": "인천 남동구 간석동",
+      "road_address_name": "",
+      "id": "7907236",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.7102399864266",
+      "y": "37.477119929463335"
+    },
+    {
+      "place_url": "http://place.map.daum.net/11166620",
+      "category_group_name": "",
+      "place_name": "인천시청역 인천1호선 2번출구",
+      "distance": "",
+      "address_name": "인천 남동구 간석동",
+      "road_address_name": "",
+      "id": "11166620",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.70240498914359",
+      "y": "37.4573504231088"
+    }
+  ]
+}

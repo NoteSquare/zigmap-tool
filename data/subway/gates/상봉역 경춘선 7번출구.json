@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "7번출구",
+      "selected_region": "서울 중랑구 상봉역경춘선"
+    },
+    "pageable_count": 6,
+    "total_count": 6,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/17495855",
+      "category_group_name": "",
+      "place_name": "상봉역 경의중앙선 7번출구",
+      "distance": "",
+      "address_name": "서울 중랑구 상봉동",
+      "road_address_name": "",
+      "id": "17495855",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.08558341484488",
+      "y": "37.597374780366756"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22906174",
+      "category_group_name": "",
+      "place_name": "먹골역 7호선 7번출구",
+      "distance": "",
+      "address_name": "서울 중랑구 묵동",
+      "road_address_name": "",
+      "id": "22906174",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.07736797916476",
+      "y": "37.61170596900094"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22906199",
+      "category_group_name": "",
+      "place_name": "태릉입구역 6호선 7번출구",
+      "distance": "",
+      "address_name": "서울 노원구 공릉동",
+      "road_address_name": "",
+      "id": "22906199",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.07606918805216",
+      "y": "37.61765327156649"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8690343",
+      "category_group_name": "",
+      "place_name": "화랑대역 6호선 7번출구",
+      "distance": "",
+      "address_name": "서울 중랑구 묵동",
+      "road_address_name": "",
+      "id": "8690343",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.08473857333024",
+      "y": "37.61964765323913"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905976",
+      "category_group_name": "",
+      "place_name": "돌곶이역 6호선 7번출구",
+      "distance": "",
+      "address_name": "서울 성북구 석관동",
+      "road_address_name": "",
+      "id": "22905976",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05723896434105",
+      "y": "37.61053870462539"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10490011",
+      "category_group_name": "",
+      "place_name": "석계역 6호선 7번출구",
+      "distance": "",
+      "address_name": "서울 성북구 석관동",
+      "road_address_name": "",
+      "id": "10490011",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.06518379434337",
+      "y": "37.61444494591587"
+    }
+  ]
+}

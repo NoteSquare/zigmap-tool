@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "서울역 4호선 11번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/10501825",
+      "category_group_name": "",
+      "place_name": "서울역 4호선 11번출구",
+      "distance": "",
+      "address_name": "서울 용산구 동자동",
+      "road_address_name": "",
+      "id": "10501825",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.97299842135396",
+      "y": "37.55336101204744"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905792",
+      "category_group_name": "",
+      "place_name": "사당역 4호선 11번출구",
+      "distance": "",
+      "address_name": "서울 서초구 방배동",
+      "road_address_name": "",
+      "id": "22905792",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.98199005291559",
+      "y": "37.47828461154207"
+    }
+  ]
+}

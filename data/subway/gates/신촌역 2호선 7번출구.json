@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "신촌역 2호선 7번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/27453972",
+      "category_group_name": "",
+      "place_name": "신촌역 2호선 7번출구",
+      "distance": "",
+      "address_name": "서울 마포구 노고산동",
+      "road_address_name": "",
+      "id": "27453972",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.93624864480654",
+      "y": "37.55502225937299"
+    },
+    {
+      "place_url": "http://place.map.daum.net/1766752063",
+      "category_group_name": "",
+      "place_name": "신촌역(2호선) 7번출구 앞 대여소",
+      "distance": "",
+      "address_name": "서울 마포구 노고산동 31-123",
+      "road_address_name": "",
+      "id": "1766752063",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "스포츠,레저 > 자전거,싸이클 > 자전거대여소",
+      "x": "126.9361582490587",
+      "y": "37.55486003112463"
+    }
+  ]
+}

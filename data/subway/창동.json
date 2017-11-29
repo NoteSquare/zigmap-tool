@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1004000412",
+      "statnNm": "창동",
+      "ectrcNo": "1",
+      "subwayId": "1004",
+      "subwayNm": "4호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "서울특별시창동청소년수련관, 도봉경찰서, 상계주공아파트17-19단지, 창동주차장, 한국전기안전공사 서울북부지사, 창4동주민센터, 창동지구대, 동아아파트, 노원세무서, 국민연금도봉노원지사, 서울열린극장 창동, 창동문화마당, 시립창동문화체육센터, 노곡중학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1004000412",
+      "statnNm": "창동",
+      "ectrcNo": "2",
+      "subwayId": "1004",
+      "subwayNm": "4호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "도봉등기소, 도봉구시설관리공단, 창5동우체국, 창5동주민센터, 창동초등학교, 창일중학교, 창동아파트3단지, 상아아파트, 동아그린아파트, 북부교육지원청, 삼성아파트, 신도브래뉴아파트, 북한산 I PARK",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "동대문역 1호선 5번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 6,
+    "total_count": 6,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/10304243",
+      "category_group_name": "",
+      "place_name": "동대문역 1호선 5번출구",
+      "distance": "",
+      "address_name": "서울 종로구 창신동",
+      "road_address_name": "",
+      "id": "10304243",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.01177274343156",
+      "y": "37.571780231425755"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22906057",
+      "category_group_name": "",
+      "place_name": "신설동역 1호선 5번출구",
+      "distance": "",
+      "address_name": "서울 동대문구 신설동",
+      "road_address_name": "",
+      "id": "22906057",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.02470115670408",
+      "y": "37.57596979464313"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8543218",
+      "category_group_name": "",
+      "place_name": "청량리역 1호선 5번출구",
+      "distance": "",
+      "address_name": "서울 동대문구 전농동",
+      "road_address_name": "",
+      "id": "8543218",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.04539707719978",
+      "y": "37.579928258881324"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8578488",
+      "category_group_name": "",
+      "place_name": "제기동역 1호선 5번출구",
+      "distance": "",
+      "address_name": "서울 동대문구 용두동",
+      "road_address_name": "",
+      "id": "8578488",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.03395304379707",
+      "y": "37.578039885556855"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17495219",
+      "category_group_name": "",
+      "place_name": "외대앞역 1호선 5번출구",
+      "distance": "",
+      "address_name": "서울 동대문구 이문동",
+      "road_address_name": "",
+      "id": "17495219",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.06282122372427",
+      "y": "37.59520841541355"
+    },
+    {
+      "place_url": "http://place.map.daum.net/11749551",
+      "category_group_name": "",
+      "place_name": "신이문역 1호선 5번출구",
+      "distance": "",
+      "address_name": "서울 동대문구 이문동",
+      "road_address_name": "",
+      "id": "11749551",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.06703837261463",
+      "y": "37.60079224872779"
+    }
+  ]
+}

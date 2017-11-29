@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "춘의역 7호선 4번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/18501837",
+      "category_group_name": "",
+      "place_name": "춘의역 7호선 4번출구",
+      "distance": "",
+      "address_name": "경기 부천시 춘의동",
+      "road_address_name": "",
+      "id": "18501837",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.78636295078053",
+      "y": "37.50340840944389"
+    },
+    {
+      "place_url": "http://place.map.daum.net/18501867",
+      "category_group_name": "",
+      "place_name": "부천종합운동장역 7호선 4번출구",
+      "distance": "",
+      "address_name": "경기 부천시 춘의동",
+      "road_address_name": "",
+      "id": "18501867",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.79698747923041",
+      "y": "37.505708604886365"
+    }
+  ]
+}

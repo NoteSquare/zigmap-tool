@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "논현역 7호선 5번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/11016637",
+      "category_group_name": "",
+      "place_name": "논현역 7호선 5번출구",
+      "distance": "",
+      "address_name": "서울 서초구 잠원동",
+      "road_address_name": "",
+      "id": "11016637",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.02094861070313",
+      "y": "37.511142283237426"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8645326",
+      "category_group_name": "",
+      "place_name": "학동역 7호선 5번출구",
+      "distance": "",
+      "address_name": "서울 강남구 논현동",
+      "road_address_name": "",
+      "id": "8645326",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.03042786016766",
+      "y": "37.51375323476006"
+    }
+  ]
+}

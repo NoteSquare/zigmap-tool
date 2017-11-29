@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "공항철도 4번출구",
+      "selected_region": "서울 용산구 서울역"
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/26505202",
+      "category_group_name": "",
+      "place_name": "그린카 서울역공항철도4번출구점",
+      "distance": "",
+      "address_name": "서울 용산구 서계동 47-2",
+      "road_address_name": "서울 용산구 청파로 369",
+      "id": "26505202",
+      "phone": "080-2000-3000",
+      "category_group_code": "",
+      "category_name": "서비스,산업 > 전문대행 > 렌트카",
+      "x": "126.96891110681742",
+      "y": "37.55253464663362"
+    }
+  ]
+}

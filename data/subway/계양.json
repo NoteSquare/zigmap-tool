@@ -1,0 +1,31 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 1,
+      "rowNum": 1,
+      "selectedCount": 1,
+      "statnId": "1069073110",
+      "statnNm": "계양",
+      "ectrcNo": "1",
+      "subwayId": "1069",
+      "subwayNm": "인천1호선",
+      "ectrcCnt": "1",
+      "cfrBuild": "계양1동 주민센터,장기치안센터,계양1동 우체국,계양초등학교,계양중학교,계양1동 보건소,장기119안전센터,계양1동 주민센터,장기치안센터,계양1동 우체국,계양초등학교,계양중학교,계양1동 보건소,장기119안전센터",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 1
+  }
+}

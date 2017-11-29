@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "송내역 1호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/7963180",
+      "category_group_name": "",
+      "place_name": "송내역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 부천시 송내동",
+      "road_address_name": "",
+      "id": "7963180",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.75294010629278",
+      "y": "37.48746003025423"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8593438",
+      "category_group_name": "",
+      "place_name": "중동역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 부천시 송내동",
+      "road_address_name": "",
+      "id": "8593438",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.76408275796786",
+      "y": "37.486499056530725"
+    }
+  ]
+}

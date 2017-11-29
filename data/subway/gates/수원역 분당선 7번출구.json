@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "수원역 분당선 7번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 5,
+    "total_count": 5,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/27467729",
+      "category_group_name": "",
+      "place_name": "수원역 분당선 7번출구",
+      "distance": "",
+      "address_name": "경기 수원시 팔달구 매산로1가",
+      "road_address_name": "",
+      "id": "27467729",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.00146746419284",
+      "y": "37.26713796408755"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22251151",
+      "category_group_name": "",
+      "place_name": "수원시청역 분당선 7번출구",
+      "distance": "",
+      "address_name": "경기 수원시 팔달구 인계동",
+      "road_address_name": "",
+      "id": "22251151",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0312287147458",
+      "y": "37.26205960509836"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22251164",
+      "category_group_name": "",
+      "place_name": "매교역 분당선 7번출구",
+      "distance": "",
+      "address_name": "경기 수원시 팔달구 매교동",
+      "road_address_name": "",
+      "id": "22251164",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.01601964560705",
+      "y": "37.26587562633155"
+    },
+    {
+      "place_url": "http://place.map.daum.net/18501849",
+      "category_group_name": "",
+      "place_name": "영통역 분당선 7번출구",
+      "distance": "",
+      "address_name": "경기 수원시 영통구 영통동",
+      "road_address_name": "",
+      "id": "18501849",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.07063059904699",
+      "y": "37.251969576663136"
+    },
+    {
+      "place_url": "http://place.map.daum.net/18501879",
+      "category_group_name": "",
+      "place_name": "망포역 분당선 7번출구",
+      "distance": "",
+      "address_name": "경기 수원시 영통구 영통동",
+      "road_address_name": "",
+      "id": "18501879",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0575150419879",
+      "y": "37.24613057616827"
+    }
+  ]
+}

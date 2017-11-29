@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "건대입구역 7호선 3번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/22906025",
+      "category_group_name": "",
+      "place_name": "건대입구역 7호선 3번출구",
+      "distance": "",
+      "address_name": "서울 광진구 화양동",
+      "road_address_name": "",
+      "id": "22906025",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.07135352095811",
+      "y": "37.54088129185227"
+    },
+    {
+      "place_url": "http://place.map.daum.net/20301071",
+      "category_group_name": "",
+      "place_name": "알파 건대본점",
+      "distance": "",
+      "address_name": "서울 광진구 화양동 6-3",
+      "road_address_name": "서울 광진구 능동로 110",
+      "id": "20301071",
+      "phone": "02-3437-0096",
+      "category_group_code": "",
+      "category_name": "가정,생활 > 문구,사무용품 > 알파",
+      "x": "127.0710457118661",
+      "y": "37.54083822583448"
+    }
+  ]
+}

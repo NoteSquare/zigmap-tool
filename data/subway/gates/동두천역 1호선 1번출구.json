@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "동두천역 1호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 5,
+    "total_count": 5,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/27456125",
+      "category_group_name": "",
+      "place_name": "동두천역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 동두천시 동두천동",
+      "road_address_name": "",
+      "id": "27456125",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05540274715389",
+      "y": "37.927651329163254"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10296625",
+      "category_group_name": "",
+      "place_name": "동두천중앙역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 동두천시 생연동",
+      "road_address_name": "",
+      "id": "10296625",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05619346185438",
+      "y": "37.901819357808975"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7957928",
+      "category_group_name": "",
+      "place_name": "소요산역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 동두천시 상봉암동",
+      "road_address_name": "",
+      "id": "7957928",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.06135647023756",
+      "y": "37.94797346494476"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8078056",
+      "category_group_name": "",
+      "place_name": "지행역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 동두천시 지행동",
+      "road_address_name": "",
+      "id": "8078056",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.055399582807",
+      "y": "37.89211842677513"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7892431",
+      "category_group_name": "",
+      "place_name": "보산역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 동두천시 보산동",
+      "road_address_name": "",
+      "id": "7892431",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05704402441737",
+      "y": "37.91403565180929"
+    }
+  ]
+}

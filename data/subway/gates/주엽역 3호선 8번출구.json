@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "주엽역 3호선 8번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8068608",
+      "category_group_name": "",
+      "place_name": "주엽역 3호선 8번출구",
+      "distance": "",
+      "address_name": "경기 고양시 일산서구 주엽동",
+      "road_address_name": "",
+      "id": "8068608",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.7620394566325",
+      "y": "37.67001110929329"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "오류동역 1호선 3번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 3,
+    "total_count": 3,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8011368",
+      "category_group_name": "",
+      "place_name": "오류동역 1호선 3번출구",
+      "distance": "",
+      "address_name": "서울 구로구 오류동",
+      "road_address_name": "",
+      "id": "8011368",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.84386931148924",
+      "y": "37.49457205645684"
+    },
+    {
+      "place_url": "http://place.map.daum.net/27457917",
+      "category_group_name": "",
+      "place_name": "오룡역 대전1호선 3번출구",
+      "distance": "",
+      "address_name": "대전 중구 오류동",
+      "road_address_name": "",
+      "id": "27457917",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.40443882596148",
+      "y": "36.32852961192349"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10498214",
+      "category_group_name": "",
+      "place_name": "서대전네거리역 대전1호선 3번출구",
+      "distance": "",
+      "address_name": "대전 중구 오류동",
+      "road_address_name": "",
+      "id": "10498214",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.41184627865913",
+      "y": "36.322394467895165"
+    }
+  ]
+}

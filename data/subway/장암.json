@@ -1,0 +1,31 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 1,
+      "rowNum": 1,
+      "selectedCount": 1,
+      "statnId": "1007000709",
+      "statnNm": "장암",
+      "ectrcNo": "1",
+      "subwayId": "1007",
+      "subwayNm": "7호선",
+      "ectrcCnt": "1",
+      "cfrBuild": " 장암동, 수락산, 장곡동, 장암역환승공영주차장, 의정부 방면, 포천 방면",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 1
+  }
+}

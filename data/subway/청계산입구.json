@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1077006810",
+      "statnNm": "청계산입구",
+      "ectrcNo": "1",
+      "subwayId": "1077",
+      "subwayNm": "신분당선",
+      "ectrcCnt": "2",
+      "cfrBuild": "서초구 견인차량보관소",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1077006810",
+      "statnNm": "청계산입구",
+      "ectrcNo": "2",
+      "subwayId": "1077",
+      "subwayNm": "신분당선",
+      "ectrcCnt": "2",
+      "cfrBuild": "청계산입구, 청계주말농장",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

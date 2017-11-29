@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "명동역 4호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/10348258",
+      "category_group_name": "",
+      "place_name": "명동역 4호선 2번출구",
+      "distance": "",
+      "address_name": "서울 중구 충무로2가",
+      "road_address_name": "",
+      "id": "10348258",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.985929856729",
+      "y": "37.56080560540065"
+    }
+  ]
+}

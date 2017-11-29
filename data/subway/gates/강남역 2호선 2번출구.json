@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "강남역 2호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 3,
+    "total_count": 3,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/22906009",
+      "category_group_name": "",
+      "place_name": "강남역 2호선 2번출구",
+      "distance": "",
+      "address_name": "서울 강남구 역삼동",
+      "road_address_name": "",
+      "id": "22906009",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.02822767759729",
+      "y": "37.49730873717136"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905651",
+      "category_group_name": "",
+      "place_name": "역삼역 2호선 2번출구",
+      "distance": "",
+      "address_name": "서울 강남구 역삼동",
+      "road_address_name": "",
+      "id": "22905651",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.03668790428844",
+      "y": "37.50049605798774"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7919398",
+      "category_group_name": "",
+      "place_name": "삼성역 2호선 2번출구",
+      "distance": "",
+      "address_name": "서울 강남구 대치동",
+      "road_address_name": "",
+      "id": "7919398",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.06386765137815",
+      "y": "37.50844966278518"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "대림역 2호선 4번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 3,
+    "total_count": 3,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8288841",
+      "category_group_name": "",
+      "place_name": "대림역 2호선 4번출구",
+      "distance": "",
+      "address_name": "서울 구로구 구로동",
+      "road_address_name": "",
+      "id": "8288841",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.89419074006864",
+      "y": "37.494131134207905"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10144021",
+      "category_group_name": "",
+      "place_name": "구로디지털단지역 2호선 4번출구",
+      "distance": "",
+      "address_name": "서울 영등포구 대림동",
+      "road_address_name": "",
+      "id": "10144021",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.90103183225617",
+      "y": "37.48586597047856"
+    },
+    {
+      "place_url": "http://place.map.daum.net/18112443",
+      "category_group_name": "편의점",
+      "place_name": "세븐일레븐 M대림역2호점",
+      "distance": "",
+      "address_name": "서울 구로구 구로동 1209",
+      "road_address_name": "서울 구로구 도림천로 352",
+      "id": "18112443",
+      "phone": "02-832-3378",
+      "category_group_code": "CS2",
+      "category_name": "가정,생활 > 슈퍼마켓 > 편의점 > 세븐일레븐",
+      "x": "126.89434515149043",
+      "y": "37.49369519068163"
+    }
+  ]
+}

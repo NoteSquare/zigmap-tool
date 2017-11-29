@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "남구로역 7호선 6번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/10185214",
+      "category_group_name": "",
+      "place_name": "남구로역 7호선 6번출구",
+      "distance": "",
+      "address_name": "서울 구로구 구로동",
+      "road_address_name": "",
+      "id": "10185214",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.88844255759335",
+      "y": "37.48760253418869"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8133349",
+      "category_group_name": "중개업소",
+      "place_name": "한빛공인중개사사무소",
+      "distance": "",
+      "address_name": "서울 구로구 구로동 771-10",
+      "road_address_name": "서울 구로구 도림로 35-1",
+      "id": "8133349",
+      "phone": "02-868-1005",
+      "category_group_code": "AG2",
+      "category_name": "부동산 > 부동산서비스 > 부동산중개업소",
+      "x": "126.88831148363671",
+      "y": "37.487544744658834"
+    }
+  ]
+}

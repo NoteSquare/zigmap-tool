@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "예술회관역 인천1호선 8번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8015153",
+      "category_group_name": "",
+      "place_name": "예술회관역 인천1호선 8번출구",
+      "distance": "",
+      "address_name": "인천 남동구 구월동",
+      "road_address_name": "",
+      "id": "8015153",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.7008760702212",
+      "y": "37.44965198091267"
+    }
+  ]
+}

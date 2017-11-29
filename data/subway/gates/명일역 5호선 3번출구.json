@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "명일역 5호선 3번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/22905957",
+      "category_group_name": "",
+      "place_name": "명일역 5호선 3번출구",
+      "distance": "",
+      "address_name": "서울 강동구 명일동",
+      "road_address_name": "",
+      "id": "22905957",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.14424266323073",
+      "y": "37.5515302817557"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905699",
+      "category_group_name": "",
+      "place_name": "굽은다리역 5호선 3번출구",
+      "distance": "",
+      "address_name": "서울 강동구 명일동",
+      "road_address_name": "",
+      "id": "22905699",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.1432499064157",
+      "y": "37.54599939460851"
+    }
+  ]
+}

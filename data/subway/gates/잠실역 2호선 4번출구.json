@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "잠실역 2호선 4번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 4,
+    "total_count": 4,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/27446574",
+      "category_group_name": "",
+      "place_name": "잠실역 2호선 4번출구",
+      "distance": "",
+      "address_name": "서울 송파구 잠실동",
+      "road_address_name": "",
+      "id": "27446574",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.09910660821542",
+      "y": "37.5127505927936"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905858",
+      "category_group_name": "",
+      "place_name": "잠실새내역 2호선 4번출구",
+      "distance": "",
+      "address_name": "서울 송파구 잠실동",
+      "road_address_name": "",
+      "id": "22905858",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0847268822246",
+      "y": "37.51144614192356"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8414490",
+      "category_group_name": "",
+      "place_name": "잠실나루역 2호선 4번출구",
+      "distance": "",
+      "address_name": "서울 송파구 신천동",
+      "road_address_name": "",
+      "id": "8414490",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.10344757350624",
+      "y": "37.52098202963287"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10795132",
+      "category_group_name": "",
+      "place_name": "종합운동장역 2호선 4번출구",
+      "distance": "",
+      "address_name": "서울 송파구 잠실동",
+      "road_address_name": "",
+      "id": "10795132",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0727141404829",
+      "y": "37.51050974802331"
+    }
+  ]
+}

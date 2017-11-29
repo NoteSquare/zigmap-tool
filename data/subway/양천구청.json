@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1002002342",
+      "statnNm": "양천구청",
+      "ectrcNo": "1",
+      "subwayId": "1002",
+      "subwayNm": "2호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "갈산초등학교,목동아파트 13.14단지,서울은정초등학교,서울출입국관리사무소,신목고등학교,신정6동사무소,양천경찰서,양천구민회관,양천구보건소,양천구의회,양천구청,양천세무서,서울출입국별관,남부보호관찰소,은정초등학교,지방법원남부지원,지방검찰청남부지청,목동아파트13,14단지,삼성레미안아파트, 목동우성아파트,양천공원",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1002002342",
+      "statnNm": "양천구청",
+      "ectrcNo": "2",
+      "subwayId": "1002",
+      "subwayNm": "2호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "계남초등학교,목동아파트 9.12단지,봉영여중,신정7동사무소,양천아파트,양천여고,목동고등학교,양천아파트,신트리공원,계남공원,목동아파트9,10,11,12단지",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "영통역 분당선 4번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 5,
+    "total_count": 5,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/18501817",
+      "category_group_name": "",
+      "place_name": "영통역 분당선 4번출구",
+      "distance": "",
+      "address_name": "경기 수원시 영통구 영통동",
+      "road_address_name": "",
+      "id": "18501817",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.07117062147553",
+      "y": "37.250862786934015"
+    },
+    {
+      "place_url": "http://place.map.daum.net/18501847",
+      "category_group_name": "",
+      "place_name": "망포역 분당선 4번출구",
+      "distance": "",
+      "address_name": "경기 수원시 영통구 영통동",
+      "road_address_name": "",
+      "id": "18501847",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05635635448394",
+      "y": "37.24606624376607"
+    },
+    {
+      "place_url": "http://place.map.daum.net/18501877",
+      "category_group_name": "",
+      "place_name": "청명역 분당선 4번출구",
+      "distance": "",
+      "address_name": "경기 수원시 영통구 영통동",
+      "road_address_name": "",
+      "id": "18501877",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.07807713431356",
+      "y": "37.259101202584894"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22251149",
+      "category_group_name": "",
+      "place_name": "매탄권선역 분당선 4번출구",
+      "distance": "",
+      "address_name": "경기 수원시 영통구 매탄동",
+      "road_address_name": "",
+      "id": "22251149",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.04058089897296",
+      "y": "37.25320871452232"
+    },
+    {
+      "place_url": "http://place.map.daum.net/27392734",
+      "category_group_name": "",
+      "place_name": "광교중앙역 신분당선 4번출구",
+      "distance": "",
+      "address_name": "경기 수원시 영통구 이의동",
+      "road_address_name": "",
+      "id": "27392734",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05233617445917",
+      "y": "37.28818239192017"
+    }
+  ]
+}

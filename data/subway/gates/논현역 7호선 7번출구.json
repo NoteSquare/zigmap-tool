@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "논현역 7호선 7번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8247663",
+      "category_group_name": "",
+      "place_name": "논현역 7호선 7번출구",
+      "distance": "",
+      "address_name": "서울 강남구 논현동",
+      "road_address_name": "",
+      "id": "8247663",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.02136498499655",
+      "y": "37.51169362424422"
+    },
+    {
+      "place_url": "http://place.map.daum.net/11277354",
+      "category_group_name": "",
+      "place_name": "학동역 7호선 7번출구",
+      "distance": "",
+      "address_name": "서울 강남구 논현동",
+      "road_address_name": "",
+      "id": "11277354",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.03045067682598",
+      "y": "37.51425778732467"
+    }
+  ]
+}

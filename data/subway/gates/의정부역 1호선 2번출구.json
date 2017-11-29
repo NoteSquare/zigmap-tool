@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "의정부역 1호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 4,
+    "total_count": 4,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8044689",
+      "category_group_name": "",
+      "place_name": "의정부역 1호선 2번출구",
+      "distance": "",
+      "address_name": "경기 의정부시 의정부동",
+      "road_address_name": "경기 의정부시 시민로 100",
+      "id": "8044689",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.04538149107111",
+      "y": "37.73835559323255"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8105568",
+      "category_group_name": "",
+      "place_name": "가능역 1호선 2번출구",
+      "distance": "",
+      "address_name": "경기 의정부시 의정부동",
+      "road_address_name": "",
+      "id": "8105568",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.04453418951141",
+      "y": "37.748457484371215"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7862947",
+      "category_group_name": "",
+      "place_name": "망월사역 1호선 2번출구",
+      "distance": "",
+      "address_name": "경기 의정부시 호원동",
+      "road_address_name": "",
+      "id": "7862947",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.04706672603507",
+      "y": "37.71138008535215"
+    },
+    {
+      "place_url": "http://place.map.daum.net/27454795",
+      "category_group_name": "",
+      "place_name": "녹양역 1호선 2번출구",
+      "distance": "",
+      "address_name": "경기 의정부시 녹양동",
+      "road_address_name": "",
+      "id": "27454795",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.04244339615892",
+      "y": "37.759449937757815"
+    }
+  ]
+}

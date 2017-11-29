@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "신내역 경춘선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/22650321",
+      "category_group_name": "",
+      "place_name": "신내역 경춘선 1번출구",
+      "distance": "",
+      "address_name": "서울 중랑구 망우동",
+      "road_address_name": "",
+      "id": "22650321",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.10279334942891",
+      "y": "37.612667157867435"
+    }
+  ]
+}

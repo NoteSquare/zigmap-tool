@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "직산역 1호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/11154588",
+      "category_group_name": "",
+      "place_name": "직산역 1호선 2번출구",
+      "distance": "",
+      "address_name": "충남 천안시 서북구 직산읍 모시리",
+      "road_address_name": "",
+      "id": "11154588",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.14367003797621",
+      "y": "36.87052667029685"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "부평역 1호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 9,
+    "total_count": 9,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/17495079",
+      "category_group_name": "",
+      "place_name": "부평역 1호선 2번출구",
+      "distance": "",
+      "address_name": "인천 부평구 부평동",
+      "road_address_name": "",
+      "id": "17495079",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.72343650387256",
+      "y": "37.48908815165415"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7906878",
+      "category_group_name": "",
+      "place_name": "부평시장역 인천1호선 2번출구",
+      "distance": "",
+      "address_name": "인천 부평구 부평동",
+      "road_address_name": "",
+      "id": "7906878",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.72255370911309",
+      "y": "37.49782574163674"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7907236",
+      "category_group_name": "",
+      "place_name": "부평삼거리역 인천1호선 2번출구",
+      "distance": "",
+      "address_name": "인천 남동구 간석동",
+      "road_address_name": "",
+      "id": "7907236",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.7102399864266",
+      "y": "37.477119929463335"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10454710",
+      "category_group_name": "",
+      "place_name": "부평구청역 인천1호선 2번출구",
+      "distance": "",
+      "address_name": "인천 부평구 갈산동",
+      "road_address_name": "",
+      "id": "10454710",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.72079654209483",
+      "y": "37.50804968063035"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8332987",
+      "category_group_name": "",
+      "place_name": "동암역 1호선 2번출구",
+      "distance": "",
+      "address_name": "인천 부평구 십정동",
+      "road_address_name": "",
+      "id": "8332987",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.70269886239399",
+      "y": "37.47098151086422"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10395278",
+      "category_group_name": "",
+      "place_name": "백운역 1호선 2번출구",
+      "distance": "",
+      "address_name": "인천 부평구 십정동",
+      "road_address_name": "",
+      "id": "10395278",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.7073649244924",
+      "y": "37.483780197749134"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7905443",
+      "category_group_name": "",
+      "place_name": "부개역 1호선 2번출구",
+      "distance": "",
+      "address_name": "인천 부평구 부개동",
+      "road_address_name": "",
+      "id": "7905443",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.7400684346513",
+      "y": "37.488711666598206"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17491983",
+      "category_group_name": "",
+      "place_name": "갈산역 인천1호선 2번출구",
+      "distance": "",
+      "address_name": "인천 부평구 갈산동",
+      "road_address_name": "",
+      "id": "17491983",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.72164040410698",
+      "y": "37.5158903320748"
+    },
+    {
+      "place_url": "http://place.map.daum.net/27455571",
+      "category_group_name": "",
+      "place_name": "동수역 인천1호선 2번출구",
+      "distance": "",
+      "address_name": "인천 부평구 부평동",
+      "road_address_name": "",
+      "id": "27455571",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.71838568529915",
+      "y": "37.48516582528478"
+    }
+  ]
+}

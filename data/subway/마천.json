@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1005080555",
+      "statnNm": "마천",
+      "ectrcNo": "1",
+      "subwayId": "1005",
+      "subwayNm": "5호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "거여소방파출소,마천1,마천우체국,마천초등학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1005080555",
+      "statnNm": "마천",
+      "ectrcNo": "2",
+      "subwayId": "1005",
+      "subwayNm": "5호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "마천파출소,송파 인성 장애인 종합복지관,어린이 안전공원(700)",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

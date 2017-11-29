@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "서울역 4호선 14번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/7934131",
+      "category_group_name": "",
+      "place_name": "서울역 4호선 14번출구",
+      "distance": "",
+      "address_name": "서울 용산구 동자동",
+      "road_address_name": "",
+      "id": "7934131",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.97250048353419",
+      "y": "37.553342870918605"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17495489",
+      "category_group_name": "",
+      "place_name": "총신대입구역 4호선 14번출구",
+      "distance": "",
+      "address_name": "서울 동작구 사당동",
+      "road_address_name": "",
+      "id": "17495489",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.9820688333464",
+      "y": "37.48839386040897"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "영통역 분당선 5번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 4,
+    "total_count": 4,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/18501848",
+      "category_group_name": "",
+      "place_name": "영통역 분당선 5번출구",
+      "distance": "",
+      "address_name": "경기 수원시 영통구 영통동",
+      "road_address_name": "",
+      "id": "18501848",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.07060735794244",
+      "y": "37.25120551098088"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22251163",
+      "category_group_name": "",
+      "place_name": "매탄권선역 분당선 5번출구",
+      "distance": "",
+      "address_name": "경기 수원시 영통구 매탄동",
+      "road_address_name": "",
+      "id": "22251163",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.04155865897143",
+      "y": "37.252000998551566"
+    },
+    {
+      "place_url": "http://place.map.daum.net/18501878",
+      "category_group_name": "",
+      "place_name": "망포역 분당선 5번출구",
+      "distance": "",
+      "address_name": "경기 수원시 영통구 영통동",
+      "road_address_name": "",
+      "id": "18501878",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05679378047364",
+      "y": "37.24622822715744"
+    },
+    {
+      "place_url": "http://place.map.daum.net/18501909",
+      "category_group_name": "",
+      "place_name": "청명역 분당선 5번출구",
+      "distance": "",
+      "address_name": "경기 수원시 영통구 영통동",
+      "road_address_name": "",
+      "id": "18501909",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0787632535882",
+      "y": "37.25982158540006"
+    }
+  ]
+}

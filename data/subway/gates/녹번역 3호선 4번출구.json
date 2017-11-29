@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "녹번역 3호선 4번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/22905770",
+      "category_group_name": "",
+      "place_name": "녹번역 3호선 4번출구",
+      "distance": "",
+      "address_name": "서울 은평구 녹번동",
+      "road_address_name": "서울 은평구 통일로62길 17",
+      "id": "22905770",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.93537045649097",
+      "y": "37.60106579519577"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "부천역 1호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 5,
+    "total_count": 5,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/7913984",
+      "category_group_name": "",
+      "place_name": "부천역 1호선 2번출구",
+      "distance": "",
+      "address_name": "경기 부천시 심곡본동",
+      "road_address_name": "",
+      "id": "7913984",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.78245277697319",
+      "y": "37.483842357209426"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8005209",
+      "category_group_name": "",
+      "place_name": "역곡역 1호선 2번출구",
+      "distance": "",
+      "address_name": "경기 부천시 역곡동",
+      "road_address_name": "",
+      "id": "8005209",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.81157432790316",
+      "y": "37.48533435946872"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17492522",
+      "category_group_name": "",
+      "place_name": "송내역 1호선 2번출구",
+      "distance": "",
+      "address_name": "경기 부천시 상동",
+      "road_address_name": "",
+      "id": "17492522",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.75296138276833",
+      "y": "37.48786372233567"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8081693",
+      "category_group_name": "",
+      "place_name": "중동역 1호선 2번출구",
+      "distance": "",
+      "address_name": "경기 부천시 상동",
+      "road_address_name": "",
+      "id": "8081693",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.76419448015653",
+      "y": "37.48692455243275"
+    },
+    {
+      "place_url": "http://place.map.daum.net/11125631",
+      "category_group_name": "",
+      "place_name": "소사역 1호선 2번출구",
+      "distance": "",
+      "address_name": "경기 부천시 소사본동",
+      "road_address_name": "",
+      "id": "11125631",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.7955038078222",
+      "y": "37.48259362113488"
+    }
+  ]
+}

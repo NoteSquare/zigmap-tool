@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "영통역 분당선 6번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 3,
+    "total_count": 3,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/18501910",
+      "category_group_name": "",
+      "place_name": "영통역 분당선 6번출구",
+      "distance": "",
+      "address_name": "경기 수원시 영통구 영통동",
+      "road_address_name": "",
+      "id": "18501910",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.07040494541059",
+      "y": "37.25172823030172"
+    },
+    {
+      "place_url": "http://place.map.daum.net/18501818",
+      "category_group_name": "",
+      "place_name": "망포역 분당선 6번출구",
+      "distance": "",
+      "address_name": "경기 수원시 영통구 영통동",
+      "road_address_name": "",
+      "id": "18501818",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05717700216499",
+      "y": "37.246246068386675"
+    },
+    {
+      "place_url": "http://place.map.daum.net/18501926",
+      "category_group_name": "",
+      "place_name": "청명역 분당선 6번출구",
+      "distance": "",
+      "address_name": "경기 수원시 영통구 영통동",
+      "road_address_name": "",
+      "id": "18501926",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.07950804250916",
+      "y": "37.26057796692877"
+    }
+  ]
+}

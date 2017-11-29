@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "용답역 2호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8469036",
+      "category_group_name": "",
+      "place_name": "용답역 2호선 1번출구",
+      "distance": "",
+      "address_name": "서울 성동구 용답동",
+      "road_address_name": "",
+      "id": "8469036",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0513629109563",
+      "y": "37.56248276598372"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10530010",
+      "category_group_name": "",
+      "place_name": "신답역 2호선 1번출구",
+      "distance": "",
+      "address_name": "서울 성동구 용답동",
+      "road_address_name": "",
+      "id": "10530010",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.04727026212794",
+      "y": "37.56996983628657"
+    }
+  ]
+}

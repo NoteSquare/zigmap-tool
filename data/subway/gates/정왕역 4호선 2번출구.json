@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "정왕역 4호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/10718622",
+      "category_group_name": "",
+      "place_name": "정왕역 4호선 2번출구",
+      "distance": "",
+      "address_name": "경기 시흥시 정왕동",
+      "road_address_name": "",
+      "id": "10718622",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.74283206154823",
+      "y": "37.352034743384536"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8019981",
+      "category_group_name": "",
+      "place_name": "오이도역 4호선 2번출구",
+      "distance": "",
+      "address_name": "경기 시흥시 정왕동",
+      "road_address_name": "",
+      "id": "8019981",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.73838518570079",
+      "y": "37.3623686253462"
+    }
+  ]
+}

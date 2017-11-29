@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "신촌역 2호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/7981161",
+      "category_group_name": "",
+      "place_name": "신촌역 2호선 1번출구",
+      "distance": "",
+      "address_name": "서울 서대문구 창천동",
+      "road_address_name": "",
+      "id": "7981161",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.93642028965459",
+      "y": "37.55545482942968"
+    },
+    {
+      "place_url": "http://place.map.daum.net/1800052316",
+      "category_group_name": "",
+      "place_name": "신촌역(2호선) 1번출구 옆 대여소",
+      "distance": "",
+      "address_name": "서울 서대문구 창천동 30-16",
+      "road_address_name": "",
+      "id": "1800052316",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "스포츠,레저 > 자전거,싸이클 > 자전거대여소",
+      "x": "126.93633877101463",
+      "y": "37.55549442802756"
+    }
+  ]
+}

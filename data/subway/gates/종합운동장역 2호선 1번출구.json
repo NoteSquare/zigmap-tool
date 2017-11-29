@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "2호선 1번출구",
+      "selected_region": "서울 송파구 종합운동장역"
+    },
+    "pageable_count": 5,
+    "total_count": 6,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/7919397",
+      "category_group_name": "",
+      "place_name": "삼성역 2호선 1번출구",
+      "distance": "",
+      "address_name": "서울 강남구 대치동",
+      "road_address_name": "",
+      "id": "7919397",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.06406250148683",
+      "y": "37.508827978698505"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905860",
+      "category_group_name": "",
+      "place_name": "잠실새내역 2호선 1번출구",
+      "distance": "",
+      "address_name": "서울 송파구 잠실동",
+      "road_address_name": "",
+      "id": "22905860",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.08764488908633",
+      "y": "37.51133593081205"
+    },
+    {
+      "place_url": "http://place.map.daum.net/11142538",
+      "category_group_name": "",
+      "place_name": "선릉역 2호선 1번출구",
+      "distance": "",
+      "address_name": "서울 강남구 대치동",
+      "road_address_name": "",
+      "id": "11142538",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05005772964725",
+      "y": "37.504592665962896"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8538285",
+      "category_group_name": "",
+      "place_name": "잠실역 2호선 1번출구",
+      "distance": "",
+      "address_name": "서울 송파구 신천동",
+      "road_address_name": "",
+      "id": "8538285",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.10101656125454",
+      "y": "37.513271577459435"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905871",
+      "category_group_name": "",
+      "place_name": "잠실나루역 2호선 1번출구",
+      "distance": "",
+      "address_name": "서울 송파구 신천동",
+      "road_address_name": "",
+      "id": "22905871",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.10374182367296",
+      "y": "37.52108268681536"
+    }
+  ]
+}

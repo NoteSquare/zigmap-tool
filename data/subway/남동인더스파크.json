@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1071075256",
+      "statnNm": "남동인더스파크",
+      "ectrcNo": "1",
+      "subwayId": "1071",
+      "subwayNm": "수인선",
+      "ectrcCnt": "2",
+      "cfrBuild": "인천공단소방서, 국민은행, 우리은행, 상공회의소 인천개발원, 인천종합비즈니스센터",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1071075256",
+      "statnNm": "남동인더스파크",
+      "ectrcNo": "2",
+      "subwayId": "1071",
+      "subwayNm": "수인선",
+      "ectrcCnt": "2",
+      "cfrBuild": "남동근린공원, 남동공단우체국, 공단공구상가",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 1,
+      "selectedCount": 3,
+      "statnId": "1069073135",
+      "statnNm": "지식정보단지",
+      "ectrcNo": "2",
+      "subwayId": "1069",
+      "subwayNm": "인천1호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "지식정보단지",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 2,
+      "selectedCount": 3,
+      "statnId": "1069073135",
+      "statnNm": "지식정보단지",
+      "ectrcNo": "3",
+      "subwayId": "1069",
+      "subwayNm": "인천1호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "다연프라자, 에몬스프라자, 송도웰카운티 3단지, 4단지",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 3,
+      "selectedCount": 3,
+      "statnId": "1069073135",
+      "statnNm": "지식정보단지",
+      "ectrcNo": "4",
+      "subwayId": "1069",
+      "subwayNm": "인천1호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "송도웰카운티 1단지, 2단지, 신한은행, 인천해송초등학교,병설유치원, 해송중학교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 3
+  }
+}

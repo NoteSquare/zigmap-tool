@@ -1,0 +1,107 @@
+{
+  "60kz0dQg": {
+    "name": "1호선",
+    "type": "subway",
+    "id": "1"
+  },
+  "Z0kxPPbQI": {
+    "name": "2호선",
+    "type": "subway",
+    "id": "2"
+  },
+  "5PkxPlbpI": {
+    "name": "3호선",
+    "type": "subway",
+    "id": "3"
+  },
+  "ZDVFDLbRI": {
+    "name": "4호선",
+    "type": "subway",
+    "id": "4"
+  },
+  "ZPUFDSBpI": {
+    "name": "5호선",
+    "type": "subway",
+    "id": "5"
+  },
+  "5DVxPbBRi": {
+    "name": "6호선",
+    "type": "subway",
+    "id": "6"
+  },
+  "S0lxPRBQL": {
+    "name": "7호선",
+    "type": "subway",
+    "id": "7"
+  },
+  "5-lxP4BRi": {
+    "name": "8호선",
+    "type": "subway",
+    "id": "8"
+  },
+  "ZPlF0NhpL": {
+    "name": "9호선",
+    "type": "subway",
+    "id": "9"
+  },
+  "S-VxDwbpL": {
+    "name": "공항철도",
+    "type": "subway",
+    "id": "A"
+  },
+  "S0Vx-edRg": {
+    "name": "경의중앙선",
+    "type": "subway",
+    "id": "K"
+  },
+  "6Dkx0XhQg": {
+    "name": "신분당선",
+    "type": "subway",
+    "id": "S"
+  },
+  "SPkFDahpg": {
+    "name": "경강선",
+    "type": "subway",
+    "id": "KK"
+  },
+  "50UF0WBuL": {
+    "name": "경춘선",
+    "type": "subway",
+    "id": "G"
+  },
+  "6PkF-Jbug": {
+    "name": "용인경전철",
+    "type": "subway",
+    "id": "E"
+  },
+  "S-kx-Cbui": {
+    "name": "인천1호선",
+    "type": "subway",
+    "id": "I"
+  },
+  "ZDkz-FDdQI": {
+    "name": "인천2호선",
+    "type": "subway",
+    "id": "I2"
+  },
+  "Z0kF0D-dRg": {
+    "name": "분당선",
+    "type": "subway",
+    "id": "B"
+  },
+  "6PVFDk0bQL": {
+    "name": "수인선",
+    "type": "subway",
+    "id": "SU"
+  },
+  "6DlFPIPdRL": {
+    "name": "의정부경전철",
+    "type": "subway",
+    "id": "U"
+  },
+  "6Pkx05PbQg": {
+    "name": "우이신설",
+    "type": "subway",
+    "id": "UI"
+  }
+}

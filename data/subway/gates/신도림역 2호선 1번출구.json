@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "신도림역 2호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 3,
+    "total_count": 3,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8408311",
+      "category_group_name": "",
+      "place_name": "신도림역 2호선 1번출구",
+      "distance": "",
+      "address_name": "서울 구로구 신도림동",
+      "road_address_name": "",
+      "id": "8408311",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.89073960341547",
+      "y": "37.50940166911007"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10307613",
+      "category_group_name": "",
+      "place_name": "도림천역 2호선 1번출구",
+      "distance": "",
+      "address_name": "서울 구로구 신도림동",
+      "road_address_name": "",
+      "id": "10307613",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.88288249341167",
+      "y": "37.51431348072209"
+    },
+    {
+      "place_url": "http://place.map.daum.net/18115442",
+      "category_group_name": "편의점",
+      "place_name": "세븐일레븐 M신도림역점",
+      "distance": "",
+      "address_name": "서울 구로구 신도림동 349-19",
+      "road_address_name": "서울 구로구 새말로 117-21",
+      "id": "18115442",
+      "phone": "02-866-1379",
+      "category_group_code": "CS2",
+      "category_name": "가정,생활 > 슈퍼마켓 > 편의점 > 세븐일레븐",
+      "x": "126.89073962471812",
+      "y": "37.50938725317868"
+    }
+  ]
+}

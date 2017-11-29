@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "도봉역 1호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 3,
+    "total_count": 3,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/22906127",
+      "category_group_name": "",
+      "place_name": "도봉역 1호선 2번출구",
+      "distance": "",
+      "address_name": "서울 도봉구 도봉동",
+      "road_address_name": "",
+      "id": "22906127",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.04521880842688",
+      "y": "37.67770977498686"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8211015",
+      "category_group_name": "",
+      "place_name": "녹천역 1호선 2번출구",
+      "distance": "",
+      "address_name": "서울 도봉구 창동",
+      "road_address_name": "",
+      "id": "8211015",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0509563418338",
+      "y": "37.64597520868777"
+    },
+    {
+      "place_url": "http://place.map.daum.net/11063083",
+      "category_group_name": "",
+      "place_name": "방학역 1호선 2번출구",
+      "distance": "",
+      "address_name": "서울 도봉구 방학동",
+      "road_address_name": "",
+      "id": "11063083",
+      "phone": "02-3492-0197",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.04432957186188",
+      "y": "37.66892742438779"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "마포역 5호선 4번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 3,
+    "total_count": 3,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/7864890",
+      "category_group_name": "",
+      "place_name": "마포역 5호선 4번출구",
+      "distance": "",
+      "address_name": "서울 마포구 도화동",
+      "road_address_name": "",
+      "id": "7864890",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.94590259187166",
+      "y": "37.53925984973725"
+    },
+    {
+      "place_url": "http://place.map.daum.net/27453903",
+      "category_group_name": "",
+      "place_name": "공덕역 5호선 4번출구",
+      "distance": "",
+      "address_name": "서울 마포구 공덕동",
+      "road_address_name": "",
+      "id": "27453903",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.95218969213597",
+      "y": "37.545220004127785"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8496356",
+      "category_group_name": "",
+      "place_name": "애오개역 5호선 4번출구",
+      "distance": "",
+      "address_name": "서울 마포구 아현동",
+      "road_address_name": "",
+      "id": "8496356",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.95670226355212",
+      "y": "37.55299555532417"
+    }
+  ]
+}

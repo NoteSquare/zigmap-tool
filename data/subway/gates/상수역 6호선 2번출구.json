@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "상수역 6호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/11137490",
+      "category_group_name": "",
+      "place_name": "상수역 6호선 2번출구",
+      "distance": "",
+      "address_name": "서울 마포구 상수동",
+      "road_address_name": "",
+      "id": "11137490",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.9233002316679",
+      "y": "37.547853317762886"
+    }
+  ]
+}

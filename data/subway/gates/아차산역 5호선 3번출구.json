@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "아차산역 5호선 3번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/7990447",
+      "category_group_name": "",
+      "place_name": "아차산역 5호선 3번출구",
+      "distance": "",
+      "address_name": "서울 광진구 구의동",
+      "road_address_name": "",
+      "id": "7990447",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.08964215764202",
+      "y": "37.551572840094465"
+    },
+    {
+      "place_url": "http://place.map.daum.net/137071794",
+      "category_group_name": "",
+      "place_name": "무인민원발급기 아차산역",
+      "distance": "",
+      "address_name": "서울 광진구 구의동 96",
+      "road_address_name": "서울 광진구 천호대로 657",
+      "id": "137071794",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "사회,공공기관 > 지방행정기관 > 무인민원발급기",
+      "x": "127.08947088148619",
+      "y": "37.552200057277844"
+    }
+  ]
+}

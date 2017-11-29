@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "개화역 9호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 1,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/10130885",
+      "category_group_name": "",
+      "place_name": "개화역 9호선 1번출구",
+      "distance": "",
+      "address_name": "서울 강서구 개화동",
+      "road_address_name": "",
+      "id": "10130885",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.79827353050624",
+      "y": "37.57860819351099"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "금정역 1호선 6번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 4,
+    "total_count": 5,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/27444821",
+      "category_group_name": "",
+      "place_name": "금정역 1호선 6번출구",
+      "distance": "",
+      "address_name": "경기 군포시 산본동",
+      "road_address_name": "",
+      "id": "27444821",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.94240881744008",
+      "y": "37.37235589012072"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7845544",
+      "category_group_name": "",
+      "place_name": "두실역 부산1호선 6번출구",
+      "distance": "",
+      "address_name": "부산 금정구 구서동",
+      "road_address_name": "",
+      "id": "7845544",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "129.0915127723482",
+      "y": "35.257339108329"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8326856",
+      "category_group_name": "",
+      "place_name": "범어사역 부산1호선 6번출구",
+      "distance": "",
+      "address_name": "부산 금정구 청룡동",
+      "road_address_name": "",
+      "id": "8326856",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "129.0927654687651",
+      "y": "35.27359199583465"
+    },
+    {
+      "place_url": "http://place.map.daum.net/11023400",
+      "category_group_name": "",
+      "place_name": "남산역 부산1호선 6번출구",
+      "distance": "",
+      "address_name": "부산 금정구 남산동",
+      "road_address_name": "",
+      "id": "11023400",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "129.0926477065269",
+      "y": "35.26559193804704"
+    }
+  ]
+}

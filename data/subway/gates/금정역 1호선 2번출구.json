@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "금정역 1호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 8,
+    "total_count": 8,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8056076",
+      "category_group_name": "",
+      "place_name": "장전역 부산1호선 2번출구",
+      "distance": "",
+      "address_name": "부산 금정구 부곡동",
+      "road_address_name": "",
+      "id": "8056076",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "129.08845887305125",
+      "y": "35.23763883843399"
+    },
+    {
+      "place_url": "http://place.map.daum.net/27457744",
+      "category_group_name": "",
+      "place_name": "온천장역 부산1호선 2번출구",
+      "distance": "",
+      "address_name": "부산 금정구 부곡동",
+      "road_address_name": "",
+      "id": "27457744",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "129.08638564407187",
+      "y": "35.21963369351508"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8191626",
+      "category_group_name": "",
+      "place_name": "남산역 부산1호선 2번출구",
+      "distance": "",
+      "address_name": "부산 금정구 남산동",
+      "road_address_name": "",
+      "id": "8191626",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "129.0924444840253",
+      "y": "35.264524900315706"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17492835",
+      "category_group_name": "",
+      "place_name": "부산대역 부산1호선 2번출구",
+      "distance": "",
+      "address_name": "부산 금정구 부곡동",
+      "road_address_name": "",
+      "id": "17492835",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "129.08971480258558",
+      "y": "35.2292185250347"
+    },
+    {
+      "place_url": "http://place.map.daum.net/27455215",
+      "category_group_name": "",
+      "place_name": "구서역 부산1호선 2번출구",
+      "distance": "",
+      "address_name": "부산 금정구 구서동",
+      "road_address_name": "",
+      "id": "27455215",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "129.09136220902323",
+      "y": "35.24668303455317"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7895314",
+      "category_group_name": "",
+      "place_name": "범어사역 부산1호선 2번출구",
+      "distance": "",
+      "address_name": "부산 금정구 청룡동",
+      "road_address_name": "",
+      "id": "7895314",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "129.09279108576897",
+      "y": "35.27236600755402"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8279588",
+      "category_group_name": "",
+      "place_name": "두실역 부산1호선 2번출구",
+      "distance": "",
+      "address_name": "부산 금정구 구서동",
+      "road_address_name": "",
+      "id": "8279588",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "129.0915088272116",
+      "y": "35.256329901258304"
+    },
+    {
+      "place_url": "http://place.map.daum.net/27454735",
+      "category_group_name": "",
+      "place_name": "노포역 부산1호선 2번출구",
+      "distance": "",
+      "address_name": "부산 금정구 노포동",
+      "road_address_name": "",
+      "id": "27454735",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "129.0948408281112",
+      "y": "35.28335323188921"
+    }
+  ]
+}

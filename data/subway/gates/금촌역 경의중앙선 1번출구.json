@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "금촌역 경의중앙선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/26352322",
+      "category_group_name": "",
+      "place_name": "금촌역 경의중앙선 1번출구",
+      "distance": "",
+      "address_name": "경기 파주시 금촌동",
+      "road_address_name": "",
+      "id": "26352322",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.77395631639729",
+      "y": "37.76578910157447"
+    },
+    {
+      "place_url": "http://place.map.daum.net/26352268",
+      "category_group_name": "",
+      "place_name": "금릉역 경의중앙선 1번출구",
+      "distance": "",
+      "address_name": "경기 파주시 금촌동",
+      "road_address_name": "",
+      "id": "26352268",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.76542050138549",
+      "y": "37.75189036408877"
+    }
+  ]
+}

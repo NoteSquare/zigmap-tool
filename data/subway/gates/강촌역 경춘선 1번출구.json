@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "강촌역 경춘선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/17495850",
+      "category_group_name": "",
+      "place_name": "강촌역 경춘선 1번출구",
+      "distance": "",
+      "address_name": "강원 춘천시 남산면 방곡리",
+      "road_address_name": "",
+      "id": "17495850",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.63415316081134",
+      "y": "37.80598482102816"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17495849",
+      "category_group_name": "",
+      "place_name": "백양리역 경춘선 1번출구",
+      "distance": "",
+      "address_name": "강원 춘천시 남산면 강촌리",
+      "road_address_name": "",
+      "id": "17495849",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.5891938863835",
+      "y": "37.830979052271886"
+    }
+  ]
+}

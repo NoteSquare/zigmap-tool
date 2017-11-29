@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "4번출구",
+      "selected_region": "경기 성남시 이매역분당선"
+    },
+    "pageable_count": 6,
+    "total_count": 6,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/1009338784",
+      "category_group_name": "",
+      "place_name": "이매역 경강선 4번출구",
+      "distance": "",
+      "address_name": "경기 성남시 분당구 이매동",
+      "road_address_name": "",
+      "id": "1009338784",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.12803006831228",
+      "y": "37.39435626706292"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7945351",
+      "category_group_name": "",
+      "place_name": "서현역 분당선 4번출구",
+      "distance": "",
+      "address_name": "경기 성남시 분당구 서현동",
+      "road_address_name": "",
+      "id": "7945351",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.12258085827582",
+      "y": "37.38500943236596"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17495197",
+      "category_group_name": "",
+      "place_name": "판교역 신분당선 4번출구",
+      "distance": "",
+      "address_name": "경기 성남시 분당구 백현동",
+      "road_address_name": "",
+      "id": "17495197",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.11045897990758",
+      "y": "37.39489634853015"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7989567",
+      "category_group_name": "",
+      "place_name": "야탑역 분당선 4번출구",
+      "distance": "",
+      "address_name": "경기 성남시 분당구 야탑동",
+      "road_address_name": "",
+      "id": "7989567",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.12844379946574",
+      "y": "37.41200847416681"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17491822",
+      "category_group_name": "",
+      "place_name": "수내역 분당선 4번출구",
+      "distance": "",
+      "address_name": "경기 성남시 분당구 수내동",
+      "road_address_name": "",
+      "id": "17491822",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.11471267093867",
+      "y": "37.37885427180416"
+    },
+    {
+      "place_url": "http://place.map.daum.net/1920606920",
+      "category_group_name": "",
+      "place_name": "피플존 수내역 4번출구(현대오피스빌딩)",
+      "distance": "",
+      "address_name": "경기 성남시 분당구 수내동 9-4",
+      "road_address_name": "경기 성남시 분당구 황새울로240번길 3",
+      "id": "1920606920",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 교통시설 > 카셰어링",
+      "x": "127.11490860617361",
+      "y": "37.38000738581129"
+    }
+  ]
+}

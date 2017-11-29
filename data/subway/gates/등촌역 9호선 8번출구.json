@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "등촌역 9호선 8번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8345638",
+      "category_group_name": "",
+      "place_name": "등촌역 9호선 8번출구",
+      "distance": "",
+      "address_name": "서울 강서구 등촌동",
+      "road_address_name": "",
+      "id": "8345638",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.86375761640411",
+      "y": "37.55133075011355"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10118967",
+      "category_group_name": "",
+      "place_name": "가양역 9호선 8번출구",
+      "distance": "",
+      "address_name": "서울 강서구 등촌동",
+      "road_address_name": "",
+      "id": "10118967",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.85475392212871",
+      "y": "37.56066496557338"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "미아역 4호선 5번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/22906185",
+      "category_group_name": "",
+      "place_name": "미아역 4호선 5번출구",
+      "distance": "",
+      "address_name": "서울 강북구 미아동",
+      "road_address_name": "",
+      "id": "22906185",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0262571723739",
+      "y": "37.62566772089145"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10402272",
+      "category_group_name": "",
+      "place_name": "미아사거리역 4호선 5번출구",
+      "distance": "",
+      "address_name": "서울 강북구 미아동",
+      "road_address_name": "",
+      "id": "10402272",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.0299361846657",
+      "y": "37.61301712608555"
+    }
+  ]
+}

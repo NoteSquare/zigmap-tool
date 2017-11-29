@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "강동역 5호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 8,
+    "total_count": 8,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/17495490",
+      "category_group_name": "",
+      "place_name": "강동역 5호선 2번출구",
+      "distance": "",
+      "address_name": "서울 강동구 천호동",
+      "road_address_name": "",
+      "id": "17495490",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.13339633821533",
+      "y": "37.53585482794772"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17491632",
+      "category_group_name": "",
+      "place_name": "천호역 5호선 2번출구",
+      "distance": "",
+      "address_name": "서울 강동구 성내동",
+      "road_address_name": "",
+      "id": "17491632",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.1234134799409",
+      "y": "37.53916318635107"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8238501",
+      "category_group_name": "",
+      "place_name": "길동역 5호선 2번출구",
+      "distance": "",
+      "address_name": "서울 강동구 길동",
+      "road_address_name": "",
+      "id": "8238501",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.14029312058074",
+      "y": "37.53808138676446"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905958",
+      "category_group_name": "",
+      "place_name": "명일역 5호선 2번출구",
+      "distance": "",
+      "address_name": "서울 강동구 명일동",
+      "road_address_name": "",
+      "id": "22905958",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.14391712174194",
+      "y": "37.55172889263129"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7923439",
+      "category_group_name": "",
+      "place_name": "상일동역 5호선 2번출구",
+      "distance": "",
+      "address_name": "서울 강동구 고덕동",
+      "road_address_name": "",
+      "id": "7923439",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.16826895256452",
+      "y": "37.55708493322561"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22906235",
+      "category_group_name": "",
+      "place_name": "고덕역 5호선 2번출구",
+      "distance": "",
+      "address_name": "서울 강동구 고덕동",
+      "road_address_name": "",
+      "id": "22906235",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.15366535351004",
+      "y": "37.55509364486614"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905952",
+      "category_group_name": "",
+      "place_name": "둔촌동역 5호선 2번출구",
+      "distance": "",
+      "address_name": "서울 강동구 둔촌동",
+      "road_address_name": "",
+      "id": "22905952",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.13643601506897",
+      "y": "37.52742890832499"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8196841",
+      "category_group_name": "",
+      "place_name": "굽은다리역 5호선 2번출구",
+      "distance": "",
+      "address_name": "서울 강동구 천호동",
+      "road_address_name": "",
+      "id": "8196841",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.14285180860836",
+      "y": "37.546115198595146"
+    }
+  ]
+}

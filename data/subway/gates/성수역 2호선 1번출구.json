@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "성수역 2호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/10482415",
+      "category_group_name": "",
+      "place_name": "성수역 2호선 1번출구",
+      "distance": "",
+      "address_name": "서울 성동구 성수동2가",
+      "road_address_name": "",
+      "id": "10482415",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.05500399801214",
+      "y": "37.54504520421078"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905851",
+      "category_group_name": "",
+      "place_name": "뚝섬역 2호선 1번출구",
+      "distance": "",
+      "address_name": "서울 성동구 성수동1가",
+      "road_address_name": "",
+      "id": "22905851",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.04617036441881",
+      "y": "37.547798701308366"
+    }
+  ]
+}

@@ -1,0 +1,7647 @@
+{
+  "zZJNY2_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.540693,
+      "longitude": 127.07023
+    },
+    "name": "건대입구",
+    "address": "",
+    "fr_code": "727",
+    "line_num": "7"
+  },
+  "WZq5ZYy_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.540693,
+      "longitude": 127.07023
+    },
+    "name": "건대입구",
+    "address": "",
+    "fr_code": "212",
+    "line_num": "2"
+  },
+  "nUSxZJ2_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.537077,
+      "longitude": 127.085916
+    },
+    "name": "구의",
+    "address": "",
+    "fr_code": "213",
+    "line_num": "2"
+  },
+  "uZq1UKsGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.535095,
+      "longitude": 127.094681
+    },
+    "name": "강변",
+    "address": "",
+    "fr_code": "214",
+    "line_num": "2"
+  },
+  "uFJ1Zz2G4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.520733,
+      "longitude": 127.10379
+    },
+    "name": "잠실나루",
+    "address": "",
+    "fr_code": "215",
+    "line_num": "2"
+  },
+  "zZSNFpsGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.51395,
+      "longitude": 127.102234
+    },
+    "name": "잠실",
+    "address": "",
+    "fr_code": "814",
+    "line_num": "8"
+  },
+  "zUSxZ_yGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.51395,
+      "longitude": 127.102234
+    },
+    "name": "잠실",
+    "address": "",
+    "fr_code": "216",
+    "line_num": "2"
+  },
+  "WZS1Zdyc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.511687,
+      "longitude": 127.086162
+    },
+    "name": "잠실새내",
+    "address": "",
+    "fr_code": "217",
+    "line_num": "2"
+  },
+  "nUSNFv2_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.510997,
+      "longitude": 127.073642
+    },
+    "name": "종합운동장",
+    "address": "",
+    "fr_code": "218",
+    "line_num": "2"
+  },
+  "nYqxZiskl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.510997,
+      "longitude": 127.073642
+    },
+    "name": "종합운동장",
+    "address": "",
+    "fr_code": "930",
+    "line_num": "9"
+  },
+  "uYJxZRscl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.508844,
+      "longitude": 127.06316
+    },
+    "name": "삼성",
+    "address": "",
+    "fr_code": "219",
+    "line_num": "2"
+  },
+  "zUS1U92_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.504503,
+      "longitude": 127.049008
+    },
+    "name": "선릉",
+    "address": "",
+    "fr_code": "K215",
+    "line_num": "B"
+  },
+  "uUSNFws_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.504503,
+      "longitude": 127.049008
+    },
+    "name": "선릉",
+    "address": "",
+    "fr_code": "220",
+    "line_num": "2"
+  },
+  "uUSxZaacf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.500622,
+      "longitude": 127.036456
+    },
+    "name": "역삼",
+    "address": "",
+    "fr_code": "221",
+    "line_num": "2"
+  },
+  "WUqxUeaG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.497175,
+      "longitude": 127.027926
+    },
+    "name": "강남",
+    "address": "",
+    "fr_code": "D7",
+    "line_num": "S"
+  },
+  "uUL1F-a_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.497175,
+      "longitude": 127.027926
+    },
+    "name": "강남",
+    "address": "",
+    "fr_code": "222",
+    "line_num": "2"
+  },
+  "zFL5FNZ2GK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.491897,
+      "longitude": 127.007917
+    },
+    "name": "서초",
+    "address": "",
+    "fr_code": "224",
+    "line_num": "2"
+  },
+  "zYSxUZYa_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 36.833705,
+      "longitude": 127.14896
+    },
+    "name": "두정",
+    "address": "",
+    "fr_code": "P168",
+    "line_num": "1"
+  },
+  "WFJxYLZyG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.481426,
+      "longitude": 126.997596
+    },
+    "name": "방배",
+    "address": "",
+    "fr_code": "225",
+    "line_num": "2"
+  },
+  "WZL1UKZak4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.555134,
+      "longitude": 126.936893
+    },
+    "name": "신촌",
+    "address": "",
+    "fr_code": "240",
+    "line_num": "2"
+  },
+  "WYJ5FnYyk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.556733,
+      "longitude": 126.946013
+    },
+    "name": "이대",
+    "address": "",
+    "fr_code": "241",
+    "line_num": "2"
+  },
+  "zYL5Z6Fs_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.557345,
+      "longitude": 126.956141
+    },
+    "name": "아현",
+    "address": "",
+    "fr_code": "242",
+    "line_num": "2"
+  },
+  "WUJxY_U2kK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.559973,
+      "longitude": 126.963672
+    },
+    "name": "충정로",
+    "address": "",
+    "fr_code": "531",
+    "line_num": "5"
+  },
+  "nFJ5ZdFscK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.559973,
+      "longitude": 126.963672
+    },
+    "name": "충정로",
+    "address": "",
+    "fr_code": "243",
+    "line_num": "2"
+  },
+  "nUq5ZvF2c4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.561904,
+      "longitude": 127.050899
+    },
+    "name": "용답",
+    "address": "",
+    "fr_code": "211-1",
+    "line_num": "2"
+  },
+  "WFqxZTU2cK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.57004,
+      "longitude": 127.046481
+    },
+    "name": "신답",
+    "address": "",
+    "fr_code": "211-2",
+    "line_num": "2"
+  },
+  "uYSxZrY2G4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.514287,
+      "longitude": 126.882768
+    },
+    "name": "도림천",
+    "address": "",
+    "fr_code": "234-1",
+    "line_num": "2"
+  },
+  "nYSxY8Ysc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.512398,
+      "longitude": 126.865819
+    },
+    "name": "양천구청",
+    "address": "",
+    "fr_code": "234-2",
+    "line_num": "2"
+  },
+  "zYS1FgYa_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.520074,
+      "longitude": 126.852912
+    },
+    "name": "신정네거리",
+    "address": "",
+    "fr_code": "234-3",
+    "line_num": "2"
+  },
+  "zZL5YyZsGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 36.810005,
+      "longitude": 127.146826
+    },
+    "name": "천안",
+    "address": "",
+    "fr_code": "P169",
+    "line_num": "1"
+  },
+  "nFLxYeYycf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.315941,
+      "longitude": 126.838573
+    },
+    "name": "중앙",
+    "address": "",
+    "fr_code": "450",
+    "line_num": "4"
+  },
+  "nULxF-Fs_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.349801,
+      "longitude": 126.925365
+    },
+    "name": "수리산",
+    "address": "",
+    "fr_code": "445",
+    "line_num": "4"
+  },
+  "uUL5UNLsGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.476691,
+      "longitude": 126.616936
+    },
+    "name": "인천",
+    "address": "",
+    "fr_code": "K264",
+    "line_num": "SU"
+  },
+  "uUL1FUSyk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.476691,
+      "longitude": 126.616936
+    },
+    "name": "인천",
+    "address": "",
+    "fr_code": "161",
+    "line_num": "1"
+  },
+  "WYS1ZSLakf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.339824,
+      "longitude": 127.108942
+    },
+    "name": "오리",
+    "address": "",
+    "fr_code": "K232",
+    "line_num": "B"
+  },
+  "WYq5FKJsGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.47653,
+      "longitude": 126.981685
+    },
+    "name": "사당",
+    "address": "",
+    "fr_code": "433",
+    "line_num": "4"
+  },
+  "zUSxYuJ2_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.47653,
+      "longitude": 126.981685
+    },
+    "name": "사당",
+    "address": "",
+    "fr_code": "226",
+    "line_num": "2"
+  },
+  "WFSNFQLakl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.47693,
+      "longitude": 126.963693
+    },
+    "name": "낙성대",
+    "address": "",
+    "fr_code": "227",
+    "line_num": "2"
+  },
+  "zZq5YkqaGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.481247,
+      "longitude": 126.952739
+    },
+    "name": "서울대입구",
+    "address": "",
+    "fr_code": "228",
+    "line_num": "2"
+  },
+  "uFJ5F7Sa_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.482362,
+      "longitude": 126.941892
+    },
+    "name": "봉천",
+    "address": "",
+    "fr_code": "229",
+    "line_num": "2"
+  },
+  "zFqNYCLsGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.484201,
+      "longitude": 126.929715
+    },
+    "name": "신림",
+    "address": "",
+    "fr_code": "230",
+    "line_num": "2"
+  },
+  "uUJ1YEJacl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.487462,
+      "longitude": 126.913149
+    },
+    "name": "신대방",
+    "address": "",
+    "fr_code": "231",
+    "line_num": "2"
+  },
+  "zYJNF0LscK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.485266,
+      "longitude": 126.901401
+    },
+    "name": "구로디지털단지",
+    "address": "",
+    "fr_code": "232",
+    "line_num": "2"
+  },
+  "zFq1Y8LyG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.49297,
+      "longitude": 126.895801
+    },
+    "name": "대림",
+    "address": "",
+    "fr_code": "744",
+    "line_num": "7"
+  },
+  "zYqNYgJ2cK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.49297,
+      "longitude": 126.895801
+    },
+    "name": "대림",
+    "address": "",
+    "fr_code": "233",
+    "line_num": "2"
+  },
+  "nYJ5F2Ly_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.508725,
+      "longitude": 126.891295
+    },
+    "name": "신도림",
+    "address": "",
+    "fr_code": "234",
+    "line_num": "2"
+  },
+  "uFS5Yhqy_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.508725,
+      "longitude": 126.891295
+    },
+    "name": "신도림",
+    "address": "",
+    "fr_code": "140",
+    "line_num": "1"
+  },
+  "WFJ5Y-JsG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.517933,
+      "longitude": 126.89476
+    },
+    "name": "문래",
+    "address": "",
+    "fr_code": "235",
+    "line_num": "2"
+  },
+  "nYJ1U1fa_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.52497,
+      "longitude": 126.895951
+    },
+    "name": "영등포구청",
+    "address": "",
+    "fr_code": "523",
+    "line_num": "5"
+  },
+  "nZLNFYlskl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.52497,
+      "longitude": 126.895951
+    },
+    "name": "영등포구청",
+    "address": "",
+    "fr_code": "236",
+    "line_num": "2"
+  },
+  "zYLxYL4s_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.53438,
+      "longitude": 126.902281
+    },
+    "name": "당산",
+    "address": "",
+    "fr_code": "913",
+    "line_num": "9"
+  },
+  "uZJ5ZfK2cf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.53438,
+      "longitude": 126.902281
+    },
+    "name": "당산",
+    "address": "",
+    "fr_code": "237",
+    "line_num": "2"
+  },
+  "zFJxZzKykK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.549463,
+      "longitude": 126.913739
+    },
+    "name": "합정",
+    "address": "",
+    "fr_code": "238",
+    "line_num": "2"
+  },
+  "WYq1UMly_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.549463,
+      "longitude": 126.913739
+    },
+    "name": "합정",
+    "address": "",
+    "fr_code": "622",
+    "line_num": "6"
+  },
+  "uYLNUkK2cK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.557192,
+      "longitude": 126.925381
+    },
+    "name": "홍대입구",
+    "address": "",
+    "fr_code": "K314",
+    "line_num": "K"
+  },
+  "WUq1Udla_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.557192,
+      "longitude": 126.925381
+    },
+    "name": "홍대입구",
+    "address": "",
+    "fr_code": "A03",
+    "line_num": "A"
+  },
+  "uYJ5ZPfacf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.557192,
+      "longitude": 126.925381
+    },
+    "name": "홍대입구",
+    "address": "",
+    "fr_code": "239",
+    "line_num": "2"
+  },
+  "WFJ1Zila_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.554648,
+      "longitude": 126.972559
+    },
+    "name": "서울",
+    "address": "",
+    "fr_code": "A01",
+    "line_num": "A"
+  },
+  "uUSNFO42Gl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.554648,
+      "longitude": 126.972559
+    },
+    "name": "서울",
+    "address": "",
+    "fr_code": "133",
+    "line_num": "1"
+  },
+  "zZJ5FDlsk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.554648,
+      "longitude": 126.972559
+    },
+    "name": "서울",
+    "address": "",
+    "fr_code": "426",
+    "line_num": "4"
+  },
+  "zFS5Zm4acK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.564718,
+      "longitude": 126.977108
+    },
+    "name": "시청",
+    "address": "",
+    "fr_code": "201",
+    "line_num": "2"
+  },
+  "uUSNUyKsGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.564718,
+      "longitude": 126.977108
+    },
+    "name": "시청",
+    "address": "",
+    "fr_code": "132",
+    "line_num": "1"
+  },
+  "zYL1Yh4a_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.570161,
+      "longitude": 126.982923
+    },
+    "name": "종각",
+    "address": "",
+    "fr_code": "131",
+    "line_num": "1"
+  },
+  "zUL5UB4akf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.571607,
+      "longitude": 126.991806
+    },
+    "name": "종로3가",
+    "address": "",
+    "fr_code": "534",
+    "line_num": "5"
+  },
+  "nZS5FNnycl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.571607,
+      "longitude": 126.991806
+    },
+    "name": "종로3가",
+    "address": "",
+    "fr_code": "329",
+    "line_num": "3"
+  },
+  "nYLNZYWyGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.571607,
+      "longitude": 126.991806
+    },
+    "name": "종로3가",
+    "address": "",
+    "fr_code": "130",
+    "line_num": "1"
+  },
+  "uZq1Yqz2kf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.570926,
+      "longitude": 127.001849
+    },
+    "name": "종로5가",
+    "address": "",
+    "fr_code": "129",
+    "line_num": "1"
+  },
+  "nFq5UKns_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.57142,
+      "longitude": 127.009745
+    },
+    "name": "동대문",
+    "address": "",
+    "fr_code": "128",
+    "line_num": "1"
+  },
+  "WYJ1ZnnyG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.57142,
+      "longitude": 127.009745
+    },
+    "name": "동대문",
+    "address": "",
+    "fr_code": "421",
+    "line_num": "4"
+  },
+  "WFLxZpu2G4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.575297,
+      "longitude": 127.025087
+    },
+    "name": "신설동",
+    "address": "",
+    "fr_code": "953",
+    "line_num": "UI"
+  },
+  "zYJxY_zyG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.575297,
+      "longitude": 127.025087
+    },
+    "name": "신설동",
+    "address": "",
+    "fr_code": "211-4",
+    "line_num": "2"
+  },
+  "nYSNYXz2G4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.575297,
+      "longitude": 127.025087
+    },
+    "name": "신설동",
+    "address": "",
+    "fr_code": "126",
+    "line_num": "1"
+  },
+  "zZL1UCWykl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.578103,
+      "longitude": 127.034893
+    },
+    "name": "제기동",
+    "address": "",
+    "fr_code": "125",
+    "line_num": "1"
+  },
+  "WUL5F3usGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.580178,
+      "longitude": 127.046835
+    },
+    "name": "청량리",
+    "address": "",
+    "fr_code": "K117",
+    "line_num": "K"
+  },
+  "WUJxFOWa_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.580178,
+      "longitude": 127.046835
+    },
+    "name": "청량리",
+    "address": "",
+    "fr_code": "P116",
+    "line_num": "G"
+  },
+  "zYSxYDnakl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.580178,
+      "longitude": 127.046835
+    },
+    "name": "청량리",
+    "address": "",
+    "fr_code": "124",
+    "line_num": "1"
+  },
+  "nYJNZguaG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.572627,
+      "longitude": 127.016429
+    },
+    "name": "동묘앞",
+    "address": "",
+    "fr_code": "636",
+    "line_num": "6"
+  },
+  "WZJNFsW2G4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.572627,
+      "longitude": 127.016429
+    },
+    "name": "동묘앞",
+    "address": "",
+    "fr_code": "127",
+    "line_num": "1"
+  },
+  "nYSNUbuak4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.566014,
+      "longitude": 126.982618
+    },
+    "name": "을지로입구",
+    "address": "",
+    "fr_code": "202",
+    "line_num": "2"
+  },
+  "nUq5FHna_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.566941,
+      "longitude": 126.998079
+    },
+    "name": "을지로4가",
+    "address": "",
+    "fr_code": "535",
+    "line_num": "5"
+  },
+  "WZJxY5Ma_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.566941,
+      "longitude": 126.998079
+    },
+    "name": "을지로4가",
+    "address": "",
+    "fr_code": "204",
+    "line_num": "2"
+  },
+  "nZL1ZUMyGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.565138,
+      "longitude": 127.007896
+    },
+    "name": "동대문역사문화공원",
+    "address": "",
+    "fr_code": "536",
+    "line_num": "5"
+  },
+  "WULNYSMsGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.565138,
+      "longitude": 127.007896
+    },
+    "name": "동대문역사문화공원",
+    "address": "",
+    "fr_code": "205",
+    "line_num": "2"
+  },
+  "nFL5Z4Qs_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.565138,
+      "longitude": 127.007896
+    },
+    "name": "동대문역사문화공원",
+    "address": "",
+    "fr_code": "422",
+    "line_num": "4"
+  },
+  "uUS1Zups_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.565972,
+      "longitude": 127.01782
+    },
+    "name": "신당",
+    "address": "",
+    "fr_code": "206",
+    "line_num": "2"
+  },
+  "uUS1Y6Q2_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.565972,
+      "longitude": 127.01782
+    },
+    "name": "신당",
+    "address": "",
+    "fr_code": "635",
+    "line_num": "6"
+  },
+  "zUJxUkQ2_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.564354,
+      "longitude": 127.029354
+    },
+    "name": "상왕십리",
+    "address": "",
+    "fr_code": "207",
+    "line_num": "2"
+  },
+  "zZLNZ7pac4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.561533,
+      "longitude": 127.037732
+    },
+    "name": "왕십리",
+    "address": "",
+    "fr_code": "208",
+    "line_num": "2"
+  },
+  "zUJ5Fvpscf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.561533,
+      "longitude": 127.037732
+    },
+    "name": "왕십리",
+    "address": "",
+    "fr_code": "K210",
+    "line_num": "B"
+  },
+  "nYSNZiMy_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.561533,
+      "longitude": 127.037732
+    },
+    "name": "왕십리",
+    "address": "",
+    "fr_code": "540",
+    "line_num": "5"
+  },
+  "zULxF06sG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.561533,
+      "longitude": 127.037732
+    },
+    "name": "왕십리",
+    "address": "",
+    "fr_code": "K116",
+    "line_num": "K"
+  },
+  "WFqxUjQy_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.555273,
+      "longitude": 127.043655
+    },
+    "name": "한양대",
+    "address": "",
+    "fr_code": "209",
+    "line_num": "2"
+  },
+  "WZSNYgQyk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.547184,
+      "longitude": 127.047367
+    },
+    "name": "뚝섬",
+    "address": "",
+    "fr_code": "210",
+    "line_num": "2"
+  },
+  "nUL1Yypa_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.544581,
+      "longitude": 127.055961
+    },
+    "name": "성수",
+    "address": "",
+    "fr_code": "211",
+    "line_num": "2"
+  },
+  "uFLxZeQ2Gl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.588458,
+      "longitude": 127.006221
+    },
+    "name": "한성대입구",
+    "address": "",
+    "fr_code": "419",
+    "line_num": "4"
+  },
+  "uZL1ZBMyc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.582336,
+      "longitude": 127.001844
+    },
+    "name": "혜화",
+    "address": "",
+    "fr_code": "420",
+    "line_num": "4"
+  },
+  "nFLNY5_a_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.560989,
+      "longitude": 126.986325
+    },
+    "name": "명동",
+    "address": "",
+    "fr_code": "424",
+    "line_num": "4"
+  },
+  "WZqNZFks_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.558514,
+      "longitude": 126.978246
+    },
+    "name": "회현",
+    "address": "",
+    "fr_code": "425",
+    "line_num": "4"
+  },
+  "nUq1USkykl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.54456,
+      "longitude": 126.972106
+    },
+    "name": "숙대입구",
+    "address": "",
+    "fr_code": "427",
+    "line_num": "4"
+  },
+  "nYq5ZKcy_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.534777,
+      "longitude": 126.97311
+    },
+    "name": "삼각지",
+    "address": "",
+    "fr_code": "628",
+    "line_num": "6"
+  },
+  "zZSxFz_ycl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.534777,
+      "longitude": 126.97311
+    },
+    "name": "삼각지",
+    "address": "",
+    "fr_code": "428",
+    "line_num": "4"
+  },
+  "nUSNZ6kakf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.52917,
+      "longitude": 126.967894
+    },
+    "name": "신용산",
+    "address": "",
+    "fr_code": "429",
+    "line_num": "4"
+  },
+  "nYJNZG_2G4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.522272,
+      "longitude": 126.974345
+    },
+    "name": "이촌",
+    "address": "",
+    "fr_code": "K111",
+    "line_num": "K"
+  },
+  "zZSxY7_2k4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.522272,
+      "longitude": 126.974345
+    },
+    "name": "이촌",
+    "address": "",
+    "fr_code": "430",
+    "line_num": "4"
+  },
+  "uYLxZVGaGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.502971,
+      "longitude": 126.979306
+    },
+    "name": "동작",
+    "address": "",
+    "fr_code": "920",
+    "line_num": "9"
+  },
+  "nYSxYT_aGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.502971,
+      "longitude": 126.979306
+    },
+    "name": "동작",
+    "address": "",
+    "fr_code": "431",
+    "line_num": "4"
+  },
+  "nUS1YRkacl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.486263,
+      "longitude": 126.981989
+    },
+    "name": "총신대입구(이수)",
+    "address": "",
+    "fr_code": "736",
+    "line_num": "7"
+  },
+  "nZqNZ8kscf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.486263,
+      "longitude": 126.981989
+    },
+    "name": "총신대입구(이수)",
+    "address": "",
+    "fr_code": "432",
+    "line_num": "4"
+  },
+  "zFLNZwcyGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.541021,
+      "longitude": 126.9713
+    },
+    "name": "남영",
+    "address": "",
+    "fr_code": "134",
+    "line_num": "1"
+  },
+  "nFS5Z2kyc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.529849,
+      "longitude": 126.964561
+    },
+    "name": "용산",
+    "address": "",
+    "fr_code": "K110",
+    "line_num": "K"
+  },
+  "WYSxFbGycl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.529849,
+      "longitude": 126.964561
+    },
+    "name": "용산",
+    "address": "",
+    "fr_code": "135",
+    "line_num": "1"
+  },
+  "nFJxZ-Gscf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.513342,
+      "longitude": 126.926382
+    },
+    "name": "대방",
+    "address": "",
+    "fr_code": "137",
+    "line_num": "1"
+  },
+  "uZLxUxdyGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.515504,
+      "longitude": 126.907628
+    },
+    "name": "영등포",
+    "address": "",
+    "fr_code": "139",
+    "line_num": "1"
+  },
+  "uUSxYYdy_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.519594,
+      "longitude": 126.988537
+    },
+    "name": "서빙고",
+    "address": "",
+    "fr_code": "K112",
+    "line_num": "K"
+  },
+  "nFS1YqIsGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.52943,
+      "longitude": 127.009169
+    },
+    "name": "한남",
+    "address": "",
+    "fr_code": "K113",
+    "line_num": "K"
+  },
+  "uYJ5ZfI2kf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.549946,
+      "longitude": 127.034538
+    },
+    "name": "응봉",
+    "address": "",
+    "fr_code": "K115",
+    "line_num": "K"
+  },
+  "uUL1Yndykl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.58946,
+      "longitude": 127.057583
+    },
+    "name": "회기",
+    "address": "",
+    "fr_code": "P117",
+    "line_num": "G"
+  },
+  "uFJ5FMIscl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.58946,
+      "longitude": 127.057583
+    },
+    "name": "회기",
+    "address": "",
+    "fr_code": "123",
+    "line_num": "1"
+  },
+  "zYJ1YcXa_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.58946,
+      "longitude": 127.057583
+    },
+    "name": "회기",
+    "address": "",
+    "fr_code": "K118",
+    "line_num": "K"
+  },
+  "uFS1U7d2cl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.596073,
+      "longitude": 127.063549
+    },
+    "name": "외대앞",
+    "address": "",
+    "fr_code": "122",
+    "line_num": "1"
+  },
+  "nFSxZCXa_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.527381,
+      "longitude": 127.040534
+    },
+    "name": "압구정로데오",
+    "address": "",
+    "fr_code": "K212",
+    "line_num": "B"
+  },
+  "uUS5ZTX2kK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.448605,
+      "longitude": 127.126697
+    },
+    "name": "가천대",
+    "address": "",
+    "fr_code": "K223",
+    "line_num": "B"
+  },
+  "nZJxZ0Is_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.440019,
+      "longitude": 127.127709
+    },
+    "name": "태평",
+    "address": "",
+    "fr_code": "K224",
+    "line_num": "B"
+  },
+  "uZJNU9Iacl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.43213,
+      "longitude": 127.129087
+    },
+    "name": "모란",
+    "address": "",
+    "fr_code": "K225",
+    "line_num": "B"
+  },
+  "WUq1ZgIyc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.43213,
+      "longitude": 127.129087
+    },
+    "name": "모란",
+    "address": "",
+    "fr_code": "826",
+    "line_num": "8"
+  },
+  "uZq1YsI2cf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.411185,
+      "longitude": 127.128715
+    },
+    "name": "야탑",
+    "address": "",
+    "fr_code": "K226",
+    "line_num": "B"
+  },
+  "zZqxZbIy_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.385126,
+      "longitude": 127.123592
+    },
+    "name": "서현",
+    "address": "",
+    "fr_code": "K228",
+    "line_num": "B"
+  },
+  "WFq5YHdscK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.378455,
+      "longitude": 127.114322
+    },
+    "name": "수내",
+    "address": "",
+    "fr_code": "K229",
+    "line_num": "B"
+  },
+  "nUJxU5Pa_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.36706,
+      "longitude": 127.108105
+    },
+    "name": "정자",
+    "address": "",
+    "fr_code": "D12",
+    "line_num": "S"
+  },
+  "uFS1UUVykK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.36706,
+      "longitude": 127.108105
+    },
+    "name": "정자",
+    "address": "",
+    "fr_code": "K230",
+    "line_num": "B"
+  },
+  "WZJNYqVaGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.350077,
+      "longitude": 127.10891
+    },
+    "name": "미금",
+    "address": "",
+    "fr_code": "K231",
+    "line_num": "B"
+  },
+  "uYJNZ4vacK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.396104,
+      "longitude": 127.12827
+    },
+    "name": "이매",
+    "address": "",
+    "fr_code": "K411",
+    "line_num": "KK"
+  },
+  "uYq5FzPscf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.396104,
+      "longitude": 127.12827
+    },
+    "name": "이매",
+    "address": "",
+    "fr_code": "K227",
+    "line_num": "B"
+  },
+  "WYq1Y6V2_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.312752,
+      "longitude": 127.108196
+    },
+    "name": "보정",
+    "address": "",
+    "fr_code": "K234",
+    "line_num": "B"
+  },
+  "WFLNYkVacf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.324753,
+      "longitude": 127.107395
+    },
+    "name": "죽전",
+    "address": "",
+    "fr_code": "K233",
+    "line_num": "B"
+  },
+  "WFLNUIvs_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.286102,
+      "longitude": 127.111313
+    },
+    "name": "신갈",
+    "address": "",
+    "fr_code": "K236",
+    "line_num": "B"
+  },
+  "nZSxFVPy_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.275619,
+      "longitude": 127.115936
+    },
+    "name": "기흥",
+    "address": "",
+    "fr_code": "Y110",
+    "line_num": "E"
+  },
+  "zUqNZ3P2_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.275619,
+      "longitude": 127.115936
+    },
+    "name": "기흥",
+    "address": "",
+    "fr_code": "K237",
+    "line_num": "B"
+  },
+  "zYSNFRC2c4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.259489,
+      "longitude": 127.078934
+    },
+    "name": "청명",
+    "address": "",
+    "fr_code": "K239",
+    "line_num": "B"
+  },
+  "WYq1UDVy_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.251568,
+      "longitude": 127.071394
+    },
+    "name": "영통",
+    "address": "",
+    "fr_code": "K240",
+    "line_num": "B"
+  },
+  "WYLxYwCac4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.252759,
+      "longitude": 127.040566
+    },
+    "name": "매탄권선",
+    "address": "",
+    "fr_code": "K242",
+    "line_num": "B"
+  },
+  "WFJxZ2vscf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.261911,
+      "longitude": 127.030736
+    },
+    "name": "수원시청",
+    "address": "",
+    "fr_code": "K243",
+    "line_num": "B"
+  },
+  "uUL1UhCs_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.391769,
+      "longitude": 126.742699
+    },
+    "name": "월곶",
+    "address": "",
+    "fr_code": "K252",
+    "line_num": "SU"
+  },
+  "zFS5FHPakl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.40095,
+      "longitude": 126.733522
+    },
+    "name": "소래포구",
+    "address": "",
+    "fr_code": "K253",
+    "line_num": "SU"
+  },
+  "WZJNFN3y_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.400614,
+      "longitude": 126.722478
+    },
+    "name": "인천논현",
+    "address": "",
+    "fr_code": "K254",
+    "line_num": "SU"
+  },
+  "WUJNZYTs_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.407722,
+      "longitude": 126.695216
+    },
+    "name": "남동인더스파크",
+    "address": "",
+    "fr_code": "K256",
+    "line_num": "SU"
+  },
+  "nZqxUqisGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.417804,
+      "longitude": 126.67894
+    },
+    "name": "연수",
+    "address": "",
+    "fr_code": "K258",
+    "line_num": "SU"
+  },
+  "uZS5ZlTsk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.667503,
+      "longitude": 127.044273
+    },
+    "name": "방학",
+    "address": "",
+    "fr_code": "115",
+    "line_num": "1"
+  },
+  "zUqNYnTacl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.679563,
+      "longitude": 127.045595
+    },
+    "name": "도봉",
+    "address": "",
+    "fr_code": "114",
+    "line_num": "1"
+  },
+  "uYS1FQEa_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.689313,
+      "longitude": 127.046222
+    },
+    "name": "도봉산",
+    "address": "",
+    "fr_code": "113",
+    "line_num": "1"
+  },
+  "uZq1Ykiycf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.689313,
+      "longitude": 127.046222
+    },
+    "name": "도봉산",
+    "address": "",
+    "fr_code": "710",
+    "line_num": "7"
+  },
+  "zFSxF7T2Gf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.724846,
+      "longitude": 127.046895
+    },
+    "name": "회룡",
+    "address": "",
+    "fr_code": "U111",
+    "line_num": "U"
+  },
+  "nYSNZCT2_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.724846,
+      "longitude": 127.046895
+    },
+    "name": "회룡",
+    "address": "",
+    "fr_code": "111",
+    "line_num": "1"
+  },
+  "uFLNYi32Gl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.738415,
+      "longitude": 127.045958
+    },
+    "name": "의정부",
+    "address": "",
+    "fr_code": "110",
+    "line_num": "1"
+  },
+  "nFS5FOTsc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.748577,
+      "longitude": 127.044213
+    },
+    "name": "가능",
+    "address": "",
+    "fr_code": "109",
+    "line_num": "1"
+  },
+  "zULxY83aG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.75938,
+      "longitude": 127.042292
+    },
+    "name": "녹양",
+    "address": "",
+    "fr_code": "108",
+    "line_num": "1"
+  },
+  "zYJxUAia_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.774381,
+      "longitude": 127.044708
+    },
+    "name": "양주",
+    "address": "",
+    "fr_code": "107",
+    "line_num": "1"
+  },
+  "WZLNZs32_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.818486,
+      "longitude": 127.056486
+    },
+    "name": "덕계",
+    "address": "",
+    "fr_code": "106",
+    "line_num": "1"
+  },
+  "uZq5FeTa_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.843188,
+      "longitude": 127.061277
+    },
+    "name": "덕정",
+    "address": "",
+    "fr_code": "105",
+    "line_num": "1"
+  },
+  "nFS5F-Eskf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.892334,
+      "longitude": 127.055716
+    },
+    "name": "지행",
+    "address": "",
+    "fr_code": "104",
+    "line_num": "1"
+  },
+  "zUJxUxrykl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.913702,
+      "longitude": 127.057277
+    },
+    "name": "보산",
+    "address": "",
+    "fr_code": "102",
+    "line_num": "1"
+  },
+  "zFq1ZF0yG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.927878,
+      "longitude": 127.05479
+    },
+    "name": "동두천",
+    "address": "",
+    "fr_code": "101",
+    "line_num": "1"
+  },
+  "nFLxFLOyGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.9481,
+      "longitude": 127.061034
+    },
+    "name": "소요산",
+    "address": "",
+    "fr_code": "100",
+    "line_num": "1"
+  },
+  "nYq5Yfrscf": {
+    "type": "subway",
+    "location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "name": "마전(무정차)",
+    "address": "",
+    "fr_code": "759",
+    "line_num": "1"
+  },
+  "zYS1UWR2G4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.614805,
+      "longitude": 127.065851
+    },
+    "name": "석계",
+    "address": "",
+    "fr_code": "644",
+    "line_num": "6"
+  },
+  "nYqNY6R2G4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.614805,
+      "longitude": 127.065851
+    },
+    "name": "석계",
+    "address": "",
+    "fr_code": "120",
+    "line_num": "1"
+  },
+  "zUSNU_R2kl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.623632,
+      "longitude": 127.061835
+    },
+    "name": "광운대",
+    "address": "",
+    "fr_code": "119",
+    "line_num": "1"
+  },
+  "uZSxUdOacf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.623632,
+      "longitude": 127.061835
+    },
+    "name": "광운대",
+    "address": "",
+    "fr_code": "P119",
+    "line_num": "G"
+  },
+  "WZq1UCRa_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.633212,
+      "longitude": 127.058831
+    },
+    "name": "월계",
+    "address": "",
+    "fr_code": "118",
+    "line_num": "1"
+  },
+  "WZS5UE02cf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.644799,
+      "longitude": 127.051269
+    },
+    "name": "녹천",
+    "address": "",
+    "fr_code": "117",
+    "line_num": "1"
+  },
+  "uYJxFR0sGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.496237,
+      "longitude": 127.052873
+    },
+    "name": "한티",
+    "address": "",
+    "fr_code": "k216",
+    "line_num": "B"
+  },
+  "uUL1ZjR2cK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.486839,
+      "longitude": 127.058856
+    },
+    "name": "구룡",
+    "address": "",
+    "fr_code": "k218",
+    "line_num": "B"
+  },
+  "nYLNFmOs_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.489116,
+      "longitude": 127.06614
+    },
+    "name": "개포동",
+    "address": "",
+    "fr_code": "k219",
+    "line_num": "B"
+  },
+  "uYJ1FsRs_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.491373,
+      "longitude": 127.07272
+    },
+    "name": "대모산입구",
+    "address": "",
+    "fr_code": "k220",
+    "line_num": "B"
+  },
+  "zZS1Ytry_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.470047,
+      "longitude": 127.126662
+    },
+    "name": "복정",
+    "address": "",
+    "fr_code": "820",
+    "line_num": "8"
+  },
+  "uUJ1Uorscf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.470047,
+      "longitude": 127.126662
+    },
+    "name": "복정",
+    "address": "",
+    "fr_code": "K222",
+    "line_num": "B"
+  },
+  "nZLxZN82GK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.517122,
+      "longitude": 126.917169
+    },
+    "name": "신길",
+    "address": "",
+    "fr_code": "138",
+    "line_num": "1"
+  },
+  "WYq1FZ82kf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.517122,
+      "longitude": 126.917169
+    },
+    "name": "신길",
+    "address": "",
+    "fr_code": "525",
+    "line_num": "5"
+  },
+  "nYS5YSDsGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.594917,
+      "longitude": 127.076116
+    },
+    "name": "중랑",
+    "address": "",
+    "fr_code": "P118",
+    "line_num": "G"
+  },
+  "nZJxY4Da_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.594917,
+      "longitude": 127.076116
+    },
+    "name": "중랑",
+    "address": "",
+    "fr_code": "K119",
+    "line_num": "K"
+  },
+  "uYS1YW9scK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.59955,
+      "longitude": 127.091909
+    },
+    "name": "망우",
+    "address": "",
+    "fr_code": "K121",
+    "line_num": "K"
+  },
+  "zUL1Upjy_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.59955,
+      "longitude": 127.091909
+    },
+    "name": "망우",
+    "address": "",
+    "fr_code": "P121",
+    "line_num": "G"
+  },
+  "zZq1U_8sG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.606596,
+      "longitude": 127.107906
+    },
+    "name": "양원",
+    "address": "",
+    "fr_code": "K122",
+    "line_num": "K"
+  },
+  "zUSNZI82_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.603392,
+      "longitude": 127.143869
+    },
+    "name": "구리",
+    "address": "",
+    "fr_code": "K123",
+    "line_num": "K"
+  },
+  "nFSxFCD2_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.608806,
+      "longitude": 127.161153
+    },
+    "name": "도농",
+    "address": "",
+    "fr_code": "K124",
+    "line_num": "K"
+  },
+  "nYSxU39akK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.60533,
+      "longitude": 127.19364
+    },
+    "name": "양정",
+    "address": "",
+    "fr_code": "K125",
+    "line_num": "K"
+  },
+  "uZL5ZO8sG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.586781,
+      "longitude": 127.208832
+    },
+    "name": "덕소",
+    "address": "",
+    "fr_code": "K126",
+    "line_num": "K"
+  },
+  "uYSNUjDyk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.579622,
+      "longitude": 127.222672
+    },
+    "name": "도심",
+    "address": "",
+    "fr_code": "K127",
+    "line_num": "K"
+  },
+  "zUJNUgDykf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.547371,
+      "longitude": 127.243939
+    },
+    "name": "팔당",
+    "address": "",
+    "fr_code": "K128",
+    "line_num": "K"
+  },
+  "uYSNZaj2Gl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.554669,
+      "longitude": 127.310115
+    },
+    "name": "운길산",
+    "address": "",
+    "fr_code": "K129",
+    "line_num": "K"
+  },
+  "nUSxFtDskl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.545981,
+      "longitude": 127.329098
+    },
+    "name": "양수",
+    "address": "",
+    "fr_code": "K130",
+    "line_num": "K"
+  },
+  "WZSxUb_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.525545,
+      "longitude": 127.372921
+    },
+    "name": "신원",
+    "address": "",
+    "fr_code": "K131",
+    "line_num": "K"
+  },
+  "nFL5ZFh_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.516169,
+      "longitude": 127.399367
+    },
+    "name": "국수",
+    "address": "",
+    "fr_code": "K132",
+    "line_num": "K"
+  },
+  "WYSxYSb_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.51382,
+      "longitude": 127.443173
+    },
+    "name": "아신",
+    "address": "",
+    "fr_code": "K133",
+    "line_num": "K"
+  },
+  "nUqNY4tkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.506062,
+      "longitude": 127.473868
+    },
+    "name": "오빈",
+    "address": "",
+    "fr_code": "K134",
+    "line_num": "K"
+  },
+  "uUJ1FWt_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.492832,
+      "longitude": 127.491814
+    },
+    "name": "양평(경의중앙선)",
+    "address": "",
+    "fr_code": "K135",
+    "line_num": "K"
+  },
+  "uFL5FphGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.468672,
+      "longitude": 127.547076
+    },
+    "name": "원덕",
+    "address": "",
+    "fr_code": "K136",
+    "line_num": "K"
+  },
+  "nULxFGtcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.48223,
+      "longitude": 127.594647
+    },
+    "name": "용문",
+    "address": "",
+    "fr_code": "K137",
+    "line_num": "K"
+  },
+  "WFJ1Y7ecl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.556328,
+      "longitude": 126.969522
+    },
+    "name": "서울(경의중앙선)",
+    "address": "",
+    "fr_code": "P313",
+    "line_num": "K"
+  },
+  "zULxUvt_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.559783,
+      "longitude": 126.942319
+    },
+    "name": "신촌(경의중앙선)",
+    "address": "",
+    "fr_code": "P312",
+    "line_num": "K"
+  },
+  "zFJ1ZTeGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.551881,
+      "longitude": 126.935711
+    },
+    "name": "서강대",
+    "address": "",
+    "fr_code": "K313",
+    "line_num": "K"
+  },
+  "uFSxUOhG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.568491,
+      "longitude": 126.915487
+    },
+    "name": "가좌",
+    "address": "",
+    "fr_code": "K315",
+    "line_num": "K"
+  },
+  "uYSNU9bcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.580842,
+      "longitude": 126.895611
+    },
+    "name": "수색",
+    "address": "",
+    "fr_code": "K317",
+    "line_num": "K"
+  },
+  "zUqNZgb_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.602888,
+      "longitude": 126.868387
+    },
+    "name": "화전",
+    "address": "",
+    "fr_code": "K318",
+    "line_num": "K"
+  },
+  "WYqNZ2bcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.612102,
+      "longitude": 126.834146
+    },
+    "name": "행신",
+    "address": "",
+    "fr_code": "K320",
+    "line_num": "K"
+  },
+  "nFS1Ybe_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.618808,
+      "longitude": 126.820783
+    },
+    "name": "능곡",
+    "address": "",
+    "fr_code": "K321",
+    "line_num": "K"
+  },
+  "nFq1UoekK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.645676,
+      "longitude": 126.801762
+    },
+    "name": "곡산",
+    "address": "",
+    "fr_code": "K323",
+    "line_num": "K"
+  },
+  "zYLxZ5Ybc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.658239,
+      "longitude": 126.794461
+    },
+    "name": "백마",
+    "address": "",
+    "fr_code": "K324",
+    "line_num": "K"
+  },
+  "zYq5YYUbkK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.672346,
+      "longitude": 126.786243
+    },
+    "name": "풍산",
+    "address": "",
+    "fr_code": "K325",
+    "line_num": "K"
+  },
+  "nZJ5ULZtc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.682077,
+      "longitude": 126.769846
+    },
+    "name": "일산",
+    "address": "",
+    "fr_code": "K326",
+    "line_num": "K"
+  },
+  "nYSxYlFeGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.725826,
+      "longitude": 126.767257
+    },
+    "name": "운정",
+    "address": "",
+    "fr_code": "K329",
+    "line_num": "K"
+  },
+  "nFSNZWUbkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.751322,
+      "longitude": 126.765347
+    },
+    "name": "금릉",
+    "address": "",
+    "fr_code": "K330",
+    "line_num": "K"
+  },
+  "nUqNU6Yecf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.796188,
+      "longitude": 126.792587
+    },
+    "name": "월롱",
+    "address": "",
+    "fr_code": "K333",
+    "line_num": "K"
+  },
+  "uYL1ZcZbkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.815298,
+      "longitude": 126.792783
+    },
+    "name": "파주",
+    "address": "",
+    "fr_code": "K334",
+    "line_num": "K"
+  },
+  "uFS1UdUbG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.854619,
+      "longitude": 126.788047
+    },
+    "name": "문산",
+    "address": "",
+    "fr_code": "K335",
+    "line_num": "K"
+  },
+  "uZS5UPUecf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.634118,
+      "longitude": 127.114757
+    },
+    "name": "갈매",
+    "address": "",
+    "fr_code": "P123",
+    "line_num": "G"
+  },
+  "nUq5Z3Yhkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.64202,
+      "longitude": 127.12684
+    },
+    "name": "별내",
+    "address": "",
+    "fr_code": "P124",
+    "line_num": "G"
+  },
+  "uZL5U0ZtGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.65108,
+      "longitude": 127.176933
+    },
+    "name": "사릉",
+    "address": "",
+    "fr_code": "P126",
+    "line_num": "G"
+  },
+  "zFJNZDYhk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.637382,
+      "longitude": 127.207853
+    },
+    "name": "금곡",
+    "address": "",
+    "fr_code": "P127",
+    "line_num": "G"
+  },
+  "zFqxZAUbkK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.653225,
+      "longitude": 127.244493
+    },
+    "name": "평내호평",
+    "address": "",
+    "fr_code": "P128",
+    "line_num": "G"
+  },
+  "WYL1ZyUbkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.652782,
+      "longitude": 127.311767
+    },
+    "name": "마석",
+    "address": "",
+    "fr_code": "P130",
+    "line_num": "G"
+  },
+  "WFS1ZeUecK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.684071,
+      "longitude": 127.379319
+    },
+    "name": "대성리",
+    "address": "",
+    "fr_code": "P131",
+    "line_num": "G"
+  },
+  "uUJ1ZHZbGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.735488,
+      "longitude": 127.42661
+    },
+    "name": "청평",
+    "address": "",
+    "fr_code": "P132",
+    "line_num": "G"
+  },
+  "uFq5ZxShcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.814536,
+      "longitude": 127.510739
+    },
+    "name": "가평",
+    "address": "",
+    "fr_code": "P134",
+    "line_num": "G"
+  },
+  "zYqNZULt_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.832067,
+      "longitude": 127.557695
+    },
+    "name": "굴봉산",
+    "address": "",
+    "fr_code": "P135",
+    "line_num": "G"
+  },
+  "uFJNYqShGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.805723,
+      "longitude": 127.634146
+    },
+    "name": "강촌",
+    "address": "",
+    "fr_code": "P137",
+    "line_num": "G"
+  },
+  "uYqxUlJtGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.818466,
+      "longitude": 127.71434
+    },
+    "name": "김유정",
+    "address": "",
+    "fr_code": "P138",
+    "line_num": "G"
+  },
+  "WUJ1UWLhGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.864007,
+      "longitude": 127.723792
+    },
+    "name": "남춘천",
+    "address": "",
+    "fr_code": "P139",
+    "line_num": "G"
+  },
+  "nZJ5ZQJb_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 36.801215,
+      "longitude": 127.135763
+    },
+    "name": "봉명",
+    "address": "",
+    "fr_code": "P170",
+    "line_num": "1"
+  },
+  "uYS1FkSh_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 36.793759,
+      "longitude": 127.1214
+    },
+    "name": "쌍용(나사렛대)",
+    "address": "",
+    "fr_code": "P171",
+    "line_num": "1"
+  },
+  "nUJ1Z7Sh_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "name": "탕정",
+    "address": "",
+    "fr_code": "P173",
+    "line_num": "1"
+  },
+  "nYS5FCqekl": {
+    "type": "subway",
+    "location": {
+      "latitude": 36.777629,
+      "longitude": 127.052991
+    },
+    "name": "배방",
+    "address": "",
+    "fr_code": "P174",
+    "line_num": "1"
+  },
+  "zUL1Uiqekf": {
+    "type": "subway",
+    "location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "name": "풍기",
+    "address": "",
+    "fr_code": "P175",
+    "line_num": "1"
+  },
+  "uYJNYrLekl": {
+    "type": "subway",
+    "location": {
+      "latitude": 36.780483,
+      "longitude": 127.003249
+    },
+    "name": "온양온천",
+    "address": "",
+    "fr_code": "P176",
+    "line_num": "1"
+  },
+  "WUSNZ8Lbc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.451673,
+      "longitude": 127.002303
+    },
+    "name": "선바위",
+    "address": "",
+    "fr_code": "435",
+    "line_num": "4"
+  },
+  "nYLxZAStkK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.443885,
+      "longitude": 127.007888
+    },
+    "name": "경마공원",
+    "address": "",
+    "fr_code": "436",
+    "line_num": "4"
+  },
+  "uULNYyqecK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.435675,
+      "longitude": 127.006523
+    },
+    "name": "대공원",
+    "address": "",
+    "fr_code": "437",
+    "line_num": "4"
+  },
+  "WFJ1ZeStcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.433021,
+      "longitude": 126.996568
+    },
+    "name": "과천",
+    "address": "",
+    "fr_code": "438",
+    "line_num": "4"
+  },
+  "uFL1UoLb_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.426513,
+      "longitude": 126.98978
+    },
+    "name": "정부과천청사",
+    "address": "",
+    "fr_code": "439",
+    "line_num": "4"
+  },
+  "nYSNUNfhkK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.401553,
+      "longitude": 126.976715
+    },
+    "name": "인덕원",
+    "address": "",
+    "fr_code": "440",
+    "line_num": "4"
+  },
+  "zFqNFYfeG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.394287,
+      "longitude": 126.963883
+    },
+    "name": "평촌",
+    "address": "",
+    "fr_code": "441",
+    "line_num": "4"
+  },
+  "WUL1YSKeGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.389793,
+      "longitude": 126.950806
+    },
+    "name": "범계",
+    "address": "",
+    "fr_code": "442",
+    "line_num": "4"
+  },
+  "zFLNY4fhGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.372221,
+      "longitude": 126.943429
+    },
+    "name": "금정",
+    "address": "",
+    "fr_code": "P149",
+    "line_num": "1"
+  },
+  "WFq1YulbG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.372221,
+      "longitude": 126.943429
+    },
+    "name": "금정",
+    "address": "",
+    "fr_code": "443",
+    "line_num": "4"
+  },
+  "WUL1ZpfbGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.503039,
+      "longitude": 126.881966
+    },
+    "name": "구로",
+    "address": "",
+    "fr_code": "141",
+    "line_num": "1"
+  },
+  "uFSxFkftcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.481072,
+      "longitude": 126.882343
+    },
+    "name": "가산디지털단지",
+    "address": "",
+    "fr_code": "746",
+    "line_num": "7"
+  },
+  "zYJNUXfecl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.481072,
+      "longitude": 126.882343
+    },
+    "name": "가산디지털단지",
+    "address": "",
+    "fr_code": "P142",
+    "line_num": "1"
+  },
+  "nUSNYCft_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.455626,
+      "longitude": 126.89398
+    },
+    "name": "금천구청",
+    "address": "",
+    "fr_code": "P144",
+    "line_num": "1"
+  },
+  "zFL1YTft_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.435047,
+      "longitude": 126.902295
+    },
+    "name": "석수",
+    "address": "",
+    "fr_code": "P145",
+    "line_num": "1"
+  },
+  "nZS5ZOlt_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.401592,
+      "longitude": 126.922874
+    },
+    "name": "안양",
+    "address": "",
+    "fr_code": "P147",
+    "line_num": "1"
+  },
+  "WULxZjKbcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.384653,
+      "longitude": 126.935433
+    },
+    "name": "명학",
+    "address": "",
+    "fr_code": "P148",
+    "line_num": "1"
+  },
+  "WZq1Fw4tkK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.35356,
+      "longitude": 126.948462
+    },
+    "name": "군포",
+    "address": "",
+    "fr_code": "P150",
+    "line_num": "1"
+  },
+  "zUJNFaKhkf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.320852,
+      "longitude": 126.948217
+    },
+    "name": "의왕",
+    "address": "",
+    "fr_code": "P152",
+    "line_num": "1"
+  },
+  "zFLxFefe_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.300349,
+      "longitude": 126.97075
+    },
+    "name": "성균관대",
+    "address": "",
+    "fr_code": "P153",
+    "line_num": "1"
+  },
+  "nYL5YoKhG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.265974,
+      "longitude": 126.999874
+    },
+    "name": "수원",
+    "address": "",
+    "fr_code": "P155",
+    "line_num": "1"
+  },
+  "nFLNFNnhcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.265974,
+      "longitude": 126.999874
+    },
+    "name": "수원",
+    "address": "",
+    "fr_code": "K245",
+    "line_num": "B"
+  },
+  "nFSxZFzhGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.466613,
+      "longitude": 126.889249
+    },
+    "name": "독산",
+    "address": "",
+    "fr_code": "P143",
+    "line_num": "1"
+  },
+  "zZJ1YLuhcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.245025,
+      "longitude": 127.013222
+    },
+    "name": "세류",
+    "address": "",
+    "fr_code": "P156",
+    "line_num": "1"
+  },
+  "nZLNYKWe_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.207503,
+      "longitude": 127.032731
+    },
+    "name": "병점",
+    "address": "",
+    "fr_code": "P157",
+    "line_num": "1"
+  },
+  "zYJ1YzWekK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.187533,
+      "longitude": 127.04318
+    },
+    "name": "세마",
+    "address": "",
+    "fr_code": "P158",
+    "line_num": "1"
+  },
+  "WFLNYMuhcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.168953,
+      "longitude": 127.063197
+    },
+    "name": "오산대",
+    "address": "",
+    "fr_code": "P159",
+    "line_num": "1"
+  },
+  "uYq5YGzh_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.145885,
+      "longitude": 127.06672
+    },
+    "name": "오산",
+    "address": "",
+    "fr_code": "P160",
+    "line_num": "1"
+  },
+  "zFSxFdut_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.109447,
+      "longitude": 127.062278
+    },
+    "name": "진위",
+    "address": "",
+    "fr_code": "P161",
+    "line_num": "1"
+  },
+  "zZJNUVzbk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.075696,
+      "longitude": 127.054301
+    },
+    "name": "송탄",
+    "address": "",
+    "fr_code": "P162",
+    "line_num": "1"
+  },
+  "nFS5Z3zhcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.056496,
+      "longitude": 127.052819
+    },
+    "name": "서정리",
+    "address": "",
+    "fr_code": "P163",
+    "line_num": "1"
+  },
+  "nZLNURzecK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.0188,
+      "longitude": 127.070444
+    },
+    "name": "지제",
+    "address": "",
+    "fr_code": "P164",
+    "line_num": "1"
+  },
+  "uYS1Yjztk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 36.990726,
+      "longitude": 127.085159
+    },
+    "name": "평택",
+    "address": "",
+    "fr_code": "P165",
+    "line_num": "1"
+  },
+  "nZqNZAub_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 36.916076,
+      "longitude": 127.126964
+    },
+    "name": "성환",
+    "address": "",
+    "fr_code": "P166",
+    "line_num": "1"
+  },
+  "uZqxZsWhcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 36.870593,
+      "longitude": 127.143904
+    },
+    "name": "직산",
+    "address": "",
+    "fr_code": "P167",
+    "line_num": "1"
+  },
+  "uUq5ZbWecl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.344285,
+      "longitude": 126.948345
+    },
+    "name": "당정",
+    "address": "",
+    "fr_code": "P151",
+    "line_num": "1"
+  },
+  "nFqxYoWt_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.195504,
+      "longitude": 127.051672
+    },
+    "name": "서동탄",
+    "address": "",
+    "fr_code": "P157-1",
+    "line_num": "1"
+  },
+  "uFq5Y1pt_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.416182,
+      "longitude": 126.884466
+    },
+    "name": "광명",
+    "address": "",
+    "fr_code": "P144-1",
+    "line_num": "1"
+  },
+  "zUqxZYpbkK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.358101,
+      "longitude": 126.933274
+    },
+    "name": "산본",
+    "address": "",
+    "fr_code": "444",
+    "line_num": "4"
+  },
+  "nUL1FJMtGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.328467,
+      "longitude": 126.917332
+    },
+    "name": "대야미",
+    "address": "",
+    "fr_code": "446",
+    "line_num": "4"
+  },
+  "nZLxY46e_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.312212,
+      "longitude": 126.903524
+    },
+    "name": "반월",
+    "address": "",
+    "fr_code": "447",
+    "line_num": "4"
+  },
+  "uYLNYuQbcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.302795,
+      "longitude": 126.866489
+    },
+    "name": "상록수",
+    "address": "",
+    "fr_code": "448",
+    "line_num": "4"
+  },
+  "zZqxZpMt_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.309689,
+      "longitude": 126.85344
+    },
+    "name": "한대앞",
+    "address": "",
+    "fr_code": "449",
+    "line_num": "4"
+  },
+  "zFJxUcQbkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.316777,
+      "longitude": 126.823249
+    },
+    "name": "고잔",
+    "address": "",
+    "fr_code": "451",
+    "line_num": "4"
+  },
+  "nFSxU7pbcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.320646,
+      "longitude": 126.805913
+    },
+    "name": "초지",
+    "address": "",
+    "fr_code": "452",
+    "line_num": "4"
+  },
+  "uUS5Yv6bG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.327082,
+      "longitude": 126.788532
+    },
+    "name": "안산",
+    "address": "",
+    "fr_code": "453",
+    "line_num": "4"
+  },
+  "zYJxFEpbkK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.338212,
+      "longitude": 126.765844
+    },
+    "name": "신길온천",
+    "address": "",
+    "fr_code": "454",
+    "line_num": "4"
+  },
+  "zYLNF0phG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.351735,
+      "longitude": 126.742989
+    },
+    "name": "정왕",
+    "address": "",
+    "fr_code": "455",
+    "line_num": "4"
+  },
+  "WYJ5U86h_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.362357,
+      "longitude": 126.738714
+    },
+    "name": "오이도",
+    "address": "",
+    "fr_code": "K250",
+    "line_num": "SU"
+  },
+  "WUq1YmMbG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.362357,
+      "longitude": 126.738714
+    },
+    "name": "오이도",
+    "address": "",
+    "fr_code": "456",
+    "line_num": "4"
+  },
+  "zZL1Yapb_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.494594,
+      "longitude": 126.85868
+    },
+    "name": "개봉",
+    "address": "",
+    "fr_code": "143",
+    "line_num": "1"
+  },
+  "zYL5Utpbkf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.494526,
+      "longitude": 126.845365
+    },
+    "name": "오류동",
+    "address": "",
+    "fr_code": "144",
+    "line_num": "1"
+  },
+  "WYS1Z-pb_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.485178,
+      "longitude": 126.811502
+    },
+    "name": "역곡",
+    "address": "",
+    "fr_code": "146",
+    "line_num": "1"
+  },
+  "WUqxYNGecK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.48405,
+      "longitude": 126.782686
+    },
+    "name": "부천",
+    "address": "",
+    "fr_code": "148",
+    "line_num": "1"
+  },
+  "nYSNUYkh_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.4876,
+      "longitude": 126.753664
+    },
+    "name": "송내",
+    "address": "",
+    "fr_code": "150",
+    "line_num": "1"
+  },
+  "zFq1Yqkbcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.489493,
+      "longitude": 126.724805
+    },
+    "name": "부평",
+    "address": "",
+    "fr_code": "I120",
+    "line_num": "I"
+  },
+  "uFJ5YKce_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.489493,
+      "longitude": 126.724805
+    },
+    "name": "부평",
+    "address": "",
+    "fr_code": "152",
+    "line_num": "1"
+  },
+  "zZLxFz_hkf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.483664,
+      "longitude": 126.707704
+    },
+    "name": "백운",
+    "address": "",
+    "fr_code": "153",
+    "line_num": "1"
+  },
+  "zUJNY6khk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.471408,
+      "longitude": 126.702896
+    },
+    "name": "동암",
+    "address": "",
+    "fr_code": "154",
+    "line_num": "1"
+  },
+  "zYSxU__b_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.466769,
+      "longitude": 126.656666
+    },
+    "name": "제물포",
+    "address": "",
+    "fr_code": "158",
+    "line_num": "1"
+  },
+  "zZJ1YdkhGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.475276,
+      "longitude": 126.632802
+    },
+    "name": "동인천",
+    "address": "",
+    "fr_code": "160",
+    "line_num": "1"
+  },
+  "zUS5FVGhkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.496756,
+      "longitude": 126.870793
+    },
+    "name": "구일",
+    "address": "",
+    "fr_code": "142",
+    "line_num": "1"
+  },
+  "WYJ1YEGe_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.482753,
+      "longitude": 126.79544
+    },
+    "name": "소사",
+    "address": "",
+    "fr_code": "147",
+    "line_num": "1"
+  },
+  "uZJxZRkbc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.488418,
+      "longitude": 126.74109
+    },
+    "name": "부개",
+    "address": "",
+    "fr_code": "151",
+    "line_num": "1"
+  },
+  "nFLxU8khcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.464737,
+      "longitude": 126.694181
+    },
+    "name": "간석",
+    "address": "",
+    "fr_code": "155",
+    "line_num": "1"
+  },
+  "WFSxZwGtkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.468446,
+      "longitude": 126.642706
+    },
+    "name": "도원",
+    "address": "",
+    "fr_code": "159",
+    "line_num": "1"
+  },
+  "WFJxFsctcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.492258,
+      "longitude": 126.823388
+    },
+    "name": "온수",
+    "address": "",
+    "fr_code": "750",
+    "line_num": "7"
+  },
+  "nYqNZtGtkK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.492258,
+      "longitude": 126.823388
+    },
+    "name": "온수",
+    "address": "",
+    "fr_code": "145",
+    "line_num": "1"
+  },
+  "WZL5Z-Gb_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.486562,
+      "longitude": 126.764843
+    },
+    "name": "중동",
+    "address": "",
+    "fr_code": "149",
+    "line_num": "1"
+  },
+  "zFJxYNIhG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.46607,
+      "longitude": 126.668672
+    },
+    "name": "도화",
+    "address": "",
+    "fr_code": "157",
+    "line_num": "1"
+  },
+  "uUqxYF7e_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.543617,
+      "longitude": 127.044707
+    },
+    "name": "서울숲",
+    "address": "",
+    "fr_code": "K211",
+    "line_num": "B"
+  },
+  "nZJ1FqdtcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.574028,
+      "longitude": 127.038091
+    },
+    "name": "용두",
+    "address": "",
+    "fr_code": "211-3",
+    "line_num": "2"
+  },
+  "uZJxFKIb_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.648048,
+      "longitude": 126.913951
+    },
+    "name": "지축",
+    "address": "",
+    "fr_code": "319",
+    "line_num": "3"
+  },
+  "nZS1Uudhc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.636763,
+      "longitude": 126.918821
+    },
+    "name": "구파발",
+    "address": "",
+    "fr_code": "320",
+    "line_num": "3"
+  },
+  "WFJ1ZpIhk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.619001,
+      "longitude": 126.921008
+    },
+    "name": "연신내",
+    "address": "",
+    "fr_code": "614",
+    "line_num": "6"
+  },
+  "nZL1Zcdh_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.619001,
+      "longitude": 126.921008
+    },
+    "name": "연신내",
+    "address": "",
+    "fr_code": "321",
+    "line_num": "3"
+  },
+  "nYL1ZdXtk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.610469,
+      "longitude": 126.929887
+    },
+    "name": "불광",
+    "address": "",
+    "fr_code": "612",
+    "line_num": "6"
+  },
+  "nFS1ZVIecK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.610469,
+      "longitude": 126.929887
+    },
+    "name": "불광",
+    "address": "",
+    "fr_code": "322",
+    "line_num": "3"
+  },
+  "nFqNYTXtk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.600927,
+      "longitude": 126.935756
+    },
+    "name": "녹번",
+    "address": "",
+    "fr_code": "323",
+    "line_num": "3"
+  },
+  "zZJ1ZOdtGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.589066,
+      "longitude": 126.943736
+    },
+    "name": "홍제",
+    "address": "",
+    "fr_code": "324",
+    "line_num": "3"
+  },
+  "nUq5FDItk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.582299,
+      "longitude": 126.950291
+    },
+    "name": "무악재",
+    "address": "",
+    "fr_code": "325",
+    "line_num": "3"
+  },
+  "zFL5Zm7h_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.574571,
+      "longitude": 126.957748
+    },
+    "name": "독립문",
+    "address": "",
+    "fr_code": "326",
+    "line_num": "3"
+  },
+  "uZq5YyXhGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.575762,
+      "longitude": 126.97353
+    },
+    "name": "경복궁",
+    "address": "",
+    "fr_code": "327",
+    "line_num": "3"
+  },
+  "nUSxUhItGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.576477,
+      "longitude": 126.985443
+    },
+    "name": "안국",
+    "address": "",
+    "fr_code": "328",
+    "line_num": "3"
+  },
+  "uZLNYoIhcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.561243,
+      "longitude": 126.99428
+    },
+    "name": "충무로",
+    "address": "",
+    "fr_code": "331",
+    "line_num": "3"
+  },
+  "zZSNF5Ct_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.561243,
+      "longitude": 126.99428
+    },
+    "name": "충무로",
+    "address": "",
+    "fr_code": "423",
+    "line_num": "4"
+  },
+  "WFL1FZPtkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.463873,
+      "longitude": 126.989134
+    },
+    "name": "남태령",
+    "address": "",
+    "fr_code": "434",
+    "line_num": "4"
+  },
+  "uZJ5YSVhGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.601854,
+      "longitude": 127.067325
+    },
+    "name": "신이문",
+    "address": "",
+    "fr_code": "121",
+    "line_num": "1"
+  },
+  "nZL5YKPbcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.694023,
+      "longitude": 126.761086
+    },
+    "name": "탄현",
+    "address": "",
+    "fr_code": "K327",
+    "line_num": "K"
+  },
+  "zUJ5UnPbkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.766217,
+      "longitude": 126.774644
+    },
+    "name": "금촌",
+    "address": "",
+    "fr_code": "K331",
+    "line_num": "K"
+  },
+  "uZq5F6Vtc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.612887,
+      "longitude": 127.103218
+    },
+    "name": "신내",
+    "address": "",
+    "fr_code": "P122",
+    "line_num": "G"
+  },
+  "nZJxZ_CbcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.648311,
+      "longitude": 127.143952
+    },
+    "name": "퇴계원",
+    "address": "",
+    "fr_code": "P125",
+    "line_num": "G"
+  },
+  "nFJ5UXvbk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.559052,
+      "longitude": 127.005602
+    },
+    "name": "동대입구",
+    "address": "",
+    "fr_code": "332",
+    "line_num": "3"
+  },
+  "nFLxUPPtkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.55434,
+      "longitude": 127.010655
+    },
+    "name": "약수",
+    "address": "",
+    "fr_code": "333",
+    "line_num": "3"
+  },
+  "WZL5FTCh_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.55434,
+      "longitude": 127.010655
+    },
+    "name": "약수",
+    "address": "",
+    "fr_code": "633",
+    "line_num": "6"
+  },
+  "zFLxYOVhGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.548034,
+      "longitude": 127.015872
+    },
+    "name": "금호",
+    "address": "",
+    "fr_code": "334",
+    "line_num": "3"
+  },
+  "zYL5Z8vbk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.540685,
+      "longitude": 127.017965
+    },
+    "name": "옥수",
+    "address": "",
+    "fr_code": "K114",
+    "line_num": "K"
+  },
+  "uZJ1UACtG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.540685,
+      "longitude": 127.017965
+    },
+    "name": "옥수",
+    "address": "",
+    "fr_code": "335",
+    "line_num": "3"
+  },
+  "nYS5UyPhc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.527072,
+      "longitude": 127.028461
+    },
+    "name": "압구정",
+    "address": "",
+    "fr_code": "336",
+    "line_num": "3"
+  },
+  "nFS1UtvhGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.516334,
+      "longitude": 127.020114
+    },
+    "name": "신사",
+    "address": "",
+    "fr_code": "337",
+    "line_num": "3"
+  },
+  "uFqxFHCbcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.512759,
+      "longitude": 127.01122
+    },
+    "name": "잠원",
+    "address": "",
+    "fr_code": "338",
+    "line_num": "3"
+  },
+  "uYJ5ZxEtGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.50481,
+      "longitude": 127.004943
+    },
+    "name": "고속터미널",
+    "address": "",
+    "fr_code": "923",
+    "line_num": "9"
+  },
+  "zZqxUZEbcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.50481,
+      "longitude": 127.004943
+    },
+    "name": "고속터미널",
+    "address": "",
+    "fr_code": "734",
+    "line_num": "7"
+  },
+  "nUSNYSTe_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.50481,
+      "longitude": 127.004943
+    },
+    "name": "고속터미널",
+    "address": "",
+    "fr_code": "339",
+    "line_num": "3"
+  },
+  "WFJ5FlTecl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.493415,
+      "longitude": 127.01408
+    },
+    "name": "교대",
+    "address": "",
+    "fr_code": "223",
+    "line_num": "2"
+  },
+  "WUq1ZzEhcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.493415,
+      "longitude": 127.01408
+    },
+    "name": "교대",
+    "address": "",
+    "fr_code": "340",
+    "line_num": "3"
+  },
+  "nUJ5Upiecl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.485013,
+      "longitude": 127.016189
+    },
+    "name": "남부터미널",
+    "address": "",
+    "fr_code": "341",
+    "line_num": "3"
+  },
+  "WULNZcEek4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.484147,
+      "longitude": 127.034631
+    },
+    "name": "양재",
+    "address": "",
+    "fr_code": "D8",
+    "line_num": "S"
+  },
+  "nZSNY7ibk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.484147,
+      "longitude": 127.034631
+    },
+    "name": "양재",
+    "address": "",
+    "fr_code": "342",
+    "line_num": "3"
+  },
+  "uYL1Zvibcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.486947,
+      "longitude": 127.046769
+    },
+    "name": "매봉",
+    "address": "",
+    "fr_code": "343",
+    "line_num": "3"
+  },
+  "WULNYiEbkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.490858,
+      "longitude": 127.055381
+    },
+    "name": "도곡",
+    "address": "",
+    "fr_code": "K217",
+    "line_num": "B"
+  },
+  "nYLxF0ibk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.490858,
+      "longitude": 127.055381
+    },
+    "name": "도곡",
+    "address": "",
+    "fr_code": "344",
+    "line_num": "3"
+  },
+  "nFJ1UDTt_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.494612,
+      "longitude": 127.063642
+    },
+    "name": "대치",
+    "address": "",
+    "fr_code": "345",
+    "line_num": "3"
+  },
+  "uUJ5YmTb_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.496663,
+      "longitude": 127.070594
+    },
+    "name": "학여울",
+    "address": "",
+    "fr_code": "346",
+    "line_num": "3"
+  },
+  "WFqNF2Etkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.658978,
+      "longitude": 127.285379
+    },
+    "name": "천마산",
+    "address": "",
+    "fr_code": "P129",
+    "line_num": "G"
+  },
+  "nYS1YhTtGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.770246,
+      "longitude": 127.454821
+    },
+    "name": "상천",
+    "address": "",
+    "fr_code": "P133",
+    "line_num": "G"
+  },
+  "WUL5Foiecl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.830779,
+      "longitude": 127.58933
+    },
+    "name": "백양리",
+    "address": "",
+    "fr_code": "P136",
+    "line_num": "G"
+  },
+  "zUS5ZNrtc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.885054,
+      "longitude": 127.717023
+    },
+    "name": "춘천",
+    "address": "",
+    "fr_code": "P140",
+    "line_num": "G"
+  },
+  "uFJNUFrhcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 36.792053,
+      "longitude": 127.104361
+    },
+    "name": "아산",
+    "address": "",
+    "fr_code": "P172",
+    "line_num": "1"
+  },
+  "zYq5ZqRbG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 36.769502,
+      "longitude": 126.951108
+    },
+    "name": "신창",
+    "address": "",
+    "fr_code": "P177",
+    "line_num": "1"
+  },
+  "zUSxFKrh_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.419232,
+      "longitude": 126.908706
+    },
+    "name": "관악",
+    "address": "",
+    "fr_code": "P146",
+    "line_num": "1"
+  },
+  "nZS5YWOtG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.283862,
+      "longitude": 126.989627
+    },
+    "name": "화서",
+    "address": "",
+    "fr_code": "P154",
+    "line_num": "1"
+  },
+  "zFJ1F6rbcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.493514,
+      "longitude": 127.079532
+    },
+    "name": "대청",
+    "address": "",
+    "fr_code": "347",
+    "line_num": "3"
+  },
+  "uYJ1YGrbcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.483681,
+      "longitude": 127.08439
+    },
+    "name": "일원",
+    "address": "",
+    "fr_code": "348",
+    "line_num": "3"
+  },
+  "nFJNZdRt_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.487371,
+      "longitude": 127.10188
+    },
+    "name": "수서",
+    "address": "",
+    "fr_code": "K221",
+    "line_num": "B"
+  },
+  "uUSxFVOtkK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.487371,
+      "longitude": 127.10188
+    },
+    "name": "수서",
+    "address": "",
+    "fr_code": "349",
+    "line_num": "3"
+  },
+  "nFLNFTRekl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.495918,
+      "longitude": 127.12454
+    },
+    "name": "경찰병원",
+    "address": "",
+    "fr_code": "351",
+    "line_num": "3"
+  },
+  "uZL1Y00tkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.670272,
+      "longitude": 127.079066
+    },
+    "name": "당고개",
+    "address": "",
+    "fr_code": "409",
+    "line_num": "4"
+  },
+  "WYLNFjrtkf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.660878,
+      "longitude": 127.073572
+    },
+    "name": "상계",
+    "address": "",
+    "fr_code": "410",
+    "line_num": "4"
+  },
+  "uFS5YwrekK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.655128,
+      "longitude": 127.061368
+    },
+    "name": "노원",
+    "address": "",
+    "fr_code": "713",
+    "line_num": "7"
+  },
+  "nZJxZsrtcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.655128,
+      "longitude": 127.061368
+    },
+    "name": "노원",
+    "address": "",
+    "fr_code": "411",
+    "line_num": "4"
+  },
+  "nZS1Zerecl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.653166,
+      "longitude": 127.047731
+    },
+    "name": "창동",
+    "address": "",
+    "fr_code": "412",
+    "line_num": "4"
+  },
+  "WUJ5Y-OhGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.653166,
+      "longitude": 127.047731
+    },
+    "name": "창동",
+    "address": "",
+    "fr_code": "116",
+    "line_num": "1"
+  },
+  "WULxUNDhcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.648627,
+      "longitude": 127.034709
+    },
+    "name": "쌍문",
+    "address": "",
+    "fr_code": "413",
+    "line_num": "4"
+  },
+  "zFLxYY8bkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.638052,
+      "longitude": 127.025732
+    },
+    "name": "수유",
+    "address": "",
+    "fr_code": "414",
+    "line_num": "4"
+  },
+  "uFS5Zq9bGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.62667,
+      "longitude": 127.025983
+    },
+    "name": "미아",
+    "address": "",
+    "fr_code": "415",
+    "line_num": "4"
+  },
+  "zZSxYKjtGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.613292,
+      "longitude": 127.030053
+    },
+    "name": "미아사거리",
+    "address": "",
+    "fr_code": "416",
+    "line_num": "4"
+  },
+  "WFLxUz9b_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.603407,
+      "longitude": 127.025053
+    },
+    "name": "길음",
+    "address": "",
+    "fr_code": "417",
+    "line_num": "4"
+  },
+  "WUJ5FQDtkK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.592624,
+      "longitude": 127.016403
+    },
+    "name": "성신여대입구",
+    "address": "",
+    "fr_code": "951",
+    "line_num": "UI"
+  },
+  "zFSxU_9eGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.592624,
+      "longitude": 127.016403
+    },
+    "name": "성신여대입구",
+    "address": "",
+    "fr_code": "418",
+    "line_num": "4"
+  },
+  "nZq1YXDhcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.440918,
+      "longitude": 127.147564
+    },
+    "name": "신흥",
+    "address": "",
+    "fr_code": "824",
+    "line_num": "8"
+  },
+  "nUqxZv8ekf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.437428,
+      "longitude": 127.140722
+    },
+    "name": "수진",
+    "address": "",
+    "fr_code": "825",
+    "line_num": "8"
+  },
+  "zZS1YTDtkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.566379,
+      "longitude": 126.742654
+    },
+    "name": "귤현",
+    "address": "",
+    "fr_code": "I111",
+    "line_num": "I"
+  },
+  "nYJNUO9ekl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.553703,
+      "longitude": 126.745077
+    },
+    "name": "박촌",
+    "address": "",
+    "fr_code": "I112",
+    "line_num": "I"
+  },
+  "uYqxF8Dh_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.543238,
+      "longitude": 126.728128
+    },
+    "name": "계산",
+    "address": "",
+    "fr_code": "I114",
+    "line_num": "I"
+  },
+  "WYS1ZgDb_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.538157,
+      "longitude": 126.722597
+    },
+    "name": "경인교대입구",
+    "address": "",
+    "fr_code": "I115",
+    "line_num": "I"
+  },
+  "nZSxZsjbG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.508336,
+      "longitude": 126.720548
+    },
+    "name": "부평구청",
+    "address": "",
+    "fr_code": "I118",
+    "line_num": "I"
+  },
+  "zZS5FtDbc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.508336,
+      "longitude": 126.720548
+    },
+    "name": "부평구청",
+    "address": "",
+    "fr_code": "759",
+    "line_num": "7"
+  },
+  "WUJ5YH8bkK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.467048,
+      "longitude": 126.707938
+    },
+    "name": "간석오거리",
+    "address": "",
+    "fr_code": "I123",
+    "line_num": "I"
+  },
+  "nUq1ZNAbcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.434935,
+      "longitude": 126.698579
+    },
+    "name": "문학경기장",
+    "address": "",
+    "fr_code": "I127",
+    "line_num": "I"
+  },
+  "zZS5UFgbcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.41804,
+      "longitude": 126.693863
+    },
+    "name": "신연수",
+    "address": "",
+    "fr_code": "I129",
+    "line_num": "I"
+  },
+  "nUJ5Fqmhkf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.412603,
+      "longitude": 126.687389
+    },
+    "name": "원인재",
+    "address": "",
+    "fr_code": "I130",
+    "line_num": "I"
+  },
+  "uYLxYfgekK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.412603,
+      "longitude": 126.687389
+    },
+    "name": "원인재",
+    "address": "",
+    "fr_code": "K257",
+    "line_num": "SU"
+  },
+  "zYJxUzAtG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.387855,
+      "longitude": 126.661673
+    },
+    "name": "캠퍼스타운",
+    "address": "",
+    "fr_code": "I133",
+    "line_num": "I"
+  },
+  "nZq1UMmbcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.382268,
+      "longitude": 126.656365
+    },
+    "name": "테크노파크",
+    "address": "",
+    "fr_code": "I134",
+    "line_num": "I"
+  },
+  "zFS5FcAecl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.386007,
+      "longitude": 126.639484
+    },
+    "name": "인천대입구",
+    "address": "",
+    "fr_code": "I136",
+    "line_num": "I"
+  },
+  "WUqNUIAt_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.399907,
+      "longitude": 126.630347
+    },
+    "name": "국제업무지구",
+    "address": "",
+    "fr_code": "I138",
+    "line_num": "I"
+  },
+  "uZqxFPwhkf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.567532,
+      "longitude": 126.816601
+    },
+    "name": "신방화",
+    "address": "",
+    "fr_code": "904",
+    "line_num": "9"
+  },
+  "WFS5F3mb_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.568381,
+      "longitude": 126.841333
+    },
+    "name": "양천향교",
+    "address": "",
+    "fr_code": "906",
+    "line_num": "9"
+  },
+  "WFqNFRAbcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.546936,
+      "longitude": 126.874916
+    },
+    "name": "염창",
+    "address": "",
+    "fr_code": "910",
+    "line_num": "9"
+  },
+  "uFJNYjweGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.653083,
+      "longitude": 126.895558
+    },
+    "name": "삼송",
+    "address": "",
+    "fr_code": "318",
+    "line_num": "3"
+  },
+  "uUJxFAwt_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.653324,
+      "longitude": 126.843041
+    },
+    "name": "원당",
+    "address": "",
+    "fr_code": "317",
+    "line_num": "3"
+  },
+  "uYS1FsAecl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.634592,
+      "longitude": 126.83265
+    },
+    "name": "화정",
+    "address": "",
+    "fr_code": "316",
+    "line_num": "3"
+  },
+  "zUSNUbAbcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.631626,
+      "longitude": 126.811024
+    },
+    "name": "대곡",
+    "address": "",
+    "fr_code": "315",
+    "line_num": "3"
+  },
+  "WUq5FHmhGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.631626,
+      "longitude": 126.811024
+    },
+    "name": "대곡",
+    "address": "",
+    "fr_code": "K322",
+    "line_num": "K"
+  },
+  "uFLxZxyhGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.643114,
+      "longitude": 126.78787
+    },
+    "name": "백석",
+    "address": "",
+    "fr_code": "314",
+    "line_num": "3"
+  },
+  "zUS5ZF2eG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.652206,
+      "longitude": 126.77762
+    },
+    "name": "마두",
+    "address": "",
+    "fr_code": "313",
+    "line_num": "3"
+  },
+  "WFS5USahkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.659477,
+      "longitude": 126.773359
+    },
+    "name": "정발산",
+    "address": "",
+    "fr_code": "312",
+    "line_num": "3"
+  },
+  "uYqxZ4sbGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.670072,
+      "longitude": 126.761334
+    },
+    "name": "주엽",
+    "address": "",
+    "fr_code": "311",
+    "line_num": "3"
+  },
+  "WYJ5Zuyt_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.676087,
+      "longitude": 126.747569
+    },
+    "name": "대화",
+    "address": "",
+    "fr_code": "310",
+    "line_num": "3"
+  },
+  "nYLxY62tcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.572399,
+      "longitude": 126.806171
+    },
+    "name": "개화산",
+    "address": "",
+    "fr_code": "511",
+    "line_num": "5"
+  },
+  "nZSNYkabG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.561184,
+      "longitude": 126.811973
+    },
+    "name": "송정",
+    "address": "",
+    "fr_code": "513",
+    "line_num": "5"
+  },
+  "WFJ5Yd2t_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.560183,
+      "longitude": 126.825448
+    },
+    "name": "마곡",
+    "address": "",
+    "fr_code": "514",
+    "line_num": "5"
+  },
+  "WYL1ZC2bG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.558598,
+      "longitude": 126.837668
+    },
+    "name": "발산",
+    "address": "",
+    "fr_code": "515",
+    "line_num": "5"
+  },
+  "uZJ1Yi2ekK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.548768,
+      "longitude": 126.836318
+    },
+    "name": "우장산",
+    "address": "",
+    "fr_code": "516",
+    "line_num": "5"
+  },
+  "WULxZOse_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.541513,
+      "longitude": 126.840461
+    },
+    "name": "화곡",
+    "address": "",
+    "fr_code": "517",
+    "line_num": "5"
+  },
+  "WYL1Zjsecf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.531768,
+      "longitude": 126.846683
+    },
+    "name": "까치산",
+    "address": "",
+    "fr_code": "518",
+    "line_num": "5"
+  },
+  "WYJxFgybcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.531768,
+      "longitude": 126.846683
+    },
+    "name": "까치산",
+    "address": "",
+    "fr_code": "234-4",
+    "line_num": "2"
+  },
+  "zYSNY22eGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.524997,
+      "longitude": 126.856191
+    },
+    "name": "신정",
+    "address": "",
+    "fr_code": "519",
+    "line_num": "5"
+  },
+  "zZLxUtsbGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.526065,
+      "longitude": 126.864931
+    },
+    "name": "목동",
+    "address": "",
+    "fr_code": "520",
+    "line_num": "5"
+  },
+  "nFL1UHyec4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.524496,
+      "longitude": 126.875181
+    },
+    "name": "오목교",
+    "address": "",
+    "fr_code": "521",
+    "line_num": "5"
+  },
+  "uZqNFxtekK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.525648,
+      "longitude": 126.885778
+    },
+    "name": "양평",
+    "address": "",
+    "fr_code": "522",
+    "line_num": "5"
+  },
+  "WZJ1FFtbkf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.521624,
+      "longitude": 126.924191
+    },
+    "name": "여의도",
+    "address": "",
+    "fr_code": "526",
+    "line_num": "5"
+  },
+  "nZSNYSbe_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.521624,
+      "longitude": 126.924191
+    },
+    "name": "여의도",
+    "address": "",
+    "fr_code": "915",
+    "line_num": "9"
+  },
+  "zUq5Z4etkK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.527098,
+      "longitude": 126.932901
+    },
+    "name": "여의나루",
+    "address": "",
+    "fr_code": "527",
+    "line_num": "5"
+  },
+  "WZq1YzetcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.544018,
+      "longitude": 126.951592
+    },
+    "name": "공덕",
+    "address": "",
+    "fr_code": "A02",
+    "line_num": "A"
+  },
+  "uZL1FMhhGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.544018,
+      "longitude": 126.951592
+    },
+    "name": "공덕",
+    "address": "",
+    "fr_code": "K312",
+    "line_num": "K"
+  },
+  "uZSNUGtbc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.544018,
+      "longitude": 126.951592
+    },
+    "name": "공덕",
+    "address": "",
+    "fr_code": "626",
+    "line_num": "6"
+  },
+  "zZLxUItb_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.544018,
+      "longitude": 126.951592
+    },
+    "name": "공덕",
+    "address": "",
+    "fr_code": "529",
+    "line_num": "5"
+  },
+  "nYLNZPeb_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.553736,
+      "longitude": 126.95682
+    },
+    "name": "애오개",
+    "address": "",
+    "fr_code": "530",
+    "line_num": "5"
+  },
+  "uUJNYithGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.565773,
+      "longitude": 126.966641
+    },
+    "name": "서대문",
+    "address": "",
+    "fr_code": "532",
+    "line_num": "5"
+  },
+  "uFq1ZreecK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.571026,
+      "longitude": 126.976669
+    },
+    "name": "광화문",
+    "address": "",
+    "fr_code": "533",
+    "line_num": "5"
+  },
+  "uFJxZ8tek4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.560245,
+      "longitude": 127.013828
+    },
+    "name": "청구",
+    "address": "",
+    "fr_code": "634",
+    "line_num": "6"
+  },
+  "WUq5UgtbG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.560245,
+      "longitude": 127.013828
+    },
+    "name": "청구",
+    "address": "",
+    "fr_code": "537",
+    "line_num": "5"
+  },
+  "nFqNZsbtkf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.554548,
+      "longitude": 127.020331
+    },
+    "name": "신금호",
+    "address": "",
+    "fr_code": "538",
+    "line_num": "5"
+  },
+  "WUqNZtehGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.557322,
+      "longitude": 127.029476
+    },
+    "name": "행당",
+    "address": "",
+    "fr_code": "539",
+    "line_num": "5"
+  },
+  "uFS5Z-ehcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.5661,
+      "longitude": 127.042973
+    },
+    "name": "마장",
+    "address": "",
+    "fr_code": "541",
+    "line_num": "5"
+  },
+  "uUL5Y1HhG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.56144,
+      "longitude": 127.064623
+    },
+    "name": "장한평",
+    "address": "",
+    "fr_code": "543",
+    "line_num": "5"
+  },
+  "uUL1YF-e_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.557121,
+      "longitude": 127.079542
+    },
+    "name": "군자",
+    "address": "",
+    "fr_code": "725",
+    "line_num": "7"
+  },
+  "nYJ1YJBecK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.557121,
+      "longitude": 127.079542
+    },
+    "name": "군자",
+    "address": "",
+    "fr_code": "544",
+    "line_num": "5"
+  },
+  "WUS5UKot_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.551691,
+      "longitude": 127.089761
+    },
+    "name": "아차산",
+    "address": "",
+    "fr_code": "545",
+    "line_num": "5"
+  },
+  "nYJNUzBtGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.545303,
+      "longitude": 127.10357
+    },
+    "name": "광나루",
+    "address": "",
+    "fr_code": "546",
+    "line_num": "5"
+  },
+  "uYL1UM-bG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.538397,
+      "longitude": 127.123572
+    },
+    "name": "천호",
+    "address": "",
+    "fr_code": "811",
+    "line_num": "8"
+  },
+  "uFq5YkHh_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.538397,
+      "longitude": 127.123572
+    },
+    "name": "천호",
+    "address": "",
+    "fr_code": "547",
+    "line_num": "5"
+  },
+  "WUqxYXoek4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.535804,
+      "longitude": 127.132481
+    },
+    "name": "강동",
+    "address": "",
+    "fr_code": "548",
+    "line_num": "5"
+  },
+  "WUL5UCBtcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.537801,
+      "longitude": 127.140004
+    },
+    "name": "길동",
+    "address": "",
+    "fr_code": "549",
+    "line_num": "5"
+  },
+  "nZLNFT-tkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.545477,
+      "longitude": 127.142853
+    },
+    "name": "굽은다리",
+    "address": "",
+    "fr_code": "550",
+    "line_num": "5"
+  },
+  "uYLNYR-hcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.55137,
+      "longitude": 127.143999
+    },
+    "name": "명일",
+    "address": "",
+    "fr_code": "551",
+    "line_num": "5"
+  },
+  "WFJxY9Bb_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.555004,
+      "longitude": 127.154151
+    },
+    "name": "고덕",
+    "address": "",
+    "fr_code": "552",
+    "line_num": "5"
+  },
+  "WYJ1FAHekf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.556712,
+      "longitude": 127.166417
+    },
+    "name": "상일동",
+    "address": "",
+    "fr_code": "553",
+    "line_num": "5"
+  },
+  "zFJNUyHb_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.516078,
+      "longitude": 127.130848
+    },
+    "name": "올림픽공원",
+    "address": "",
+    "fr_code": "P550",
+    "line_num": "5"
+  },
+  "uUJNYh-bcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.502162,
+      "longitude": 127.128111
+    },
+    "name": "오금",
+    "address": "",
+    "fr_code": "P552",
+    "line_num": "5"
+  },
+  "WFJ1FHHh_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.502162,
+      "longitude": 127.128111
+    },
+    "name": "오금",
+    "address": "",
+    "fr_code": "352",
+    "line_num": "3"
+  },
+  "nFqNZxNUhkK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.498079,
+      "longitude": 127.13482
+    },
+    "name": "개롱",
+    "address": "",
+    "fr_code": "P553",
+    "line_num": "5"
+  },
+  "WFL5UYxZbc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.493105,
+      "longitude": 127.14415
+    },
+    "name": "거여",
+    "address": "",
+    "fr_code": "P554",
+    "line_num": "5"
+  },
+  "WUJNUJ5FeG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.49499,
+      "longitude": 127.152781
+    },
+    "name": "마천",
+    "address": "",
+    "fr_code": "P555",
+    "line_num": "5"
+  },
+  "nFq5YlxFbG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.606021,
+      "longitude": 126.922744
+    },
+    "name": "역촌",
+    "address": "",
+    "fr_code": "611",
+    "line_num": "6"
+  },
+  "zYqxFn1Ftcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.618456,
+      "longitude": 126.933031
+    },
+    "name": "독바위",
+    "address": "",
+    "fr_code": "613",
+    "line_num": "6"
+  },
+  "WZJ5UQ1FeGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.611377,
+      "longitude": 126.91727
+    },
+    "name": "구산",
+    "address": "",
+    "fr_code": "615",
+    "line_num": "6"
+  },
+  "nZJ1Zk5Uhcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.583876,
+      "longitude": 126.909645
+    },
+    "name": "증산",
+    "address": "",
+    "fr_code": "617",
+    "line_num": "6"
+  },
+  "uFS5ZXNUhGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.576646,
+      "longitude": 126.900984
+    },
+    "name": "디지털미디어시티",
+    "address": "",
+    "fr_code": "A04",
+    "line_num": "A"
+  },
+  "uUJxUP5Ut_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.576646,
+      "longitude": 126.900984
+    },
+    "name": "디지털미디어시티",
+    "address": "",
+    "fr_code": "618",
+    "line_num": "6"
+  },
+  "nUqNF3xZeG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.576646,
+      "longitude": 126.900984
+    },
+    "name": "디지털미디어시티",
+    "address": "",
+    "fr_code": "K316",
+    "line_num": "K"
+  },
+  "uFS5FRNUtcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.569532,
+      "longitude": 126.899298
+    },
+    "name": "월드컵경기장",
+    "address": "",
+    "fr_code": "619",
+    "line_num": "6"
+  },
+  "nZLxU85FhG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.563515,
+      "longitude": 126.903343
+    },
+    "name": "마포구청",
+    "address": "",
+    "fr_code": "620",
+    "line_num": "6"
+  },
+  "nZqxZgxZtcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.556094,
+      "longitude": 126.910052
+    },
+    "name": "망원",
+    "address": "",
+    "fr_code": "621",
+    "line_num": "6"
+  },
+  "nYJ5F25Uecf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.547716,
+      "longitude": 126.922852
+    },
+    "name": "상수",
+    "address": "",
+    "fr_code": "623",
+    "line_num": "6"
+  },
+  "WUJ5UhxYeGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.547456,
+      "longitude": 126.931993
+    },
+    "name": "광흥창",
+    "address": "",
+    "fr_code": "624",
+    "line_num": "6"
+  },
+  "WFJNYHNYh_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.547771,
+      "longitude": 126.942069
+    },
+    "name": "대흥",
+    "address": "",
+    "fr_code": "625",
+    "line_num": "6"
+  },
+  "uYLNZ5FYtG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.539261,
+      "longitude": 126.961351
+    },
+    "name": "효창공원앞",
+    "address": "",
+    "fr_code": "K826",
+    "line_num": "K"
+  },
+  "nUJ1YZYYb_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.539261,
+      "longitude": 126.961351
+    },
+    "name": "효창공원앞",
+    "address": "",
+    "fr_code": "627",
+    "line_num": "6"
+  },
+  "WYS1YLUYh_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.534488,
+      "longitude": 126.994302
+    },
+    "name": "이태원",
+    "address": "",
+    "fr_code": "630",
+    "line_num": "6"
+  },
+  "zUSxYKZYbcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.539631,
+      "longitude": 127.001725
+    },
+    "name": "한강진",
+    "address": "",
+    "fr_code": "631",
+    "line_num": "6"
+  },
+  "uYLNZWYUtkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.548013,
+      "longitude": 127.007055
+    },
+    "name": "버티고개",
+    "address": "",
+    "fr_code": "632",
+    "line_num": "6"
+  },
+  "nYqNZpFUhkK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.579661,
+      "longitude": 127.015241
+    },
+    "name": "창신",
+    "address": "",
+    "fr_code": "637",
+    "line_num": "6"
+  },
+  "uZS5FGZUbcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.585286,
+      "longitude": 127.019381
+    },
+    "name": "보문",
+    "address": "",
+    "fr_code": "952",
+    "line_num": "UI"
+  },
+  "WFSxFXYYbk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.585286,
+      "longitude": 127.019381
+    },
+    "name": "보문",
+    "address": "",
+    "fr_code": "638",
+    "line_num": "6"
+  },
+  "nYqNUVUYtGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.586272,
+      "longitude": 127.029005
+    },
+    "name": "안암",
+    "address": "",
+    "fr_code": "639",
+    "line_num": "6"
+  },
+  "uFS5FEZYt_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.590508,
+      "longitude": 127.036296
+    },
+    "name": "고려대",
+    "address": "",
+    "fr_code": "640",
+    "line_num": "6"
+  },
+  "zUqNY0UUec4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.601948,
+      "longitude": 127.041518
+    },
+    "name": "월곡",
+    "address": "",
+    "fr_code": "641",
+    "line_num": "6"
+  },
+  "WUq1F8UFeG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.606377,
+      "longitude": 127.048491
+    },
+    "name": "상월곡",
+    "address": "",
+    "fr_code": "642",
+    "line_num": "6"
+  },
+  "nZJ1UwUFtkf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.610537,
+      "longitude": 127.056431
+    },
+    "name": "돌곶이",
+    "address": "",
+    "fr_code": "643",
+    "line_num": "6"
+  },
+  "zUJ1ZsFYecK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.617983,
+      "longitude": 127.07512
+    },
+    "name": "태릉입구",
+    "address": "",
+    "fr_code": "717",
+    "line_num": "7"
+  },
+  "uFqNUtYUt_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.617983,
+      "longitude": 127.07512
+    },
+    "name": "태릉입구",
+    "address": "",
+    "fr_code": "645",
+    "line_num": "6"
+  },
+  "zYJ1U-ZFt_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.620064,
+      "longitude": 127.084689
+    },
+    "name": "화랑대",
+    "address": "",
+    "fr_code": "646",
+    "line_num": "6"
+  },
+  "WUSxY5JYb_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.617283,
+      "longitude": 127.091401
+    },
+    "name": "봉화산",
+    "address": "",
+    "fr_code": "647",
+    "line_num": "6"
+  },
+  "WFJ1YFJYe_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.700109,
+      "longitude": 127.053196
+    },
+    "name": "장암",
+    "address": "",
+    "fr_code": "709",
+    "line_num": "7"
+  },
+  "WZSNUSqUekK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.67785,
+      "longitude": 127.055315
+    },
+    "name": "수락산",
+    "address": "",
+    "fr_code": "711",
+    "line_num": "7"
+  },
+  "WYS5U4SYhkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.66494,
+      "longitude": 127.057675
+    },
+    "name": "마들",
+    "address": "",
+    "fr_code": "712",
+    "line_num": "7"
+  },
+  "uUL1YuSUec4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.644583,
+      "longitude": 127.064303
+    },
+    "name": "중계",
+    "address": "",
+    "fr_code": "714",
+    "line_num": "7"
+  },
+  "uZq1ZQJZtGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.636352,
+      "longitude": 127.06799
+    },
+    "name": "하계",
+    "address": "",
+    "fr_code": "715",
+    "line_num": "7"
+  },
+  "uFJNF_SFekK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.625742,
+      "longitude": 127.072896
+    },
+    "name": "공릉",
+    "address": "",
+    "fr_code": "716",
+    "line_num": "7"
+  },
+  "zUJ1YIJZe_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.610637,
+      "longitude": 127.077725
+    },
+    "name": "먹골",
+    "address": "",
+    "fr_code": "718",
+    "line_num": "7"
+  },
+  "zFS1ZPJYeG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.602545,
+      "longitude": 127.079264
+    },
+    "name": "중화",
+    "address": "",
+    "fr_code": "719",
+    "line_num": "7"
+  },
+  "nYq5ZTqUeGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.596362,
+      "longitude": 127.085032
+    },
+    "name": "상봉",
+    "address": "",
+    "fr_code": "720",
+    "line_num": "7"
+  },
+  "nZq5YrJFbcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.596362,
+      "longitude": 127.085032
+    },
+    "name": "상봉",
+    "address": "",
+    "fr_code": "K120",
+    "line_num": "K"
+  },
+  "nFS5Z8qZekK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.596362,
+      "longitude": 127.085032
+    },
+    "name": "상봉",
+    "address": "",
+    "fr_code": "P120",
+    "line_num": "G"
+  },
+  "uYJxFgqUhkf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.588579,
+      "longitude": 127.087503
+    },
+    "name": "면목",
+    "address": "",
+    "fr_code": "721",
+    "line_num": "7"
+  },
+  "zYJ1YySFtGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.580894,
+      "longitude": 127.088478
+    },
+    "name": "사가정",
+    "address": "",
+    "fr_code": "722",
+    "line_num": "7"
+  },
+  "nYSxYtLZb_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.573647,
+      "longitude": 127.086727
+    },
+    "name": "용마산",
+    "address": "",
+    "fr_code": "723",
+    "line_num": "7"
+  },
+  "zFSNYBqFecl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.565923,
+      "longitude": 127.08432
+    },
+    "name": "중곡",
+    "address": "",
+    "fr_code": "724",
+    "line_num": "7"
+  },
+  "uFSNUNKUhcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.548014,
+      "longitude": 127.074658
+    },
+    "name": "어린이대공원",
+    "address": "",
+    "fr_code": "726",
+    "line_num": "7"
+  },
+  "WUqNFUfUb_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.53154,
+      "longitude": 127.066704
+    },
+    "name": "뚝섬유원지",
+    "address": "",
+    "fr_code": "728",
+    "line_num": "7"
+  },
+  "nYLxFL4Fb_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.519365,
+      "longitude": 127.05335
+    },
+    "name": "청담",
+    "address": "",
+    "fr_code": "729",
+    "line_num": "7"
+  },
+  "nULNZlKZec4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.517186,
+      "longitude": 127.04128
+    },
+    "name": "강남구청",
+    "address": "",
+    "fr_code": "K213",
+    "line_num": "B"
+  },
+  "uFqNYnfYbcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.517186,
+      "longitude": 127.04128
+    },
+    "name": "강남구청",
+    "address": "",
+    "fr_code": "730",
+    "line_num": "7"
+  },
+  "nYS1YQfYtGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.511093,
+      "longitude": 127.021415
+    },
+    "name": "논현",
+    "address": "",
+    "fr_code": "732",
+    "line_num": "7"
+  },
+  "nZSxUc4Fh_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.508178,
+      "longitude": 127.011727
+    },
+    "name": "반포",
+    "address": "",
+    "fr_code": "733",
+    "line_num": "7"
+  },
+  "zUqxUIlYtk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.487618,
+      "longitude": 126.993513
+    },
+    "name": "내방",
+    "address": "",
+    "fr_code": "735",
+    "line_num": "7"
+  },
+  "zUqNUPKFhkK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.496029,
+      "longitude": 126.953822
+    },
+    "name": "숭실대입구",
+    "address": "",
+    "fr_code": "738",
+    "line_num": "7"
+  },
+  "zFJ1Y3lUbkf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.502834,
+      "longitude": 126.94791
+    },
+    "name": "상도",
+    "address": "",
+    "fr_code": "739",
+    "line_num": "7"
+  },
+  "uFL1Yr4Fh_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.504898,
+      "longitude": 126.93915
+    },
+    "name": "장승배기",
+    "address": "",
+    "fr_code": "740",
+    "line_num": "7"
+  },
+  "uUSNUjKYtcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.499701,
+      "longitude": 126.928276
+    },
+    "name": "신대방삼거리",
+    "address": "",
+    "fr_code": "741",
+    "line_num": "7"
+  },
+  "zZS1FgKZtG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.499872,
+      "longitude": 126.920428
+    },
+    "name": "보라매",
+    "address": "",
+    "fr_code": "742",
+    "line_num": "7"
+  },
+  "uUL5ZafFhGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.486056,
+      "longitude": 126.887249
+    },
+    "name": "남구로",
+    "address": "",
+    "fr_code": "745",
+    "line_num": "7"
+  },
+  "uZL1Zb4Fh_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.479252,
+      "longitude": 126.854876
+    },
+    "name": "광명사거리",
+    "address": "",
+    "fr_code": "748",
+    "line_num": "7"
+  },
+  "nUL5UBKUe_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.486637,
+      "longitude": 126.838713
+    },
+    "name": "천왕",
+    "address": "",
+    "fr_code": "749",
+    "line_num": "7"
+  },
+  "WFS5ZNnFtGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.506207,
+      "longitude": 126.810939
+    },
+    "name": "까치울",
+    "address": "",
+    "fr_code": "751",
+    "line_num": "7"
+  },
+  "uZJNFYWFek4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.50538,
+      "longitude": 126.797337
+    },
+    "name": "부천종합운동장",
+    "address": "",
+    "fr_code": "752",
+    "line_num": "7"
+  },
+  "uZJxYqnZbGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.506997,
+      "longitude": 126.73128
+    },
+    "name": "굴포천",
+    "address": "",
+    "fr_code": "758",
+    "line_num": "7"
+  },
+  "uULNZ4WFbGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.530341,
+      "longitude": 127.120508
+    },
+    "name": "강동구청",
+    "address": "",
+    "fr_code": "812",
+    "line_num": "8"
+  },
+  "zFLxZnzFbk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.517409,
+      "longitude": 127.112359
+    },
+    "name": "몽촌토성",
+    "address": "",
+    "fr_code": "813",
+    "line_num": "8"
+  },
+  "uZS5UMzYek4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.505431,
+      "longitude": 127.106979
+    },
+    "name": "석촌",
+    "address": "",
+    "fr_code": "815",
+    "line_num": "8"
+  },
+  "uYq5FcnZt_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.499703,
+      "longitude": 127.112183
+    },
+    "name": "송파",
+    "address": "",
+    "fr_code": "816",
+    "line_num": "8"
+  },
+  "zYSxFXWYh_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.492522,
+      "longitude": 127.118234
+    },
+    "name": "가락시장",
+    "address": "",
+    "fr_code": "817",
+    "line_num": "8"
+  },
+  "uFL1YCzZe_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.492522,
+      "longitude": 127.118234
+    },
+    "name": "가락시장",
+    "address": "",
+    "fr_code": "350",
+    "line_num": "3"
+  },
+  "nZJNFizZbG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.485855,
+      "longitude": 127.1225
+    },
+    "name": "문정",
+    "address": "",
+    "fr_code": "818",
+    "line_num": "8"
+  },
+  "zYS5UruUt_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.478703,
+      "longitude": 127.126191
+    },
+    "name": "장지",
+    "address": "",
+    "fr_code": "819",
+    "line_num": "8"
+  },
+  "nYL1ZDzZtc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.451535,
+      "longitude": 127.159816
+    },
+    "name": "남한산성입구",
+    "address": "",
+    "fr_code": "822",
+    "line_num": "8"
+  },
+  "uUq1ZAWYtGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.539574,
+      "longitude": 126.945932
+    },
+    "name": "마포",
+    "address": "",
+    "fr_code": "528",
+    "line_num": "5"
+  },
+  "nUSNYsWZbcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.566747,
+      "longitude": 127.052704
+    },
+    "name": "답십리",
+    "address": "",
+    "fr_code": "542",
+    "line_num": "5"
+  },
+  "WUSNZbuFe_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.527788,
+      "longitude": 127.136248
+    },
+    "name": "둔촌동",
+    "address": "",
+    "fr_code": "P549",
+    "line_num": "5"
+  },
+  "nUqxF-WYtkf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.591148,
+      "longitude": 126.913629
+    },
+    "name": "새절",
+    "address": "",
+    "fr_code": "616",
+    "line_num": "6"
+  },
+  "WZq1FNMZbGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.534675,
+      "longitude": 126.986695
+    },
+    "name": "녹사평",
+    "address": "",
+    "fr_code": "629",
+    "line_num": "6"
+  },
+  "uUSNFFpYhGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.514229,
+      "longitude": 127.031656
+    },
+    "name": "학동",
+    "address": "",
+    "fr_code": "731",
+    "line_num": "7"
+  },
+  "zFq5FL6Uecf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.484596,
+      "longitude": 126.971251
+    },
+    "name": "남성",
+    "address": "",
+    "fr_code": "737",
+    "line_num": "7"
+  },
+  "zFL5F4MUh_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.50008,
+      "longitude": 126.90993
+    },
+    "name": "신풍",
+    "address": "",
+    "fr_code": "743",
+    "line_num": "7"
+  },
+  "zUJ5Zn6Yhk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.503663,
+      "longitude": 126.787036
+    },
+    "name": "춘의",
+    "address": "",
+    "fr_code": "753",
+    "line_num": "7"
+  },
+  "zYS5UpQUtk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.503048,
+      "longitude": 126.77596
+    },
+    "name": "신중동",
+    "address": "",
+    "fr_code": "754",
+    "line_num": "7"
+  },
+  "zFL5YG6Utkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.504631,
+      "longitude": 126.763538
+    },
+    "name": "부천시청",
+    "address": "",
+    "fr_code": "755",
+    "line_num": "7"
+  },
+  "WUS5UI6Zhc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.270161,
+      "longitude": 127.126033
+    },
+    "name": "강남대",
+    "address": "",
+    "fr_code": "Y111",
+    "line_num": "E"
+  },
+  "uYqNYV6Fe_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.269606,
+      "longitude": 127.136515
+    },
+    "name": "지석",
+    "address": "",
+    "fr_code": "Y112",
+    "line_num": "E"
+  },
+  "WULNY3pFbcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.274917,
+      "longitude": 127.143714
+    },
+    "name": "어정",
+    "address": "",
+    "fr_code": "Y113",
+    "line_num": "E"
+  },
+  "uUqNFOQFbk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.269043,
+      "longitude": 127.152716
+    },
+    "name": "동백",
+    "address": "",
+    "fr_code": "Y114",
+    "line_num": "E"
+  },
+  "uZJNF8MYtkf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.260752,
+      "longitude": 127.159443
+    },
+    "name": "초당",
+    "address": "",
+    "fr_code": "Y115",
+    "line_num": "E"
+  },
+  "zZL5ZgpYtG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.242115,
+      "longitude": 127.168075
+    },
+    "name": "삼가",
+    "address": "",
+    "fr_code": "Y116",
+    "line_num": "E"
+  },
+  "zYJ5FapYh_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.239151,
+      "longitude": 127.178406
+    },
+    "name": "시청·용인대",
+    "address": "",
+    "fr_code": "Y117",
+    "line_num": "E"
+  },
+  "zYJxFhMZecf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.237964,
+      "longitude": 127.190294
+    },
+    "name": "명지대",
+    "address": "",
+    "fr_code": "Y118",
+    "line_num": "E"
+  },
+  "WFJ5FoQZeGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.237247,
+      "longitude": 127.198781
+    },
+    "name": "김량장",
+    "address": "",
+    "fr_code": "Y119",
+    "line_num": "E"
+  },
+  "uUL5Z5_UtGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.237845,
+      "longitude": 127.209198
+    },
+    "name": "운동장·송담대",
+    "address": "",
+    "fr_code": "Y120",
+    "line_num": "E"
+  },
+  "uYL5YZcYbGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.24484,
+      "longitude": 127.214251
+    },
+    "name": "고진",
+    "address": "",
+    "fr_code": "Y121",
+    "line_num": "E"
+  },
+  "nZL1FqcFec4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.258965,
+      "longitude": 127.218457
+    },
+    "name": "보평",
+    "address": "",
+    "fr_code": "Y123",
+    "line_num": "E"
+  },
+  "zYqxZfGFecf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.267051,
+      "longitude": 127.21364
+    },
+    "name": "둔전",
+    "address": "",
+    "fr_code": "Y125",
+    "line_num": "E"
+  },
+  "uFLxUzcFekl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.285342,
+      "longitude": 127.219561
+    },
+    "name": "전대·에버랜드",
+    "address": "",
+    "fr_code": "Y126",
+    "line_num": "E"
+  },
+  "uFq5U6kYhc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.507287,
+      "longitude": 127.033868
+    },
+    "name": "언주",
+    "address": "",
+    "fr_code": "926",
+    "line_num": "9"
+  },
+  "zZJxY_GZh_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.513011,
+      "longitude": 127.053282
+    },
+    "name": "삼성중앙",
+    "address": "",
+    "fr_code": "928",
+    "line_num": "9"
+  },
+  "nFL5U7_UhGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.514219,
+      "longitude": 127.060245
+    },
+    "name": "봉은사",
+    "address": "",
+    "fr_code": "929",
+    "line_num": "9"
+  },
+  "zFJNUvkZe_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.566295,
+      "longitude": 126.99191
+    },
+    "name": "을지로3가",
+    "address": "",
+    "fr_code": "330",
+    "line_num": "3"
+  },
+  "uFq1Ui_Ztk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.566295,
+      "longitude": 126.99191
+    },
+    "name": "을지로3가",
+    "address": "",
+    "fr_code": "203",
+    "line_num": "2"
+  },
+  "WFS5YrkZeG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.505781,
+      "longitude": 126.753083
+    },
+    "name": "상동",
+    "address": "",
+    "fr_code": "756",
+    "line_num": "7"
+  },
+  "zZLxZj_Yt_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.712327,
+      "longitude": 126.761356
+    },
+    "name": "야당",
+    "address": "",
+    "fr_code": "K328",
+    "line_num": "K"
+  },
+  "zUq1FwcUhcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.409522,
+      "longitude": 127.20336
+    },
+    "name": "삼동",
+    "address": "",
+    "fr_code": "K412",
+    "line_num": "KK"
+  },
+  "nZLxFakUe_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.399907,
+      "longitude": 127.25263
+    },
+    "name": "경기광주",
+    "address": "",
+    "fr_code": "K413",
+    "line_num": "KK"
+  },
+  "WZqNUbGFtcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.374419,
+      "longitude": 127.299
+    },
+    "name": "초월",
+    "address": "",
+    "fr_code": "K414",
+    "line_num": "KK"
+  },
+  "nFJxYH_Ytcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.351315,
+      "longitude": 127.34674
+    },
+    "name": "곤지암",
+    "address": "",
+    "fr_code": "K415",
+    "line_num": "KK"
+  },
+  "nYSxUNXYbG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.317185,
+      "longitude": 127.40476
+    },
+    "name": "신둔도예촌",
+    "address": "",
+    "fr_code": "K416",
+    "line_num": "KK"
+  },
+  "uYJ1YFXFtG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.265579,
+      "longitude": 127.44226
+    },
+    "name": "이천",
+    "address": "",
+    "fr_code": "K417",
+    "line_num": "KK"
+  },
+  "nUL1YqXZe_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.260192,
+      "longitude": 127.490277
+    },
+    "name": "부발",
+    "address": "",
+    "fr_code": "K418",
+    "line_num": "KK"
+  },
+  "uYJ5ZfXUeG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.295309,
+      "longitude": 127.570938
+    },
+    "name": "세종대왕릉",
+    "address": "",
+    "fr_code": "K419",
+    "line_num": "KK"
+  },
+  "zFJxUndFtGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "name": "여주",
+    "address": "",
+    "fr_code": "K420",
+    "line_num": "KK"
+  },
+  "nZSNFpXFe_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.45583,
+      "longitude": 126.719298
+    },
+    "name": "모래내시장",
+    "address": "",
+    "fr_code": "I223",
+    "line_num": "I2"
+  },
+  "uYqNF_IFbkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.448161,
+      "longitude": 126.736939
+    },
+    "name": "남동구청",
+    "address": "",
+    "fr_code": "I225",
+    "line_num": "I2"
+  },
+  "nFq1UddYe_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.448769,
+      "longitude": 126.752618
+    },
+    "name": "인천대공원",
+    "address": "",
+    "fr_code": "I226",
+    "line_num": "I2"
+  },
+  "uYJNZVXUhcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.506411,
+      "longitude": 126.742153
+    },
+    "name": "삼산체육관",
+    "address": "",
+    "fr_code": "757",
+    "line_num": "7"
+  },
+  "zUJxYTdYhcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.55021,
+      "longitude": 127.127562
+    },
+    "name": "암사",
+    "address": "",
+    "fr_code": "810",
+    "line_num": "8"
+  },
+  "zFL1U0dFhGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.44521,
+      "longitude": 127.156866
+    },
+    "name": "단대오거리",
+    "address": "",
+    "fr_code": "823",
+    "line_num": "8"
+  },
+  "nUJNZ8IYhGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.571462,
+      "longitude": 126.735637
+    },
+    "name": "계양",
+    "address": "",
+    "fr_code": "A06",
+    "line_num": "A"
+  },
+  "WYJ1YmIZh_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.571462,
+      "longitude": 126.735637
+    },
+    "name": "계양",
+    "address": "",
+    "fr_code": "I110",
+    "line_num": "I"
+  },
+  "zUq1F2IZhcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.545059,
+      "longitude": 126.738665
+    },
+    "name": "임학",
+    "address": "",
+    "fr_code": "I113",
+    "line_num": "I"
+  },
+  "WUS5FtIYeG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.530415,
+      "longitude": 126.722527
+    },
+    "name": "작전",
+    "address": "",
+    "fr_code": "I116",
+    "line_num": "I"
+  },
+  "nFJ1ZHIZb_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.498383,
+      "longitude": 126.722244
+    },
+    "name": "부평시장",
+    "address": "",
+    "fr_code": "I119",
+    "line_num": "I"
+  },
+  "uFJNFxCZtG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.485312,
+      "longitude": 126.718247
+    },
+    "name": "동수",
+    "address": "",
+    "fr_code": "I121",
+    "line_num": "I"
+  },
+  "uYS1ZUvUeGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.477679,
+      "longitude": 126.710208
+    },
+    "name": "부평삼거리",
+    "address": "",
+    "fr_code": "I122",
+    "line_num": "I"
+  },
+  "uYq5YqvYtcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.457405,
+      "longitude": 126.702221
+    },
+    "name": "인천시청",
+    "address": "",
+    "fr_code": "I221",
+    "line_num": "I2"
+  },
+  "zUSxZ4CUbk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.457405,
+      "longitude": 126.702221
+    },
+    "name": "인천시청",
+    "address": "",
+    "fr_code": "I124",
+    "line_num": "I"
+  },
+  "nUSNYnPFh_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.449396,
+      "longitude": 126.701012
+    },
+    "name": "예술회관",
+    "address": "",
+    "fr_code": "I125",
+    "line_num": "I"
+  },
+  "WUS1UQPFhGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.442383,
+      "longitude": 126.699706
+    },
+    "name": "인천터미널",
+    "address": "",
+    "fr_code": "I126",
+    "line_num": "I"
+  },
+  "nUJxFcPUhc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.426684,
+      "longitude": 126.698863
+    },
+    "name": "선학",
+    "address": "",
+    "fr_code": "I128",
+    "line_num": "I"
+  },
+  "uZq5FXvUb_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.404737,
+      "longitude": 126.681015
+    },
+    "name": "동춘",
+    "address": "",
+    "fr_code": "I131",
+    "line_num": "I"
+  },
+  "nFSNZPPUhG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.397878,
+      "longitude": 126.674005
+    },
+    "name": "동막",
+    "address": "",
+    "fr_code": "I132",
+    "line_num": "I"
+  },
+  "nZL5Z3PFhcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.378384,
+      "longitude": 126.645168
+    },
+    "name": "지식정보단지",
+    "address": "",
+    "fr_code": "I135",
+    "line_num": "I"
+  },
+  "zFq5FOCFtkf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.393054,
+      "longitude": 126.634729
+    },
+    "name": "센트럴파크",
+    "address": "",
+    "fr_code": "I137",
+    "line_num": "I"
+  },
+  "nULNUjCUbc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.298969,
+      "longitude": 127.105664
+    },
+    "name": "구성",
+    "address": "",
+    "fr_code": "K235",
+    "line_num": "B"
+  },
+  "nFSxYmCYtcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.26181,
+      "longitude": 127.108847
+    },
+    "name": "상갈",
+    "address": "",
+    "fr_code": "K238",
+    "line_num": "B"
+  },
+  "nYqNUyCYtkK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.245795,
+      "longitude": 127.057353
+    },
+    "name": "망포",
+    "address": "",
+    "fr_code": "K241",
+    "line_num": "B"
+  },
+  "WYLxFhPFe_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.265481,
+      "longitude": 127.015678
+    },
+    "name": "매교",
+    "address": "",
+    "fr_code": "K244",
+    "line_num": "B"
+  },
+  "uFLxZHVZtkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.401637,
+      "longitude": 126.708627
+    },
+    "name": "호구포",
+    "address": "",
+    "fr_code": "K255",
+    "line_num": "SU"
+  },
+  "nZJ5F1iUh_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.428514,
+      "longitude": 126.657772
+    },
+    "name": "송도",
+    "address": "",
+    "fr_code": "K259",
+    "line_num": "SU"
+  },
+  "WYSNYF3Ye_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.709914,
+      "longitude": 127.047455
+    },
+    "name": "망월사",
+    "address": "",
+    "fr_code": "112",
+    "line_num": "1"
+  },
+  "uFS1YSEZtcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.901885,
+      "longitude": 127.056482
+    },
+    "name": "동두천중앙",
+    "address": "",
+    "fr_code": "103",
+    "line_num": "1"
+  },
+  "WFL5UliZe_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.577446,
+      "longitude": 126.812741
+    },
+    "name": "방화",
+    "address": "",
+    "fr_code": "510",
+    "line_num": "5"
+  },
+  "uYJxFn3Ubkf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.522669,
+      "longitude": 126.905139
+    },
+    "name": "영등포시장",
+    "address": "",
+    "fr_code": "524",
+    "line_num": "5"
+  },
+  "nULNY6TYh_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.508857,
+      "longitude": 127.126133
+    },
+    "name": "방이",
+    "address": "",
+    "fr_code": "P551",
+    "line_num": "5"
+  },
+  "uFqxF_3Ye_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.598605,
+      "longitude": 126.915577
+    },
+    "name": "응암",
+    "address": "",
+    "fr_code": "610",
+    "line_num": "6"
+  },
+  "zYS1U73Ybcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.47605,
+      "longitude": 126.867911
+    },
+    "name": "철산",
+    "address": "",
+    "fr_code": "747",
+    "line_num": "7"
+  },
+  "nUSxFVTUe_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.457122,
+      "longitude": 127.149908
+    },
+    "name": "산성",
+    "address": "",
+    "fr_code": "821",
+    "line_num": "8"
+  },
+  "WFqNZETFt_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.555878,
+      "longitude": 126.625327
+    },
+    "name": "청라국제도시",
+    "address": "",
+    "fr_code": "A071",
+    "line_num": "A"
+  },
+  "zUq1FRTYt_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.727048,
+      "longitude": 127.052803
+    },
+    "name": "발곡",
+    "address": "",
+    "fr_code": "U110",
+    "line_num": "U"
+  },
+  "WZSxY9TZbcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.728755,
+      "longitude": 127.04353
+    },
+    "name": "범골",
+    "address": "",
+    "fr_code": "U112",
+    "line_num": "U"
+  },
+  "zYq1FATYhc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.737202,
+      "longitude": 127.043257
+    },
+    "name": "경전철의정부",
+    "address": "",
+    "fr_code": "U113",
+    "line_num": "U"
+  },
+  "zFqNF2iYbG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.739256,
+      "longitude": 127.034781
+    },
+    "name": "의정부시청",
+    "address": "",
+    "fr_code": "U114",
+    "line_num": "U"
+  },
+  "uYSxYeEZhcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.743302,
+      "longitude": 127.037023
+    },
+    "name": "흥선",
+    "address": "",
+    "fr_code": "U115",
+    "line_num": "U"
+  },
+  "WZS1Y-3Ztkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.743676,
+      "longitude": 127.049565
+    },
+    "name": "의정부중앙",
+    "address": "",
+    "fr_code": "U117",
+    "line_num": "U"
+  },
+  "uYJ5U50UtGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.745271,
+      "longitude": 127.056947
+    },
+    "name": "동오",
+    "address": "",
+    "fr_code": "U118",
+    "line_num": "U"
+  },
+  "uZS1FZrUtcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.748885,
+      "longitude": 127.06362
+    },
+    "name": "새말",
+    "address": "",
+    "fr_code": "U119",
+    "line_num": "U"
+  },
+  "nZqxFSrZeGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.75059,
+      "longitude": 127.071495
+    },
+    "name": "경기도청북부청사",
+    "address": "",
+    "fr_code": "U120",
+    "line_num": "U"
+  },
+  "nFqNYlRZecf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.754025,
+      "longitude": 127.076902
+    },
+    "name": "효자",
+    "address": "",
+    "fr_code": "U121",
+    "line_num": "U"
+  },
+  "nULxFuRUtkK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.750471,
+      "longitude": 127.083715
+    },
+    "name": "곤제",
+    "address": "",
+    "fr_code": "U122",
+    "line_num": "U"
+  },
+  "WFS1UprYbcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.742802,
+      "longitude": 127.085035
+    },
+    "name": "어룡",
+    "address": "",
+    "fr_code": "U123",
+    "line_num": "U"
+  },
+  "nUS1Yc0FtGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.737279,
+      "longitude": 127.087159
+    },
+    "name": "송산",
+    "address": "",
+    "fr_code": "U124",
+    "line_num": "U"
+  },
+  "nULNU70YbGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.733579,
+      "longitude": 127.088704
+    },
+    "name": "탑석",
+    "address": "",
+    "fr_code": "U125",
+    "line_num": "U"
+  },
+  "WUq1YC0Fe_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.517268,
+      "longitude": 126.721514
+    },
+    "name": "갈산",
+    "address": "",
+    "fr_code": "I117",
+    "line_num": "I"
+  },
+  "uYLxFErYhkK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.567336,
+      "longitude": 126.829497
+    },
+    "name": "마곡나루",
+    "address": "",
+    "fr_code": "905",
+    "line_num": "9"
+  },
+  "zFLNZROUbc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.550632,
+      "longitude": 126.865689
+    },
+    "name": "등촌",
+    "address": "",
+    "fr_code": "909",
+    "line_num": "9"
+  },
+  "zZL1FjRZecl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.528105,
+      "longitude": 126.917874
+    },
+    "name": "국회의사당",
+    "address": "",
+    "fr_code": "914",
+    "line_num": "9"
+  },
+  "nUJNYwOUtcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.337928,
+      "longitude": 127.102976
+    },
+    "name": "동천",
+    "address": "",
+    "fr_code": "D14",
+    "line_num": "S"
+  },
+  "WYS1Ys0FbcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.322702,
+      "longitude": 127.095026
+    },
+    "name": "수지구청",
+    "address": "",
+    "fr_code": "D15",
+    "line_num": "S"
+  },
+  "zUqxUbrYb_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.313335,
+      "longitude": 127.0801
+    },
+    "name": "성복",
+    "address": "",
+    "fr_code": "D16",
+    "line_num": "S"
+  },
+  "WFJNYB0ZhGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.297664,
+      "longitude": 127.069342
+    },
+    "name": "상현",
+    "address": "",
+    "fr_code": "D17",
+    "line_num": "S"
+  },
+  "nFSNZ58Yhkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.288617,
+      "longitude": 127.051478
+    },
+    "name": "광교중앙",
+    "address": "",
+    "fr_code": "D18",
+    "line_num": "S"
+  },
+  "zFJ5FY9YeGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.30211,
+      "longitude": 127.044483
+    },
+    "name": "광교",
+    "address": "",
+    "fr_code": "D19",
+    "line_num": "S"
+  },
+  "WZJ5ZJDYhc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.448493,
+      "longitude": 126.649619
+    },
+    "name": "인하대",
+    "address": "",
+    "fr_code": "K261",
+    "line_num": "SU"
+  },
+  "WFqxUlDFb_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.460789,
+      "longitude": 126.638297
+    },
+    "name": "숭의",
+    "address": "",
+    "fr_code": "K262",
+    "line_num": "SU"
+  },
+  "zZJxUz9UhG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.46874,
+      "longitude": 126.623853
+    },
+    "name": "신포",
+    "address": "",
+    "fr_code": "K263",
+    "line_num": "SU"
+  },
+  "zFLNYQ8Zb_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.60185,
+      "longitude": 126.657108
+    },
+    "name": "검단사거리",
+    "address": "",
+    "fr_code": "I203",
+    "line_num": "I2"
+  },
+  "WFJ1Yc9Fbcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.561405,
+      "longitude": 126.677566
+    },
+    "name": "검바위",
+    "address": "",
+    "fr_code": "I208",
+    "line_num": "I2"
+  },
+  "zUL1F7DZecl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.458335,
+      "longitude": 126.681192
+    },
+    "name": "시민공원",
+    "address": "",
+    "fr_code": "I219",
+    "line_num": "I2"
+  },
+  "WUJxYV9Ub_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.454911,
+      "longitude": 126.732094
+    },
+    "name": "만수",
+    "address": "",
+    "fr_code": "I224",
+    "line_num": "I2"
+  },
+  "nZLNUi8ZekK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.514219,
+      "longitude": 126.942454
+    },
+    "name": "노량진",
+    "address": "",
+    "fr_code": "917",
+    "line_num": "9"
+  },
+  "zYq1Fr8Ybc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.514219,
+      "longitude": 126.942454
+    },
+    "name": "노량진",
+    "address": "",
+    "fr_code": "136",
+    "line_num": "1"
+  },
+  "uFJNZjjYt_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.512887,
+      "longitude": 126.953222
+    },
+    "name": "노들",
+    "address": "",
+    "fr_code": "918",
+    "line_num": "9"
+  },
+  "uYL1Zm8UbGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.50877,
+      "longitude": 126.963708
+    },
+    "name": "흑석",
+    "address": "",
+    "fr_code": "919",
+    "line_num": "9"
+  },
+  "WZJ1U2jZe_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.501364,
+      "longitude": 126.987332
+    },
+    "name": "구반포",
+    "address": "",
+    "fr_code": "921",
+    "line_num": "9"
+  },
+  "WFLxZb9ZbGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.503415,
+      "longitude": 126.995925
+    },
+    "name": "신반포",
+    "address": "",
+    "fr_code": "922",
+    "line_num": "9"
+  },
+  "nZLxF-9Fh_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.504206,
+      "longitude": 127.015259
+    },
+    "name": "사평",
+    "address": "",
+    "fr_code": "924",
+    "line_num": "9"
+  },
+  "WUJNFxgZhG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.504598,
+      "longitude": 127.02506
+    },
+    "name": "신논현",
+    "address": "",
+    "fr_code": "925",
+    "line_num": "9"
+  },
+  "zZJNUFAYe_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.569104,
+      "longitude": 126.673728
+    },
+    "name": "검암",
+    "address": "",
+    "fr_code": "I207",
+    "line_num": "I2"
+  },
+  "WFL1FSwZhcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.569104,
+      "longitude": 126.673728
+    },
+    "name": "검암",
+    "address": "",
+    "fr_code": "A07",
+    "line_num": "A"
+  },
+  "uUL5F4mUeGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.492904,
+      "longitude": 126.49379
+    },
+    "name": "운서",
+    "address": "",
+    "fr_code": "A08",
+    "line_num": "A"
+  },
+  "uUL1YWmUekf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.458366,
+      "longitude": 126.476241
+    },
+    "name": "공항화물청사",
+    "address": "",
+    "fr_code": "A09",
+    "line_num": "A"
+  },
+  "zZL1F6mZhk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.447464,
+      "longitude": 126.452508
+    },
+    "name": "인천국제공항",
+    "address": "",
+    "fr_code": "A10",
+    "line_num": "A"
+  },
+  "nZL5UGmFe_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.470023,
+      "longitude": 127.03842
+    },
+    "name": "양재시민의숲",
+    "address": "",
+    "fr_code": "D9",
+    "line_num": "S"
+  },
+  "zFq1Y7wUtcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.447211,
+      "longitude": 127.055664
+    },
+    "name": "청계산입구",
+    "address": "",
+    "fr_code": "D10",
+    "line_num": "S"
+  },
+  "nZq1YVAUe_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.612314,
+      "longitude": 126.843223
+    },
+    "name": "강매",
+    "address": "",
+    "fr_code": "K319",
+    "line_num": "K"
+  },
+  "nYLxZiAZekf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.511466,
+      "longitude": 126.5237
+    },
+    "name": "영종",
+    "address": "",
+    "fr_code": "A072",
+    "line_num": "A"
+  },
+  "zZJxF0gFtGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.51098,
+      "longitude": 127.043593
+    },
+    "name": "선정릉",
+    "address": "",
+    "fr_code": "927",
+    "line_num": "9"
+  },
+  "nYL5YjmFtGK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.51098,
+      "longitude": 127.043593
+    },
+    "name": "선정릉",
+    "address": "",
+    "fr_code": "K214",
+    "line_num": "B"
+  },
+  "uUq5UmwYb_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.563726,
+      "longitude": 126.810678
+    },
+    "name": "공항시장",
+    "address": "",
+    "fr_code": "903",
+    "line_num": "9"
+  },
+  "WZLNZ2wZhcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.557402,
+      "longitude": 126.861939
+    },
+    "name": "증미",
+    "address": "",
+    "fr_code": "908",
+    "line_num": "9"
+  },
+  "uZq5YhmUekf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.53802,
+      "longitude": 126.893525
+    },
+    "name": "선유도",
+    "address": "",
+    "fr_code": "912",
+    "line_num": "9"
+  },
+  "zZLNZogUtkf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.561391,
+      "longitude": 126.854456
+    },
+    "name": "가양",
+    "address": "",
+    "fr_code": "907",
+    "line_num": "9"
+  },
+  "zUq1YxaYbcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.464941,
+      "longitude": 126.679923
+    },
+    "name": "주안",
+    "address": "",
+    "fr_code": "I218",
+    "line_num": "I2"
+  },
+  "uYS1UUsYe_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.464941,
+      "longitude": 126.679923
+    },
+    "name": "주안",
+    "address": "",
+    "fr_code": "156",
+    "line_num": "1"
+  },
+  "nZq1ZLaFhGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.562434,
+      "longitude": 126.801058
+    },
+    "name": "김포공항",
+    "address": "",
+    "fr_code": "902",
+    "line_num": "9"
+  },
+  "nFq5YKaYhk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.562434,
+      "longitude": 126.801058
+    },
+    "name": "김포공항",
+    "address": "",
+    "fr_code": "A05",
+    "line_num": "A"
+  },
+  "uYJNZzyUhcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.562434,
+      "longitude": 126.801058
+    },
+    "name": "김포공항",
+    "address": "",
+    "fr_code": "512",
+    "line_num": "5"
+  },
+  "uZS5YpyFh_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.594877,
+      "longitude": 126.627178
+    },
+    "name": "검단오류",
+    "address": "",
+    "fr_code": "I201",
+    "line_num": "I2"
+  },
+  "zUJ1ZG2Yt_l": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.59518,
+      "longitude": 126.642696
+    },
+    "name": "왕길",
+    "address": "",
+    "fr_code": "I202",
+    "line_num": "I2"
+  },
+  "zFJ5ZIaUbcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.597566,
+      "longitude": 126.666998
+    },
+    "name": "마전",
+    "address": "",
+    "fr_code": "I204",
+    "line_num": "I2"
+  },
+  "uZJ1Zv2YhkK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.592928,
+      "longitude": 126.673203
+    },
+    "name": "완정",
+    "address": "",
+    "fr_code": "I205",
+    "line_num": "I2"
+  },
+  "uZS5YiaUh_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.585212,
+      "longitude": 126.675844
+    },
+    "name": "독정",
+    "address": "",
+    "fr_code": "I206",
+    "line_num": "I2"
+  },
+  "zYSxY0aYbGl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.5517,
+      "longitude": 126.677122
+    },
+    "name": "아시아드경기장",
+    "address": "",
+    "fr_code": "I209",
+    "line_num": "I2"
+  },
+  "zZJ5FjaYtk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.543742,
+      "longitude": 126.676787
+    },
+    "name": "서구청",
+    "address": "",
+    "fr_code": "I210",
+    "line_num": "I2"
+  },
+  "WFJNZwaFhkK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.524649,
+      "longitude": 126.675539
+    },
+    "name": "가정",
+    "address": "",
+    "fr_code": "I211",
+    "line_num": "I2"
+  },
+  "zFq1YyaZh_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.379681,
+      "longitude": 126.745177
+    },
+    "name": "달월",
+    "address": "",
+    "fr_code": "K251",
+    "line_num": "SU"
+  },
+  "nYL5UtyUh_4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.650658,
+      "longitude": 126.872642
+    },
+    "name": "원흥",
+    "address": "",
+    "fr_code": "309",
+    "line_num": "3"
+  },
+  "nULxZByUbkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.517054,
+      "longitude": 126.676672
+    },
+    "name": "가정중앙시장",
+    "address": "",
+    "fr_code": "I212",
+    "line_num": "I2"
+  },
+  "nFSxZ1tUecl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.506193,
+      "longitude": 126.676203
+    },
+    "name": "석남",
+    "address": "",
+    "fr_code": "I213",
+    "line_num": "I2"
+  },
+  "WYJxZFbFhGf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.506193,
+      "longitude": 126.676203
+    },
+    "name": "서부여성회관",
+    "address": "",
+    "fr_code": "I214",
+    "line_num": "I2"
+  },
+  "nFLxYqhYb_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.4897,
+      "longitude": 126.675208
+    },
+    "name": "인천가좌",
+    "address": "",
+    "fr_code": "I215",
+    "line_num": "I2"
+  },
+  "zYJ1F4hZtcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.484192,
+      "longitude": 126.683673
+    },
+    "name": "가재울",
+    "address": "",
+    "fr_code": "I216",
+    "line_num": "I2"
+  },
+  "WZLNFzbUbc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.473703,
+      "longitude": 126.68113
+    },
+    "name": "주안국가산단",
+    "address": "",
+    "fr_code": "I217",
+    "line_num": "I2"
+  },
+  "nZq5Z6tFtk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.457611,
+      "longitude": 126.692575
+    },
+    "name": "석바위시장",
+    "address": "",
+    "fr_code": "I220",
+    "line_num": "I2"
+  },
+  "WUS1UGeYb_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.456805,
+      "longitude": 126.709986
+    },
+    "name": "석천사거리",
+    "address": "",
+    "fr_code": "I222",
+    "line_num": "I2"
+  },
+  "nUq5UdeYbc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.440127,
+      "longitude": 126.75997
+    },
+    "name": "운연",
+    "address": "",
+    "fr_code": "I227",
+    "line_num": "I2"
+  },
+  "nYLxFveYtk4": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.578608,
+      "longitude": 126.798153
+    },
+    "name": "개화",
+    "address": "",
+    "fr_code": "901",
+    "line_num": "9"
+  },
+  "uYq5UTtFtcf": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.544277,
+      "longitude": 126.88308
+    },
+    "name": "신목동",
+    "address": "",
+    "fr_code": "911",
+    "line_num": "9"
+  },
+  "uYLNU0eUbkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.517274,
+      "longitude": 126.928422
+    },
+    "name": "샛강",
+    "address": "",
+    "fr_code": "916",
+    "line_num": "9"
+  },
+  "zUS5U9tFt_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "name": "지평",
+    "address": "",
+    "fr_code": "K138",
+    "line_num": "K"
+  },
+  "nZL5FgtZt_f": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.394761,
+      "longitude": 127.111217
+    },
+    "name": "판교",
+    "address": "",
+    "fr_code": "D11",
+    "line_num": "S"
+  },
+  "WZJ5ZstYb_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 37.394761,
+      "longitude": 127.111217
+    },
+    "name": "판교",
+    "address": "",
+    "fr_code": "K410",
+    "line_num": "KK"
+  },
+  "zFqNYhtUh_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "name": "북한산우이",
+    "address": "",
+    "fr_code": "941",
+    "line_num": "UI"
+  },
+  "nYqxZ-bUhcl": {
+    "type": "subway",
+    "location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "name": "솔밭공원",
+    "address": "",
+    "fr_code": "942",
+    "line_num": "UI"
+  },
+  "WFJ5FNoUh_K": {
+    "type": "subway",
+    "location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "name": "419민주묘지",
+    "address": "",
+    "fr_code": "943",
+    "line_num": "UI"
+  },
+  "zZS1ZY-Ztkl": {
+    "type": "subway",
+    "location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "name": "가오리",
+    "address": "",
+    "fr_code": "944",
+    "line_num": "UI"
+  },
+  "WFS5ZqBFecl": {
+    "type": "subway",
+    "location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "name": "화계",
+    "address": "",
+    "fr_code": "945",
+    "line_num": "UI"
+  },
+  "zZSxZloZbG4": {
+    "type": "subway",
+    "location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "name": "삼양",
+    "address": "",
+    "fr_code": "946",
+    "line_num": "UI"
+  },
+  "zFJxYnoUtkf": {
+    "type": "subway",
+    "location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "name": "삼양사거리",
+    "address": "",
+    "fr_code": "947",
+    "line_num": "UI"
+  },
+  "zUJ1YQoFek4": {
+    "type": "subway",
+    "location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "name": "솔샘",
+    "address": "",
+    "fr_code": "948",
+    "line_num": "UI"
+  },
+  "uYS5FkHFbcK": {
+    "type": "subway",
+    "location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "name": "북한산보국문",
+    "address": "",
+    "fr_code": "949",
+    "line_num": "UI"
+  },
+  "nYS1FIHZbc4": {
+    "type": "subway",
+    "location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "name": "정릉",
+    "address": "",
+    "fr_code": "950",
+    "line_num": "UI"
+  }
+}

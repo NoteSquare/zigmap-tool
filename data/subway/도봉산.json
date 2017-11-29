@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1001000113",
+      "statnNm": "도봉산",
+      "ectrcNo": "1",
+      "subwayId": "1001",
+      "subwayNm": "1호선",
+      "ectrcCnt": "1",
+      "cfrBuild": "도봉1동우체국,도봉산 입구,도봉산 환승주차장,서울가든아파트,서울인강학교,시네마큐 자동차극장,도봉고등학교,도봉산역삼거리",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1007000710",
+      "statnNm": "도봉산",
+      "ectrcNo": "2",
+      "subwayId": "1007",
+      "subwayNm": "7호선",
+      "ectrcCnt": "1",
+      "cfrBuild": "누원초등학교, 누원고등학교, 도봉구청 수방자재창고, 도봉시민아파트, 서울창포원, 중랑천방면, 한신아파트",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "금정역 1호선 8번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 4,
+    "total_count": 4,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/27444823",
+      "category_group_name": "",
+      "place_name": "금정역 1호선 8번출구",
+      "distance": "",
+      "address_name": "경기 군포시 산본동",
+      "road_address_name": "",
+      "id": "27444823",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.94287362952907",
+      "y": "37.37277058988946"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7852256",
+      "category_group_name": "",
+      "place_name": "두실역 부산1호선 8번출구",
+      "distance": "",
+      "address_name": "부산 금정구 구서동",
+      "road_address_name": "",
+      "id": "7852256",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "129.09151398048527",
+      "y": "35.25772837929137"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8230052",
+      "category_group_name": "",
+      "place_name": "남산역 부산1호선 8번출구",
+      "distance": "",
+      "address_name": "부산 금정구 남산동",
+      "road_address_name": "",
+      "id": "8230052",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "129.0927349308034",
+      "y": "35.26590763024885"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17492412",
+      "category_group_name": "",
+      "place_name": "범어사역 부산1호선 8번출구",
+      "distance": "",
+      "address_name": "부산 금정구 청룡동",
+      "road_address_name": "",
+      "id": "17492412",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "129.09276594601033",
+      "y": "35.273952442044035"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "군자역 7호선 6번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/10226201",
+      "category_group_name": "",
+      "place_name": "군자역 7호선 6번출구",
+      "distance": "",
+      "address_name": "서울 광진구 능동",
+      "road_address_name": "",
+      "id": "10226201",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.07947160706546",
+      "y": "37.55674446881939"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8007609",
+      "category_group_name": "",
+      "place_name": "어린이대공원역 7호선 6번출구",
+      "distance": "",
+      "address_name": "서울 광진구 군자동",
+      "road_address_name": "",
+      "id": "8007609",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.07500482506678",
+      "y": "37.54889069532617"
+    }
+  ]
+}

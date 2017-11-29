@@ -1,0 +1,4462 @@
+{
+  "jAvstpcC": {
+    "address": "서울특별시 광진구 화양동 169-1",
+    "name": "어린이대공원역 3번출구 앞",
+    "location": {
+      "latitude": 37.54707,
+      "longitude": 127.074272
+    },
+    "id": "500",
+    "type": "sharing_bicycle_01"
+  },
+  "gAKswAi9L": {
+    "address": "서울특별시 광진구 자양동 533-2",
+    "name": "광진구의회 앞",
+    "location": {
+      "latitude": 37.537308,
+      "longitude": 127.070351
+    },
+    "id": "501",
+    "type": "sharing_bicycle_01"
+  },
+  "jtfstfhcL": {
+    "address": "서울특별시 광진구 자양동 854-3",
+    "name": "뚝섬유원지역 1번출구 앞",
+    "location": {
+      "latitude": 37.53186,
+      "longitude": 127.067192
+    },
+    "id": "502",
+    "type": "sharing_bicycle_01"
+  },
+  "YtfQw5197": {
+    "address": "서울특별시 광진구 자양동 227-350",
+    "name": "더샵스타시티 C동 앞",
+    "location": {
+      "latitude": 37.536667,
+      "longitude": 127.073593
+    },
+    "id": "503",
+    "type": "sharing_bicycle_01"
+  },
+  "jtKUtghJL": {
+    "address": "서울특별시 광진구 자양동 718",
+    "name": "신자초교입구교차로",
+    "location": {
+      "latitude": 37.53297,
+      "longitude": 127.075935
+    },
+    "id": "504",
+    "type": "sharing_bicycle_01"
+  },
+  "g8KQAyiJC": {
+    "address": "서울특별시 광진구 자양동 219-16",
+    "name": "자양사거리 광진아크로텔 앞",
+    "location": {
+      "latitude": 37.537514,
+      "longitude": 127.082291
+    },
+    "id": "505",
+    "type": "sharing_bicycle_01"
+  },
+  "YwfUAc1cC": {
+    "address": "서울특별시 광진구 자양동 743-1",
+    "name": "광양중학교 앞",
+    "location": {
+      "latitude": 37.530235,
+      "longitude": 127.08683
+    },
+    "id": "515",
+    "type": "sharing_bicycle_01"
+  },
+  "OwfqAmirC": {
+    "address": "서울특별시 광진구 군자동 355-9",
+    "name": "광진메디칼 앞",
+    "location": {
+      "latitude": 37.548405,
+      "longitude": 127.069366
+    },
+    "id": "516",
+    "type": "sharing_bicycle_01"
+  },
+  "jtfUw6ic5": {
+    "address": "서울특별시 광진구 중곡동 263-1 도",
+    "name": "군자교교차로",
+    "location": {
+      "latitude": 37.559795,
+      "longitude": 127.074203
+    },
+    "id": "539",
+    "type": "sharing_bicycle_01"
+  },
+  "jtKqw1hc7": {
+    "address": "서울특별시 광진구 군자동 499도",
+    "name": "군자역 7번출구 베스트샵 앞",
+    "location": {
+      "latitude": 37.55603,
+      "longitude": 127.078644
+    },
+    "id": "540",
+    "type": "sharing_bicycle_01"
+  },
+  "j8xUt3p9C": {
+    "address": "서울특별시 광진구 강변역로 53",
+    "name": "강변역 1,4번 출구 아래",
+    "location": {
+      "latitude": 37.534996,
+      "longitude": 127.094604
+    },
+    "id": "542",
+    "type": "sharing_bicycle_01"
+  },
+  "YwxqwGpJ7": {
+    "address": "서울특별시 광진구 구의동 546-3도",
+    "name": "구의공원(테크노마트 앞)",
+    "location": {
+      "latitude": 37.535969,
+      "longitude": 127.094673
+    },
+    "id": "543",
+    "type": "sharing_bicycle_01"
+  },
+  "gAvQwNhr5": {
+    "address": "서울특별시 광진구 광장동 561-15 도",
+    "name": "광남중학교",
+    "location": {
+      "latitude": 37.54073,
+      "longitude": 127.102905
+    },
+    "id": "544",
+    "type": "sharing_bicycle_01"
+  },
+  "YtvsABp9L": {
+    "address": "서울특별시 광진구 자양동 722 도",
+    "name": "DMC빌 앞",
+    "location": {
+      "latitude": 37.532478,
+      "longitude": 127.085091
+    },
+    "id": "546",
+    "type": "sharing_bicycle_01"
+  },
+  "gwfQ8ohcC": {
+    "address": "서울특별시 광진구 자양동 738도",
+    "name": "자양나들목",
+    "location": {
+      "latitude": 37.52977,
+      "longitude": 127.07486
+    },
+    "id": "548",
+    "type": "sharing_bicycle_01"
+  },
+  "OtfsAIh95": {
+    "address": "서울특별시 광진구 구의동 96도",
+    "name": "아차산역 3번출구",
+    "location": {
+      "latitude": 37.551224,
+      "longitude": 127.089706
+    },
+    "id": "549",
+    "type": "sharing_bicycle_01"
+  },
+  "gtvsAUthJ5": {
+    "address": "서울특별시 광진구 구의동 199-97",
+    "name": "구의삼성쉐르빌 앞",
+    "location": {
+      "latitude": 37.540062,
+      "longitude": 127.094498
+    },
+    "id": "551",
+    "type": "sharing_bicycle_01"
+  },
+  "OwvQwttiJC": {
+    "address": "서울특별시 광진구 구의동 589",
+    "name": "대림아크로리버 앞",
+    "location": {
+      "latitude": 37.536579,
+      "longitude": 127.092972
+    },
+    "id": "552",
+    "type": "sharing_bicycle_01"
+  },
+  "YAvQ8KA1JC": {
+    "address": "서울특별시 광진구 구의동 199-97",
+    "name": "중곡 성원APT 앞",
+    "location": {
+      "latitude": 37.571255,
+      "longitude": 127.079803
+    },
+    "id": "553",
+    "type": "sharing_bicycle_01"
+  },
+  "j8xQ8CAhrC": {
+    "address": "서울특별시 광진구 구의동 91",
+    "name": "아차산역 사거리",
+    "location": {
+      "latitude": 37.548935,
+      "longitude": 127.09259
+    },
+    "id": "554",
+    "type": "sharing_bicycle_01"
+  },
+  "YtvUAgtiJC": {
+    "address": "서울특별시 광진구 광강변역로 17",
+    "name": "구의3동주민센터",
+    "location": {
+      "latitude": 37.537849,
+      "longitude": 127.092171
+    },
+    "id": "555",
+    "type": "sharing_bicycle_01"
+  },
+  "gtxqAy8h9L": {
+    "address": "서울특별시 광진구 군자동 98-2도",
+    "name": "어린이대공원역6번출구",
+    "location": {
+      "latitude": 37.548496,
+      "longitude": 127.07476
+    },
+    "id": "571",
+    "type": "sharing_bicycle_01"
+  },
+  "gwxqAcA1cL": {
+    "address": "서울특별시 광진구 자양동 510-6도",
+    "name": "국립정신 건강센터 앞",
+    "location": {
+      "latitude": 37.565536,
+      "longitude": 127.0867
+    },
+    "id": "572",
+    "type": "sharing_bicycle_01"
+  },
+  "gAfQtmAp9C": {
+    "address": "서울특별시 광진구 능동로 216",
+    "name": "구의문주차장 앞",
+    "location": {
+      "latitude": 37.545231,
+      "longitude": 127.084732
+    },
+    "id": "573",
+    "type": "sharing_bicycle_01"
+  },
+  "YAKQtzAhJ7": {
+    "address": "서울특별시 광진구 능동 18공",
+    "name": "아차산역4번출구",
+    "location": {
+      "latitude": 37.551849,
+      "longitude": 127.088982
+    },
+    "id": "574",
+    "type": "sharing_bicycle_01"
+  },
+  "jAvQAhwir7": {
+    "address": "서울특별시 광진구 용마산로 120",
+    "name": "중앙농협 중곡지점",
+    "location": {
+      "latitude": 37.564293,
+      "longitude": 127.086937
+    },
+    "id": "575",
+    "type": "sharing_bicycle_01"
+  },
+  "OAvqA2AhJ7": {
+    "address": "서울특별시 광진구 아차산로 552",
+    "name": "광나루역 3번출구",
+    "location": {
+      "latitude": 37.54483,
+      "longitude": 127.104263
+    },
+    "id": "576",
+    "type": "sharing_bicycle_01"
+  },
+  "jAKs8PA1c7": {
+    "address": "서울특별시 광진구 구천면로 14",
+    "name": "광진청소년수련관",
+    "location": {
+      "latitude": 37.546547,
+      "longitude": 127.106133
+    },
+    "id": "577",
+    "type": "sharing_bicycle_01"
+  },
+  "jtvqAE8i97": {
+    "address": "서울특별시 광진구 군자동 374-8",
+    "name": "광진광장 교통섬",
+    "location": {
+      "latitude": 37.547829,
+      "longitude": 127.072632
+    },
+    "id": "584",
+    "type": "sharing_bicycle_01"
+  },
+  "YwKswBt1rC": {
+    "address": "서울특별시 동대문구 한천로 329",
+    "name": "휘경2동 주민센터",
+    "location": {
+      "latitude": 37.589912,
+      "longitude": 127.06868
+    },
+    "id": "600",
+    "type": "sharing_bicycle_01"
+  },
+  "Owvq8otirL": {
+    "address": "서울특별시 동대문구 용두동 65-25",
+    "name": "용신동주민센터",
+    "location": {
+      "latitude": 37.575947,
+      "longitude": 127.037361
+    },
+    "id": "601",
+    "type": "sharing_bicycle_01"
+  },
+  "j8xsAe8iJL": {
+    "address": "서울특별시 동대문구 장한로 25길 2",
+    "name": "장안동 사거리",
+    "location": {
+      "latitude": 37.572174,
+      "longitude": 127.071388
+    },
+    "id": "602",
+    "type": "sharing_bicycle_01"
+  },
+  "gwxQwUxp97": {
+    "address": "서울특별시 동대문구 전농로3길 23",
+    "name": "답십리초등학교 옆 공원",
+    "location": {
+      "latitude": 37.569656,
+      "longitude": 127.055962
+    },
+    "id": "604",
+    "type": "sharing_bicycle_01"
+  },
+  "j8vqtAvicL": {
+    "address": "서울특별시 동대문구 천호대로 26",
+    "name": "신설동역9번출구",
+    "location": {
+      "latitude": 37.5742,
+      "longitude": 127.026497
+    },
+    "id": "605",
+    "type": "sharing_bicycle_01"
+  },
+  "g8KQwKfhcL": {
+    "address": "서울특별시 동대문구 겸재로 21",
+    "name": "휘경공고앞",
+    "location": {
+      "latitude": 37.584625,
+      "longitude": 127.07029
+    },
+    "id": "606",
+    "type": "sharing_bicycle_01"
+  },
+  "OAvUA7xh9C": {
+    "address": "서울특별시 동대문구 이문동186-1",
+    "name": "신이문역 2번출구",
+    "location": {
+      "latitude": 37.602711,
+      "longitude": 127.067863
+    },
+    "id": "607",
+    "type": "sharing_bicycle_01"
+  },
+  "Otfs8gfhcL": {
+    "address": "서울특별시 동대문구 전농로 192",
+    "name": "전농삼성아파트",
+    "location": {
+      "latitude": 37.58131,
+      "longitude": 127.055344
+    },
+    "id": "608",
+    "type": "sharing_bicycle_01"
+  },
+  "jwvqAyv1r5": {
+    "address": "서울특별시 동대문구 제기동122-388",
+    "name": "제기2교",
+    "location": {
+      "latitude": 37.587791,
+      "longitude": 127.037361
+    },
+    "id": "609",
+    "type": "sharing_bicycle_01"
+  },
+  "OtfqwrK1r7": {
+    "address": "서울특별시 동대문구 답십리동 524-1",
+    "name": "동대문중 교차로",
+    "location": {
+      "latitude": 37.573086,
+      "longitude": 127.052162
+    },
+    "id": "610",
+    "type": "sharing_bicycle_01"
+  },
+  "OwKUwVvhJL": {
+    "address": "서울특별시 동대문구 용두동 237-10",
+    "name": "시립동부병원 앞 사거리",
+    "location": {
+      "latitude": 37.573498,
+      "longitude": 127.030472
+    },
+    "id": "612",
+    "type": "sharing_bicycle_01"
+  },
+  "gwKqw6xi9L": {
+    "address": "서울특별시 동대문구 신설동 92-34",
+    "name": "신설동역 10번출구 앞",
+    "location": {
+      "latitude": 37.575272,
+      "longitude": 127.023468
+    },
+    "id": "613",
+    "type": "sharing_bicycle_01"
+  },
+  "g8KUwhfp95": {
+    "address": "서울특별시 동대문구 용두동 237-10",
+    "name": "용두동 사거리",
+    "location": {
+      "latitude": 37.577686,
+      "longitude": 127.031013
+    },
+    "id": "614",
+    "type": "sharing_bicycle_01"
+  },
+  "j8xs8aKp95": {
+    "address": "서울특별시 동대문구 용두동 696-13",
+    "name": "용두동 레미안허브 리츠아파트 앞",
+    "location": {
+      "latitude": 37.576382,
+      "longitude": 127.03511
+    },
+    "id": "615",
+    "type": "sharing_bicycle_01"
+  },
+  "Y8xQAPvhJ7": {
+    "address": "서울특별시 동대문구 전농동 135-5",
+    "name": "시립대 앞",
+    "location": {
+      "latitude": 37.582561,
+      "longitude": 127.054367
+    },
+    "id": "616",
+    "type": "sharing_bicycle_01"
+  },
+  "gwvs8Nf1cL": {
+    "address": "서울특별시 동대문구 답십리동 94-2",
+    "name": "청솔우성아파트 앞",
+    "location": {
+      "latitude": 37.574203,
+      "longitude": 127.057693
+    },
+    "id": "617",
+    "type": "sharing_bicycle_01"
+  },
+  "gtfstBvi97": {
+    "address": "서울특별시 동대문구 사가정로 66",
+    "name": "동대문중학교 옆",
+    "location": {
+      "latitude": 37.574718,
+      "longitude": 127.053391
+    },
+    "id": "621",
+    "type": "sharing_bicycle_01"
+  },
+  "jAfs8RxpcC": {
+    "address": "서울특별시 동대문구 전농동 25-2",
+    "name": "전농사거리 교통섬",
+    "location": {
+      "latitude": 37.577793,
+      "longitude": 127.057831
+    },
+    "id": "622",
+    "type": "sharing_bicycle_01"
+  },
+  "OAKUA4ficL": {
+    "address": "서울특별시 동대문구 전농동 150-15",
+    "name": "서울시립대 정문 앞",
+    "location": {
+      "latitude": 37.583698,
+      "longitude": 127.053856
+    },
+    "id": "623",
+    "type": "sharing_bicycle_01"
+  },
+  "j8fQ8U5ic7": {
+    "address": "서울특별시 동대문구 서울시립대로 31",
+    "name": "전농동 동아아파트 앞",
+    "location": {
+      "latitude": 37.574188,
+      "longitude": 127.045891
+    },
+    "id": "624",
+    "type": "sharing_bicycle_01"
+  },
+  "gtKQwt5icL": {
+    "address": "서울특별시 동대문구 답십리동 266-2",
+    "name": "답십리초등학교 앞",
+    "location": {
+      "latitude": 37.568192,
+      "longitude": 127.057175
+    },
+    "id": "625",
+    "type": "sharing_bicycle_01"
+  },
+  "gwxUAf7i97": {
+    "address": "서울특별시 동대문구 장안동 480-11",
+    "name": "군자교녹지대 동측 앞",
+    "location": {
+      "latitude": 37.561153,
+      "longitude": 127.070969
+    },
+    "id": "626",
+    "type": "sharing_bicycle_01"
+  },
+  "jtvQA5LicC": {
+    "address": "서울특별시 동대문구 장안동 469-2",
+    "name": "장안동삼거리 교통섬",
+    "location": {
+      "latitude": 37.578632,
+      "longitude": 127.071907
+    },
+    "id": "627",
+    "type": "sharing_bicycle_01"
+  },
+  "YwKq8jCh9C": {
+    "address": "서울특별시 동대문구 휘경동 43-278",
+    "name": "휘봉고등학교 앞",
+    "location": {
+      "latitude": 37.586815,
+      "longitude": 127.067543
+    },
+    "id": "628",
+    "type": "sharing_bicycle_01"
+  },
+  "jwfsA-7pcL": {
+    "address": "서울특별시 동대문구 천호대로 145",
+    "name": "동대문구 보건소",
+    "location": {
+      "latitude": 37.574852,
+      "longitude": 127.040306
+    },
+    "id": "630",
+    "type": "sharing_bicycle_01"
+  },
+  "gtfU8J7ic5": {
+    "address": "서울특별시 동대문구 천호대로 265",
+    "name": "답십리역 1번출구",
+    "location": {
+      "latitude": 37.568184,
+      "longitude": 127.051277
+    },
+    "id": "631",
+    "type": "sharing_bicycle_01"
+  },
+  "jtfswmChr5": {
+    "address": "서울특별시 동대문구 홍릉로 1",
+    "name": "청량리 기업은행 앞",
+    "location": {
+      "latitude": 37.580406,
+      "longitude": 127.044823
+    },
+    "id": "633",
+    "type": "sharing_bicycle_01"
+  },
+  "jtxqwn7ic7": {
+    "address": "서울특별시 동대문구 이문동 288-3",
+    "name": "외국어대 정문 앞",
+    "location": {
+      "latitude": 37.59602,
+      "longitude": 127.05983
+    },
+    "id": "634",
+    "type": "sharing_bicycle_01"
+  },
+  "Y8vqti71J7": {
+    "address": "서울특별시 동대문구 청량리동 1-2",
+    "name": "시조사 앞 (청량고정문 옆)",
+    "location": {
+      "latitude": 37.587517,
+      "longitude": 127.052773
+    },
+    "id": "635",
+    "type": "sharing_bicycle_01"
+  },
+  "gAKQ8a7ir5": {
+    "address": "서울특별시 동대문구 청량리동 산 1-215",
+    "name": "세종대왕기념관 교차로",
+    "location": {
+      "latitude": 37.5909,
+      "longitude": 127.042587
+    },
+    "id": "636",
+    "type": "sharing_bicycle_01"
+  },
+  "gtxqwM5prL": {
+    "address": "서울특별시 동대문구 청량리동 산1-135",
+    "name": "KAIST 경영대학 앞",
+    "location": {
+      "latitude": 37.591614,
+      "longitude": 127.045792
+    },
+    "id": "637",
+    "type": "sharing_bicycle_01"
+  },
+  "OtKU8E5hc7": {
+    "address": "서울특별시 동대문구 서울시립대로 163",
+    "name": "서울시립대 정보기술관",
+    "location": {
+      "latitude": 37.583008,
+      "longitude": 127.060974
+    },
+    "id": "638",
+    "type": "sharing_bicycle_01"
+  },
+  "gAvUtBCh9C": {
+    "address": "서울특별시 동대문구 서울시립대로 163",
+    "name": "서울시립대 후문",
+    "location": {
+      "latitude": 37.585197,
+      "longitude": 127.060951
+    },
+    "id": "639",
+    "type": "sharing_bicycle_01"
+  },
+  "jtxstR5irC": {
+    "address": "서울특별시 동대문구 홍릉로 28",
+    "name": "KEB하나은행 청량리역지점",
+    "location": {
+      "latitude": 37.582455,
+      "longitude": 127.044495
+    },
+    "id": "640",
+    "type": "sharing_bicycle_01"
+  },
+  "jAvUwuLpr7": {
+    "address": "서울특별시 동대문구 용두동 47-1",
+    "name": "용두역 4번출구",
+    "location": {
+      "latitude": 37.574329,
+      "longitude": 127.038261
+    },
+    "id": "641",
+    "type": "sharing_bicycle_01"
+  },
+  "jtKQwqO1JC": {
+    "address": "서울특별시 동대문구 천호대로 231",
+    "name": "신답역 빵굼터 앞",
+    "location": {
+      "latitude": 37.570156,
+      "longitude": 127.048584
+    },
+    "id": "642",
+    "type": "sharing_bicycle_01"
+  },
+  "gwKQ8tg1cL": {
+    "address": "서울특별시 동대문구 장한로18길 82-9",
+    "name": "동대문구민체육센터",
+    "location": {
+      "latitude": 37.566971,
+      "longitude": 127.074417
+    },
+    "id": "643",
+    "type": "sharing_bicycle_01"
+  },
+  "gtKUtvY1JC": {
+    "address": "서울특별시 마포구 합정동 444-12",
+    "name": "합정동 주민센터",
+    "location": {
+      "latitude": 37.549561,
+      "longitude": 126.905754
+    },
+    "id": "101",
+    "type": "sharing_bicycle_01"
+  },
+  "OAKqt5jirL": {
+    "address": "서울특별시 마포구 서교동475-54",
+    "name": "망원역1번출구앞",
+    "location": {
+      "latitude": 37.556293,
+      "longitude": 126.910141
+    },
+    "id": "102",
+    "type": "sharing_bicycle_01"
+  },
+  "Ytvq8gOirC": {
+    "address": "서울특별시 마포구 망원동378-18",
+    "name": "망원역2번출구앞",
+    "location": {
+      "latitude": 37.554951,
+      "longitude": 126.910835
+    },
+    "id": "103",
+    "type": "sharing_bicycle_01"
+  },
+  "jtxQt0Oi95": {
+    "address": "서울특별시 마포구 서교동 393-7",
+    "name": "합정역 1번출구 앞",
+    "location": {
+      "latitude": 37.550629,
+      "longitude": 126.914986
+    },
+    "id": "104",
+    "type": "sharing_bicycle_01"
+  },
+  "jtxQwrgicL": {
+    "address": "서울특별시 마포구 서교동 394-95",
+    "name": "합정역 5번출구 앞",
+    "location": {
+      "latitude": 37.550007,
+      "longitude": 126.914825
+    },
+    "id": "105",
+    "type": "sharing_bicycle_01"
+  },
+  "YtvQtVjh95": {
+    "address": "서울특별시 마포구 합정동 381-1",
+    "name": "합정역 7번출구 앞",
+    "location": {
+      "latitude": 37.548645,
+      "longitude": 126.912827
+    },
+    "id": "106",
+    "type": "sharing_bicycle_01"
+  },
+  "gwfqA6gpJ5": {
+    "address": "서울특별시 마포구 서교동 449-28",
+    "name": "신한은행 서교동금융센터점 앞",
+    "location": {
+      "latitude": 37.55751,
+      "longitude": 126.918503
+    },
+    "id": "107",
+    "type": "sharing_bicycle_01"
+  },
+  "j8fUtpg19C": {
+    "address": "서울특별시 마포구 서교동 427",
+    "name": "서교동 사거리",
+    "location": {
+      "latitude": 37.552746,
+      "longitude": 126.918617
+    },
+    "id": "108",
+    "type": "sharing_bicycle_01"
+  },
+  "YtKU83YirL": {
+    "address": "서울특별시 마포구 당인동 12-2",
+    "name": "제일빌딩 앞",
+    "location": {
+      "latitude": 37.547691,
+      "longitude": 126.919983
+    },
+    "id": "109",
+    "type": "sharing_bicycle_01"
+  },
+  "g8vqAbOiJC": {
+    "address": "서울특별시 마포구 상수동 309-10",
+    "name": "상수역 2번출구 앞",
+    "location": {
+      "latitude": 37.547871,
+      "longitude": 126.923531
+    },
+    "id": "111",
+    "type": "sharing_bicycle_01"
+  },
+  "jwxQwTg1c7": {
+    "address": "서울특별시 마포구 상수동 89-2",
+    "name": "극동방송국 앞",
+    "location": {
+      "latitude": 37.549202,
+      "longitude": 126.923203
+    },
+    "id": "112",
+    "type": "sharing_bicycle_01"
+  },
+  "gAxQwZghcC": {
+    "address": "서울특별시 마포구 동교동 156-8",
+    "name": "삼성서비스센터 앞",
+    "location": {
+      "latitude": 37.557499,
+      "longitude": 126.923805
+    },
+    "id": "113",
+    "type": "sharing_bicycle_01"
+  },
+  "Y8vUtRg1rL": {
+    "address": "서울특별시 마포구 동교동 192-5",
+    "name": "홍대입구역 8번출구 앞",
+    "location": {
+      "latitude": 37.55706,
+      "longitude": 126.924423
+    },
+    "id": "114",
+    "type": "sharing_bicycle_01"
+  },
+  "gtKUA4YprL": {
+    "address": "서울특별시 마포구 창전동 243-3",
+    "name": "광흥창역 2번출구 앞",
+    "location": {
+      "latitude": 37.547733,
+      "longitude": 126.931763
+    },
+    "id": "118",
+    "type": "sharing_bicycle_01"
+  },
+  "YtKs8Uki95": {
+    "address": "서울특별시 마포구 창전동 165-5",
+    "name": "서강나루 공원",
+    "location": {
+      "latitude": 37.545284,
+      "longitude": 126.931053
+    },
+    "id": "119",
+    "type": "sharing_bicycle_01"
+  },
+  "gwvUAA0pJL": {
+    "address": "서울특별시 마포구 신수동 371-11",
+    "name": "신수동 사거리",
+    "location": {
+      "latitude": 37.545242,
+      "longitude": 126.934113
+    },
+    "id": "120",
+    "type": "sharing_bicycle_01"
+  },
+  "O8vUtK0pc7": {
+    "address": "서울특별시 마포구 신수동 100-18",
+    "name": "마포소방서 앞",
+    "location": {
+      "latitude": 37.549767,
+      "longitude": 126.933174
+    },
+    "id": "121",
+    "type": "sharing_bicycle_01"
+  },
+  "j8fUtL0hJ5": {
+    "address": "서울특별시 마포구 신수동 50-2",
+    "name": "신성기사식당 앞",
+    "location": {
+      "latitude": 37.547249,
+      "longitude": 126.939293
+    },
+    "id": "122",
+    "type": "sharing_bicycle_01"
+  },
+  "gAKqtjyhr7": {
+    "address": "서울특별시 마포구 신수동 84-5",
+    "name": "서강대 정문 옆",
+    "location": {
+      "latitude": 37.55114,
+      "longitude": 126.936989
+    },
+    "id": "124",
+    "type": "sharing_bicycle_01"
+  },
+  "jtfs8k-1cL": {
+    "address": "서울특별시 마포구 신수동 1-30",
+    "name": "서강대 남문 옆",
+    "location": {
+      "latitude": 37.549484,
+      "longitude": 126.93895
+    },
+    "id": "125",
+    "type": "sharing_bicycle_01"
+  },
+  "j8vqw9-irC": {
+    "address": "서울특별시 마포구 대흥동 38-16",
+    "name": "서강대 후문 옆",
+    "location": {
+      "latitude": 37.550411,
+      "longitude": 126.943848
+    },
+    "id": "126",
+    "type": "sharing_bicycle_01"
+  },
+  "j8KUAl-h9L": {
+    "address": "서울특별시 마포구 노고산동 31-213",
+    "name": "현대벤처빌 앞",
+    "location": {
+      "latitude": 37.55352,
+      "longitude": 126.936951
+    },
+    "id": "127",
+    "type": "sharing_bicycle_01"
+  },
+  "jwfqt6-hr5": {
+    "address": "서울특별시 마포구 노고산동 31-123",
+    "name": "신촌역(2호선) 6번출구 옆",
+    "location": {
+      "latitude": 37.555054,
+      "longitude": 126.937569
+    },
+    "id": "129",
+    "type": "sharing_bicycle_01"
+  },
+  "gAxst1-h97": {
+    "address": "서울특별시 마포구 노고산동 31-123",
+    "name": "신촌역(2호선) 7번출구 앞",
+    "location": {
+      "latitude": 37.554859,
+      "longitude": 126.936157
+    },
+    "id": "130",
+    "type": "sharing_bicycle_01"
+  },
+  "Y8xqt20p95": {
+    "address": "서울특별시 마포구 노고산동 1-83",
+    "name": "대흥동 주민센터",
+    "location": {
+      "latitude": 37.555691,
+      "longitude": 126.942451
+    },
+    "id": "136",
+    "type": "sharing_bicycle_01"
+  },
+  "jwfQAP0hcL": {
+    "address": "서울특별시 마포구 아현동 329-15",
+    "name": "아현역 4번출구 앞",
+    "location": {
+      "latitude": 37.557201,
+      "longitude": 126.955666
+    },
+    "id": "142",
+    "type": "sharing_bicycle_01"
+  },
+  "O8KqtTy1cL": {
+    "address": "서울특별시 마포구 공덕동 257-88",
+    "name": "공덕역 2번출구",
+    "location": {
+      "latitude": 37.544579,
+      "longitude": 126.950218
+    },
+    "id": "143",
+    "type": "sharing_bicycle_01"
+  },
+  "YtKUt_-h97": {
+    "address": "서울특별시 마포구 공덕동 438-5",
+    "name": "공덕역 8번출구",
+    "location": {
+      "latitude": 37.543579,
+      "longitude": 126.951324
+    },
+    "id": "144",
+    "type": "sharing_bicycle_01"
+  },
+  "gAKswRkicC": {
+    "address": "서울특별시 마포구 공덕동 237-9",
+    "name": "공덕역 5번출구",
+    "location": {
+      "latitude": 37.54425,
+      "longitude": 126.951637
+    },
+    "id": "145",
+    "type": "sharing_bicycle_01"
+  },
+  "jwKsw40hJ7": {
+    "address": "서울특별시 마포구 도화동 555-2",
+    "name": "마포역 2번출구 뒤",
+    "location": {
+      "latitude": 37.539936,
+      "longitude": 126.945824
+    },
+    "id": "146",
+    "type": "sharing_bicycle_01"
+  },
+  "j8vUAQ91J5": {
+    "address": "서울특별시 마포구 도화동 292-29",
+    "name": "마포역 4번출구 뒤",
+    "location": {
+      "latitude": 37.539272,
+      "longitude": 126.945915
+    },
+    "id": "147",
+    "type": "sharing_bicycle_01"
+  },
+  "O8KUwA9hJL": {
+    "address": "서울특별시 마포구 용강동 234-1",
+    "name": "용강동 주민센터 앞",
+    "location": {
+      "latitude": 37.542347,
+      "longitude": 126.943024
+    },
+    "id": "148",
+    "type": "sharing_bicycle_01"
+  },
+  "g8fU8vcicL": {
+    "address": "서울특별시 마포구 노고산동 112-13",
+    "name": "서강대역 2번출구 앞",
+    "location": {
+      "latitude": 37.552956,
+      "longitude": 126.934341
+    },
+    "id": "150",
+    "type": "sharing_bicycle_01"
+  },
+  "jAKqtCri9C": {
+    "address": "서울특별시 마포구 망원동 403-2",
+    "name": "망원1동주민센터",
+    "location": {
+      "latitude": 37.555687,
+      "longitude": 126.905548
+    },
+    "id": "151",
+    "type": "sharing_bicycle_01"
+  },
+  "YwKQ8Yci9C": {
+    "address": "서울특별시 마포구 망원동 452-4",
+    "name": "마포구민체육센터 앞",
+    "location": {
+      "latitude": 37.55661,
+      "longitude": 126.898018
+    },
+    "id": "152",
+    "type": "sharing_bicycle_01"
+  },
+  "OtfQt-JiJC": {
+    "address": "서울특별시 마포구 성산동 54-17",
+    "name": "성산2교 사거리",
+    "location": {
+      "latitude": 37.564697,
+      "longitude": 126.912613
+    },
+    "id": "153",
+    "type": "sharing_bicycle_01"
+  },
+  "jtvUtJ9pJ5": {
+    "address": "서울특별시 마포구 망원동 477-23",
+    "name": "마포구청역",
+    "location": {
+      "latitude": 37.560909,
+      "longitude": 126.905495
+    },
+    "id": "154",
+    "type": "sharing_bicycle_01"
+  },
+  "gAvq8H9197": {
+    "address": "서울특별시 마포구 성산동123-29",
+    "name": "가좌역1.2번출구",
+    "location": {
+      "latitude": 37.56855,
+      "longitude": 126.914513
+    },
+    "id": "155",
+    "type": "sharing_bicycle_01"
+  },
+  "j8fU8n919C": {
+    "address": "서울특별시 마포구 공덕동 105-11",
+    "name": "서울서부지방법원 앞",
+    "location": {
+      "latitude": 37.549904,
+      "longitude": 126.955147
+    },
+    "id": "156",
+    "type": "sharing_bicycle_01"
+  },
+  "OwvU8h91r5": {
+    "address": "서울특별시 마포구 아현동 607-1",
+    "name": "애오개역 4번출구 앞",
+    "location": {
+      "latitude": 37.553001,
+      "longitude": 126.956688
+    },
+    "id": "157",
+    "type": "sharing_bicycle_01"
+  },
+  "Otvq83rhr7": {
+    "address": "서울특별시 마포구 망원동 218-7",
+    "name": "망원초록길 입구",
+    "location": {
+      "latitude": 37.551342,
+      "longitude": 126.902672
+    },
+    "id": "181",
+    "type": "sharing_bicycle_01"
+  },
+  "YwxUtPcprC": {
+    "address": "서울특별시 마포구 망원동 211-43",
+    "name": "망원2빗물펌프장 앞",
+    "location": {
+      "latitude": 37.551567,
+      "longitude": 126.902847
+    },
+    "id": "182",
+    "type": "sharing_bicycle_01"
+  },
+  "gtxUwNcpc5": {
+    "address": "서울특별시 마포구 연남동 365-19",
+    "name": "하늘채코오롱아파트 건너편",
+    "location": {
+      "latitude": 37.565166,
+      "longitude": 126.919395
+    },
+    "id": "183",
+    "type": "sharing_bicycle_01"
+  },
+  "OAfQ8Z9pJ5": {
+    "address": "서울특별시 마포구 성산동 253-20",
+    "name": "SK망원동주유소 건너편",
+    "location": {
+      "latitude": 37.558949,
+      "longitude": 126.907753
+    },
+    "id": "184",
+    "type": "sharing_bicycle_01"
+  },
+  "YwKQADrhcC": {
+    "address": "서울특별시 마포구 현석동 106-32",
+    "name": "마포 신수공원앞",
+    "location": {
+      "latitude": 37.542545,
+      "longitude": 126.934296
+    },
+    "id": "185",
+    "type": "sharing_bicycle_01"
+  },
+  "OtKUterh9L": {
+    "address": "서울특별시 마포구 성산동 월드컵로 243-60",
+    "name": "월드컵공원",
+    "location": {
+      "latitude": 37.563965,
+      "longitude": 126.898209
+    },
+    "id": "186",
+    "type": "sharing_bicycle_01"
+  },
+  "gAfU8UV1r5": {
+    "address": "서울특별시 마포구 성산동 534-11",
+    "name": "서울 월드컵 경기장",
+    "location": {
+      "latitude": 37.566845,
+      "longitude": 126.896446
+    },
+    "id": "199",
+    "type": "sharing_bicycle_01"
+  },
+  "O8xQAAl1c7": {
+    "address": "서울특별시 마포구 상암동 527",
+    "name": "상암한화오벨리스크 1차 앞",
+    "location": {
+      "latitude": 37.587524,
+      "longitude": 126.883003
+    },
+    "id": "400",
+    "type": "sharing_bicycle_01"
+  },
+  "jtKswfHpr5": {
+    "address": "서울특별시 마포구 상암동 594",
+    "name": "상암월드컵파크 10단지 앞",
+    "location": {
+      "latitude": 37.586189,
+      "longitude": 126.881615
+    },
+    "id": "401",
+    "type": "sharing_bicycle_01"
+  },
+  "Ywvqw5Vir7": {
+    "address": "서울특별시 마포구 상암동 670",
+    "name": "상암월드컵파크 9단지 앞",
+    "location": {
+      "latitude": 37.582855,
+      "longitude": 126.879822
+    },
+    "id": "402",
+    "type": "sharing_bicycle_01"
+  },
+  "gAfQwYli9L": {
+    "address": "서울특별시 마포구 상암동 857-2",
+    "name": "부엉이공원 앞",
+    "location": {
+      "latitude": 37.58559,
+      "longitude": 126.884727
+    },
+    "id": "403",
+    "type": "sharing_bicycle_01"
+  },
+  "OAKs8kmiJ7": {
+    "address": "서울특별시 마포구 상암동 298-4",
+    "name": "DMC빌 앞",
+    "location": {
+      "latitude": 37.582657,
+      "longitude": 126.885788
+    },
+    "id": "405",
+    "type": "sharing_bicycle_01"
+  },
+  "Owxsw9ViJC": {
+    "address": "서울특별시 마포구 상암동 450-7",
+    "name": "상암월드컵파크 7단지 앞",
+    "location": {
+      "latitude": 37.581314,
+      "longitude": 126.880585
+    },
+    "id": "406",
+    "type": "sharing_bicycle_01"
+  },
+  "YwxqwlHhc7": {
+    "address": "서울특별시 마포구 상암산로1길 71",
+    "name": "마포구 육아종합지원센터",
+    "location": {
+      "latitude": 37.580631,
+      "longitude": 126.883675
+    },
+    "id": "407",
+    "type": "sharing_bicycle_01"
+  },
+  "YAxq86ViJL": {
+    "address": "서울특별시 마포구 월드컵북로 424",
+    "name": "LG CNS앞",
+    "location": {
+      "latitude": 37.580811,
+      "longitude": 126.88665
+    },
+    "id": "408",
+    "type": "sharing_bicycle_01"
+  },
+  "YAKUwpHpJC": {
+    "address": "서울특별시 마포구 월드컵북로 396",
+    "name": "누리꿈스퀘어 옆",
+    "location": {
+      "latitude": 37.579399,
+      "longitude": 126.88916
+    },
+    "id": "409",
+    "type": "sharing_bicycle_01"
+  },
+  "jwKstalpcC": {
+    "address": "서울특별시 마포구 상암동 산23",
+    "name": "상암중학교 옆",
+    "location": {
+      "latitude": 37.577496,
+      "longitude": 126.887772
+    },
+    "id": "410",
+    "type": "sharing_bicycle_01"
+  },
+  "jtfsAGlicL": {
+    "address": "서울특별시 마포구 상암동 134-7",
+    "name": "DMC홍보관",
+    "location": {
+      "latitude": 37.577995,
+      "longitude": 126.891472
+    },
+    "id": "411",
+    "type": "sharing_bicycle_01"
+  },
+  "jtxQwNHp95": {
+    "address": "서울특별시 마포구 상암동 126-7",
+    "name": "DMC산학협력연구센터 앞",
+    "location": {
+      "latitude": 37.575802,
+      "longitude": 126.890739
+    },
+    "id": "412",
+    "type": "sharing_bicycle_01"
+  },
+  "jwfq8_Vpr7": {
+    "address": "서울특별시 마포구 상암동 1718",
+    "name": "상암월드컵파크 3단지 후문",
+    "location": {
+      "latitude": 37.571476,
+      "longitude": 126.889687
+    },
+    "id": "413",
+    "type": "sharing_bicycle_01"
+  },
+  "jAxUtoViJL": {
+    "address": "서울특별시 마포구 상암동 8-4",
+    "name": "상암동주민센터 옆",
+    "location": {
+      "latitude": 37.57822,
+      "longitude": 126.89447
+    },
+    "id": "414",
+    "type": "sharing_bicycle_01"
+  },
+  "gwxQAImhcL": {
+    "address": "서울특별시 마포구 상암동 1621",
+    "name": "DMC역 9번출구 앞",
+    "location": {
+      "latitude": 37.577469,
+      "longitude": 126.897362
+    },
+    "id": "415",
+    "type": "sharing_bicycle_01"
+  },
+  "YAxstQ6iJ7": {
+    "address": "서울특별시 마포구 상암동 1716",
+    "name": "상암월드컵파크1단지 교차로",
+    "location": {
+      "latitude": 37.575665,
+      "longitude": 126.894447
+    },
+    "id": "416",
+    "type": "sharing_bicycle_01"
+  },
+  "Y8fU8wShr5": {
+    "address": "서울특별시 마포구 상암동 1156-1",
+    "name": "DMC역 2번출구 옆",
+    "location": {
+      "latitude": 37.575069,
+      "longitude": 126.899918
+    },
+    "id": "417",
+    "type": "sharing_bicycle_01"
+  },
+  "jwxQwf6195": {
+    "address": "서울특별시 마포구 월드컵경기장 내",
+    "name": "월드컵경기장역 3번출구 옆",
+    "location": {
+      "latitude": 37.570721,
+      "longitude": 126.898979
+    },
+    "id": "418",
+    "type": "sharing_bicycle_01"
+  },
+  "YAvQt5Shr5": {
+    "address": "서울특별시 마포구 월드컵경기장 내",
+    "name": "홈플러스 앞",
+    "location": {
+      "latitude": 37.56842,
+      "longitude": 126.899429
+    },
+    "id": "419",
+    "type": "sharing_bicycle_01"
+  },
+  "gtvQwjnicC": {
+    "address": "서울특별시 마포구 성산동 665",
+    "name": "서울시 공공자전거 운영센터 옆",
+    "location": {
+      "latitude": 37.566246,
+      "longitude": 126.896179
+    },
+    "id": "420",
+    "type": "sharing_bicycle_01"
+  },
+  "gAfQ8k6p95": {
+    "address": "서울특별시 마포구 성산동 370",
+    "name": "마포구청 앞",
+    "location": {
+      "latitude": 37.565903,
+      "longitude": 126.901184
+    },
+    "id": "421",
+    "type": "sharing_bicycle_01"
+  },
+  "jtfQwcni95": {
+    "address": "서울특별시 서대문구 홍제천로 11",
+    "name": "사천교",
+    "location": {
+      "latitude": 37.568199,
+      "longitude": 126.917847
+    },
+    "id": "110",
+    "type": "sharing_bicycle_01"
+  },
+  "YAvUtV6irL": {
+    "address": "서울특별시 서대문구 창천동 516",
+    "name": "사루비아 빌딩 앞",
+    "location": {
+      "latitude": 37.558933,
+      "longitude": 126.927116
+    },
+    "id": "115",
+    "type": "sharing_bicycle_01"
+  },
+  "OtxstnShJ5": {
+    "address": "서울특별시 서대문구 연희동 218-21",
+    "name": "일진아이윌아파트 옆",
+    "location": {
+      "latitude": 37.564541,
+      "longitude": 126.927071
+    },
+    "id": "116",
+    "type": "sharing_bicycle_01"
+  },
+  "gtvQA161r7": {
+    "address": "서울특별시 서대문구 홍제내길 483",
+    "name": "홍은사거리",
+    "location": {
+      "latitude": 37.591198,
+      "longitude": 126.941093
+    },
+    "id": "117",
+    "type": "sharing_bicycle_01"
+  },
+  "Y8fU8an195": {
+    "address": "서울특별시 서대문구 홍제동 277-23",
+    "name": "문화촌 공원",
+    "location": {
+      "latitude": 37.59433,
+      "longitude": 126.947388
+    },
+    "id": "123",
+    "type": "sharing_bicycle_01"
+  },
+  "j8fQwGnpr7": {
+    "address": "서울특별시 서대문구 창천동 30-16",
+    "name": "신촌역(2호선) 1번출구 옆",
+    "location": {
+      "latitude": 37.555496,
+      "longitude": 126.93634
+    },
+    "id": "128",
+    "type": "sharing_bicycle_01"
+  },
+  "j8xUwTzhc5": {
+    "address": "서울특별시 서대문구 증가로 264",
+    "name": "증산2교",
+    "location": {
+      "latitude": 37.584171,
+      "longitude": 126.911102
+    },
+    "id": "131",
+    "type": "sharing_bicycle_01"
+  },
+  "jwfQ8dzh95": {
+    "address": "서울특별시 서대문구 창천동 53-47",
+    "name": "창천문화공원",
+    "location": {
+      "latitude": 37.556789,
+      "longitude": 126.935883
+    },
+    "id": "132",
+    "type": "sharing_bicycle_01"
+  },
+  "O8Kq8DnprC": {
+    "address": "서울특별시 서대문구 불광천길 150",
+    "name": "해담는다리",
+    "location": {
+      "latitude": 37.582031,
+      "longitude": 126.908997
+    },
+    "id": "133",
+    "type": "sharing_bicycle_01"
+  },
+  "YwfQA4np95": {
+    "address": "서울특별시 서대문구 창천동 31-69",
+    "name": "연세로 명물길",
+    "location": {
+      "latitude": 37.557892,
+      "longitude": 126.93808
+    },
+    "id": "134",
+    "type": "sharing_bicycle_01"
+  },
+  "YAxUwQh1cC": {
+    "address": "서울특별시 서대문구 창천동 31-69",
+    "name": "명물거리 원형무대 앞",
+    "location": {
+      "latitude": 37.559101,
+      "longitude": 126.939178
+    },
+    "id": "135",
+    "type": "sharing_bicycle_01"
+  },
+  "Ywxqw8pir7": {
+    "address": "서울특별시 서대문구 대현동 60-11",
+    "name": "NH농협 신촌지점 앞",
+    "location": {
+      "latitude": 37.556812,
+      "longitude": 126.943184
+    },
+    "id": "137",
+    "type": "sharing_bicycle_01"
+  },
+  "Ywfq8fp1JC": {
+    "address": "서울특별시 서대문구 창천동 70-55",
+    "name": "신촌동 제1공영주차장 앞",
+    "location": {
+      "latitude": 37.559177,
+      "longitude": 126.934525
+    },
+    "id": "138",
+    "type": "sharing_bicycle_01"
+  },
+  "g8xs8Lihr5": {
+    "address": "서울특별시 서대문구 창천동 76-25",
+    "name": "연세대 정문 건너편",
+    "location": {
+      "latitude": 37.559795,
+      "longitude": 126.934479
+    },
+    "id": "139",
+    "type": "sharing_bicycle_01"
+  },
+  "jtvU8Yh19C": {
+    "address": "서울특별시 서대문구 신촌동 89-4",
+    "name": "이화여대 후문",
+    "location": {
+      "latitude": 37.560009,
+      "longitude": 126.940735
+    },
+    "id": "140",
+    "type": "sharing_bicycle_01"
+  },
+  "YwxQty1hrL": {
+    "address": "서울특별시 서대문구 연희동 27",
+    "name": "연대 대운동장 남문 옆",
+    "location": {
+      "latitude": 37.562382,
+      "longitude": 126.932648
+    },
+    "id": "141",
+    "type": "sharing_bicycle_01"
+  },
+  "gwKQAcphJL": {
+    "address": "서울특별시 서대문구 영천동 259-1",
+    "name": "독립문 어린이 공원",
+    "location": {
+      "latitude": 37.571259,
+      "longitude": 126.96048
+    },
+    "id": "158",
+    "type": "sharing_bicycle_01"
+  },
+  "gAxq8Hiir7": {
+    "address": "서울특별시 서대문구 대현동 60-11",
+    "name": "이대역 4번 출구",
+    "location": {
+      "latitude": 37.556953,
+      "longitude": 126.946342
+    },
+    "id": "159",
+    "type": "sharing_bicycle_01"
+  },
+  "jwKUtn1pJ7": {
+    "address": "서울특별시 서대문구 북아현동 251-78",
+    "name": "아현동 가구거리",
+    "location": {
+      "latitude": 37.557549,
+      "longitude": 126.959381
+    },
+    "id": "160",
+    "type": "sharing_bicycle_01"
+  },
+  "YtxUtp1pJL": {
+    "address": "서울특별시 서대문구 통일로 380-4",
+    "name": "무악재역1번 출구",
+    "location": {
+      "latitude": 37.582245,
+      "longitude": 126.950645
+    },
+    "id": "161",
+    "type": "sharing_bicycle_01"
+  },
+  "YwfQ82h1J7": {
+    "address": "서울특별시 서대문구 대신동 143-1",
+    "name": "봉원고가차도 밑",
+    "location": {
+      "latitude": 37.565269,
+      "longitude": 126.946243
+    },
+    "id": "162",
+    "type": "sharing_bicycle_01"
+  },
+  "O8xqwMiprC": {
+    "address": "서울특별시 서대문구 홍은동 산25-3",
+    "name": "명지전문대학교 정문 앞",
+    "location": {
+      "latitude": 37.583698,
+      "longitude": 126.924965
+    },
+    "id": "163",
+    "type": "sharing_bicycle_01"
+  },
+  "gwvQtN11J5": {
+    "address": "서울특별시 서대문구 북가좌동 477-1",
+    "name": "북가좌1동 주민센터",
+    "location": {
+      "latitude": 37.574478,
+      "longitude": 126.910049
+    },
+    "id": "164",
+    "type": "sharing_bicycle_01"
+  },
+  "YwfqA_ihcL": {
+    "address": "서울특별시 서대문구 북가좌동 470-1",
+    "name": "모래내 우체국",
+    "location": {
+      "latitude": 37.575138,
+      "longitude": 126.91394
+    },
+    "id": "165",
+    "type": "sharing_bicycle_01"
+  },
+  "jwfstohh9C": {
+    "address": "서울특별시 서대문구 연희동 530",
+    "name": "남가좌1동 주민센터",
+    "location": {
+      "latitude": 37.573277,
+      "longitude": 126.919678
+    },
+    "id": "166",
+    "type": "sharing_bicycle_01"
+  },
+  "gwvQwuii95": {
+    "address": "서울특별시 서대문구 북가좌동 70-119",
+    "name": "연가초등학교 옆",
+    "location": {
+      "latitude": 37.57946,
+      "longitude": 126.91713
+    },
+    "id": "167",
+    "type": "sharing_bicycle_01"
+  },
+  "jwxs8s3ir5": {
+    "address": "서울특별시 서대문구 남가좌동 185-21",
+    "name": "남가좌동 시장삼거리",
+    "location": {
+      "latitude": 37.574821,
+      "longitude": 126.918053
+    },
+    "id": "168",
+    "type": "sharing_bicycle_01"
+  },
+  "g8KUttaprC": {
+    "address": "서울특별시 서대문구 북가좌동 400",
+    "name": "북가좌 삼거리",
+    "location": {
+      "latitude": 37.57383,
+      "longitude": 126.906845
+    },
+    "id": "169",
+    "type": "sharing_bicycle_01"
+  },
+  "jtxq8vWirL": {
+    "address": "서울특별시 서대문구 남가좌동 124",
+    "name": "가재울 뉴타운 주유소 옆",
+    "location": {
+      "latitude": 37.573032,
+      "longitude": 126.922806
+    },
+    "id": "170",
+    "type": "sharing_bicycle_01"
+  },
+  "jwxq8L2pcL": {
+    "address": "서울특별시 서대문구 미근동 317-1",
+    "name": "임광빌딩 앞",
+    "location": {
+      "latitude": 37.562134,
+      "longitude": 126.969254
+    },
+    "id": "171",
+    "type": "sharing_bicycle_01"
+  },
+  "jAvQtjaprL": {
+    "address": "서울특별시 서대문구 연희로 182",
+    "name": "서대문소방서",
+    "location": {
+      "latitude": 37.573254,
+      "longitude": 126.935722
+    },
+    "id": "172",
+    "type": "sharing_bicycle_01"
+  },
+  "jwfq8k2p9L": {
+    "address": "서울특별시 서대문구 충정로2가 138",
+    "name": "서대문역 8번출구 앞",
+    "location": {
+      "latitude": 37.564777,
+      "longitude": 126.966148
+    },
+    "id": "173",
+    "type": "sharing_bicycle_01"
+  },
+  "gwKstc219C": {
+    "address": "서울특별시 서대문구 홍은동 387-16",
+    "name": "홍연2교옆",
+    "location": {
+      "latitude": 37.578072,
+      "longitude": 126.930817
+    },
+    "id": "175",
+    "type": "sharing_bicycle_01"
+  },
+  "jAvs8V3i9C": {
+    "address": "서울특별시 서대문구 북가좌동 427-1",
+    "name": "북가좌 초등학교",
+    "location": {
+      "latitude": 37.577675,
+      "longitude": 126.909805
+    },
+    "id": "177",
+    "type": "sharing_bicycle_01"
+  },
+  "OtfUw6WpJL": {
+    "address": "서울특별시 서대문구 북가좌동 352-9",
+    "name": "증산3교 앞",
+    "location": {
+      "latitude": 37.579876,
+      "longitude": 126.906349
+    },
+    "id": "178",
+    "type": "sharing_bicycle_01"
+  },
+  "gwxq8pW19C": {
+    "address": "서울특별시 서대문구 남가좌동 293-3",
+    "name": "가좌역 4번출구 앞",
+    "location": {
+      "latitude": 37.569122,
+      "longitude": 126.914795
+    },
+    "id": "179",
+    "type": "sharing_bicycle_01"
+  },
+  "jAKs82WpcL": {
+    "address": "서울특별시 서대문구 충정로3가 56-1",
+    "name": "충정로역 7번출구 뒤",
+    "location": {
+      "latitude": 37.559967,
+      "longitude": 126.962463
+    },
+    "id": "180",
+    "type": "sharing_bicycle_01"
+  },
+  "gAKU8b3hcC": {
+    "address": "서울특별시 서대문구 홍은동 265-47",
+    "name": "홍은동 정원여중 입구",
+    "location": {
+      "latitude": 37.586388,
+      "longitude": 126.935127
+    },
+    "id": "188",
+    "type": "sharing_bicycle_01"
+  },
+  "jwxUtFai97": {
+    "address": "서울특별시 서대문구 북가좌동 359-11",
+    "name": "정명학원",
+    "location": {
+      "latitude": 37.578892,
+      "longitude": 126.910736
+    },
+    "id": "191",
+    "type": "sharing_bicycle_01"
+  },
+  "YtfQA_a1JC": {
+    "address": "서울특별시 서대문구 연희동 519-27",
+    "name": "연서어린이공원",
+    "location": {
+      "latitude": 37.572227,
+      "longitude": 126.923065
+    },
+    "id": "192",
+    "type": "sharing_bicycle_01"
+  },
+  "gtvsARa1r7": {
+    "address": "서울특별시 서대문구 북가좌동 415",
+    "name": "증산교 앞",
+    "location": {
+      "latitude": 37.577316,
+      "longitude": 126.902969
+    },
+    "id": "194",
+    "type": "sharing_bicycle_01"
+  },
+  "jtxQt4Wi9C": {
+    "address": "서울특별시 서대문구 연희동 375-4",
+    "name": "모래내고가차도",
+    "location": {
+      "latitude": 37.567657,
+      "longitude": 126.917809
+    },
+    "id": "195",
+    "type": "sharing_bicycle_01"
+  },
+  "jAxQ8QM1c7": {
+    "address": "서울특별시 서대문구 연희동 413-38",
+    "name": "연희교차로 인근",
+    "location": {
+      "latitude": 37.56612,
+      "longitude": 126.925896
+    },
+    "id": "196",
+    "type": "sharing_bicycle_01"
+  },
+  "YwfUAwMprC": {
+    "address": "서울특별시 서대문구 충정로3가 155-4",
+    "name": "충청2교",
+    "location": {
+      "latitude": 37.562138,
+      "longitude": 126.963776
+    },
+    "id": "198",
+    "type": "sharing_bicycle_01"
+  },
+  "YtKqwxGicC": {
+    "address": "서울특별시 성동구 광나루로 249",
+    "name": "금호 어울림 아파트 앞",
+    "location": {
+      "latitude": 37.549061,
+      "longitude": 127.057793
+    },
+    "id": "506",
+    "type": "sharing_bicycle_01"
+  },
+  "OtKqwLGi95": {
+    "address": "서울특별시 성동구 성수이로 147",
+    "name": "성수아이에스비즈타워 앞",
+    "location": {
+      "latitude": 37.548203,
+      "longitude": 127.057114
+    },
+    "id": "507",
+    "type": "sharing_bicycle_01"
+  },
+  "O8fsAYPpr7": {
+    "address": "서울특별시 성동구 성수동2가 289-30",
+    "name": "성수아카데미타워 앞",
+    "location": {
+      "latitude": 37.545166,
+      "longitude": 127.05751
+    },
+    "id": "508",
+    "type": "sharing_bicycle_01"
+  },
+  "O8fqA0bpcL": {
+    "address": "서울특별시 성동구 성수동2가 333-16",
+    "name": "이마트 버스정류소 옆",
+    "location": {
+      "latitude": 37.539654,
+      "longitude": 127.052589
+    },
+    "id": "509",
+    "type": "sharing_bicycle_01"
+  },
+  "OtxUAcMpJ7": {
+    "address": "서울특별시 성동구 성수동1가 655-4",
+    "name": "서울숲 남문 버스정류소 옆",
+    "location": {
+      "latitude": 37.541222,
+      "longitude": 127.0438
+    },
+    "id": "510",
+    "type": "sharing_bicycle_01"
+  },
+  "O8KUwVb1rC": {
+    "address": "서울특별시 성동구 성수동1가 685-635",
+    "name": "서울숲역 4번 출구 옆",
+    "location": {
+      "latitude": 37.544582,
+      "longitude": 127.044609
+    },
+    "id": "511",
+    "type": "sharing_bicycle_01"
+  },
+  "j8fsAzbpcL": {
+    "address": "서울특별시 성동구 성수동1가 656-853",
+    "name": "뚝섬역 1번 출구 옆",
+    "location": {
+      "latitude": 37.548561,
+      "longitude": 127.045006
+    },
+    "id": "512",
+    "type": "sharing_bicycle_01"
+  },
+  "Y8xqt1Gh95": {
+    "address": "서울특별시 성동구 성수동1가 14-22",
+    "name": "뚝섬역 5번 출구 정류소 옆",
+    "location": {
+      "latitude": 37.546307,
+      "longitude": 127.049805
+    },
+    "id": "513",
+    "type": "sharing_bicycle_01"
+  },
+  "OwKswabh95": {
+    "address": "서울특별시 성동구 성수동2가 289-30",
+    "name": "성수사거리 버스정류장 옆",
+    "location": {
+      "latitude": 37.54258,
+      "longitude": 127.063309
+    },
+    "id": "514",
+    "type": "sharing_bicycle_01"
+  },
+  "jtvQtGPpJ5": {
+    "address": "서울특별시 성동구 마장동 610천",
+    "name": "청계천 박물관 앞",
+    "location": {
+      "latitude": 37.571526,
+      "longitude": 127.035355
+    },
+    "id": "518",
+    "type": "sharing_bicycle_01"
+  },
+  "jAxqtFbpJL": {
+    "address": "서울특별시 성동구 홍익동 590",
+    "name": "양지사거리",
+    "location": {
+      "latitude": 37.566994,
+      "longitude": 127.029915
+    },
+    "id": "519",
+    "type": "sharing_bicycle_01"
+  },
+  "gwvsAZGhcC": {
+    "address": "서울특별시 성동구 하왕십리동 960-3도",
+    "name": "상왕십리역 4번 출구 앞",
+    "location": {
+      "latitude": 37.563858,
+      "longitude": 127.030319
+    },
+    "id": "520",
+    "type": "sharing_bicycle_01"
+  },
+  "gwfqARPi9L": {
+    "address": "서울특별시 성동구 행당동 188-9도",
+    "name": "왕십리역 11번 출구 앞",
+    "location": {
+      "latitude": 37.561447,
+      "longitude": 127.03492
+    },
+    "id": "521",
+    "type": "sharing_bicycle_01"
+  },
+  "gAxQ8ub19C": {
+    "address": "서울특별시 성동구 금호동3가 1575-3도",
+    "name": "금호역 1번출구 앞",
+    "location": {
+      "latitude": 37.548641,
+      "longitude": 127.016426
+    },
+    "id": "522",
+    "type": "sharing_bicycle_01"
+  },
+  "O8Kq8qFir5": {
+    "address": "서울특별시 성동구 옥수동 산5-148도",
+    "name": "옥수동성당 옆",
+    "location": {
+      "latitude": 37.543663,
+      "longitude": 127.014061
+    },
+    "id": "523",
+    "type": "sharing_bicycle_01"
+  },
+  "Ytvq8tT1cC": {
+    "address": "서울특별시 성동구 금호동2가 1220-1 도",
+    "name": "래미안금호하이리버  아파트 102동 옆",
+    "location": {
+      "latitude": 37.5522,
+      "longitude": 127.025055
+    },
+    "id": "524",
+    "type": "sharing_bicycle_01"
+  },
+  "OAKstfEh9C": {
+    "address": "서울특별시 성동구 행당동 20-2도",
+    "name": "한양대병원사거리",
+    "location": {
+      "latitude": 37.558052,
+      "longitude": 127.040352
+    },
+    "id": "525",
+    "type": "sharing_bicycle_01"
+  },
+  "OAKqw7E1c7": {
+    "address": "서울특별시 성동구 용답동 224-1도",
+    "name": "용답토속공원 앞",
+    "location": {
+      "latitude": 37.563511,
+      "longitude": 127.056725
+    },
+    "id": "526",
+    "type": "sharing_bicycle_01"
+  },
+  "YwvqwgTiJ5": {
+    "address": "서울특별시 성동구 용답동 224-3도",
+    "name": "장안평역 8번 출구 앞",
+    "location": {
+      "latitude": 37.561371,
+      "longitude": 127.06366
+    },
+    "id": "529",
+    "type": "sharing_bicycle_01"
+  },
+  "g8fQt-Tic5": {
+    "address": "서울특별시 성동구 하왕십리동 286-24도",
+    "name": "청계벽산아파트·텐즈힐아파트 정류소",
+    "location": {
+      "latitude": 37.568748,
+      "longitude": 127.030403
+    },
+    "id": "530",
+    "type": "sharing_bicycle_01"
+  },
+  "j8xqwJNpr5": {
+    "address": "서울특별시 성동구 금호동4가 1101도",
+    "name": "우리은행 금호동 지점 앞",
+    "location": {
+      "latitude": 37.548149,
+      "longitude": 127.021088
+    },
+    "id": "533",
+    "type": "sharing_bicycle_01"
+  },
+  "OtKswmThc5": {
+    "address": "서울특별시 성동구 금호동2가 1205-1 대",
+    "name": "금호사거리",
+    "location": {
+      "latitude": 37.548634,
+      "longitude": 127.025726
+    },
+    "id": "534",
+    "type": "sharing_bicycle_01"
+  },
+  "jAvs8zEhr5": {
+    "address": "서울특별시 성동구 응봉동 134-26도",
+    "name": "응봉삼거리",
+    "location": {
+      "latitude": 37.553986,
+      "longitude": 127.033592
+    },
+    "id": "535",
+    "type": "sharing_bicycle_01"
+  },
+  "gAvst1NhJC": {
+    "address": "서울특별시 성동구 행당동 347-11도",
+    "name": "행당역 2번출구 앞",
+    "location": {
+      "latitude": 37.55735,
+      "longitude": 127.029213
+    },
+    "id": "536",
+    "type": "sharing_bicycle_01"
+  },
+  "Y8fUw3Fir5": {
+    "address": "서울특별시 성동구 행당동 10도",
+    "name": "한양대후문역 부근",
+    "location": {
+      "latitude": 37.560356,
+      "longitude": 127.041397
+    },
+    "id": "537",
+    "type": "sharing_bicycle_01"
+  },
+  "YwvUwGEirC": {
+    "address": "서울특별시 성동구 용답동 102-1",
+    "name": "답십리역 8번출구 앞",
+    "location": {
+      "latitude": 37.56765,
+      "longitude": 127.051155
+    },
+    "id": "538",
+    "type": "sharing_bicycle_01"
+  },
+  "j8KUtFE1JL": {
+    "address": "서울특별시 성동구 마장동 610",
+    "name": "서울시설공단 앞",
+    "location": {
+      "latitude": 37.57164,
+      "longitude": 127.03566
+    },
+    "id": "550",
+    "type": "sharing_bicycle_01"
+  },
+  "YwfsA_Thc7": {
+    "address": "서울특별시 성동구 옥수동 65-3",
+    "name": "달맞이공원",
+    "location": {
+      "latitude": 37.542053,
+      "longitude": 127.020401
+    },
+    "id": "556",
+    "type": "sharing_bicycle_01"
+  },
+  "OAxqwoFhcL": {
+    "address": "서울특별시 성동구 마장로 141",
+    "name": "도선동 주민센터 앞",
+    "location": {
+      "latitude": 37.567642,
+      "longitude": 127.025696
+    },
+    "id": "557",
+    "type": "sharing_bicycle_01"
+  },
+  "g8xqwIEh9C": {
+    "address": "서울특별시 성동구 행당동 7",
+    "name": "성동광진 교육지원청 앞",
+    "location": {
+      "latitude": 37.564606,
+      "longitude": 127.036522
+    },
+    "id": "558",
+    "type": "sharing_bicycle_01"
+  },
+  "Ytfq8qdiJ7": {
+    "address": "서울특별시 성동구 행당동 188-1",
+    "name": "왕십리역 7번출구",
+    "location": {
+      "latitude": 37.561096,
+      "longitude": 127.036797
+    },
+    "id": "559",
+    "type": "sharing_bicycle_01"
+  },
+  "jAfU8w_hr7": {
+    "address": "서울특별시 성동구 송정동 20-5",
+    "name": "송정동 공영주차장 부근",
+    "location": {
+      "latitude": 37.551205,
+      "longitude": 127.068932
+    },
+    "id": "560",
+    "type": "sharing_bicycle_01"
+  },
+  "Ytvqtxd1r7": {
+    "address": "서울특별시 성동구 성수동1가 656-924",
+    "name": "서울숲역 2번출구 앞",
+    "location": {
+      "latitude": 37.542816,
+      "longitude": 127.04467
+    },
+    "id": "561",
+    "type": "sharing_bicycle_01"
+  },
+  "Ytxq8Cdhc7": {
+    "address": "서울특별시 성동구 송정동 99-51",
+    "name": "군자지하보도 앞",
+    "location": {
+      "latitude": 37.559246,
+      "longitude": 127.07341
+    },
+    "id": "562",
+    "type": "sharing_bicycle_01"
+  },
+  "g8fswYdhc7": {
+    "address": "서울특별시 성동구 성수동2가 280-48",
+    "name": "성동세무서 건너편",
+    "location": {
+      "latitude": 37.547913,
+      "longitude": 127.062752
+    },
+    "id": "563",
+    "type": "sharing_bicycle_01"
+  },
+  "gtxq8kdhc7": {
+    "address": "서울특별시 성동구 금호동4가 1470-1",
+    "name": "금호역 3번출구",
+    "location": {
+      "latitude": 37.547928,
+      "longitude": 127.015572
+    },
+    "id": "564",
+    "type": "sharing_bicycle_01"
+  },
+  "gAvswcB197": {
+    "address": "서울특별시 성동구 옥수동 78-1",
+    "name": "옥수역 3번 출구",
+    "location": {
+      "latitude": 37.541363,
+      "longitude": 127.017662
+    },
+    "id": "565",
+    "type": "sharing_bicycle_01"
+  },
+  "j8KqAVdhc5": {
+    "address": "서울특별시 성동구 성수동2가 289-30",
+    "name": "성수역 2번출구 앞",
+    "location": {
+      "latitude": 37.54459,
+      "longitude": 127.057083
+    },
+    "id": "567",
+    "type": "sharing_bicycle_01"
+  },
+  "g8xUtzBhr7": {
+    "address": "서울특별시 성동구 상왕십리동 16-4",
+    "name": "청계8가사거리 부근",
+    "location": {
+      "latitude": 37.571102,
+      "longitude": 127.02356
+    },
+    "id": "568",
+    "type": "sharing_bicycle_01"
+  },
+  "j8fq8pBpcL": {
+    "address": "서울특별시 성동구 응봉동 193-235",
+    "name": "응봉봉현대아파트 정류소",
+    "location": {
+      "latitude": 37.549583,
+      "longitude": 127.030243
+    },
+    "id": "569",
+    "type": "sharing_bicycle_01"
+  },
+  "gwvqAaBh97": {
+    "address": "서울특별시 성동구 송정동 75-71 도",
+    "name": "성동세무서 부근",
+    "location": {
+      "latitude": 37.548286,
+      "longitude": 127.062088
+    },
+    "id": "578",
+    "type": "sharing_bicycle_01"
+  },
+  "gAxUwP_i9C": {
+    "address": "서울특별시 성동구 마장로 288",
+    "name": "마장역 4번출구",
+    "location": {
+      "latitude": 37.565205,
+      "longitude": 127.041847
+    },
+    "id": "579",
+    "type": "sharing_bicycle_01"
+  },
+  "gtKU8TB1J5": {
+    "address": "서울특별시 성동구 금호동2가 449-1",
+    "name": "신금호역 3번출구 뒤",
+    "location": {
+      "latitude": 37.55439,
+      "longitude": 127.020149
+    },
+    "id": "580",
+    "type": "sharing_bicycle_01"
+  },
+  "Y8fqw__iJ7": {
+    "address": "서울특별시 성동구 용답동 125-1",
+    "name": "용답초등학교",
+    "location": {
+      "latitude": 37.561012,
+      "longitude": 127.054237
+    },
+    "id": "581",
+    "type": "sharing_bicycle_01"
+  },
+  "OAKU8DBpJ7": {
+    "address": "서울특별시 성동구 성수일로 33",
+    "name": "경일중학교 앞",
+    "location": {
+      "latitude": 37.543179,
+      "longitude": 127.04908
+    },
+    "id": "582",
+    "type": "sharing_bicycle_01"
+  },
+  "YtKQwI_hc7": {
+    "address": "서울특별시 성동구 마장동 803",
+    "name": "청계천 생태교실 앞",
+    "location": {
+      "latitude": 37.56945,
+      "longitude": 127.045296
+    },
+    "id": "583",
+    "type": "sharing_bicycle_01"
+  },
+  "Y8KsAqDpr5": {
+    "address": "서울특별시 성동구 성수동2가 569-3",
+    "name": "성수2가1동 공영주차장 인근",
+    "location": {
+      "latitude": 37.536808,
+      "longitude": 127.055489
+    },
+    "id": "585",
+    "type": "sharing_bicycle_01"
+  },
+  "jwfQ8ADp97": {
+    "address": "서울특별시 성동구 마장로42길 14",
+    "name": "마장동 주민센터",
+    "location": {
+      "latitude": 37.565941,
+      "longitude": 127.045395
+    },
+    "id": "586",
+    "type": "sharing_bicycle_01"
+  },
+  "YwvsAvXhcC": {
+    "address": "서울특별시 성동구 성수동2가 276-5",
+    "name": "KEB하나은행 성수중앙지점",
+    "location": {
+      "latitude": 37.545418,
+      "longitude": 127.052643
+    },
+    "id": "587",
+    "type": "sharing_bicycle_01"
+  },
+  "YwfQw7XprL": {
+    "address": "서울특별시 양천구 목동 559도",
+    "name": "KB국민은행 염창역 지점 앞",
+    "location": {
+      "latitude": 37.546848,
+      "longitude": 126.872772
+    },
+    "id": "700",
+    "type": "sharing_bicycle_01"
+  },
+  "YtvU8jRpJ7": {
+    "address": "서울특별시 양천구 목동 813도",
+    "name": "목동사거리 부근",
+    "location": {
+      "latitude": 37.532803,
+      "longitude": 126.86393
+    },
+    "id": "701",
+    "type": "sharing_bicycle_01"
+  },
+  "gwfq8-RprC": {
+    "address": "서울특별시 양천구 목동 904-3도",
+    "name": "목4동주민센터 옆",
+    "location": {
+      "latitude": 37.532543,
+      "longitude": 126.868729
+    },
+    "id": "702",
+    "type": "sharing_bicycle_01"
+  },
+  "OAfs89D1r5": {
+    "address": "서울특별시 양천구 목동 451구",
+    "name": "오목교역 7번출구 앞",
+    "location": {
+      "latitude": 37.524063,
+      "longitude": 126.87558
+    },
+    "id": "703",
+    "type": "sharing_bicycle_01"
+  },
+  "jwKqtmRic5": {
+    "address": "서울특별시 양천구 신정동 1095도",
+    "name": "남부법원검찰청 교차로",
+    "location": {
+      "latitude": 37.523254,
+      "longitude": 126.864906
+    },
+    "id": "704",
+    "type": "sharing_bicycle_01"
+  },
+  "gwfs8SXpJ7": {
+    "address": "서울특별시 양천구 신월동 894구",
+    "name": "신정네거리역",
+    "location": {
+      "latitude": 37.521881,
+      "longitude": 126.851753
+    },
+    "id": "706",
+    "type": "sharing_bicycle_01"
+  },
+  "Ytvsw1Ric5": {
+    "address": "서울특별시 양천구 중앙로 209",
+    "name": "신정3동주민센터",
+    "location": {
+      "latitude": 37.515156,
+      "longitude": 126.854897
+    },
+    "id": "707",
+    "type": "sharing_bicycle_01"
+  },
+  "Y8KUw3oir5": {
+    "address": "서울특별시 양천구 신정동 319-3도",
+    "name": "서울출입국관리사무소 앞",
+    "location": {
+      "latitude": 37.51897,
+      "longitude": 126.869965
+    },
+    "id": "708",
+    "type": "sharing_bicycle_01"
+  },
+  "jAvsAbDhJL": {
+    "address": "서울특별시 양천구 신정동 760-2 도",
+    "name": "신정3동 현장민원실 앞",
+    "location": {
+      "latitude": 37.511585,
+      "longitude": 126.84156
+    },
+    "id": "709",
+    "type": "sharing_bicycle_01"
+  },
+  "O8xs8ERp9L": {
+    "address": "서울특별시 양천구 신정동 759-2도",
+    "name": "서부화물트럭터미널 사거리",
+    "location": {
+      "latitude": 37.510658,
+      "longitude": 126.842537
+    },
+    "id": "710",
+    "type": "sharing_bicycle_01"
+  },
+  "YwKUtZXi9L": {
+    "address": "서울특별시 양천구 신월동 1063-4 도",
+    "name": "신일해피트리아파트 앞",
+    "location": {
+      "latitude": 37.517059,
+      "longitude": 126.848488
+    },
+    "id": "711",
+    "type": "sharing_bicycle_01"
+  },
+  "jAvQtXD1rL": {
+    "address": "서울특별시 양천구 신월동 905도",
+    "name": "강월초교입구 사거리",
+    "location": {
+      "latitude": 37.516998,
+      "longitude": 126.838318
+    },
+    "id": "712",
+    "type": "sharing_bicycle_01"
+  },
+  "YtvQweDhJC": {
+    "address": "서울특별시 양천구 신월동 790도",
+    "name": "양서중학교 옆",
+    "location": {
+      "latitude": 37.533047,
+      "longitude": 126.829956
+    },
+    "id": "713",
+    "type": "sharing_bicycle_01"
+  },
+  "gwvstseic7": {
+    "address": "서울특별시 양천구 신월동 790도",
+    "name": "한국SGI 양천문화회관 앞",
+    "location": {
+      "latitude": 37.532547,
+      "longitude": 126.830803
+    },
+    "id": "714",
+    "type": "sharing_bicycle_01"
+  },
+  "OtxQw8uir7": {
+    "address": "서울특별시 양천구 목동서로 355",
+    "name": "햇빛문고 앞",
+    "location": {
+      "latitude": 37.517281,
+      "longitude": 126.864334
+    },
+    "id": "716",
+    "type": "sharing_bicycle_01"
+  },
+  "YtfQwx4hc5": {
+    "address": "서울특별시 양천구 목동 807-13도",
+    "name": "홍익병원앞 교차로(양천구 등촌로 2 앞)",
+    "location": {
+      "latitude": 37.530369,
+      "longitude": 126.864258
+    },
+    "id": "719",
+    "type": "sharing_bicycle_01"
+  },
+  "YAKq85u1J5": {
+    "address": "서울특별시 양천구 신월동 987-4도",
+    "name": "서울강월초등학교 앞",
+    "location": {
+      "latitude": 37.516197,
+      "longitude": 126.8349
+    },
+    "id": "720",
+    "type": "sharing_bicycle_01"
+  },
+  "OtfQ8j4icL": {
+    "address": "서울특별시 영등포구 여의도동 1",
+    "name": "국회의원회관",
+    "location": {
+      "latitude": 37.528728,
+      "longitude": 126.914925
+    },
+    "id": "200",
+    "type": "sharing_bicycle_01"
+  },
+  "g8vQA-IpcL": {
+    "address": "서울특별시 영등포구 국회대로 800",
+    "name": "진미파라곤 앞",
+    "location": {
+      "latitude": 37.531239,
+      "longitude": 126.921333
+    },
+    "id": "201",
+    "type": "sharing_bicycle_01"
+  },
+  "O8vQArehcL": {
+    "address": "서울특별시 영등포구 여의공원로 101",
+    "name": "국민일보 앞",
+    "location": {
+      "latitude": 37.528816,
+      "longitude": 126.92453
+    },
+    "id": "202",
+    "type": "sharing_bicycle_01"
+  },
+  "gtvqtVIhc5": {
+    "address": "서울특별시 영등포구 의사당대로 8",
+    "name": "국회의사당역 5번출구 옆",
+    "location": {
+      "latitude": 37.528057,
+      "longitude": 126.918701
+    },
+    "id": "203",
+    "type": "sharing_bicycle_01"
+  },
+  "jAvst64ic7": {
+    "address": "서울특별시 영등포구 국회대로 758",
+    "name": "국회의사당역 3번출구 옆",
+    "location": {
+      "latitude": 37.528164,
+      "longitude": 126.917023
+    },
+    "id": "204",
+    "type": "sharing_bicycle_01"
+  },
+  "YtKU814hr5": {
+    "address": "서울특별시 영등포구 의사당대로 97",
+    "name": "산업은행 앞",
+    "location": {
+      "latitude": 37.526264,
+      "longitude": 126.920509
+    },
+    "id": "205",
+    "type": "sharing_bicycle_01"
+  },
+  "jwvqw24icC": {
+    "address": "서울특별시 영등포구 여의공원로 13",
+    "name": "KBS 앞",
+    "location": {
+      "latitude": 37.524666,
+      "longitude": 126.918022
+    },
+    "id": "206",
+    "type": "sharing_bicycle_01"
+  },
+  "YwvqtGu1J7": {
+    "address": "서울특별시 영등포구 여의나루로 121",
+    "name": "여의나루역 1번출구 앞",
+    "location": {
+      "latitude": 37.526989,
+      "longitude": 126.932098
+    },
+    "id": "207",
+    "type": "sharing_bicycle_01"
+  },
+  "j8vswTuhr7": {
+    "address": "서울특별시 영등포구 여의도동 24-3",
+    "name": "중소기업진흥공단 앞",
+    "location": {
+      "latitude": 37.524612,
+      "longitude": 126.927834
+    },
+    "id": "209",
+    "type": "sharing_bicycle_01"
+  },
+  "YAKQwZIirL": {
+    "address": "서울특별시 영등포구 여의도동 2-11",
+    "name": "신한금융투자후문 앞",
+    "location": {
+      "latitude": 37.525093,
+      "longitude": 126.924187
+    },
+    "id": "210",
+    "type": "sharing_bicycle_01"
+  },
+  "jwKUwoepcC": {
+    "address": "서울특별시 영등포구 여의도동 26",
+    "name": "여의도역 4번출구 옆",
+    "location": {
+      "latitude": 37.522228,
+      "longitude": 126.924637
+    },
+    "id": "211",
+    "type": "sharing_bicycle_01"
+  },
+  "YtxUweIhJC": {
+    "address": "서울특별시 영등포구 여의도동 27-1",
+    "name": "여의도역 1번출구 옆",
+    "location": {
+      "latitude": 37.521362,
+      "longitude": 126.923462
+    },
+    "id": "212",
+    "type": "sharing_bicycle_01"
+  },
+  "jwKUwQs8197": {
+    "address": "서울특별시 영등포구 여의도동 27",
+    "name": "kt 앞",
+    "location": {
+      "latitude": 37.521908,
+      "longitude": 126.918953
+    },
+    "id": "213",
+    "type": "sharing_bicycle_01"
+  },
+  "j8Kq8AUA1r5": {
+    "address": "서울특별시 영등포구 여의도동 27",
+    "name": "금융감독원 앞",
+    "location": {
+      "latitude": 37.523022,
+      "longitude": 126.920837
+    },
+    "id": "214",
+    "type": "sharing_bicycle_01"
+  },
+  "gAvqwKUAhrL": {
+    "address": "서울특별시 영등포구 여의도동 30",
+    "name": "여의도고교 앞",
+    "location": {
+      "latitude": 37.524837,
+      "longitude": 126.934906
+    },
+    "id": "215",
+    "type": "sharing_bicycle_01"
+  },
+  "O8Kqt5UwirC": {
+    "address": "서울특별시 영등포구 여의도동 30-3",
+    "name": "삼부아파트1동 앞",
+    "location": {
+      "latitude": 37.523491,
+      "longitude": 126.932899
+    },
+    "id": "216",
+    "type": "sharing_bicycle_01"
+  },
+  "gwKQwjs8prL": {
+    "address": "서울특별시 영등포구 국제금융로8길 2",
+    "name": "NH농협은행 앞",
+    "location": {
+      "latitude": 37.522079,
+      "longitude": 126.930367
+    },
+    "id": "217",
+    "type": "sharing_bicycle_01"
+  },
+  "gAvswksAirL": {
+    "address": "서울특별시 영등포구 여의도동 33",
+    "name": "증권거래소 앞",
+    "location": {
+      "latitude": 37.523277,
+      "longitude": 126.929237
+    },
+    "id": "218",
+    "type": "sharing_bicycle_01"
+  },
+  "YtfqArQ8ir5": {
+    "address": "서울특별시 영등포구 여의도동 4-2",
+    "name": "롯데캐슬엠파이어 옆",
+    "location": {
+      "latitude": 37.520428,
+      "longitude": 126.92662
+    },
+    "id": "219",
+    "type": "sharing_bicycle_01"
+  },
+  "gwvqtVstir7": {
+    "address": "서울특별시 영등포구 여의도동 37",
+    "name": "미성아파트 A동 앞",
+    "location": {
+      "latitude": 37.519363,
+      "longitude": 126.926048
+    },
+    "id": "220",
+    "type": "sharing_bicycle_01"
+  },
+  "YtKstzQ81J7": {
+    "address": "서울특별시 영등포구 여의도동 50",
+    "name": "여의도초교 앞",
+    "location": {
+      "latitude": 37.522675,
+      "longitude": 126.93779
+    },
+    "id": "221",
+    "type": "sharing_bicycle_01"
+  },
+  "OtKQ81sA197": {
+    "address": "서울특별시 영등포구 여의도동 50",
+    "name": "시범아파트버스정류장 옆",
+    "location": {
+      "latitude": 37.520271,
+      "longitude": 126.938881
+    },
+    "id": "222",
+    "type": "sharing_bicycle_01"
+  },
+  "O8fUwWQ8i9L": {
+    "address": "서울특별시 영등포구 여의도동 5-2",
+    "name": "진주아파트상가 앞",
+    "location": {
+      "latitude": 37.519314,
+      "longitude": 126.933167
+    },
+    "id": "223",
+    "type": "sharing_bicycle_01"
+  },
+  "OAfU8PUAirL": {
+    "address": "서울특별시 영등포구 여의도동 4-2",
+    "name": "롯데캐슬 앞",
+    "location": {
+      "latitude": 37.520088,
+      "longitude": 126.932365
+    },
+    "id": "224",
+    "type": "sharing_bicycle_01"
+  },
+  "YwfstTq8hJL": {
+    "address": "서울특별시 영등포구 여의도동 56",
+    "name": "앙카라공원 앞",
+    "location": {
+      "latitude": 37.517368,
+      "longitude": 126.929253
+    },
+    "id": "225",
+    "type": "sharing_bicycle_01"
+  },
+  "Ywfs8_s8pr7": {
+    "address": "서울특별시 영등포구 여의도동 46",
+    "name": "샛강역 1번출구 앞",
+    "location": {
+      "latitude": 37.517765,
+      "longitude": 126.928413
+    },
+    "id": "226",
+    "type": "sharing_bicycle_01"
+  },
+  "jAxUADQ8hJ7": {
+    "address": "서울특별시 영등포구 양화동 17-4",
+    "name": "양평2나들목 보행통로 입구",
+    "location": {
+      "latitude": 37.544666,
+      "longitude": 126.888359
+    },
+    "id": "227",
+    "type": "sharing_bicycle_01"
+  },
+  "Owxsw4s8195": {
+    "address": "서울특별시 영등포구 양평동4가 202-1",
+    "name": "선유도역 3번출구 앞",
+    "location": {
+      "latitude": 37.53846,
+      "longitude": 126.894508
+    },
+    "id": "228",
+    "type": "sharing_bicycle_01"
+  },
+  "OAxsAQ8whJC": {
+    "address": "서울특별시 영등포구 양평동4가 20-4",
+    "name": "양평1 보행육교 앞",
+    "location": {
+      "latitude": 37.535873,
+      "longitude": 126.892181
+    },
+    "id": "229",
+    "type": "sharing_bicycle_01"
+  },
+  "j8fQ8tw8h9C": {
+    "address": "서울특별시 영등포구 당산동3가 352",
+    "name": "영등포구청역 1번출구",
+    "location": {
+      "latitude": 37.524635,
+      "longitude": 126.896217
+    },
+    "id": "230",
+    "type": "sharing_bicycle_01"
+  },
+  "O8fQ8Kw8i95": {
+    "address": "서울특별시 영등포구 양평동1가 115-2",
+    "name": "남부고용노동지청 남측",
+    "location": {
+      "latitude": 37.524372,
+      "longitude": 126.892097
+    },
+    "id": "231",
+    "type": "sharing_bicycle_01"
+  },
+  "gwKq85AthrL": {
+    "address": "서울특별시 영등포구 양평동3가 14-1",
+    "name": "양평우림 이비즈센타 앞",
+    "location": {
+      "latitude": 37.52565,
+      "longitude": 126.887817
+    },
+    "id": "232",
+    "type": "sharing_bicycle_01"
+  },
+  "gwvswjtw1cL": {
+    "address": "서울특별시 영등포구 양평동3가 60-1",
+    "name": "한국연예사관 건물 앞",
+    "location": {
+      "latitude": 37.528488,
+      "longitude": 126.891647
+    },
+    "id": "233",
+    "type": "sharing_bicycle_01"
+  },
+  "YtKsAkw8195": {
+    "address": "서울특별시 영등포구 신길동 399",
+    "name": "영등포구민체육센터 앞",
+    "location": {
+      "latitude": 37.500462,
+      "longitude": 126.905846
+    },
+    "id": "234",
+    "type": "sharing_bicycle_01"
+  },
+  "OwKqtJ8th97": {
+    "address": "서울특별시 영등포구 신길동 250-4",
+    "name": "신길동 우리은행 옆",
+    "location": {
+      "latitude": 37.504566,
+      "longitude": 126.910233
+    },
+    "id": "235",
+    "type": "sharing_bicycle_01"
+  },
+  "YwxsAmAtp9C": {
+    "address": "서울특별시 영등포구 문래동3가 68-1",
+    "name": "문래동자이아파트 앞",
+    "location": {
+      "latitude": 37.516155,
+      "longitude": 126.894615
+    },
+    "id": "236",
+    "type": "sharing_bicycle_01"
+  },
+  "OwvqAzA8pJ5": {
+    "address": "서울특별시 영등포구 신길동 4490",
+    "name": "보라매 두산위브 앞",
+    "location": {
+      "latitude": 37.496872,
+      "longitude": 126.914986
+    },
+    "id": "237",
+    "type": "sharing_bicycle_01"
+  },
+  "YAfstitA1rL": {
+    "address": "서울특별시 영등포구 당산동4가 96-2",
+    "name": "제2구민체육센타 앞",
+    "location": {
+      "latitude": 37.526386,
+      "longitude": 126.902756
+    },
+    "id": "238",
+    "type": "sharing_bicycle_01"
+  },
+  "YwxqA3wwicC": {
+    "address": "서울특별시 영등포구 영등포동7가 58-2",
+    "name": "유스호스텔 앞",
+    "location": {
+      "latitude": 37.525852,
+      "longitude": 126.903282
+    },
+    "id": "239",
+    "type": "sharing_bicycle_01"
+  },
+  "j8vqwGtticC": {
+    "address": "서울특별시 영등포구 문래동3가 55-12",
+    "name": "문래역 4번출구 앞",
+    "location": {
+      "latitude": 37.518867,
+      "longitude": 126.895706
+    },
+    "id": "240",
+    "type": "sharing_bicycle_01"
+  },
+  "YtfstF8thJL": {
+    "address": "서울특별시 영등포구 도림동 255-2",
+    "name": "신길우성1차아파트 앞 공원",
+    "location": {
+      "latitude": 37.505329,
+      "longitude": 126.898483
+    },
+    "id": "241",
+    "type": "sharing_bicycle_01"
+  },
+  "O8vqtdtAhr5": {
+    "address": "서울특별시 영등포구 신길동 215-28",
+    "name": "신길선원가와인아파트 앞",
+    "location": {
+      "latitude": 37.510933,
+      "longitude": 126.910225
+    },
+    "id": "242",
+    "type": "sharing_bicycle_01"
+  },
+  "OtfQtDAwp9L": {
+    "address": "서울특별시 영등포구 양평동3가 48-1",
+    "name": "이앤씨드림타워 앞",
+    "location": {
+      "latitude": 37.527225,
+      "longitude": 126.891594
+    },
+    "id": "243",
+    "type": "sharing_bicycle_01"
+  },
+  "gwfQA4AA197": {
+    "address": "서울특별시 영등포구 영등포동8가 82-4",
+    "name": "영등포삼환아파트 앞",
+    "location": {
+      "latitude": 37.530079,
+      "longitude": 126.905708
+    },
+    "id": "244",
+    "type": "sharing_bicycle_01"
+  },
+  "Ytvs8UxAi97": {
+    "address": "서울특별시 영등포구 당산동4가 35-24",
+    "name": "삼성생명 당산사옥 앞",
+    "location": {
+      "latitude": 37.528263,
+      "longitude": 126.896629
+    },
+    "id": "245",
+    "type": "sharing_bicycle_01"
+  },
+  "g8KsAAv8i95": {
+    "address": "서울특별시 영등포구 당산동5가 14-4",
+    "name": "당산역 10번출구 앞",
+    "location": {
+      "latitude": 37.533688,
+      "longitude": 126.902107
+    },
+    "id": "247",
+    "type": "sharing_bicycle_01"
+  },
+  "OAxQ8Kxwpc5": {
+    "address": "서울특별시 영등포구 여의도동8-13",
+    "name": "초원아파트 앞",
+    "location": {
+      "latitude": 37.531528,
+      "longitude": 126.924294
+    },
+    "id": "248",
+    "type": "sharing_bicycle_01"
+  },
+  "Y8xUw7vthJ7": {
+    "address": "서울특별시 영등포구 여의도동 8",
+    "name": "여의도중학교 옆",
+    "location": {
+      "latitude": 37.524475,
+      "longitude": 126.935791
+    },
+    "id": "249",
+    "type": "sharing_bicycle_01"
+  },
+  "YwKQtjvAhJ5": {
+    "address": "서울특별시 영등포구 신길동 여의대방로 249",
+    "name": "우주마루아파트 201동 앞",
+    "location": {
+      "latitude": 37.507641,
+      "longitude": 126.92308
+    },
+    "id": "250",
+    "type": "sharing_bicycle_01"
+  },
+  "O8xqw-v81rC": {
+    "address": "서울특별시 영등포구 신길동853",
+    "name": "서울지방병무청 버스정류장",
+    "location": {
+      "latitude": 37.504494,
+      "longitude": 126.921951
+    },
+    "id": "251",
+    "type": "sharing_bicycle_01"
+  },
+  "gtxswcKApc7": {
+    "address": "서울특별시 영등포구 신길동4884",
+    "name": "보라매역4번출구(순흥빌딩)",
+    "location": {
+      "latitude": 37.499977,
+      "longitude": 126.920036
+    },
+    "id": "252",
+    "type": "sharing_bicycle_01"
+  },
+  "jwKs8Hf8iJC": {
+    "address": "서울특별시 영등포구 신길동3596",
+    "name": "남서울아파트 14동앞",
+    "location": {
+      "latitude": 37.500702,
+      "longitude": 126.909378
+    },
+    "id": "253",
+    "type": "sharing_bicycle_01"
+  },
+  "Otfqwnf819L": {
+    "address": "서울특별시 영등포구 신길동263-76",
+    "name": "도림신협 앞",
+    "location": {
+      "latitude": 37.503803,
+      "longitude": 126.903419
+    },
+    "id": "254",
+    "type": "sharing_bicycle_01"
+  },
+  "YwfU81xAhc5": {
+    "address": "서울특별시 영등포구 신길동373-1",
+    "name": "도림4거리",
+    "location": {
+      "latitude": 37.506573,
+      "longitude": 126.901131
+    },
+    "id": "255",
+    "type": "sharing_bicycle_01"
+  },
+  "OwfQA3xAprL": {
+    "address": "서울특별시 영등포구 도림동 159-70",
+    "name": "동아에코빌입구",
+    "location": {
+      "latitude": 37.509476,
+      "longitude": 126.8993
+    },
+    "id": "256",
+    "type": "sharing_bicycle_01"
+  },
+  "jtxUAMfwpcC": {
+    "address": "서울특별시 영등포구 신길동95-256",
+    "name": "신길삼거리(우리은행)",
+    "location": {
+      "latitude": 37.513844,
+      "longitude": 126.919357
+    },
+    "id": "257",
+    "type": "sharing_bicycle_01"
+  },
+  "jtvU8TvwiJ7": {
+    "address": "서울특별시 영등포구 영등포동1가35",
+    "name": "신길역3번출구",
+    "location": {
+      "latitude": 37.517693,
+      "longitude": 126.914299
+    },
+    "id": "258",
+    "type": "sharing_bicycle_01"
+  },
+  "O8fqw_xA1r7": {
+    "address": "서울특별시 영등포구 신길동1368",
+    "name": "대방역6번출구",
+    "location": {
+      "latitude": 37.513592,
+      "longitude": 126.925934
+    },
+    "id": "259",
+    "type": "sharing_bicycle_01"
+  },
+  "jtfUARxA197": {
+    "address": "서울특별시 영등포구 여의동로 330",
+    "name": "여의도 마리나선착장 앞",
+    "location": {
+      "latitude": 37.533772,
+      "longitude": 126.91214
+    },
+    "id": "260",
+    "type": "sharing_bicycle_01"
+  },
+  "jwxqAeKtic7": {
+    "address": "서울특별시 영등포구 문래동6가 10-1",
+    "name": "영문초등학교 사거리",
+    "location": {
+      "latitude": 37.519928,
+      "longitude": 126.889183
+    },
+    "id": "262",
+    "type": "sharing_bicycle_01"
+  },
+  "gAfUwsCwhJL": {
+    "address": "서울특별시 영등포구 문래동5가 1-1",
+    "name": "근로자회관 사거리",
+    "location": {
+      "latitude": 37.517151,
+      "longitude": 126.888626
+    },
+    "id": "263",
+    "type": "sharing_bicycle_01"
+  },
+  "Otfq8tLAhcL": {
+    "address": "서울특별시 영등포구 양평동1가 29-1",
+    "name": "교보생명보험 앞",
+    "location": {
+      "latitude": 37.521931,
+      "longitude": 126.891617
+    },
+    "id": "264",
+    "type": "sharing_bicycle_01"
+  },
+  "jwfUtv7tir5": {
+    "address": "서울특별시 영등포구 당산로 68",
+    "name": "영등포유통상가 사거리",
+    "location": {
+      "latitude": 37.521133,
+      "longitude": 126.896538
+    },
+    "id": "265",
+    "type": "sharing_bicycle_01"
+  },
+  "jwxQA7C8hr7": {
+    "address": "서울특별시 영등포구 영등포4가 150-1",
+    "name": "영등포청과시장 사거리",
+    "location": {
+      "latitude": 37.520447,
+      "longitude": 126.901093
+    },
+    "id": "266",
+    "type": "sharing_bicycle_01"
+  },
+  "jAxq8jLAi9L": {
+    "address": "서울특별시 영등포구 양평동4가",
+    "name": "삼성화재 사옥 옆",
+    "location": {
+      "latitude": 37.535961,
+      "longitude": 126.8983
+    },
+    "id": "267",
+    "type": "sharing_bicycle_01"
+  },
+  "YwfQwk5wir7": {
+    "address": "서울특별시 영등포구 양평로 67",
+    "name": "그랜드컨벤션센터앞",
+    "location": {
+      "latitude": 37.534904,
+      "longitude": 126.899536
+    },
+    "id": "268",
+    "type": "sharing_bicycle_01"
+  },
+  "OtKswc7whJL": {
+    "address": "서울특별시 영등포구 여의나루로 76",
+    "name": "증권거래소후문교차로",
+    "location": {
+      "latitude": 37.522343,
+      "longitude": 126.927101
+    },
+    "id": "270",
+    "type": "sharing_bicycle_01"
+  },
+  "jAfQtH7ApJ7": {
+    "address": "서울특별시 영등포구 여의동로 48",
+    "name": "샛강생태공원방문자센터 앞",
+    "location": {
+      "latitude": 37.518963,
+      "longitude": 126.921616
+    },
+    "id": "271",
+    "type": "sharing_bicycle_01"
+  },
+  "Y8xst67wpc5": {
+    "address": "서울특별시 영등포구 당산로52길 3",
+    "name": "당산육갑문",
+    "location": {
+      "latitude": 37.535339,
+      "longitude": 126.903679
+    },
+    "id": "272",
+    "type": "sharing_bicycle_01"
+  },
+  "gtxqw1Ct1J7": {
+    "address": "서울특별시 용산구 원효로4가 109-10",
+    "name": "목월공원 앞",
+    "location": {
+      "latitude": 37.532433,
+      "longitude": 126.954742
+    },
+    "id": "800",
+    "type": "sharing_bicycle_01"
+  },
+  "Ytfqta58pr7": {
+    "address": "서울특별시 용산구 한남동 726-494도",
+    "name": "한강진역 2번 출구 앞",
+    "location": {
+      "latitude": 37.541153,
+      "longitude": 127.002213
+    },
+    "id": "802",
+    "type": "sharing_bicycle_01"
+  },
+  "jwxqtbCthr5": {
+    "address": "서울특별시 용산구 한남동 725-17도",
+    "name": "한남초교 앞 보도육교",
+    "location": {
+      "latitude": 37.538139,
+      "longitude": 127.004097
+    },
+    "id": "803",
+    "type": "sharing_bicycle_01"
+  },
+  "g8xq8TCtpr7": {
+    "address": "서울특별시 용산구 문배동 34-10도",
+    "name": "문배어린이공원 앞",
+    "location": {
+      "latitude": 37.536758,
+      "longitude": 126.970001
+    },
+    "id": "805",
+    "type": "sharing_bicycle_01"
+  },
+  "gtvU8dLthcC": {
+    "address": "서울특별시 용산구 한강로3가 16-8도",
+    "name": "전자랜드 본관 앞",
+    "location": {
+      "latitude": 37.533066,
+      "longitude": 126.960732
+    },
+    "id": "806",
+    "type": "sharing_bicycle_01"
+  },
+  "gtKsAXC8i9L": {
+    "address": "서울특별시 용산구 동자동 14-229 도",
+    "name": "서울역 12번 출구 앞",
+    "location": {
+      "latitude": 37.552277,
+      "longitude": 126.972687
+    },
+    "id": "807",
+    "type": "sharing_bicycle_01"
+  },
+  "jwKstuCtic5": {
+    "address": "서울특별시 용산구 서빙고동 235-5도",
+    "name": "서빙고동 금호맨션 앞",
+    "location": {
+      "latitude": 37.520504,
+      "longitude": 126.989738
+    },
+    "id": "808",
+    "type": "sharing_bicycle_01"
+  },
+  "Y8fQwQYthcL": {
+    "address": "서울특별시 용산구 독서당로 18",
+    "name": "한남 유수지 복개주차장",
+    "location": {
+      "latitude": 37.530167,
+      "longitude": 127.007439
+    },
+    "id": "809",
+    "type": "sharing_bicycle_01"
+  },
+  "Y8KQwwO8iJL": {
+    "address": "서울특별시 용산구 용산동2가 5-1812",
+    "name": "이태원지하보도",
+    "location": {
+      "latitude": 37.53841,
+      "longitude": 126.986649
+    },
+    "id": "810",
+    "type": "sharing_bicycle_01"
+  },
+  "gAxstfYAir5": {
+    "address": "서울특별시 용산구 용산동2가 6-7",
+    "name": "녹사평역1번출구",
+    "location": {
+      "latitude": 37.53508,
+      "longitude": 126.985382
+    },
+    "id": "811",
+    "type": "sharing_bicycle_01"
+  },
+  "YAvst7jw19L": {
+    "address": "서울특별시 용산구 용산동1가 8-4",
+    "name": "용산전쟁기념관",
+    "location": {
+      "latitude": 37.53484,
+      "longitude": 126.977661
+    },
+    "id": "812",
+    "type": "sharing_bicycle_01"
+  },
+  "jtKsAYgwi97": {
+    "address": "서울특별시 용산구 한강로1가 228-1",
+    "name": "삼각지역 3번출구",
+    "location": {
+      "latitude": 37.533512,
+      "longitude": 126.972275
+    },
+    "id": "813",
+    "type": "sharing_bicycle_01"
+  },
+  "YAxUt0gtiJ5": {
+    "address": "서울특별시 용산구 이촌동301-5",
+    "name": "LIG강촌아파트 103동앞",
+    "location": {
+      "latitude": 37.518509,
+      "longitude": 126.978798
+    },
+    "id": "815",
+    "type": "sharing_bicycle_01"
+  },
+  "OtKq8cYwiJL": {
+    "address": "서울특별시 용산구 한강로2가 313-4",
+    "name": "신용산역 6번출구 앞",
+    "location": {
+      "latitude": 37.530148,
+      "longitude": 126.968483
+    },
+    "id": "816",
+    "type": "sharing_bicycle_01"
+  },
+  "j8fUAlO81r7": {
+    "address": "서울특별시 용산구 한강로1가 303-1",
+    "name": "삼각지역 4번출구 앞",
+    "location": {
+      "latitude": 37.533451,
+      "longitude": 126.971733
+    },
+    "id": "817",
+    "type": "sharing_bicycle_01"
+  },
+  "OtxUwng81r7": {
+    "address": "서울특별시 용산구 청파동2가 81",
+    "name": "숙명여대 입구 교차로",
+    "location": {
+      "latitude": 37.544895,
+      "longitude": 126.969383
+    },
+    "id": "818",
+    "type": "sharing_bicycle_01"
+  },
+  "j8xq8iOtpJ5": {
+    "address": "서울특별시 용산구 청파동3가 66-2",
+    "name": "선린인터넷 고등학교",
+    "location": {
+      "latitude": 37.541653,
+      "longitude": 126.970505
+    },
+    "id": "819",
+    "type": "sharing_bicycle_01"
+  },
+  "jAxQ8agAhc5": {
+    "address": "서울특별시 용산구 한강대로 350",
+    "name": "청파동입구 교차로",
+    "location": {
+      "latitude": 37.549026,
+      "longitude": 126.971947
+    },
+    "id": "820",
+    "type": "sharing_bicycle_01"
+  },
+  "OtKUtbgwhrC": {
+    "address": "서울특별시 용산구 한강로3가 66-4 철",
+    "name": "이촌1동 마을공원",
+    "location": {
+      "latitude": 37.522041,
+      "longitude": 126.965523
+    },
+    "id": "822",
+    "type": "sharing_bicycle_01"
+  },
+  "OtKqtTY8iJ7": {
+    "address": "서울특별시 용산구 효창동 255-17 임",
+    "name": "효창동주민센터 앞",
+    "location": {
+      "latitude": 37.54232,
+      "longitude": 126.96196
+    },
+    "id": "823",
+    "type": "sharing_bicycle_01"
+  },
+  "g8KswBgAhr7": {
+    "address": "서울특별시 용산구 서빙고동 153-3",
+    "name": "서빙고동 주민센터 앞",
+    "location": {
+      "latitude": 37.520336,
+      "longitude": 126.994263
+    },
+    "id": "825",
+    "type": "sharing_bicycle_01"
+  },
+  "j8xQAROwhr7": {
+    "address": "서울특별시 은평구 녹번동 85-4",
+    "name": "은평예술회관",
+    "location": {
+      "latitude": 37.603943,
+      "longitude": 126.927696
+    },
+    "id": "900",
+    "type": "sharing_bicycle_01"
+  },
+  "jtvst4Owp9C": {
+    "address": "서울특별시 은평구 응암동 84-14",
+    "name": "응암1동사무소",
+    "location": {
+      "latitude": 37.600975,
+      "longitude": 126.926956
+    },
+    "id": "901",
+    "type": "sharing_bicycle_01"
+  },
+  "gtKqtsktiJ7": {
+    "address": "서울특별시 은평구 진관동 45-21",
+    "name": "진관동 은빛초등학교",
+    "location": {
+      "latitude": 37.643108,
+      "longitude": 126.918221
+    },
+    "id": "902",
+    "type": "sharing_bicycle_01"
+  },
+  "g8Ks8A-AhJL": {
+    "address": "서울특별시 은평구 진관동 13-20",
+    "name": "은평뉴타운 아이파크",
+    "location": {
+      "latitude": 37.645866,
+      "longitude": 126.927391
+    },
+    "id": "903",
+    "type": "sharing_bicycle_01"
+  },
+  "YtxUAv0wp95": {
+    "address": "서울특별시 은평구 진관동 5-8",
+    "name": "은평뉴타운 푸르지오",
+    "location": {
+      "latitude": 37.648674,
+      "longitude": 126.930702
+    },
+    "id": "904",
+    "type": "sharing_bicycle_01"
+  },
+  "YAfQw5-Ah9C": {
+    "address": "서울특별시 은평구 진관동 86-31",
+    "name": "구파발역 2번출구",
+    "location": {
+      "latitude": 37.636234,
+      "longitude": 126.918999
+    },
+    "id": "905",
+    "type": "sharing_bicycle_01"
+  },
+  "j8vqAg0wi9L": {
+    "address": "서울특별시 은평구 대조동 207-8",
+    "name": "연신내역 5번출구",
+    "location": {
+      "latitude": 37.61721,
+      "longitude": 126.919579
+    },
+    "id": "906",
+    "type": "sharing_bicycle_01"
+  },
+  "gAfQAy-w195": {
+    "address": "서울특별시 은평구 역촌동 43-11",
+    "name": "CJ 드림시티",
+    "location": {
+      "latitude": 37.599491,
+      "longitude": 126.916862
+    },
+    "id": "907",
+    "type": "sharing_bicycle_01"
+  },
+  "YtfqAr-8pJ7": {
+    "address": "서울특별시 은평구 갈현동 536-8",
+    "name": "구산역 4번출구",
+    "location": {
+      "latitude": 37.613186,
+      "longitude": 126.917351
+    },
+    "id": "908",
+    "type": "sharing_bicycle_01"
+  },
+  "Y8Ks8l0wprC": {
+    "address": "서울특별시 은평구 응암동 761-9",
+    "name": "백련산 힐스테이트 3차",
+    "location": {
+      "latitude": 37.586994,
+      "longitude": 126.922882
+    },
+    "id": "909",
+    "type": "sharing_bicycle_01"
+  },
+  "YwfQtSytir7": {
+    "address": "서울특별시 은평구 녹번동 153-31",
+    "name": "은평평화공원(역촌역4번출구)",
+    "location": {
+      "latitude": 37.605583,
+      "longitude": 126.922935
+    },
+    "id": "911",
+    "type": "sharing_bicycle_01"
+  },
+  "jtfQth0tir5": {
+    "address": "서울특별시 은평구 응암동 604-5",
+    "name": "응암오거리",
+    "location": {
+      "latitude": 37.589661,
+      "longitude": 126.916946
+    },
+    "id": "912",
+    "type": "sharing_bicycle_01"
+  },
+  "O8vUta-wp9L": {
+    "address": "서울특별시 은평구 응암동90-15",
+    "name": "이마트",
+    "location": {
+      "latitude": 37.6007,
+      "longitude": 126.920128
+    },
+    "id": "913",
+    "type": "sharing_bicycle_01"
+  },
+  "OwxUwGktp9C": {
+    "address": "서울특별시 은평구 응암동 610-3",
+    "name": "새절역 2번출구",
+    "location": {
+      "latitude": 37.590797,
+      "longitude": 126.913651
+    },
+    "id": "914",
+    "type": "sharing_bicycle_01"
+  },
+  "jtfQwTyw1c5": {
+    "address": "서울특별시 은평구 증산동 199-8",
+    "name": "증산역 4번출구",
+    "location": {
+      "latitude": 37.584381,
+      "longitude": 126.909897
+    },
+    "id": "915",
+    "type": "sharing_bicycle_01"
+  },
+  "jtvU8d-AprL": {
+    "address": "서울특별시 은평구 역촌동 15-40",
+    "name": "평생학습관 앞",
+    "location": {
+      "latitude": 37.607849,
+      "longitude": 126.921326
+    },
+    "id": "916",
+    "type": "sharing_bicycle_01"
+  },
+  "YwfqARkAic5": {
+    "address": "서울특별시 은평구 녹번동 55",
+    "name": "녹번역 4번출구",
+    "location": {
+      "latitude": 37.601299,
+      "longitude": 126.935349
+    },
+    "id": "917",
+    "type": "sharing_bicycle_01"
+  },
+  "gwxs8e-whr7": {
+    "address": "서울특별시 은평구 불광동 260-2",
+    "name": "서부경찰서",
+    "location": {
+      "latitude": 37.612679,
+      "longitude": 126.927757
+    },
+    "id": "918",
+    "type": "sharing_bicycle_01"
+  },
+  "Y8fU8Q9Ah95": {
+    "address": "서울특별시 은평구 녹번동 15-2",
+    "name": "서울혁신파크",
+    "location": {
+      "latitude": 37.607948,
+      "longitude": 126.932503
+    },
+    "id": "919",
+    "type": "sharing_bicycle_01"
+  },
+  "YAvQw8rtprC": {
+    "address": "서울특별시 은평구 진관동 242-14",
+    "name": "신도고등학교",
+    "location": {
+      "latitude": 37.630016,
+      "longitude": 126.919029
+    },
+    "id": "921",
+    "type": "sharing_bicycle_01"
+  },
+  "g8KUtK98ic5": {
+    "address": "서울특별시 은평구 대조동 227-2",
+    "name": "연신내역 4번출구",
+    "location": {
+      "latitude": 37.617802,
+      "longitude": 126.921967
+    },
+    "id": "922",
+    "type": "sharing_bicycle_01"
+  },
+  "YAxqAL98pJ7": {
+    "address": "서울특별시 은평구 불광동 355",
+    "name": "국민은행 연서지점",
+    "location": {
+      "latitude": 37.620949,
+      "longitude": 126.925636
+    },
+    "id": "923",
+    "type": "sharing_bicycle_01"
+  },
+  "YAfstgJwpc5": {
+    "address": "서울특별시 은평구 진관동 161-9",
+    "name": "메뚜기다리",
+    "location": {
+      "latitude": 37.628517,
+      "longitude": 126.929581
+    },
+    "id": "924",
+    "type": "sharing_bicycle_01"
+  },
+  "jwfqA-r8pc7": {
+    "address": "서울특별시 은평구 불광동 285-43",
+    "name": "불광역 2번출구",
+    "location": {
+      "latitude": 37.609566,
+      "longitude": 126.930977
+    },
+    "id": "925",
+    "type": "sharing_bicycle_01"
+  },
+  "OAKstJcAiJ5": {
+    "address": "서울특별시 은평구 불광동 276-6",
+    "name": "불광역 8번출구",
+    "location": {
+      "latitude": 37.611179,
+      "longitude": 126.929665
+    },
+    "id": "926",
+    "type": "sharing_bicycle_01"
+  },
+  "YwvsAl9AhrL": {
+    "address": "서울특별시 은평구 불광동 304-5",
+    "name": "연신내역 3번출구 인근",
+    "location": {
+      "latitude": 37.617855,
+      "longitude": 126.922523
+    },
+    "id": "927",
+    "type": "sharing_bicycle_01"
+  },
+  "O8vQtzJA1cL": {
+    "address": "서울특별시 은평구 진관동 133-29",
+    "name": "은평역사한옥박물관",
+    "location": {
+      "latitude": 37.641315,
+      "longitude": 126.938042
+    },
+    "id": "928",
+    "type": "sharing_bicycle_01"
+  },
+  "OwKUwirAh95": {
+    "address": "서울특별시 은평구 응암동 86-15",
+    "name": "국민은행 응암점",
+    "location": {
+      "latitude": 37.601051,
+      "longitude": 126.924225
+    },
+    "id": "929",
+    "type": "sharing_bicycle_01"
+  },
+  "g8xQta9AprC": {
+    "address": "서울특별시 은평구 역촌동 41-7",
+    "name": "구 서부경찰서 건너편",
+    "location": {
+      "latitude": 37.601662,
+      "longitude": 126.920303
+    },
+    "id": "930",
+    "type": "sharing_bicycle_01"
+  },
+  "gAvstGr8hJL": {
+    "address": "서울특별시 은평구 역촌동 45-34",
+    "name": "역촌파출소",
+    "location": {
+      "latitude": 37.604736,
+      "longitude": 126.915337
+    },
+    "id": "931",
+    "type": "sharing_bicycle_01"
+  },
+  "jwxqwTrtpJL": {
+    "address": "서울특별시 은평구 연서로 117",
+    "name": "예일여중",
+    "location": {
+      "latitude": 37.610004,
+      "longitude": 126.916397
+    },
+    "id": "932",
+    "type": "sharing_bicycle_01"
+  },
+  "YwxsA_rAirC": {
+    "address": "서울특별시 은평구 서오릉로 163",
+    "name": "LG 서비스 역촌점",
+    "location": {
+      "latitude": 37.612484,
+      "longitude": 126.914879
+    },
+    "id": "933",
+    "type": "sharing_bicycle_01"
+  },
+  "O8xsAX9tpc5": {
+    "address": "서울특별시 종로구 내자동 75-4",
+    "name": "경복궁역 7번출구 앞",
+    "location": {
+      "latitude": 37.575794,
+      "longitude": 126.971451
+    },
+    "id": "301",
+    "type": "sharing_bicycle_01"
+  },
+  "gAxQ8e9A197": {
+    "address": "서울특별시 종로구 적선동 8-1",
+    "name": "경복궁역 4번출구 뒤",
+    "location": {
+      "latitude": 37.575947,
+      "longitude": 126.97406
+    },
+    "id": "302",
+    "type": "sharing_bicycle_01"
+  },
+  "YAfQ8UlwiJ5": {
+    "address": "서울특별시 종로구 당주동 50",
+    "name": "광화문역 1번출구 앞",
+    "location": {
+      "latitude": 37.571732,
+      "longitude": 126.974922
+    },
+    "id": "303",
+    "type": "sharing_bicycle_01"
+  },
+  "YAfs8AV8ir7": {
+    "address": "서울특별시 종로구 세종로 84-8",
+    "name": "광화문역 2번출구 앞",
+    "location": {
+      "latitude": 37.572487,
+      "longitude": 126.977501
+    },
+    "id": "304",
+    "type": "sharing_bicycle_01"
+  },
+  "OwKQAKHA1r7": {
+    "address": "서울특별시 종로구 수송동 147",
+    "name": "종로구청 옆",
+    "location": {
+      "latitude": 37.572582,
+      "longitude": 126.978355
+    },
+    "id": "305",
+    "type": "sharing_bicycle_01"
+  },
+  "O8KUt5lwpr5": {
+    "address": "서울특별시 종로구 세종로 1-68",
+    "name": "광화문역 7번출구 앞",
+    "location": {
+      "latitude": 37.570808,
+      "longitude": 126.976433
+    },
+    "id": "306",
+    "type": "sharing_bicycle_01"
+  },
+  "gAfU8jmwicL": {
+    "address": "서울특별시 종로구 신문로2가 1-389",
+    "name": "서울역사박물관 앞",
+    "location": {
+      "latitude": 37.57,
+      "longitude": 126.9711
+    },
+    "id": "307",
+    "type": "sharing_bicycle_01"
+  },
+  "gAfqtylt1r7": {
+    "address": "서울특별시 종로구 신문로1가 5-4",
+    "name": "광화문 S타워 앞",
+    "location": {
+      "latitude": 37.569969,
+      "longitude": 126.973938
+    },
+    "id": "308",
+    "type": "sharing_bicycle_01"
+  },
+  "g8vUwcHwh97": {
+    "address": "서울특별시 종로구 세종로 1-81",
+    "name": "광화문역 6번출구 옆",
+    "location": {
+      "latitude": 37.569889,
+      "longitude": 126.976456
+    },
+    "id": "309",
+    "type": "sharing_bicycle_01"
+  },
+  "OAKq8mmtpJC": {
+    "address": "서울특별시 종로구 사간동 122-2",
+    "name": "국립현대미술관",
+    "location": {
+      "latitude": 37.579708,
+      "longitude": 126.980858
+    },
+    "id": "314",
+    "type": "sharing_bicycle_01"
+  },
+  "Y8fqA6VApr5": {
+    "address": "서울특별시 종로구 안국동 175-91",
+    "name": "신한은행 안국역지점 옆",
+    "location": {
+      "latitude": 37.57597,
+      "longitude": 126.983063
+    },
+    "id": "315",
+    "type": "sharing_bicycle_01"
+  },
+  "jtKqwpV8pc7": {
+    "address": "서울특별시 종로구 종로1가 54",
+    "name": "종각역 1번출구 앞",
+    "location": {
+      "latitude": 37.570396,
+      "longitude": 126.981789
+    },
+    "id": "316",
+    "type": "sharing_bicycle_01"
+  },
+  "g8fs8WmwpJ5": {
+    "address": "서울특별시 종로구 경운동 91-4",
+    "name": "안국역 5번출구 앞",
+    "location": {
+      "latitude": 37.576241,
+      "longitude": 126.98616
+    },
+    "id": "326",
+    "type": "sharing_bicycle_01"
+  },
+  "jAxQ8PmwpJ7": {
+    "address": "서울특별시 종로구 경운동 49",
+    "name": "낙원상가 옆",
+    "location": {
+      "latitude": 37.573357,
+      "longitude": 126.987465
+    },
+    "id": "327",
+    "type": "sharing_bicycle_01"
+  },
+  "g8xUtFV8pc7": {
+    "address": "서울특별시 종로구 종로2가 34-2",
+    "name": "탑골공원 앞",
+    "location": {
+      "latitude": 37.570396,
+      "longitude": 126.98819
+    },
+    "id": "328",
+    "type": "sharing_bicycle_01"
+  },
+  "OwKQABmAiJL": {
+    "address": "서울특별시 종로구 관철동 13-14",
+    "name": "청계2가 사거리 옆",
+    "location": {
+      "latitude": 37.568344,
+      "longitude": 126.987892
+    },
+    "id": "329",
+    "type": "sharing_bicycle_01"
+  },
+  "YAfqtRVthr7": {
+    "address": "서울특별시 종로구 와룡동 5-6",
+    "name": "창덕궁 매표소 앞",
+    "location": {
+      "latitude": 37.577705,
+      "longitude": 126.991783
+    },
+    "id": "333",
+    "type": "sharing_bicycle_01"
+  },
+  "OAxqtuHAprL": {
+    "address": "서울특별시 종로구 종로3가 10-5",
+    "name": "종로3가역 2번출구 뒤",
+    "location": {
+      "latitude": 37.570599,
+      "longitude": 126.991791
+    },
+    "id": "334",
+    "type": "sharing_bicycle_01"
+  },
+  "gAfs8sztpcL": {
+    "address": "서울특별시 종로구 종로3가 137-3",
+    "name": "종로3가역 15번출구 앞",
+    "location": {
+      "latitude": 37.570198,
+      "longitude": 126.991257
+    },
+    "id": "335",
+    "type": "sharing_bicycle_01"
+  },
+  "YwKq8tzti9L": {
+    "address": "서울특별시 종로구 와룡동 2-87",
+    "name": "창경궁 입구",
+    "location": {
+      "latitude": 37.578979,
+      "longitude": 126.996475
+    },
+    "id": "337",
+    "type": "sharing_bicycle_01"
+  },
+  "YAKQAKSA1c5": {
+    "address": "서울특별시 종로구 종로4가 32-8",
+    "name": "세운스퀘어 앞",
+    "location": {
+      "latitude": 37.571331,
+      "longitude": 126.997528
+    },
+    "id": "338",
+    "type": "sharing_bicycle_01"
+  },
+  "Y8xUACzAp9L": {
+    "address": "서울특별시 종로구 종로4가 32-8",
+    "name": "종로4가 사거리",
+    "location": {
+      "latitude": 37.571068,
+      "longitude": 126.998192
+    },
+    "id": "339",
+    "type": "sharing_bicycle_01"
+  },
+  "gtKqwjnwhcC": {
+    "address": "서울특별시 종로구 혜화동 120",
+    "name": "혜화동 로터리",
+    "location": {
+      "latitude": 37.585629,
+      "longitude": 127.000679
+    },
+    "id": "340",
+    "type": "sharing_bicycle_01"
+  },
+  "OtxQA-n8pc5": {
+    "address": "서울특별시 종로구 명륜4가 96-4",
+    "name": "혜화역 3번출구 뒤",
+    "location": {
+      "latitude": 37.58157,
+      "longitude": 127.001785
+    },
+    "id": "341",
+    "type": "sharing_bicycle_01"
+  },
+  "OwfQwJSwhJL": {
+    "address": "서울특별시 종로구 동숭동 1-24",
+    "name": "대학로 마로니에공원",
+    "location": {
+      "latitude": 37.579784,
+      "longitude": 127.002533
+    },
+    "id": "342",
+    "type": "sharing_bicycle_01"
+  },
+  "j8xQAlSAhc5": {
+    "address": "서울특별시 종로구 충신동 57-3",
+    "name": "예일빌딩(율곡로) 앞",
+    "location": {
+      "latitude": 37.575432,
+      "longitude": 127.004982
+    },
+    "id": "343",
+    "type": "sharing_bicycle_01"
+  },
+  "jtfUAS6ApcC": {
+    "address": "서울특별시 종로구 충신동 27-28",
+    "name": "성균관대 E하우스 앞",
+    "location": {
+      "latitude": 37.574036,
+      "longitude": 127.006721
+    },
+    "id": "344",
+    "type": "sharing_bicycle_01"
+  },
+  "j8xQAhztiJL": {
+    "address": "서울특별시 종로구 연지동 136-75",
+    "name": "서울보증보험본사 앞",
+    "location": {
+      "latitude": 37.573307,
+      "longitude": 127.00071
+    },
+    "id": "345",
+    "type": "sharing_bicycle_01"
+  },
+  "OtfUw3z819L": {
+    "address": "서울특별시 종로구 교북동 10-1",
+    "name": "독립문역 사거리",
+    "location": {
+      "latitude": 37.572025,
+      "longitude": 126.96125
+    },
+    "id": "348",
+    "type": "sharing_bicycle_01"
+  },
+  "g8KsAMStiJ5": {
+    "address": "서울특별시 종로구 사직로9길 5",
+    "name": "사직동주민센터",
+    "location": {
+      "latitude": 37.576332,
+      "longitude": 126.96859
+    },
+    "id": "349",
+    "type": "sharing_bicycle_01"
+  },
+  "g8xUAEn8iJC": {
+    "address": "서울특별시 종로구 사직로8길 39",
+    "name": "KEB 하나은행(내자동 지점) 앞",
+    "location": {
+      "latitude": 37.574268,
+      "longitude": 126.973206
+    },
+    "id": "350",
+    "type": "sharing_bicycle_01"
+  },
+  "g8KstdSwhJ7": {
+    "address": "서울특별시 종로구 청운동 108-22",
+    "name": "청운초교 앞 삼거리",
+    "location": {
+      "latitude": 37.585079,
+      "longitude": 126.970619
+    },
+    "id": "351",
+    "type": "sharing_bicycle_01"
+  },
+  "jtfswo6Apr5": {
+    "address": "서울특별시 종로구 창덕궁길 191",
+    "name": "중앙고입구 삼거리",
+    "location": {
+      "latitude": 37.583179,
+      "longitude": 126.985329
+    },
+    "id": "352",
+    "type": "sharing_bicycle_01"
+  },
+  "O8vQtIz81JL": {
+    "address": "서울특별시 종로구 재동 19",
+    "name": "재동초교 앞 삼거리",
+    "location": {
+      "latitude": 37.579388,
+      "longitude": 126.984947
+    },
+    "id": "353",
+    "type": "sharing_bicycle_01"
+  },
+  "jwfQtspt1J7": {
+    "address": "서울특별시 종로구 창덕궁1길 3",
+    "name": "포르투갈 대사관 앞",
+    "location": {
+      "latitude": 37.579155,
+      "longitude": 126.98896
+    },
+    "id": "354",
+    "type": "sharing_bicycle_01"
+  },
+  "gtxQwt18pJL": {
+    "address": "서울특별시 종로구 연건동 178-3",
+    "name": "서울사대부속초교 앞",
+    "location": {
+      "latitude": 37.576508,
+      "longitude": 127.002457
+    },
+    "id": "355",
+    "type": "sharing_bicycle_01"
+  },
+  "O8vUwxi81c7": {
+    "address": "서울특별시 종로구 대학로 65",
+    "name": "KT혜화지사 앞",
+    "location": {
+      "latitude": 37.577152,
+      "longitude": 127.001549
+    },
+    "id": "356",
+    "type": "sharing_bicycle_01"
+  },
+  "OtKU8L1whJ5": {
+    "address": "서울특별시 종로구 창경궁로 234",
+    "name": "성대입구 사거리",
+    "location": {
+      "latitude": 37.5825,
+      "longitude": 126.998535
+    },
+    "id": "358",
+    "type": "sharing_bicycle_01"
+  },
+  "gAKQ8jiti9L": {
+    "address": "서울특별시 종로구 율곡로 169",
+    "name": "원남동사거리",
+    "location": {
+      "latitude": 37.576061,
+      "longitude": 126.997681
+    },
+    "id": "359",
+    "type": "sharing_bicycle_01"
+  },
+  "jAxU80h8hc5": {
+    "address": "서울특별시 종로구 숭인동 81-39",
+    "name": "동묘앞역 1번출구 뒤",
+    "location": {
+      "latitude": 37.573242,
+      "longitude": 127.015907
+    },
+    "id": "361",
+    "type": "sharing_bicycle_01"
+  },
+  "O8fqArpwp95": {
+    "address": "서울특별시 종로구 청계천로 407",
+    "name": "청계8가 사거리",
+    "location": {
+      "latitude": 37.572224,
+      "longitude": 127.022705
+    },
+    "id": "362",
+    "type": "sharing_bicycle_01"
+  },
+  "OwKqwH1tiJC": {
+    "address": "서울특별시 종로구 숭인동 1311",
+    "name": "신설동역 11번출구 뒤",
+    "location": {
+      "latitude": 37.57576,
+      "longitude": 127.022835
+    },
+    "id": "363",
+    "type": "sharing_bicycle_01"
+  },
+  "gAvUwz18iJC": {
+    "address": "서울특별시 종로구 지봉로 87",
+    "name": "창신역 1번출구 앞",
+    "location": {
+      "latitude": 37.577957,
+      "longitude": 127.014793
+    },
+    "id": "364",
+    "type": "sharing_bicycle_01"
+  },
+  "O8vs81ptpcL": {
+    "address": "서울특별시 종로구 무악동 41-7",
+    "name": "독립문역 3번출구 뒤",
+    "location": {
+      "latitude": 37.573849,
+      "longitude": 126.958694
+    },
+    "id": "367",
+    "type": "sharing_bicycle_01"
+  },
+  "jtKq83pApr7": {
+    "address": "서울특별시 종로구 서린동 93-2",
+    "name": "SK 서린빌딩 앞",
+    "location": {
+      "latitude": 37.569637,
+      "longitude": 126.980255
+    },
+    "id": "368",
+    "type": "sharing_bicycle_01"
+  },
+  "g8vsAG1Air5": {
+    "address": "서울특별시 종로구 세종로 76-5",
+    "name": "광화문 시민열린마당",
+    "location": {
+      "latitude": 37.575493,
+      "longitude": 126.9785
+    },
+    "id": "369",
+    "type": "sharing_bicycle_01"
+  },
+  "jAxsATpAir7": {
+    "address": "서울특별시 종로구 서린동 26-1",
+    "name": "종각역5번출구",
+    "location": {
+      "latitude": 37.569836,
+      "longitude": 126.982658
+    },
+    "id": "385",
+    "type": "sharing_bicycle_01"
+  },
+  "jtKst_hthJ5": {
+    "address": "서울특별시 종로구 혜화동3-1",
+    "name": "올림픽기념 국민생활관 앞",
+    "location": {
+      "latitude": 37.590233,
+      "longitude": 126.99852
+    },
+    "id": "386",
+    "type": "sharing_bicycle_01"
+  },
+  "Y8vswDiAirL": {
+    "address": "서울특별시 종로구 혜화동 56",
+    "name": "동성중학교 앞",
+    "location": {
+      "latitude": 37.585735,
+      "longitude": 127.00161
+    },
+    "id": "388",
+    "type": "sharing_bicycle_01"
+  },
+  "gAfU8e1A1J5": {
+    "address": "서울특별시 중구 정동 23-20",
+    "name": "정동사거리",
+    "location": {
+      "latitude": 37.56805,
+      "longitude": 126.969231
+    },
+    "id": "300",
+    "type": "sharing_bicycle_01"
+  },
+  "gwxQwQ3whc7": {
+    "address": "서울특별시 중구 태평로1가 84-1",
+    "name": "청계광장 옆",
+    "location": {
+      "latitude": 37.568878,
+      "longitude": 126.97747
+    },
+    "id": "310",
+    "type": "sharing_bicycle_01"
+  },
+  "jAKU8A28icC": {
+    "address": "서울특별시 중구 태평로1가 54-3",
+    "name": "서울광장 옆",
+    "location": {
+      "latitude": 37.566612,
+      "longitude": 126.97747
+    },
+    "id": "311",
+    "type": "sharing_bicycle_01"
+  },
+  "YwKUtvWwiJL": {
+    "address": "서울특별시 중구 태평로2가 353-1",
+    "name": "시청역 1번출구 뒤",
+    "location": {
+      "latitude": 37.564674,
+      "longitude": 126.976738
+    },
+    "id": "312",
+    "type": "sharing_bicycle_01"
+  },
+  "O8vqAL2wprC": {
+    "address": "서울특별시 중구 봉래동2가 124",
+    "name": "서울역 광장 파출소 옆",
+    "location": {
+      "latitude": 37.556961,
+      "longitude": 126.971771
+    },
+    "id": "313",
+    "type": "sharing_bicycle_01"
+  },
+  "gwfstY2thcC": {
+    "address": "서울특별시 중구 다동 2-4",
+    "name": "광교사거리 남측",
+    "location": {
+      "latitude": 37.568527,
+      "longitude": 126.982552
+    },
+    "id": "318",
+    "type": "sharing_bicycle_01"
+  },
+  "OtvUAy2whcC": {
+    "address": "서울특별시 중구 을지로2가 9-7",
+    "name": "을지로입구역 4번출구 앞",
+    "location": {
+      "latitude": 37.566223,
+      "longitude": 126.983589
+    },
+    "id": "320",
+    "type": "sharing_bicycle_01"
+  },
+  "jwxqwrW81r5": {
+    "address": "서울특별시 중구 을지로2가 181-3",
+    "name": "한국외환은행 본점 앞",
+    "location": {
+      "latitude": 37.565464,
+      "longitude": 126.984138
+    },
+    "id": "321",
+    "type": "sharing_bicycle_01"
+  },
+  "gAfqtHWthc5": {
+    "address": "서울특별시 중구 명동2가 1-15",
+    "name": "명동성당 앞",
+    "location": {
+      "latitude": 37.564476,
+      "longitude": 126.986969
+    },
+    "id": "322",
+    "type": "sharing_bicycle_01"
+  },
+  "OAKs8na8ic7": {
+    "address": "서울특별시 중구 충무로1가 3",
+    "name": "신세계백화점 본점 앞",
+    "location": {
+      "latitude": 37.561176,
+      "longitude": 126.980942
+    },
+    "id": "324",
+    "type": "sharing_bicycle_01"
+  },
+  "jAxUti2wp9L": {
+    "address": "서울특별시 중구 삼각동118",
+    "name": "청계천 한빛광장",
+    "location": {
+      "latitude": 37.56781,
+      "longitude": 126.984497
+    },
+    "id": "330",
+    "type": "sharing_bicycle_01"
+  },
+  "gAKUw32ApJ7": {
+    "address": "서울특별시 중구 을지로2가 65-39",
+    "name": "을지로2가 사거리 북측",
+    "location": {
+      "latitude": 37.566383,
+      "longitude": 126.987206
+    },
+    "id": "331",
+    "type": "sharing_bicycle_01"
+  },
+  "gtKUAPa8iJ7": {
+    "address": "서울특별시 중구 을지로2가 149-10",
+    "name": "을지로2가 사거리 남측",
+    "location": {
+      "latitude": 37.56599,
+      "longitude": 126.987793
+    },
+    "id": "332",
+    "type": "sharing_bicycle_01"
+  },
+  "gAvqwEawi97": {
+    "address": "서울특별시 중구 충무로3가 39-2",
+    "name": "티마크 호텔 앞",
+    "location": {
+      "latitude": 37.562618,
+      "longitude": 126.992836
+    },
+    "id": "336",
+    "type": "sharing_bicycle_01"
+  },
+  "OwvUAd3AhJC": {
+    "address": "서울특별시 중구 을지로6가 18-6",
+    "name": "남평화시장",
+    "location": {
+      "latitude": 37.569183,
+      "longitude": 127.00988
+    },
+    "id": "346",
+    "type": "sharing_bicycle_01"
+  },
+  "g8KstD3AhrC": {
+    "address": "서울특별시 중구 을지로7가 134-2",
+    "name": "동대문역사문화공원역 9번출구 앞",
+    "location": {
+      "latitude": 37.565331,
+      "longitude": 127.007843
+    },
+    "id": "347",
+    "type": "sharing_bicycle_01"
+  },
+  "jwxqw4WwpJC": {
+    "address": "서울특별시 중구 서소문동 75",
+    "name": "시청역(2호선) 9번출구 뒤",
+    "location": {
+      "latitude": 37.563229,
+      "longitude": 126.974838
+    },
+    "id": "370",
+    "type": "sharing_bicycle_01"
+  },
+  "j8vQAsP8pc7": {
+    "address": "서울특별시 중구 장충동2가 197-4",
+    "name": "동대입구역 6번출구 뒤",
+    "location": {
+      "latitude": 37.558872,
+      "longitude": 127.005539
+    },
+    "id": "371",
+    "type": "sharing_bicycle_01"
+  },
+  "YAvQttM8p97": {
+    "address": "서울특별시 중구 신당동 369-44",
+    "name": "약수역 4번출구 뒤",
+    "location": {
+      "latitude": 37.554295,
+      "longitude": 127.0112
+    },
+    "id": "372",
+    "type": "sharing_bicycle_01"
+  },
+  "jwfU8KMw1JL": {
+    "address": "서울특별시 중구 신당동 842-6",
+    "name": "약수 어린이공원",
+    "location": {
+      "latitude": 37.555859,
+      "longitude": 127.013855
+    },
+    "id": "373",
+    "type": "sharing_bicycle_01"
+  },
+  "gwxQA5bA19L": {
+    "address": "서울특별시 중구 신당동 295-2",
+    "name": "청구역 2번출구 앞",
+    "location": {
+      "latitude": 37.560474,
+      "longitude": 127.014076
+    },
+    "id": "374",
+    "type": "sharing_bicycle_01"
+  },
+  "jAvqAOb8p9C": {
+    "address": "서울특별시 중구 신당동 123-1",
+    "name": "다산 어린이공원",
+    "location": {
+      "latitude": 37.563717,
+      "longitude": 127.018425
+    },
+    "id": "375",
+    "type": "sharing_bicycle_01"
+  },
+  "OtfUtkGw1cC": {
+    "address": "서울특별시 중구 남대문로5가 84-15",
+    "name": "서울역 4번출구 앞",
+    "location": {
+      "latitude": 37.557812,
+      "longitude": 126.973488
+    },
+    "id": "377",
+    "type": "sharing_bicycle_01"
+  },
+  "YtxQtcbt195": {
+    "address": "서울특별시 중구 흥인동 162-1",
+    "name": "청계7가 사거리",
+    "location": {
+      "latitude": 37.569805,
+      "longitude": 127.016953
+    },
+    "id": "378",
+    "type": "sharing_bicycle_01"
+  },
+  "g8xqwlbAhJ5": {
+    "address": "서울특별시 중구 봉래동2가 125",
+    "name": "서울역9번출구",
+    "location": {
+      "latitude": 37.556,
+      "longitude": 126.973358
+    },
+    "id": "379",
+    "type": "sharing_bicycle_01"
+  },
+  "j8fsAnGwicL": {
+    "address": "서울특별시 중구 쌍림동 146-43",
+    "name": "CJ제일제당 앞",
+    "location": {
+      "latitude": 37.563866,
+      "longitude": 127.002747
+    },
+    "id": "380",
+    "type": "sharing_bicycle_01"
+  },
+  "Ywfqt1Gw19L": {
+    "address": "서울특별시 중구 장충동2가 200-99",
+    "name": "장충체육관",
+    "location": {
+      "latitude": 37.558533,
+      "longitude": 127.006989
+    },
+    "id": "381",
+    "type": "sharing_bicycle_01"
+  },
+  "OwxQ83bApJL": {
+    "address": "서울특별시 중구 신당동 357-1",
+    "name": "약수역 10번출구 앞",
+    "location": {
+      "latitude": 37.555199,
+      "longitude": 127.010048
+    },
+    "id": "382",
+    "type": "sharing_bicycle_01"
+  },
+  "YAvQAPbwhJL": {
+    "address": "서울특별시 중구 신당동 99",
+    "name": "신당역 12번 출구 뒤",
+    "location": {
+      "latitude": 37.565311,
+      "longitude": 127.016762
+    },
+    "id": "383",
+    "type": "sharing_bicycle_01"
+  },
+  "jwfsANP8pr5": {
+    "address": "서울특별시 중구 중림동 397",
+    "name": "종로학원본원 앞",
+    "location": {
+      "latitude": 37.55978,
+      "longitude": 126.968506
+    },
+    "id": "384",
+    "type": "sharing_bicycle_01"
+  },
+  "O8xUw_b8ic7": {
+    "address": "서울특별시 중구 을지로5가 35-6",
+    "name": "훈련원공원 주차장 앞",
+    "location": {
+      "latitude": 37.567329,
+      "longitude": 127.003525
+    },
+    "id": "387",
+    "type": "sharing_bicycle_01"
+  }
+}

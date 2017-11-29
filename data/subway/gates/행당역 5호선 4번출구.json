@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "행당역 5호선 4번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/17492606",
+      "category_group_name": "",
+      "place_name": "행당역 5호선 4번출구",
+      "distance": "",
+      "address_name": "서울 성동구 행당동",
+      "road_address_name": "",
+      "id": "17492606",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.02856577278796",
+      "y": "37.55676710238303"
+    },
+    {
+      "place_url": "http://place.map.daum.net/8022709",
+      "category_group_name": "",
+      "place_name": "왕십리역 5호선 4번출구",
+      "distance": "",
+      "address_name": "서울 성동구 행당동",
+      "road_address_name": "",
+      "id": "8022709",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.03694290641027",
+      "y": "37.561468052875945"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "춘천역 경춘선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 6,
+    "total_count": 6,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/17495830",
+      "category_group_name": "",
+      "place_name": "춘천역 경춘선 1번출구",
+      "distance": "",
+      "address_name": "강원 춘천시 근화동",
+      "road_address_name": "",
+      "id": "17495830",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.71735646916792",
+      "y": "37.88467502151077"
+    },
+    {
+      "place_url": "http://place.map.daum.net/27455080",
+      "category_group_name": "",
+      "place_name": "남춘천역 경춘선 1번출구",
+      "distance": "",
+      "address_name": "강원 춘천시 퇴계동",
+      "road_address_name": "",
+      "id": "27455080",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.72352917455487",
+      "y": "37.86397734607295"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17495850",
+      "category_group_name": "",
+      "place_name": "강촌역 경춘선 1번출구",
+      "distance": "",
+      "address_name": "강원 춘천시 남산면 방곡리",
+      "road_address_name": "",
+      "id": "17495850",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.63415316081134",
+      "y": "37.80598482102816"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17495829",
+      "category_group_name": "",
+      "place_name": "김유정역 경춘선 1번출구",
+      "distance": "",
+      "address_name": "강원 춘천시 신동면 증리",
+      "road_address_name": "",
+      "id": "17495829",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.71441707274752",
+      "y": "37.81837377941948"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17495849",
+      "category_group_name": "",
+      "place_name": "백양리역 경춘선 1번출구",
+      "distance": "",
+      "address_name": "강원 춘천시 남산면 강촌리",
+      "road_address_name": "",
+      "id": "17495849",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.5891938863835",
+      "y": "37.830979052271886"
+    },
+    {
+      "place_url": "http://place.map.daum.net/17495836",
+      "category_group_name": "",
+      "place_name": "굴봉산역 경춘선 1번출구",
+      "distance": "",
+      "address_name": "강원 춘천시 남산면 백양리",
+      "road_address_name": "",
+      "id": "17495836",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.55706603866382",
+      "y": "37.83220528111586"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 1,
+      "selectedCount": 3,
+      "statnId": "1067080139",
+      "statnNm": "남춘천",
+      "ectrcNo": "1",
+      "subwayId": "1067",
+      "subwayNm": "경춘선",
+      "ectrcCnt": "3",
+      "cfrBuild": "퇴계공원, 강남동주민센터, 강원체육중학교, 강원체육고등학교, 춘천시외버스터미널",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 2,
+      "selectedCount": 3,
+      "statnId": "1067080139",
+      "statnNm": "남춘천",
+      "ectrcNo": "2",
+      "subwayId": "1067",
+      "subwayNm": "경춘선",
+      "ectrcCnt": "3",
+      "cfrBuild": "퇴계공원, 춘천교육대학교, 성림초등학교, 봄내초등학교, 퇴계동주민센터, 퇴계동우체국",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 3,
+      "selectedCount": 3,
+      "statnId": "1067080139",
+      "statnNm": "남춘천",
+      "ectrcNo": "3",
+      "subwayId": "1067",
+      "subwayNm": "경춘선",
+      "ectrcCnt": "3",
+      "cfrBuild": "퇴계공원, 남춘천초등학교, 남춘천중학교, 남춘천여자중학교, 남부초등학교 , 한국산업안전보건공단강원지도원",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 3
+  }
+}

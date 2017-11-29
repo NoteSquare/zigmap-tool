@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "종각역 1호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8066053",
+      "category_group_name": "",
+      "place_name": "종각역 1호선 1번출구",
+      "distance": "",
+      "address_name": "서울 종로구 공평동",
+      "road_address_name": "",
+      "id": "8066053",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.98236448081772",
+      "y": "37.57038439347086"
+    }
+  ]
+}

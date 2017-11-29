@@ -1,0 +1,31 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 1,
+      "rowNum": 1,
+      "selectedCount": 1,
+      "statnId": "1003000346",
+      "statnNm": "학여울",
+      "ectrcNo": "1",
+      "subwayId": "1003",
+      "subwayNm": "3호선",
+      "ectrcCnt": "1",
+      "cfrBuild": "미도아파트, 쌍용아파트, 은마아파트, 우성아파트, 서울산업통상진흥원/세텍, 한국가스안전공사, 경희대 강남경희한방병원, 새마을운동중앙회, 한국토지공사서울지사",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 1
+  }
+}

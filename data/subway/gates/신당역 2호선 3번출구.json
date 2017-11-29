@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "신당역 2호선 3번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/7975955",
+      "category_group_name": "",
+      "place_name": "신당역 2호선 3번출구",
+      "distance": "",
+      "address_name": "서울 중구 신당동",
+      "road_address_name": "",
+      "id": "7975955",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.02067750740827",
+      "y": "37.56558032270051"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7843569",
+      "category_group_name": "",
+      "place_name": "동대문역사문화공원역 2호선 3번출구",
+      "distance": "",
+      "address_name": "서울 중구 신당동",
+      "road_address_name": "",
+      "id": "7843569",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.01055845250966",
+      "y": "37.56501571004053"
+    }
+  ]
+}

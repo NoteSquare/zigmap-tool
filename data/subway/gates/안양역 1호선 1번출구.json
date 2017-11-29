@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "안양역 1호선 1번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 4,
+    "total_count": 4,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/11103306",
+      "category_group_name": "",
+      "place_name": "안양역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 안양시 만안구 안양동",
+      "road_address_name": "",
+      "id": "11103306",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.92263515245475",
+      "y": "37.40125976251182"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7944887",
+      "category_group_name": "",
+      "place_name": "석수역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 안양시 만안구 석수동",
+      "road_address_name": "",
+      "id": "7944887",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.90275942112942",
+      "y": "37.434355190649335"
+    },
+    {
+      "place_url": "http://place.map.daum.net/10149205",
+      "category_group_name": "",
+      "place_name": "관악역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 안양시 만안구 석수동",
+      "road_address_name": "",
+      "id": "10149205",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.90890299775465",
+      "y": "37.41850239018179"
+    },
+    {
+      "place_url": "http://place.map.daum.net/7876000",
+      "category_group_name": "",
+      "place_name": "명학역 1호선 1번출구",
+      "distance": "",
+      "address_name": "경기 안양시 만안구 안양동",
+      "road_address_name": "",
+      "id": "7876000",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.93507274970126",
+      "y": "37.38519329564202"
+    }
+  ]
+}

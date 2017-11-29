@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "수원역 1호선 4번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 3,
+    "total_count": 3,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/11332507",
+      "category_group_name": "",
+      "place_name": "수원역 1호선 4번출구",
+      "distance": "",
+      "address_name": "경기 수원시 팔달구 매산로1가",
+      "road_address_name": "",
+      "id": "11332507",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.99986655369673",
+      "y": "37.26753440791997"
+    },
+    {
+      "place_url": "http://place.map.daum.net/27525275",
+      "category_group_name": "",
+      "place_name": "화서역 1호선 4번출구",
+      "distance": "",
+      "address_name": "경기 수원시 팔달구 화서동",
+      "road_address_name": "",
+      "id": "27525275",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.98945562261073",
+      "y": "37.284844456077"
+    },
+    {
+      "place_url": "http://place.map.daum.net/1190319776",
+      "category_group_name": "",
+      "place_name": "성균관대역 1호선 4번출구",
+      "distance": "",
+      "address_name": "경기 수원시 장안구 율전동",
+      "road_address_name": "",
+      "id": "1190319776",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.970955662117",
+      "y": "37.30052626848458"
+    }
+  ]
+}

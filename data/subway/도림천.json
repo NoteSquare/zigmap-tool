@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1002002341",
+      "statnNm": "도림천",
+      "ectrcNo": "1",
+      "subwayId": "1002",
+      "subwayNm": "2호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "동아 APT,신도림동,신도림중학교,신도림초등학교,우성 APT,우성아파트1,2,3차,현대아파트",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1002002341",
+      "statnNm": "도림천",
+      "ectrcNo": "2",
+      "subwayId": "1002",
+      "subwayNm": "2호선",
+      "ectrcCnt": "2",
+      "cfrBuild": "문래2동,신정1교,현대아파트",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "불광역 3호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8396442",
+      "category_group_name": "",
+      "place_name": "불광역 3호선 2번출구",
+      "distance": "",
+      "address_name": "서울 은평구 불광동",
+      "road_address_name": "",
+      "id": "8396442",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.93127707519858",
+      "y": "37.609179480637316"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22905460",
+      "category_group_name": "",
+      "place_name": "연신내역 3호선 2번출구",
+      "distance": "",
+      "address_name": "서울 은평구 불광동",
+      "road_address_name": "",
+      "id": "22905460",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.92120015659363",
+      "y": "37.61933611929392"
+    }
+  ]
+}

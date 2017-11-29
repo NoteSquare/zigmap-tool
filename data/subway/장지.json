@@ -1,0 +1,69 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 1,
+      "selectedCount": 3,
+      "statnId": "1008000819",
+      "statnNm": "장지",
+      "ectrcNo": "1",
+      "subwayId": "1008",
+      "subwayNm": "8호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "건영아파트(300),잠실 방면,장지동,한국육영학교(500)",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 2,
+      "selectedCount": 3,
+      "statnId": "1008000819",
+      "statnNm": "장지",
+      "ectrcNo": "2",
+      "subwayId": "1008",
+      "subwayNm": "8호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "국군체육부대(1200),육군종합행정학교 방면(1300),학생중앙군사학교(문무대)(1500)",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 3,
+      "rowNum": 3,
+      "selectedCount": 3,
+      "statnId": "1008000819",
+      "statnNm": "장지",
+      "ectrcNo": "3",
+      "subwayId": "1008",
+      "subwayNm": "8호선",
+      "ectrcCnt": "3",
+      "cfrBuild": "복정사거리 방면,성남 방면,장지교",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 3
+  }
+}

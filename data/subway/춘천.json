@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1067080140",
+      "statnNm": "춘천",
+      "ectrcNo": "1",
+      "subwayId": "1067",
+      "subwayNm": "경춘선",
+      "ectrcCnt": "2",
+      "cfrBuild": "소양동주민센터, 춘천고등학교, 성수고등학교, 춘천중앙 초등학교, 근화초등학교, 102보충대, 강원도청, 춘천시청",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1067080140",
+      "statnNm": "춘천",
+      "ectrcNo": "2",
+      "subwayId": "1067",
+      "subwayNm": "경춘선",
+      "ectrcCnt": "2",
+      "cfrBuild": "근화동 주민센터, 의암호",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}

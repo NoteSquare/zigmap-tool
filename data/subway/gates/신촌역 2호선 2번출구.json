@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "신촌역 2호선 2번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 1,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/22905442",
+      "category_group_name": "",
+      "place_name": "신촌역 2호선 2번출구",
+      "distance": "",
+      "address_name": "서울 서대문구 창천동",
+      "road_address_name": "",
+      "id": "22905442",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.93676872027473",
+      "y": "37.555617199238746"
+    }
+  ]
+}

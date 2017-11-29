@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "동작역 9호선 7번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/8333991",
+      "category_group_name": "",
+      "place_name": "동작역 9호선 7번출구",
+      "distance": "",
+      "address_name": "서울 동작구 동작동",
+      "road_address_name": "",
+      "id": "8333991",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.97629728594922",
+      "y": "37.50301418941751"
+    },
+    {
+      "place_url": "http://place.map.daum.net/27504128",
+      "category_group_name": "",
+      "place_name": "노량진역 9호선 7번출구",
+      "distance": "",
+      "address_name": "서울 동작구 노량진동",
+      "road_address_name": "",
+      "id": "27504128",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.94014394722254",
+      "y": "37.51368676913013"
+    }
+  ]
+}

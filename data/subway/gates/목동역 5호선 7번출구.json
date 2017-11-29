@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "목동역 5호선 7번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/22905351",
+      "category_group_name": "",
+      "place_name": "목동역 5호선 7번출구",
+      "distance": "",
+      "address_name": "서울 양천구 신정동",
+      "road_address_name": "",
+      "id": "22905351",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.86427086342252",
+      "y": "37.52568910842762"
+    },
+    {
+      "place_url": "http://place.map.daum.net/15139777",
+      "category_group_name": "",
+      "place_name": "오목교역 5호선 7번출구",
+      "distance": "",
+      "address_name": "서울 양천구 목동",
+      "road_address_name": "",
+      "id": "15139777",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "126.87569934171242",
+      "y": "37.524134105107194"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "same_name": {
+      "region": [],
+      "keyword": "망우역 경춘선 3번출구",
+      "selected_region": ""
+    },
+    "pageable_count": 2,
+    "total_count": 2,
+    "is_end": true
+  },
+  "documents": [
+    {
+      "place_url": "http://place.map.daum.net/17494564",
+      "category_group_name": "",
+      "place_name": "망우역 경춘선 3번출구",
+      "distance": "",
+      "address_name": "서울 중랑구 상봉동",
+      "road_address_name": "",
+      "id": "17494564",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.09215471819923",
+      "y": "37.600361182346965"
+    },
+    {
+      "place_url": "http://place.map.daum.net/22650327",
+      "category_group_name": "",
+      "place_name": "신내역 경춘선 3번출구",
+      "distance": "",
+      "address_name": "서울 중랑구 망우동",
+      "road_address_name": "",
+      "id": "22650327",
+      "phone": "",
+      "category_group_code": "",
+      "category_name": "교통,수송 > 지하철,전철",
+      "x": "127.1037137170179",
+      "y": "37.61318172573241"
+    }
+  ]
+}

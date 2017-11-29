@@ -1,0 +1,50 @@
+{
+  "gateList": [
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 1,
+      "selectedCount": 2,
+      "statnId": "1067080132",
+      "statnNm": "청평",
+      "ectrcNo": "1",
+      "subwayId": "1067",
+      "subwayNm": "경춘선",
+      "ectrcCnt": "2",
+      "cfrBuild": "청평초등학교, 청평시외버스터미널, 청평면사무소",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    },
+    {
+      "beginRow": null,
+      "endRow": null,
+      "curPage": null,
+      "pageRow": null,
+      "totalCount": 2,
+      "rowNum": 2,
+      "selectedCount": 2,
+      "statnId": "1067080132",
+      "statnNm": "청평",
+      "ectrcNo": "2",
+      "subwayId": "1067",
+      "subwayNm": "경춘선",
+      "ectrcCnt": "2",
+      "cfrBuild": "청평유원지, 호명산, 중앙내수면연구소",
+      "subwayXcnts": null,
+      "subwayYcnts": null,
+      "ectrcId": null
+    }
+  ],
+  "errorMessage": {
+    "status": 200,
+    "code": "INFO-000",
+    "message": "정상 처리되었습니다.",
+    "link": "",
+    "developerMessage": "",
+    "total": 2
+  }
+}
