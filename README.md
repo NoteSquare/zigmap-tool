@@ -7,10 +7,10 @@
 
 # Installation
 
-[Github repository](http://github.com/)에서 프로젝트를 clone하거나, 파일을 다운로드합니다. 
+[Github repository](https://github.com/NoteSquare/zigmap-tool)에서 프로젝트를 clone하거나, 파일을 다운로드합니다. 
 
 ```bash
-git clone http://github.com/user/repository.git
+git clone https://github.com/NoteSquare/zigmap-tool.git
 ```
 
 그리고 [Python3](https://www.python.org/downloads/)와 [pip3](https://pypi.python.org/pypi/pip)가 설치되어 있어야 합니다. 
@@ -21,7 +21,7 @@ git clone http://github.com/user/repository.git
 pip3 install -r requirements.txt
 ```
 
-다음 명령어로 jjig-map CLI 를 실행합니다. 
+다음 명령어로 zigmap tool 을 실행합니다. 
 
 ```bash
 python3 run.py
@@ -96,8 +96,7 @@ subway_link_data.json | 두 지하철 역을 연결하는 노선 이름과 걸�
             "CYBER_ST_CODE": "0212",
             "XPOINT": "515365",
             "YPOINT_WGS": "127.070230"
-        },
-        ...
+        }
     ]
 }
 ```
@@ -122,8 +121,7 @@ subway_link_data.json | 두 지하철 역을 연결하는 노선 이름과 걸�
             "CRADLE_COUNT":10,
             "LATITUDE":37.54707,
             "CONTENT_NM":"어린이대공원역 3번출구 앞"
-        },
-        ...
+        }
     ]
 }
 ```
@@ -135,8 +133,7 @@ subway_link_data.json | 두 지하철 역을 연결하는 노선 이름과 걸�
         "to": "경찰병원",
         "time": 1.5,
         "line": 3
-    },
-    ...
+    }
 ]
 ```
 
@@ -179,10 +176,6 @@ cars.json | 서울 열린 데이터 광장에서 제공하는 [나눔카 대여�
             <stStationNm>경복고교</stStationNm>
             <term>10</term>
         </itemList>
-        <itemList>
-            ...
-        </itemList>
-        ...
     </msgHeader>
 </ServiceResult>
 ```
@@ -221,7 +214,6 @@ cars.json | 서울 열린 데이터 광장에서 제공하는 [나눔카 대여�
             <fullSectDist>0</fullSectDist>
             <trnstnid>102000226</trnstnid>
         </itemList>
-        ...
     </msgBody>
 </ServiceResult>
 ```
@@ -249,8 +241,7 @@ cars.json | 서울 열린 데이터 광장에서 제공하는 [나눔카 대여�
             "subwayXcnts": null,
             "subwayYcnts": null,
             "ectrcId": null
-        },
-        ...
+        }
     ]
 }
 ```
@@ -306,8 +297,7 @@ cars.json | 서울 열린 데이터 광장에서 제공하는 [나눔카 대여�
                 "ELCTYVHCLE_AT": "GA",
                 "ADRES": "서울 금천구 시흥동 939-4",
                 "POSITN_NM": "GS칼텍스 일신"
-            },
-            ...
+            }
         ]
     }
 }
@@ -344,8 +334,7 @@ walk_link.json | 도보 경로
         "to": "gAKswAi9L",
         "time": 6.864834561570508,
         "lineId": ""
-    },
-    ...
+    }
 }
 ```
 
@@ -362,8 +351,7 @@ walk_link.json | 도보 경로
         },
         "id": "500",
         "type": "sharing_bicycle_01"
-    },
-    ...
+    }
 }
 ```
 
@@ -375,8 +363,7 @@ walk_link.json | 도보 경로
         "id": "100000010",
         "name": "12345",
         "type": "bus"
-    },
-    ...
+    }
 }
 ```
 
@@ -391,8 +378,7 @@ walk_link.json | 도보 경로
         "distance": 274.0,
         "type": "bus",
         "lineId": "100100341"
-    },
-    ...
+    }
 }
 ```
 
@@ -404,8 +390,7 @@ walk_link.json | 도보 경로
     "115000600":"oxS3qaEsZQ",
     "115000603":"NGXBM-QFwP",
     "115000634":"RxXvq0buZ9",
-    "115000896":"oqXBqurukf",
-    ...
+    "115000896":"oqXBqurukf"
 }
 ```
 
@@ -423,8 +408,7 @@ walk_link.json | 도보 경로
         },
         "id":"16170",
         "stationId":"115000073"
-    },
-    ...
+    }
 }
 ```
 
@@ -443,8 +427,7 @@ walk_link.json | 도보 경로
             "sharing_car_02"
         ],
         "id": "1841"
-    },
-    ...
+    }
 }
 ```
 
@@ -458,8 +441,7 @@ walk_link.json | 도보 경로
         "to": "nUL1FJMtGf",
         "time": 5,
         "lineId": "line_id"
-    },
-    ...
+    }
 }
 ```
 
@@ -475,8 +457,7 @@ walk_link.json | 도보 경로
             "longitude": 126.91698923445665
         },
         "address": "경기 군포시 대야미동"
-    },
-    ...
+    }
 }
 ```
 
@@ -488,8 +469,7 @@ walk_link.json | 도보 경로
         "name": "1호선",
         "type": "subway",
         "id": "1"
-    },
-    ...
+    }
 }
 ```
 
@@ -503,8 +483,7 @@ walk_link.json | 도보 경로
         "to": null,
         "time": 1.5,
         "lineId": 3
-    },
-    ...
+    }
 }
 ```
 
@@ -522,8 +501,7 @@ walk_link.json | 도보 경로
         "address": "",
         "fr_code": "727",
         "line_num": "7"
-    },
-    ...
+    }
 }
 ```
 
@@ -537,8 +515,7 @@ walk_link.json | 도보 경로
         "time": 5,
         "lineId": "line_id",
         "type": "transfer"
-    },
-    ...
+    }
 }
 ```
 
@@ -552,7 +529,6 @@ walk_link.json | 도보 경로
         "to": "RGSvx1bIAA",
         "time": 4,
         "lineId": "line_id"
-    },
-    ...
+    }
 }
 ```
